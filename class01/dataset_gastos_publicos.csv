@@ -1,0 +1,601 @@
+﻿ID;Municipio;UF;Categoria;Orgao;Valor_R$;Data;Tipo_Despesa;Fonte_Recurso
+1;Porto Alegre;RS;Saneamento;Secretaria de Obras;616005,18;13/10/2022;Custeio;Federal
+2;Rio de Janeiro;RJ;Educação;Secretaria de Segurança;585488,93;24/02/2022;Investimento;Convênio
+3;Natal;ES;Habitação;Prefeitura Municipal;1898224,38;23/11/2022;Transferência;Municipal
+4;Goiânia;GO;Habitação;Fundo Municipal;260014,64;18/02/2024;Custeio;Municipal
+5;Belo Horizonte;MS;Saneamento;Instituto de Previdência;1342889,09;15/02/2024;Custeio;Municipal
+6;Cuiabá;TO;Transporte;Secretaria de Segurança;1762906,73;04/04/2022;Investimento;Municipal
+7;Curitiba;AP;Esporte e Lazer;Secretaria de Obras;1136258,70;18/01/2024;Investimento;Municipal
+8;Campo Grande;MS;Assistência Social;Secretaria de Saúde;1524781,86;17/12/2022;Investimento;Estadual
+9;Juiz de Fora;PB;Infraestrutura;Fundo Municipal;2107915,54;25/04/2022;Investimento;Federal
+10;Natal;SE;Educação;Secretaria de Segurança;2283274,63;07/10/2023;Investimento;Convênio
+11;Sorocaba;MG;Segurança Pública;Secretaria de Obras;353377,65;23/06/2023;Transferência;Convênio
+12;Campo Grande;MS;Segurança Pública;Câmara Municipal;1236322,01;07/04/2022;Custeio;Estadual
+13;Porto Alegre;RS;Comunicação;Autarquia de Trânsito;1493040,53;28/02/2024;Transferência;Convênio
+14;Recife;PE;Meio Ambiente;Prefeitura Municipal;1702307,11;23/08/2022;Pessoal;Municipal
+15;Manaus;AM;Segurança Pública;Instituto de Previdência;13097,06;24/06/2023;Investimento;Federal
+16;Porto Alegre;RS;Comunicação;Câmara Municipal;1524380,68;10/11/2022;Pessoal;Estadual
+17;São José dos Campos;PI;Saúde;Fundo Municipal;1224071,24;18/08/2022;Pessoal;Municipal
+18;Vitória;ES;Transporte;Secretaria de Saúde;218705,36;22/09/2024;Custeio;Estadual
+19;Juiz de Fora;BA;Segurança Pública;Secretaria de Obras;1321546,10;16/05/2024;Investimento;Estadual
+20;Cuiabá;RR;Ciência e Tecnologia;Câmara Municipal;1131457,92;23/05/2023;Investimento;Federal
+21;Cuiabá;MT;Meio Ambiente;Secretaria de Segurança;1473158,09;15/01/2022;Custeio;Federal
+22;Vitória;ES;Saúde;Fundo Municipal;181789,09;03/05/2023;Pessoal;Convênio
+23;Aparecida de Goiânia;DF;Transporte;Instituto de Previdência;611278,12;26/08/2024;Transferência;Estadual
+24;Manaus;AM;Esporte e Lazer;Fundo Municipal;1061828,66;14/08/2024;Custeio;Federal
+25;Vitória;AL;Habitação;Secretaria de Saúde;625397,55;25/01/2023;Transferência;Estadual
+26;Belém;PA;Ciência e Tecnologia;Secretaria de Segurança;2186842,46;04/06/2022;Transferência;Federal
+27;Feira de Santana;AL;Administração;Prefeitura Municipal;2422645,66;30/04/2023;Investimento;Convênio
+28;Niterói;PR;Saúde;Secretaria de Educação;950537,93;10/03/2024;Pessoal;Convênio
+29;Juiz de Fora;MA;Comunicação;Instituto de Previdência;391218,08;31/08/2023;Investimento;Federal
+30;Salvador;RJ;Saneamento;Fundo Municipal;147627,36;03/09/2024;Investimento;Federal
+31;Recife;PE;Segurança Pública;Secretaria de Saúde;1489612,59;27/04/2023;Transferência;Federal
+32;Rio de Janeiro;RJ;Transporte;Prefeitura Municipal;1550356,87;08/05/2024;Pessoal;Municipal
+33;Florianópolis;DF;Infraestrutura;Secretaria de Obras;992485,69;07/09/2023;Transferência;Municipal
+34;São Paulo;SP;Ciência e Tecnologia;Secretaria de Saúde;187785,50;13/03/2023;Pessoal;Estadual
+35;Maceió;MS;Cultura;Secretaria de Obras;398578,35;12/09/2023;Custeio;Municipal
+36;Porto Velho;RO;Segurança Pública;Secretaria de Obras;292994,53;08/08/2022;Investimento;Municipal
+37;Vitória;MA;Infraestrutura;Secretaria de Obras;1265995,60;30/05/2023;Custeio;Federal
+38;Natal;RS;Saúde;Prefeitura Municipal;837223,56;25/09/2022;Pessoal;Estadual
+39;Osasco;SC;Meio Ambiente;Prefeitura Municipal;284125,33;02/11/2022;Custeio;Municipal
+40;Osasco;RJ;Segurança Pública;Prefeitura Municipal;774104,58;23/03/2022;Pessoal;Estadual
+41;Porto Velho;RO;Educação;Fundo Municipal;1951390,02;12/04/2024;Investimento;Estadual
+42;Goiânia;CE;Esporte e Lazer;Prefeitura Municipal;452504,86;12/11/2023;Transferência;Estadual
+43;Goiânia;GO;Saneamento;Secretaria de Saúde;959441,60;21/03/2022;Transferência;Estadual
+44;Sorocaba;DF;Cultura;Secretaria de Obras;2052238,27;12/04/2023;Investimento;Federal
+45;Porto Velho;RO;Cultura;Secretaria de Obras;2161560,59;26/07/2023;Pessoal;Convênio
+46;Feira de Santana;RO;Cultura;Prefeitura Municipal;292777,67;19/06/2023;Investimento;Municipal
+47;Maceió;AL;Esporte e Lazer;Fundo Municipal;1822719,93;05/10/2023;Transferência;Federal
+48;Guarulhos;MG;Assistência Social;Prefeitura Municipal;1773419,28;04/01/2022;Investimento;Municipal
+49;Belém;PA;Comunicação;Fundo Municipal;1559772,75;13/09/2022;Pessoal;Municipal
+50;Niterói;RO;Saneamento;Secretaria de Obras;1388259,13;28/01/2023;Transferência;Convênio
+51;Goiânia;RO;Transporte;Secretaria de Obras;1018157,55;01/01/2022;Pessoal;Municipal
+52;Maringá;DF;Transporte;Fundo Municipal;1165145,53;24/06/2024;Investimento;Convênio
+53;Belém;SE;Comunicação;Secretaria de Saúde;713047,08;18/11/2023;Custeio;Estadual
+54;Guarulhos;RO;Segurança Pública;Prefeitura Municipal;120303,23;31/08/2024;Custeio;Convênio
+55;Aparecida de Goiânia;PA;Infraestrutura;Autarquia de Trânsito;1238471,04;15/05/2023;Investimento;Federal
+56;Curitiba;SP;Habitação;Autarquia de Trânsito;551008,64;26/11/2024;Transferência;Federal
+57;Teresina;PI;Administração;Secretaria de Saúde;1143872,25;09/08/2024;Pessoal;Convênio
+58;Ribeirão Preto;RN;Esporte e Lazer;Câmara Municipal;1117554,46;22/11/2022;Transferência;Convênio
+59;Natal;GO;Habitação;Câmara Municipal;1214069,56;05/05/2023;Pessoal;Convênio
+60;Maceió;AP;Assistência Social;Fundo Municipal;802675,37;15/06/2022;Investimento;Estadual
+61;Porto Alegre;ES;Saneamento;Secretaria de Segurança;165250,98;14/04/2024;Pessoal;Convênio
+62;Belém;PA;Administração;Autarquia de Trânsito;976744,65;10/02/2022;Transferência;Convênio
+63;Teresina;AC;Habitação;Autarquia de Trânsito;2134352,64;08/05/2024;Investimento;Convênio
+64;Vitória;ES;Ciência e Tecnologia;Prefeitura Municipal;975198,72;08/04/2024;Investimento;Convênio
+65;Feira de Santana;BA;Saúde;Autarquia de Trânsito;1481772,48;25/02/2022;Custeio;Convênio
+66;Goiânia;BA;Saúde;Secretaria de Obras;950864,14;10/03/2023;Transferência;Municipal
+67;Porto Velho;MT;Assistência Social;Autarquia de Trânsito;634417,47;17/06/2022;Transferência;Federal
+68;Aracaju;SC;Infraestrutura;Secretaria de Saúde;1954176,46;24/03/2022;Custeio;Estadual
+69;Porto Alegre;DF;Infraestrutura;Secretaria de Educação;1186534,85;23/08/2022;Investimento;Convênio
+70;Boa Vista;RR;Cultura;Secretaria de Educação;1516702,27;23/08/2022;Investimento;Municipal
+71;Teresina;AM;Transporte;Autarquia de Trânsito;994652,83;11/02/2023;Custeio;Estadual
+72;Teresina;AM;Administração;Secretaria de Saúde;1991586,91;26/03/2022;Pessoal;Convênio
+73;Ribeirão Preto;RO;Comunicação;Fundo Municipal;36567,11;10/05/2024;Transferência;Federal
+74;Sorocaba;PA;Saneamento;Secretaria de Educação;1091540,43;04/12/2024;Pessoal;Convênio
+75;Maringá;PB;Assistência Social;Fundo Municipal;2130024,33;27/06/2022;Pessoal;Convênio
+76;Aparecida de Goiânia;ES;Transporte;Autarquia de Trânsito;844309,57;09/10/2024;Pessoal;Estadual
+77;Curitiba;PR;Habitação;Secretaria de Obras;854145,41;20/07/2023;Custeio;Estadual
+78;Macapá;AP;Esporte e Lazer;Instituto de Previdência;1390164,65;08/05/2023;Transferência;Convênio
+79;Brasília;PB;Assistência Social;Secretaria de Segurança;1013980,82;14/05/2023;Pessoal;Municipal
+80;Aracaju;PR;Esporte e Lazer;Câmara Municipal;830324,29;18/07/2024;Pessoal;Municipal
+81;Goiânia;GO;Saneamento;Secretaria de Segurança;792292,12;15/01/2023;Investimento;Estadual
+82;Maringá;SC;Habitação;Câmara Municipal;1493992,90;25/07/2022;Investimento;Municipal
+83;Teresina;ES;Saúde;Câmara Municipal;320824,48;04/04/2022;Custeio;Municipal
+84;Uberlândia;RR;Educação;Prefeitura Municipal;1437290,23;19/08/2024;Transferência;Convênio
+85;Cuiabá;MT;Saúde;Secretaria de Obras;2352953,67;05/09/2024;Custeio;Federal
+86;Aparecida de Goiânia;MG;Comunicação;Prefeitura Municipal;383558,88;15/09/2023;Custeio;Estadual
+87;Santos;AM;Transporte;Secretaria de Segurança;1940355,38;19/02/2024;Transferência;Convênio
+88;Osasco;MA;Assistência Social;Prefeitura Municipal;1526029,13;23/07/2022;Investimento;Estadual
+89;Belém;GO;Infraestrutura;Secretaria de Educação;1382220,65;17/11/2022;Custeio;Convênio
+90;Joinville;PB;Assistência Social;Prefeitura Municipal;582533,21;03/08/2023;Transferência;Federal
+91;Porto Velho;RO;Assistência Social;Secretaria de Segurança;1065721,72;06/04/2023;Investimento;Municipal
+92;Palmas;TO;Saúde;Secretaria de Educação;1982608,27;15/08/2023;Transferência;Federal
+93;Niterói;PB;Assistência Social;Câmara Municipal;1352254,00;15/06/2024;Custeio;Federal
+94;Campo Grande;PA;Saúde;Secretaria de Saúde;576166,42;12/02/2022;Pessoal;Federal
+95;Joinville;SP;Meio Ambiente;Instituto de Previdência;2290601,61;07/01/2023;Transferência;Convênio
+96;Santos;AP;Cultura;Fundo Municipal;1676983,11;26/11/2022;Pessoal;Convênio
+97;Niterói;RR;Administração;Câmara Municipal;96559,34;30/06/2022;Pessoal;Municipal
+98;Cuiabá;MT;Habitação;Autarquia de Trânsito;2162951,91;03/01/2022;Transferência;Convênio
+99;Maceió;AL;Cultura;Instituto de Previdência;1565394,81;16/04/2022;Investimento;Municipal
+100;Teresina;PI;Assistência Social;Instituto de Previdência;2202712,31;19/09/2024;Custeio;Federal
+101;Maceió;RS;Saneamento;Secretaria de Educação;780321,60;29/01/2022;Transferência;Federal
+102;Recife;ES;Ciência e Tecnologia;Secretaria de Saúde;1621035,67;12/11/2022;Transferência;Municipal
+103;Santos;PE;Administração;Instituto de Previdência;2450710,36;15/05/2023;Transferência;Estadual
+104;Belo Horizonte;MG;Transporte;Câmara Municipal;1866999,90;07/10/2022;Custeio;Municipal
+105;Santos;SP;Cultura;Câmara Municipal;671595,79;06/01/2022;Pessoal;Municipal
+106;Uberlândia;TO;Administração;Secretaria de Educação;1119135,75;18/09/2024;Pessoal;Municipal
+107;Porto Velho;PI;Ciência e Tecnologia;Fundo Municipal;2174656,20;05/05/2023;Transferência;Estadual
+108;Florianópolis;SP;Saneamento;Instituto de Previdência;1764543,56;20/02/2024;Transferência;Estadual
+109;Manaus;PR;Meio Ambiente;Fundo Municipal;2174902,28;20/06/2024;Custeio;Convênio
+110;Santos;AC;Administração;Secretaria de Educação;191696,48;27/06/2023;Pessoal;Convênio
+111;Porto Alegre;RS;Cultura;Câmara Municipal;953123,45;11/10/2023;Transferência;Federal
+112;Natal;RN;Comunicação;Secretaria de Obras;2493577,68;05/07/2022;Transferência;Federal
+113;Curitiba;SP;Ciência e Tecnologia;Secretaria de Educação;1736532,90;01/03/2022;Custeio;Municipal
+114;Aracaju;SE;Cultura;Fundo Municipal;1079563,54;16/05/2023;Transferência;Estadual
+115;Fortaleza;CE;Transporte;Autarquia de Trânsito;1551177,37;09/05/2023;Transferência;Estadual
+116;Campo Grande;ES;Ciência e Tecnologia;Secretaria de Obras;1668767,59;10/08/2024;Pessoal;Estadual
+117;Aracaju;AP;Transporte;Secretaria de Obras;1599152,06;18/05/2024;Pessoal;Convênio
+118;São Luís;MA;Esporte e Lazer;Instituto de Previdência;271099,90;21/02/2024;Pessoal;Municipal
+119;Boa Vista;RR;Administração;Autarquia de Trânsito;689828,55;11/04/2022;Transferência;Municipal
+120;Aracaju;SP;Infraestrutura;Secretaria de Segurança;1554123,45;08/10/2022;Custeio;Federal
+121;Belo Horizonte;MA;Transporte;Fundo Municipal;1832237,62;04/07/2022;Pessoal;Municipal
+122;Guarulhos;SC;Segurança Pública;Câmara Municipal;2191769,19;20/01/2024;Pessoal;Estadual
+123;Joinville;GO;Habitação;Secretaria de Obras;1867665,58;25/11/2023;Custeio;Convênio
+124;Macapá;AP;Infraestrutura;Autarquia de Trânsito;2418338,02;20/01/2024;Custeio;Convênio
+125;Rio Branco;AC;Educação;Instituto de Previdência;924621,22;21/06/2023;Transferência;Municipal
+126;Joinville;AM;Saúde;Câmara Municipal;823375,67;30/03/2023;Custeio;Convênio
+127;Santos;RR;Educação;Secretaria de Educação;118140,29;18/03/2022;Pessoal;Convênio
+128;Manaus;AM;Meio Ambiente;Secretaria de Educação;974671,35;30/01/2024;Transferência;Estadual
+129;Uberlândia;PA;Transporte;Autarquia de Trânsito;2347937,40;27/07/2023;Custeio;Municipal
+130;Maceió;DF;Administração;Fundo Municipal;252889,79;23/01/2024;Pessoal;Federal
+131;Belo Horizonte;MG;Educação;Instituto de Previdência;233725,19;11/03/2023;Custeio;Federal
+132;Manaus;SE;Habitação;Secretaria de Segurança;176182,33;01/03/2023;Investimento;Estadual
+133;São Paulo;MT;Assistência Social;Secretaria de Educação;2468880,62;29/05/2023;Investimento;Federal
+134;Manaus;RO;Saúde;Fundo Municipal;1976011,74;03/05/2023;Pessoal;Federal
+135;Fortaleza;CE;Segurança Pública;Autarquia de Trânsito;1317583,39;11/05/2022;Transferência;Convênio
+136;Maringá;SP;Educação;Instituto de Previdência;1262077,53;30/03/2022;Pessoal;Convênio
+137;Salvador;RS;Ciência e Tecnologia;Autarquia de Trânsito;1068552,68;10/08/2022;Transferência;Convênio
+138;Florianópolis;AP;Transporte;Secretaria de Educação;168877,17;18/07/2023;Pessoal;Convênio
+139;Sorocaba;RN;Meio Ambiente;Autarquia de Trânsito;252450,26;23/08/2022;Investimento;Convênio
+140;Santos;PB;Cultura;Instituto de Previdência;999831,81;14/07/2022;Pessoal;Convênio
+141;Cuiabá;MT;Segurança Pública;Instituto de Previdência;172497,60;24/06/2022;Custeio;Convênio
+142;Cuiabá;AM;Habitação;Secretaria de Educação;1393144,99;07/11/2023;Custeio;Convênio
+143;Osasco;MS;Administração;Prefeitura Municipal;2421154,57;02/10/2023;Pessoal;Federal
+144;Porto Alegre;RJ;Comunicação;Instituto de Previdência;564490,95;10/08/2022;Pessoal;Municipal
+145;Aparecida de Goiânia;AM;Infraestrutura;Autarquia de Trânsito;2113662,13;23/02/2022;Pessoal;Federal
+146;Fortaleza;CE;Habitação;Secretaria de Obras;2304236,11;20/12/2023;Custeio;Estadual
+147;Niterói;BA;Educação;Secretaria de Educação;1853717,80;04/03/2022;Custeio;Estadual
+148;Vitória;MG;Segurança Pública;Fundo Municipal;782535,24;27/10/2023;Custeio;Federal
+149;Salvador;BA;Transporte;Prefeitura Municipal;1686551,93;12/07/2023;Transferência;Convênio
+150;Santos;PR;Assistência Social;Secretaria de Segurança;1888583,14;22/08/2022;Pessoal;Convênio
+151;Manaus;AM;Comunicação;Instituto de Previdência;1319700,60;24/09/2023;Custeio;Estadual
+152;Salvador;MG;Saúde;Secretaria de Segurança;757041,31;09/03/2023;Investimento;Municipal
+153;São Paulo;MA;Ciência e Tecnologia;Autarquia de Trânsito;443358,53;18/02/2024;Investimento;Municipal
+154;Belo Horizonte;AP;Esporte e Lazer;Prefeitura Municipal;1152086,85;09/06/2022;Pessoal;Convênio
+155;Santos;RJ;Assistência Social;Secretaria de Saúde;1015555,61;28/10/2023;Investimento;Convênio
+156;Cuiabá;TO;Educação;Autarquia de Trânsito;2111988,48;14/05/2023;Transferência;Convênio
+157;Recife;PE;Administração;Secretaria de Obras;1865783,04;30/03/2023;Pessoal;Estadual
+158;Recife;AP;Meio Ambiente;Câmara Municipal;488789,75;17/12/2023;Pessoal;Estadual
+159;Vitória;ES;Assistência Social;Secretaria de Segurança;437880,06;10/11/2022;Custeio;Estadual
+160;Sorocaba;SP;Habitação;Instituto de Previdência;1704428,03;24/10/2023;Pessoal;Estadual
+161;João Pessoa;PB;Ciência e Tecnologia;Secretaria de Obras;1991842,55;26/04/2022;Pessoal;Federal
+162;Belo Horizonte;MA;Saúde;Fundo Municipal;2080083,10;07/06/2022;Custeio;Convênio
+163;Belo Horizonte;PB;Ciência e Tecnologia;Secretaria de Segurança;807209,27;01/09/2024;Investimento;Federal
+164;João Pessoa;PB;Administração;Fundo Municipal;2456052,02;22/06/2022;Investimento;Federal
+165;Londrina;ES;Meio Ambiente;Câmara Municipal;1526464,49;16/01/2024;Pessoal;Municipal
+166;Vitória;MG;Comunicação;Prefeitura Municipal;1974121,19;17/11/2023;Custeio;Municipal
+167;Porto Velho;AM;Assistência Social;Secretaria de Obras;1810715,47;04/11/2022;Pessoal;Federal
+168;Aracaju;RJ;Assistência Social;Autarquia de Trânsito;326734,39;23/06/2022;Pessoal;Convênio
+169;Manaus;RS;Comunicação;Câmara Municipal;238165,15;17/05/2024;Pessoal;Federal
+170;Campinas;MS;Cultura;Instituto de Previdência;484053,06;09/10/2022;Investimento;Federal
+171;Curitiba;MA;Meio Ambiente;Câmara Municipal;2088623,97;14/12/2024;Custeio;Municipal
+172;Porto Velho;SP;Segurança Pública;Secretaria de Educação;456210,69;06/12/2022;Transferência;Federal
+173;Maceió;PA;Ciência e Tecnologia;Secretaria de Obras;1882215,96;08/07/2024;Investimento;Estadual
+174;Joinville;MA;Administração;Secretaria de Segurança;922763,19;21/06/2024;Transferência;Municipal
+175;São José dos Campos;SP;Esporte e Lazer;Secretaria de Educação;2043143,64;11/10/2022;Pessoal;Federal
+176;Cuiabá;RS;Meio Ambiente;Secretaria de Saúde;1779945,44;22/11/2024;Custeio;Municipal
+177;Natal;AP;Ciência e Tecnologia;Câmara Municipal;372634,90;14/06/2024;Custeio;Estadual
+178;Aracaju;TO;Saúde;Autarquia de Trânsito;137875,93;25/10/2024;Pessoal;Estadual
+179;Cuiabá;MG;Infraestrutura;Prefeitura Municipal;800118,76;22/07/2022;Pessoal;Estadual
+180;Salvador;BA;Administração;Instituto de Previdência;1741699,61;12/10/2022;Transferência;Convênio
+181;Natal;RN;Educação;Prefeitura Municipal;643530,20;03/11/2022;Transferência;Federal
+182;São Paulo;SP;Assistência Social;Secretaria de Saúde;124134,87;09/05/2024;Transferência;Federal
+183;Uberlândia;AM;Transporte;Câmara Municipal;46006,20;21/11/2024;Investimento;Estadual
+184;Aracaju;MA;Infraestrutura;Autarquia de Trânsito;472348,21;25/06/2022;Pessoal;Federal
+185;Ribeirão Preto;PE;Meio Ambiente;Prefeitura Municipal;979182,06;20/08/2024;Custeio;Convênio
+186;Campo Grande;MS;Saúde;Fundo Municipal;1972357,44;08/12/2023;Investimento;Federal
+187;Vitória;SP;Segurança Pública;Prefeitura Municipal;883986,12;25/11/2023;Investimento;Convênio
+188;Goiânia;RR;Habitação;Secretaria de Educação;162435,84;26/07/2024;Custeio;Municipal
+189;Brasília;DF;Infraestrutura;Prefeitura Municipal;792411,57;28/09/2023;Transferência;Convênio
+190;Goiânia;GO;Comunicação;Secretaria de Segurança;718846,68;08/04/2022;Pessoal;Municipal
+191;Osasco;AM;Esporte e Lazer;Instituto de Previdência;2237120,55;02/03/2024;Pessoal;Estadual
+192;Cuiabá;PR;Habitação;Câmara Municipal;670468,14;19/06/2022;Transferência;Federal
+193;Goiânia;PA;Meio Ambiente;Secretaria de Obras;806422,51;13/06/2022;Pessoal;Municipal
+194;Osasco;MA;Segurança Pública;Instituto de Previdência;882109,72;28/03/2022;Pessoal;Convênio
+195;Salvador;GO;Educação;Autarquia de Trânsito;911461,27;24/11/2022;Custeio;Estadual
+196;Londrina;RN;Saúde;Secretaria de Educação;172747,24;21/01/2024;Pessoal;Convênio
+197;Rio de Janeiro;RJ;Segurança Pública;Instituto de Previdência;2372314,71;01/02/2024;Transferência;Federal
+198;Rio de Janeiro;RJ;Cultura;Autarquia de Trânsito;789391,68;25/07/2023;Investimento;Federal
+199;Uberlândia;AC;Meio Ambiente;Autarquia de Trânsito;2284288,55;30/08/2022;Pessoal;Municipal
+200;João Pessoa;RR;Saneamento;Instituto de Previdência;504444,96;05/10/2022;Custeio;Convênio
+201;Londrina;CE;Educação;Fundo Municipal;1671260,28;13/05/2022;Pessoal;Municipal
+202;Goiânia;CE;Habitação;Fundo Municipal;1274345,58;06/09/2022;Investimento;Estadual
+203;Rio de Janeiro;ES;Cultura;Câmara Municipal;1432832,13;15/08/2024;Investimento;Federal
+204;Joinville;AP;Meio Ambiente;Autarquia de Trânsito;1924065,55;01/06/2022;Investimento;Municipal
+205;Porto Alegre;RS;Ciência e Tecnologia;Câmara Municipal;864564,38;08/01/2023;Investimento;Convênio
+206;Salvador;PE;Administração;Secretaria de Saúde;1297664,82;15/09/2023;Investimento;Estadual
+207;São Luís;MT;Cultura;Câmara Municipal;2237840,16;11/06/2022;Pessoal;Estadual
+208;Natal;RS;Segurança Pública;Secretaria de Obras;1537998,55;11/07/2022;Investimento;Estadual
+209;Vitória;CE;Administração;Prefeitura Municipal;2063964,49;28/02/2022;Custeio;Federal
+210;Campo Grande;RS;Comunicação;Secretaria de Segurança;1918562,71;03/05/2024;Custeio;Convênio
+211;Teresina;RS;Ciência e Tecnologia;Secretaria de Segurança;2012696,94;11/04/2024;Pessoal;Convênio
+212;Belém;AP;Ciência e Tecnologia;Autarquia de Trânsito;1213206,57;22/02/2023;Pessoal;Estadual
+213;Florianópolis;MT;Saneamento;Fundo Municipal;2438558,45;25/09/2022;Pessoal;Federal
+214;Cuiabá;MT;Educação;Secretaria de Obras;1126742,05;16/10/2022;Custeio;Federal
+215;Santos;MA;Infraestrutura;Secretaria de Educação;2034627,23;03/10/2023;Investimento;Estadual
+216;Sorocaba;PR;Ciência e Tecnologia;Secretaria de Obras;1245938,83;04/07/2022;Transferência;Convênio
+217;Vitória;ES;Cultura;Prefeitura Municipal;131098,31;10/10/2024;Transferência;Municipal
+218;Teresina;PI;Educação;Autarquia de Trânsito;339167,69;26/06/2023;Pessoal;Convênio
+219;Campo Grande;MS;Saúde;Câmara Municipal;490664,98;15/08/2023;Custeio;Convênio
+220;Juiz de Fora;PE;Assistência Social;Secretaria de Saúde;326015,16;18/07/2022;Transferência;Municipal
+221;Juiz de Fora;SE;Cultura;Secretaria de Educação;501649,41;08/11/2024;Transferência;Federal
+222;Maceió;AL;Saneamento;Fundo Municipal;2010894,81;29/11/2024;Transferência;Estadual
+223;Manaus;RN;Cultura;Fundo Municipal;410442,60;05/09/2023;Pessoal;Convênio
+224;Joinville;RR;Administração;Prefeitura Municipal;924052,74;13/08/2022;Transferência;Municipal
+225;Rio de Janeiro;SE;Transporte;Instituto de Previdência;667498,44;12/04/2023;Custeio;Convênio
+226;Porto Velho;CE;Segurança Pública;Secretaria de Segurança;83768,43;14/08/2022;Investimento;Federal
+227;Porto Alegre;PB;Esporte e Lazer;Secretaria de Segurança;1028891,64;23/08/2024;Custeio;Estadual
+228;Recife;PE;Cultura;Instituto de Previdência;1316065,49;05/10/2023;Investimento;Convênio
+229;Aracaju;PI;Comunicação;Secretaria de Obras;1527141,07;29/01/2023;Investimento;Municipal
+230;Teresina;PI;Assistência Social;Secretaria de Obras;1763727,84;28/09/2024;Pessoal;Convênio
+231;Natal;MS;Assistência Social;Secretaria de Saúde;1435824,63;17/02/2024;Transferência;Municipal
+232;João Pessoa;SP;Saúde;Secretaria de Obras;2388507,73;11/06/2022;Pessoal;Convênio
+233;Porto Alegre;RS;Ciência e Tecnologia;Secretaria de Segurança;509159,68;10/07/2023;Pessoal;Estadual
+234;Maringá;AM;Infraestrutura;Secretaria de Segurança;131659,75;23/12/2024;Investimento;Estadual
+235;Maceió;AL;Cultura;Instituto de Previdência;255859,54;09/10/2022;Custeio;Estadual
+236;Joinville;PA;Ciência e Tecnologia;Secretaria de Segurança;1890998,09;12/08/2023;Pessoal;Municipal
+237;Porto Alegre;RS;Habitação;Secretaria de Saúde;1632485,33;21/04/2023;Custeio;Estadual
+238;Goiânia;PA;Saúde;Autarquia de Trânsito;1970961,77;17/01/2023;Pessoal;Federal
+239;Rio Branco;AC;Transporte;Secretaria de Saúde;2321494,84;18/11/2023;Pessoal;Convênio
+240;Uberlândia;RS;Segurança Pública;Câmara Municipal;1172711,82;30/01/2023;Custeio;Municipal
+241;Campo Grande;CE;Saneamento;Secretaria de Educação;40140,07;22/11/2023;Pessoal;Estadual
+242;Niterói;CE;Administração;Autarquia de Trânsito;1290625,24;27/06/2022;Transferência;Federal
+243;Joinville;CE;Cultura;Secretaria de Segurança;22041,15;25/02/2024;Investimento;Convênio
+244;São Paulo;SP;Cultura;Secretaria de Obras;1458239,58;24/01/2022;Pessoal;Municipal
+245;Boa Vista;RR;Comunicação;Secretaria de Saúde;1166160,50;24/11/2022;Transferência;Municipal
+246;Boa Vista;RR;Assistência Social;Fundo Municipal;1538490,49;25/03/2023;Investimento;Convênio
+247;Cuiabá;BA;Esporte e Lazer;Câmara Municipal;2282428,24;24/03/2023;Investimento;Federal
+248;Cuiabá;PE;Educação;Secretaria de Saúde;159086,33;01/11/2024;Investimento;Estadual
+249;São José dos Campos;CE;Ciência e Tecnologia;Secretaria de Saúde;1702336,62;28/09/2024;Custeio;Convênio
+250;Aracaju;SE;Segurança Pública;Câmara Municipal;1041484,31;29/04/2022;Transferência;Municipal
+251;Florianópolis;SC;Assistência Social;Prefeitura Municipal;1865782,18;30/05/2022;Custeio;Convênio
+252;Feira de Santana;MS;Saúde;Secretaria de Saúde;2465412,43;24/08/2024;Custeio;Municipal
+253;Belém;PA;Segurança Pública;Autarquia de Trânsito;939280,00;23/02/2024;Transferência;Convênio
+254;Belo Horizonte;MG;Comunicação;Câmara Municipal;336809,57;14/12/2023;Custeio;Estadual
+255;Manaus;PI;Saneamento;Secretaria de Segurança;2087879,92;16/02/2022;Pessoal;Convênio
+256;Osasco;RO;Meio Ambiente;Autarquia de Trânsito;2059284,29;22/05/2023;Transferência;Municipal
+257;Salvador;BA;Saneamento;Secretaria de Saúde;85382,20;08/05/2024;Custeio;Estadual
+258;Brasília;DF;Transporte;Prefeitura Municipal;1118870,46;10/04/2022;Investimento;Federal
+259;Feira de Santana;MG;Infraestrutura;Prefeitura Municipal;354638,26;16/08/2023;Investimento;Municipal
+260;Florianópolis;RJ;Infraestrutura;Secretaria de Obras;2191264,51;03/12/2024;Investimento;Convênio
+261;São Luís;MA;Meio Ambiente;Secretaria de Educação;1566852,88;24/05/2024;Transferência;Federal
+262;Porto Velho;MS;Habitação;Câmara Municipal;800242,47;02/05/2024;Transferência;Estadual
+263;Feira de Santana;MA;Ciência e Tecnologia;Secretaria de Segurança;2124105,63;08/09/2023;Investimento;Convênio
+264;Santos;AL;Meio Ambiente;Câmara Municipal;339561,41;13/05/2023;Pessoal;Estadual
+265;Londrina;MT;Administração;Fundo Municipal;235697,67;26/01/2023;Custeio;Municipal
+266;Belo Horizonte;MG;Administração;Secretaria de Saúde;474467,42;21/03/2023;Transferência;Estadual
+267;São Paulo;MT;Infraestrutura;Secretaria de Segurança;2405383,50;29/08/2022;Transferência;Estadual
+268;Campinas;RR;Esporte e Lazer;Secretaria de Segurança;1382437,83;03/08/2023;Transferência;Convênio
+269;Teresina;PI;Assistência Social;Fundo Municipal;1284477,27;15/10/2024;Transferência;Federal
+270;Joinville;SE;Habitação;Fundo Municipal;2286254,59;30/01/2024;Pessoal;Convênio
+271;São Luís;AL;Saneamento;Secretaria de Educação;45468,65;05/05/2024;Pessoal;Estadual
+272;Porto Velho;DF;Transporte;Secretaria de Segurança;1250757,20;23/11/2023;Pessoal;Convênio
+273;Uberlândia;SC;Ciência e Tecnologia;Secretaria de Educação;1833266,73;23/12/2023;Investimento;Estadual
+274;Goiânia;SC;Meio Ambiente;Prefeitura Municipal;1312241,32;02/06/2022;Custeio;Federal
+275;Belém;PA;Comunicação;Secretaria de Segurança;174580,01;06/11/2022;Custeio;Estadual
+276;Salvador;PE;Transporte;Instituto de Previdência;1649914,43;02/02/2022;Custeio;Convênio
+277;Rio Branco;AC;Saneamento;Secretaria de Obras;1341666,57;11/08/2023;Custeio;Convênio
+278;Goiânia;SE;Educação;Secretaria de Saúde;1313341,58;09/05/2023;Investimento;Municipal
+279;Niterói;TO;Educação;Fundo Municipal;2398448,00;29/07/2024;Investimento;Estadual
+280;Brasília;MA;Comunicação;Prefeitura Municipal;238283,76;16/02/2024;Transferência;Convênio
+281;Belém;AL;Educação;Instituto de Previdência;2114097,84;10/11/2023;Custeio;Federal
+282;Vitória;ES;Administração;Instituto de Previdência;681382,16;02/06/2022;Pessoal;Federal
+283;Florianópolis;CE;Saúde;Secretaria de Segurança;1469655,08;26/03/2024;Custeio;Municipal
+284;Aparecida de Goiânia;CE;Administração;Autarquia de Trânsito;1694202,24;11/11/2023;Transferência;Estadual
+285;Brasília;SE;Meio Ambiente;Fundo Municipal;138972,60;14/06/2024;Investimento;Federal
+286;Niterói;MT;Habitação;Fundo Municipal;78916,02;14/07/2023;Transferência;Convênio
+287;Porto Velho;ES;Esporte e Lazer;Secretaria de Educação;1700838,67;18/02/2024;Custeio;Municipal
+288;Aracaju;SE;Educação;Secretaria de Saúde;673590,22;18/02/2024;Investimento;Convênio
+289;Brasília;MT;Saúde;Secretaria de Obras;1114615,98;07/07/2023;Custeio;Estadual
+290;Macapá;AP;Ciência e Tecnologia;Câmara Municipal;1389076,30;15/04/2024;Custeio;Federal
+291;Brasília;AP;Transporte;Fundo Municipal;2159976,85;26/01/2022;Pessoal;Convênio
+292;Juiz de Fora;MG;Infraestrutura;Câmara Municipal;428109,39;19/02/2024;Investimento;Estadual
+293;Uberlândia;GO;Segurança Pública;Secretaria de Saúde;422182,46;20/07/2023;Transferência;Municipal
+294;Cuiabá;PR;Assistência Social;Secretaria de Segurança;1803644,13;12/10/2024;Investimento;Convênio
+295;Manaus;AM;Saúde;Autarquia de Trânsito;833881,95;18/02/2024;Pessoal;Convênio
+296;Manaus;MT;Assistência Social;Fundo Municipal;1510012,11;16/02/2023;Transferência;Municipal
+297;Florianópolis;CE;Assistência Social;Instituto de Previdência;2419568,90;12/05/2023;Pessoal;Convênio
+298;Niterói;GO;Cultura;Secretaria de Saúde;2330507,55;14/02/2023;Investimento;Federal
+299;Campinas;SC;Ciência e Tecnologia;Secretaria de Obras;2079048,11;22/05/2022;Transferência;Convênio
+300;Maceió;BA;Assistência Social;Secretaria de Educação;1789514,80;12/02/2024;Custeio;Convênio
+301;Niterói;RN;Meio Ambiente;Câmara Municipal;2309121,91;06/05/2024;Custeio;Municipal
+302;Feira de Santana;RR;Transporte;Secretaria de Saúde;277876,72;24/05/2023;Pessoal;Estadual
+303;Aparecida de Goiânia;RS;Comunicação;Autarquia de Trânsito;2417193,78;11/11/2023;Transferência;Federal
+304;Rio Branco;AC;Infraestrutura;Câmara Municipal;1868398,30;29/03/2023;Transferência;Municipal
+305;Maringá;MG;Saneamento;Câmara Municipal;381108,61;20/02/2022;Transferência;Federal
+306;Brasília;MA;Educação;Secretaria de Educação;874079,99;04/12/2023;Transferência;Estadual
+307;Joinville;PE;Educação;Instituto de Previdência;1806374,89;15/07/2024;Pessoal;Federal
+308;São Luís;MA;Saneamento;Secretaria de Saúde;61349,86;04/12/2023;Custeio;Estadual
+309;Florianópolis;SC;Segurança Pública;Câmara Municipal;404538,60;23/05/2024;Transferência;Estadual
+310;Goiânia;SE;Segurança Pública;Autarquia de Trânsito;991978,03;09/02/2023;Transferência;Convênio
+311;Belo Horizonte;MG;Infraestrutura;Secretaria de Segurança;699470,35;09/05/2022;Custeio;Estadual
+312;Sorocaba;MS;Educação;Secretaria de Obras;1678400,06;29/09/2024;Pessoal;Convênio
+313;Recife;RN;Cultura;Fundo Municipal;2114566,92;20/12/2022;Pessoal;Federal
+314;Porto Velho;RO;Educação;Secretaria de Segurança;766923,11;10/01/2023;Pessoal;Estadual
+315;Manaus;PE;Transporte;Autarquia de Trânsito;1060481,76;23/09/2024;Investimento;Estadual
+316;Curitiba;PR;Segurança Pública;Fundo Municipal;2105753,11;20/04/2022;Pessoal;Federal
+317;Curitiba;PR;Administração;Autarquia de Trânsito;2409753,58;01/11/2024;Transferência;Convênio
+318;Londrina;RO;Ciência e Tecnologia;Secretaria de Educação;211263,21;05/03/2022;Investimento;Municipal
+319;Maceió;AL;Meio Ambiente;Secretaria de Obras;424681,40;25/07/2024;Transferência;Federal
+320;Rio de Janeiro;RJ;Habitação;Câmara Municipal;2059090,61;22/01/2024;Custeio;Convênio
+321;Teresina;PI;Esporte e Lazer;Secretaria de Saúde;1841291,80;22/05/2023;Pessoal;Federal
+322;João Pessoa;PB;Administração;Secretaria de Saúde;1100479,41;29/08/2022;Investimento;Estadual
+323;Aracaju;SE;Administração;Autarquia de Trânsito;419124,14;13/10/2022;Investimento;Estadual
+324;Aracaju;SE;Cultura;Câmara Municipal;706307,12;11/12/2022;Pessoal;Municipal
+325;Ribeirão Preto;MA;Comunicação;Secretaria de Saúde;343294,32;22/04/2024;Custeio;Municipal
+326;Porto Alegre;RS;Administração;Secretaria de Educação;627944,72;22/10/2023;Investimento;Convênio
+327;Curitiba;PR;Comunicação;Secretaria de Obras;1571392,99;08/02/2024;Transferência;Federal
+328;Brasília;RS;Esporte e Lazer;Câmara Municipal;1875756,95;26/01/2024;Transferência;Convênio
+329;Brasília;MT;Saneamento;Instituto de Previdência;1588927,16;04/01/2024;Custeio;Convênio
+330;Campinas;DF;Ciência e Tecnologia;Secretaria de Obras;810548,55;04/08/2023;Pessoal;Estadual
+331;Vitória;RJ;Comunicação;Prefeitura Municipal;119627,60;30/07/2024;Custeio;Federal
+332;São Paulo;CE;Esporte e Lazer;Secretaria de Segurança;2489256,70;28/09/2022;Pessoal;Estadual
+333;Goiânia;GO;Cultura;Secretaria de Obras;210639,22;05/12/2022;Custeio;Convênio
+334;São Luís;RS;Esporte e Lazer;Secretaria de Saúde;1760726,61;03/01/2022;Investimento;Convênio
+335;Macapá;AP;Infraestrutura;Câmara Municipal;1701556,90;20/01/2022;Custeio;Municipal
+336;Palmas;TO;Administração;Autarquia de Trânsito;1736607,35;05/09/2024;Custeio;Estadual
+337;Belo Horizonte;MG;Habitação;Secretaria de Saúde;262487,83;23/01/2024;Pessoal;Estadual
+338;Manaus;MG;Comunicação;Secretaria de Educação;175686,96;18/01/2022;Investimento;Convênio
+339;Porto Alegre;MS;Esporte e Lazer;Instituto de Previdência;2150606,50;27/06/2022;Custeio;Estadual
+340;São Paulo;SP;Saneamento;Autarquia de Trânsito;882081,42;29/05/2024;Pessoal;Estadual
+341;Vitória;ES;Educação;Secretaria de Segurança;1385724,60;07/08/2023;Custeio;Municipal
+342;Ribeirão Preto;DF;Infraestrutura;Autarquia de Trânsito;742377,42;22/04/2022;Investimento;Convênio
+343;Belo Horizonte;MG;Ciência e Tecnologia;Secretaria de Saúde;1323074,82;25/01/2022;Pessoal;Municipal
+344;Aparecida de Goiânia;BA;Esporte e Lazer;Fundo Municipal;1368158,77;20/12/2022;Transferência;Federal
+345;São Paulo;AC;Assistência Social;Secretaria de Segurança;104368,02;04/05/2022;Transferência;Municipal
+346;Santos;RS;Esporte e Lazer;Autarquia de Trânsito;210657,39;09/11/2022;Pessoal;Federal
+347;São Luís;MA;Infraestrutura;Secretaria de Educação;1343293,48;11/03/2024;Custeio;Municipal
+348;Maceió;RR;Saúde;Secretaria de Segurança;220100,93;08/06/2024;Custeio;Convênio
+349;Teresina;RN;Comunicação;Secretaria de Educação;303010,30;09/10/2022;Custeio;Estadual
+350;São José dos Campos;PR;Meio Ambiente;Secretaria de Obras;421572,57;17/09/2022;Pessoal;Federal
+351;Vitória;SP;Habitação;Autarquia de Trânsito;683591,58;11/05/2022;Pessoal;Federal
+352;Cuiabá;PR;Saúde;Instituto de Previdência;2149102,66;08/12/2022;Pessoal;Estadual
+353;Aparecida de Goiânia;GO;Comunicação;Secretaria de Saúde;574869,04;08/11/2024;Custeio;Federal
+354;Rio Branco;AC;Ciência e Tecnologia;Fundo Municipal;960533,79;04/11/2022;Investimento;Federal
+355;Santos;PI;Infraestrutura;Fundo Municipal;624416,64;18/10/2023;Pessoal;Federal
+356;Ribeirão Preto;RJ;Comunicação;Prefeitura Municipal;452464,15;22/11/2024;Custeio;Convênio
+357;João Pessoa;AP;Habitação;Secretaria de Obras;821615,80;24/07/2024;Custeio;Municipal
+358;Brasília;DF;Habitação;Secretaria de Obras;1850242,09;12/05/2023;Transferência;Municipal
+359;Guarulhos;RJ;Saneamento;Câmara Municipal;1902403,14;18/05/2023;Investimento;Federal
+360;Belém;PA;Meio Ambiente;Fundo Municipal;1591674,89;20/01/2022;Pessoal;Federal
+361;Teresina;SP;Educação;Secretaria de Segurança;1326887,15;03/05/2023;Transferência;Convênio
+362;Porto Alegre;AL;Saneamento;Secretaria de Obras;237101,46;20/04/2023;Transferência;Municipal
+363;Brasília;PB;Transporte;Secretaria de Saúde;1266042,27;18/03/2024;Custeio;Federal
+364;Manaus;PA;Infraestrutura;Secretaria de Obras;656172,39;08/10/2023;Transferência;Municipal
+365;São Luís;MT;Educação;Secretaria de Segurança;344599,06;12/08/2022;Investimento;Federal
+366;Florianópolis;CE;Esporte e Lazer;Secretaria de Saúde;1342131,75;02/03/2023;Transferência;Municipal
+367;João Pessoa;PB;Educação;Secretaria de Saúde;398250,37;16/09/2023;Custeio;Estadual
+368;Porto Alegre;TO;Educação;Secretaria de Segurança;2421158,01;22/03/2024;Custeio;Municipal
+369;Goiânia;GO;Saúde;Autarquia de Trânsito;2137230,26;27/05/2023;Custeio;Convênio
+370;Manaus;AM;Educação;Prefeitura Municipal;158864,62;01/04/2023;Investimento;Estadual
+371;Brasília;TO;Transporte;Secretaria de Obras;2293984,31;03/06/2022;Custeio;Federal
+372;Londrina;DF;Habitação;Secretaria de Educação;234486,70;11/11/2023;Custeio;Federal
+373;João Pessoa;PB;Transporte;Autarquia de Trânsito;2055105,08;19/03/2024;Transferência;Federal
+374;Goiânia;MG;Cultura;Secretaria de Segurança;2271219,02;18/07/2023;Pessoal;Convênio
+375;Salvador;BA;Transporte;Secretaria de Segurança;1619959,61;18/10/2024;Transferência;Convênio
+376;Maceió;AL;Esporte e Lazer;Secretaria de Educação;1050990,88;12/12/2024;Investimento;Federal
+377;Aracaju;MG;Ciência e Tecnologia;Câmara Municipal;1954680,59;06/12/2023;Pessoal;Convênio
+378;Goiânia;GO;Cultura;Secretaria de Segurança;78112,13;30/07/2023;Custeio;Convênio
+379;Maringá;PE;Infraestrutura;Secretaria de Educação;254835,17;09/05/2023;Pessoal;Federal
+380;São Luís;SP;Transporte;Autarquia de Trânsito;890237,56;22/12/2022;Investimento;Estadual
+381;Aracaju;RJ;Transporte;Prefeitura Municipal;1760114,94;22/12/2023;Investimento;Estadual
+382;Uberlândia;TO;Meio Ambiente;Secretaria de Obras;443014,14;19/03/2022;Custeio;Federal
+383;Rio de Janeiro;ES;Meio Ambiente;Instituto de Previdência;6705,32;17/02/2023;Investimento;Municipal
+384;Boa Vista;RR;Habitação;Fundo Municipal;153592,13;30/10/2022;Investimento;Federal
+385;Fortaleza;PE;Cultura;Autarquia de Trânsito;1467111,57;21/11/2023;Pessoal;Municipal
+386;Osasco;BA;Habitação;Instituto de Previdência;1624704,76;23/12/2022;Pessoal;Estadual
+387;Goiânia;RO;Esporte e Lazer;Secretaria de Obras;1836317,46;27/08/2023;Investimento;Estadual
+388;Florianópolis;SC;Saneamento;Autarquia de Trânsito;2127638,63;08/03/2022;Investimento;Municipal
+389;São Luís;SE;Comunicação;Secretaria de Saúde;2342036,04;16/10/2022;Pessoal;Federal
+390;Florianópolis;ES;Segurança Pública;Secretaria de Saúde;2055046,20;19/11/2023;Transferência;Federal
+391;Goiânia;GO;Saneamento;Secretaria de Saúde;879450,50;10/08/2022;Custeio;Federal
+392;Santos;MG;Segurança Pública;Autarquia de Trânsito;1235239,57;15/02/2024;Pessoal;Convênio
+393;Aparecida de Goiânia;AM;Comunicação;Secretaria de Segurança;410828,00;31/05/2022;Custeio;Municipal
+394;Curitiba;AC;Educação;Fundo Municipal;429412,48;08/02/2024;Investimento;Federal
+395;Brasília;PI;Cultura;Instituto de Previdência;1762739,09;02/06/2024;Investimento;Convênio
+396;Fortaleza;CE;Cultura;Secretaria de Segurança;2436124,06;18/04/2024;Pessoal;Municipal
+397;São Luís;MA;Saúde;Autarquia de Trânsito;1431565,67;02/10/2024;Investimento;Federal
+398;Campo Grande;MS;Educação;Secretaria de Obras;2060623,78;10/09/2024;Investimento;Federal
+399;Rio Branco;AC;Comunicação;Secretaria de Obras;2442758,95;27/08/2024;Custeio;Municipal
+400;Uberlândia;SE;Comunicação;Secretaria de Obras;232386,51;04/03/2024;Investimento;Municipal
+401;Londrina;MG;Saúde;Secretaria de Obras;1102152,36;24/06/2023;Investimento;Municipal
+402;Rio de Janeiro;RJ;Habitação;Secretaria de Saúde;218839,74;06/12/2023;Transferência;Estadual
+403;Teresina;PI;Esporte e Lazer;Câmara Municipal;1049487,03;30/08/2024;Investimento;Convênio
+404;São Luís;MA;Administração;Prefeitura Municipal;1257743,17;24/11/2024;Investimento;Federal
+405;Belém;SP;Infraestrutura;Secretaria de Segurança;319834,07;17/05/2024;Custeio;Convênio
+406;Porto Alegre;DF;Administração;Secretaria de Obras;802774,97;18/05/2022;Custeio;Convênio
+407;Florianópolis;PI;Administração;Secretaria de Obras;1301622,00;26/01/2022;Transferência;Federal
+408;Belém;PA;Transporte;Secretaria de Saúde;2312695,78;26/07/2022;Pessoal;Municipal
+409;Belém;PA;Comunicação;Instituto de Previdência;1432197,98;26/08/2024;Custeio;Estadual
+410;Niterói;GO;Saúde;Autarquia de Trânsito;2224487,66;10/11/2023;Investimento;Federal
+411;Natal;SC;Cultura;Prefeitura Municipal;847975,87;13/09/2023;Pessoal;Municipal
+412;Curitiba;TO;Administração;Secretaria de Segurança;340291,87;26/06/2024;Pessoal;Municipal
+413;Brasília;SC;Infraestrutura;Instituto de Previdência;532419,30;13/04/2024;Transferência;Municipal
+414;Palmas;TO;Habitação;Secretaria de Educação;168714,33;03/11/2024;Transferência;Estadual
+415;Aparecida de Goiânia;SP;Saúde;Secretaria de Educação;485944,80;16/02/2023;Custeio;Estadual
+416;Cuiabá;AL;Saneamento;Secretaria de Segurança;688573,86;08/08/2024;Transferência;Federal
+417;Porto Velho;RO;Cultura;Instituto de Previdência;1487138,77;30/12/2022;Transferência;Municipal
+418;Campo Grande;MS;Assistência Social;Secretaria de Saúde;716248,09;02/03/2024;Custeio;Estadual
+419;Campinas;RJ;Administração;Secretaria de Segurança;1620212,83;28/02/2023;Pessoal;Convênio
+420;Recife;PE;Habitação;Prefeitura Municipal;1187872,53;28/09/2022;Investimento;Federal
+421;Vitória;ES;Habitação;Secretaria de Obras;1783287,52;18/07/2023;Transferência;Convênio
+422;Campinas;MS;Ciência e Tecnologia;Secretaria de Obras;1694604,41;24/03/2024;Custeio;Federal
+423;Cuiabá;PE;Meio Ambiente;Secretaria de Obras;749697,44;10/08/2022;Transferência;Federal
+424;Florianópolis;MT;Administração;Secretaria de Obras;656561,54;04/09/2023;Investimento;Estadual
+425;Salvador;PE;Habitação;Autarquia de Trânsito;1653023,16;14/10/2022;Custeio;Convênio
+426;São Luís;MA;Esporte e Lazer;Autarquia de Trânsito;973745,93;14/03/2022;Investimento;Municipal
+427;Feira de Santana;SC;Comunicação;Instituto de Previdência;2266783,63;05/01/2024;Pessoal;Estadual
+428;Juiz de Fora;TO;Segurança Pública;Secretaria de Obras;248519,64;20/09/2022;Pessoal;Estadual
+429;Brasília;RO;Infraestrutura;Fundo Municipal;562203,17;21/09/2023;Transferência;Municipal
+430;Campo Grande;MS;Assistência Social;Instituto de Previdência;2128778,65;21/08/2024;Custeio;Federal
+431;Ribeirão Preto;PR;Educação;Autarquia de Trânsito;1326947,07;26/04/2024;Custeio;Estadual
+432;Vitória;BA;Esporte e Lazer;Instituto de Previdência;362344,26;05/01/2023;Custeio;Convênio
+433;Goiânia;MT;Cultura;Prefeitura Municipal;16760,19;15/07/2023;Investimento;Estadual
+434;Uberlândia;RJ;Habitação;Secretaria de Saúde;327867,86;07/06/2024;Transferência;Convênio
+435;Porto Velho;PA;Saúde;Prefeitura Municipal;1336787,59;04/02/2024;Custeio;Municipal
+436;Guarulhos;SP;Saúde;Prefeitura Municipal;1568583,89;25/05/2023;Investimento;Municipal
+437;São Luís;MA;Esporte e Lazer;Câmara Municipal;1473733,37;09/12/2022;Custeio;Federal
+438;Sorocaba;MA;Saneamento;Câmara Municipal;1492942,95;23/11/2023;Transferência;Estadual
+439;Uberlândia;MT;Cultura;Secretaria de Segurança;416384,35;06/04/2024;Custeio;Estadual
+440;Manaus;ES;Infraestrutura;Prefeitura Municipal;1476283,62;13/12/2022;Custeio;Municipal
+441;Belo Horizonte;RR;Esporte e Lazer;Secretaria de Obras;1929267,91;10/04/2022;Custeio;Federal
+442;Salvador;RS;Saneamento;Secretaria de Saúde;1044855,04;18/02/2024;Custeio;Municipal
+443;Campinas;PR;Saneamento;Prefeitura Municipal;756285,55;26/07/2022;Pessoal;Estadual
+444;Curitiba;PA;Meio Ambiente;Secretaria de Saúde;710353,39;06/08/2022;Transferência;Estadual
+445;Natal;RN;Assistência Social;Câmara Municipal;2432933,71;04/01/2024;Transferência;Municipal
+446;Fortaleza;CE;Ciência e Tecnologia;Secretaria de Segurança;1722068,77;11/09/2024;Pessoal;Estadual
+447;Rio Branco;AC;Educação;Secretaria de Saúde;2088904,25;08/10/2024;Investimento;Federal
+448;Curitiba;SP;Assistência Social;Secretaria de Segurança;1144594,33;30/08/2023;Pessoal;Convênio
+449;Maceió;AL;Segurança Pública;Prefeitura Municipal;2131360,47;08/01/2024;Pessoal;Convênio
+450;Florianópolis;SC;Administração;Prefeitura Municipal;29132,46;11/10/2022;Investimento;Municipal
+451;Natal;MS;Saneamento;Secretaria de Saúde;934692,27;03/12/2023;Investimento;Federal
+452;Sorocaba;MG;Assistência Social;Autarquia de Trânsito;1726306,57;06/09/2024;Transferência;Estadual
+453;Manaus;AM;Saneamento;Prefeitura Municipal;2454015,08;23/11/2022;Custeio;Convênio
+454;Aparecida de Goiânia;RJ;Comunicação;Instituto de Previdência;457245,10;17/02/2024;Pessoal;Federal
+455;Manaus;RO;Ciência e Tecnologia;Instituto de Previdência;286779,01;22/04/2024;Transferência;Federal
+456;Macapá;AP;Cultura;Prefeitura Municipal;1762897,60;10/12/2024;Investimento;Municipal
+457;Curitiba;PE;Esporte e Lazer;Secretaria de Segurança;1207414,54;28/02/2024;Investimento;Federal
+458;Belém;AC;Meio Ambiente;Instituto de Previdência;2130418,52;05/12/2022;Custeio;Convênio
+459;Cuiabá;MT;Assistência Social;Prefeitura Municipal;1269788,68;15/02/2024;Transferência;Estadual
+460;Aparecida de Goiânia;AP;Ciência e Tecnologia;Secretaria de Saúde;2142190,11;04/07/2024;Pessoal;Federal
+461;Rio de Janeiro;PR;Educação;Autarquia de Trânsito;1033784,68;01/01/2022;Custeio;Municipal
+462;Sorocaba;PE;Cultura;Fundo Municipal;2064150,92;02/04/2023;Transferência;Municipal
+463;Joinville;PI;Saneamento;Fundo Municipal;1791204,18;22/08/2022;Custeio;Estadual
+464;João Pessoa;AC;Meio Ambiente;Câmara Municipal;937856,45;06/08/2022;Custeio;Estadual
+465;Curitiba;PR;Saneamento;Autarquia de Trânsito;271868,96;06/02/2023;Investimento;Federal
+466;Belo Horizonte;MG;Administração;Secretaria de Segurança;1793385,85;09/08/2022;Transferência;Federal
+467;Maringá;RS;Educação;Instituto de Previdência;1146182,75;29/10/2024;Investimento;Convênio
+468;Salvador;AC;Meio Ambiente;Autarquia de Trânsito;2097846,20;16/09/2024;Investimento;Estadual
+469;Curitiba;SC;Esporte e Lazer;Fundo Municipal;1262754,75;27/02/2024;Transferência;Estadual
+470;Vitória;GO;Assistência Social;Instituto de Previdência;2012968,09;10/10/2022;Transferência;Municipal
+471;Florianópolis;TO;Saneamento;Câmara Municipal;1583295,29;16/02/2023;Investimento;Municipal
+472;Manaus;RO;Saneamento;Secretaria de Educação;1262214,13;23/10/2023;Custeio;Municipal
+473;Aparecida de Goiânia;PI;Comunicação;Autarquia de Trânsito;1687237,50;29/12/2024;Pessoal;Convênio
+474;Aracaju;SE;Educação;Prefeitura Municipal;955271,43;19/04/2022;Custeio;Estadual
+475;Belém;GO;Assistência Social;Secretaria de Obras;370338,83;08/05/2022;Pessoal;Estadual
+476;Aracaju;SP;Administração;Instituto de Previdência;260687,62;05/04/2023;Transferência;Estadual
+477;João Pessoa;PE;Saneamento;Prefeitura Municipal;2316579,60;04/03/2024;Transferência;Municipal
+478;Teresina;PI;Saneamento;Secretaria de Obras;511702,62;26/06/2024;Investimento;Municipal
+479;Guarulhos;SP;Habitação;Secretaria de Segurança;738973,42;30/12/2022;Custeio;Estadual
+480;Recife;CE;Esporte e Lazer;Prefeitura Municipal;1074127,00;26/06/2023;Investimento;Estadual
+481;São Paulo;RJ;Cultura;Instituto de Previdência;1775674,79;14/11/2022;Custeio;Estadual
+482;Teresina;MT;Ciência e Tecnologia;Câmara Municipal;898423,54;13/10/2023;Investimento;Estadual
+483;Recife;PE;Meio Ambiente;Secretaria de Educação;1042748,45;06/04/2024;Custeio;Municipal
+484;Vitória;ES;Cultura;Fundo Municipal;737468,02;22/12/2024;Transferência;Federal
+485;Londrina;AM;Infraestrutura;Secretaria de Segurança;2397447,56;20/10/2023;Transferência;Federal
+486;Belo Horizonte;MG;Saneamento;Secretaria de Obras;66640,80;24/11/2024;Pessoal;Convênio
+487;Curitiba;PR;Comunicação;Secretaria de Segurança;804180,33;18/06/2022;Custeio;Estadual
+488;São Paulo;SP;Comunicação;Secretaria de Saúde;530899,78;13/03/2023;Transferência;Federal
+489;Osasco;DF;Comunicação;Secretaria de Saúde;1868492,61;11/11/2022;Custeio;Convênio
+490;Brasília;RR;Educação;Prefeitura Municipal;449090,45;31/05/2023;Custeio;Estadual
+491;Londrina;GO;Comunicação;Autarquia de Trânsito;1085397,46;04/02/2022;Transferência;Federal
+492;Teresina;PI;Saneamento;Secretaria de Saúde;1891121,69;04/04/2022;Custeio;Municipal
+493;Recife;PE;Habitação;Secretaria de Obras;1518381,77;31/07/2023;Transferência;Convênio
+494;Rio de Janeiro;MG;Ciência e Tecnologia;Secretaria de Educação;1336002,07;07/10/2022;Transferência;Municipal
+495;Porto Alegre;RS;Comunicação;Fundo Municipal;2393692,16;23/01/2022;Investimento;Federal
+496;Maceió;AL;Transporte;Autarquia de Trânsito;1345194,36;24/06/2022;Pessoal;Estadual
+497;Aracaju;SC;Infraestrutura;Autarquia de Trânsito;2264541,94;15/11/2024;Investimento;Estadual
+498;Fortaleza;CE;Administração;Secretaria de Obras;489843,91;07/01/2023;Custeio;Convênio
+499;João Pessoa;RS;Comunicação;Secretaria de Saúde;630465,60;09/02/2023;Transferência;Municipal
+500;Campo Grande;MS;Comunicação;Secretaria de Segurança;254612,42;23/05/2022;Investimento;Municipal
+501;Teresina;PR;Saneamento;Secretaria de Educação;1416052,26;17/01/2024;Pessoal;Convênio
+502;Fortaleza;CE;Infraestrutura;Secretaria de Segurança;1781936,82;12/06/2024;Pessoal;Municipal
+503;Vitória;BA;Ciência e Tecnologia;Instituto de Previdência;1116168,14;18/09/2023;Transferência;Federal
+504;Brasília;CE;Administração;Secretaria de Obras;2147490,57;14/10/2022;Investimento;Municipal
+505;Fortaleza;SC;Saneamento;Secretaria de Saúde;2230802,44;04/11/2024;Custeio;Convênio
+506;Belo Horizonte;SP;Meio Ambiente;Secretaria de Obras;1360955,96;24/08/2024;Investimento;Municipal
+507;Belo Horizonte;MG;Habitação;Secretaria de Obras;339033,74;23/10/2024;Custeio;Convênio
+508;Maceió;MS;Administração;Secretaria de Educação;1894229,15;15/10/2022;Transferência;Estadual
+509;Aparecida de Goiânia;CE;Comunicação;Secretaria de Educação;1841119,92;17/09/2024;Pessoal;Federal
+510;São Luís;ES;Educação;Secretaria de Obras;926740,79;29/03/2022;Investimento;Municipal
+511;Sorocaba;MG;Saúde;Prefeitura Municipal;2451571,51;26/10/2023;Custeio;Municipal
+512;Maringá;TO;Meio Ambiente;Secretaria de Educação;944765,63;15/02/2024;Pessoal;Federal
+513;Recife;PE;Infraestrutura;Câmara Municipal;1017576,30;08/12/2023;Transferência;Convênio
+514;Natal;RN;Segurança Pública;Instituto de Previdência;418186,53;07/06/2022;Pessoal;Estadual
+515;Salvador;BA;Cultura;Secretaria de Saúde;1654468,56;29/04/2024;Pessoal;Federal
+516;Joinville;PR;Infraestrutura;Secretaria de Educação;1619911,79;21/04/2024;Custeio;Estadual
+517;Maceió;AL;Transporte;Secretaria de Educação;341136,50;15/11/2024;Custeio;Estadual
+518;Maceió;AL;Segurança Pública;Câmara Municipal;2395804,65;08/02/2022;Pessoal;Federal
+519;Joinville;DF;Administração;Instituto de Previdência;430564,13;21/04/2024;Investimento;Estadual
+520;Campo Grande;RN;Segurança Pública;Fundo Municipal;2306268,10;21/05/2022;Investimento;Convênio
+521;Belo Horizonte;MG;Saúde;Secretaria de Segurança;1309164,80;29/10/2024;Transferência;Estadual
+522;Natal;RN;Ciência e Tecnologia;Prefeitura Municipal;2194992,83;24/12/2024;Custeio;Federal
+523;Feira de Santana;PR;Administração;Prefeitura Municipal;2242937,54;02/06/2024;Transferência;Municipal
+524;Osasco;AL;Infraestrutura;Instituto de Previdência;1974941,18;20/02/2024;Pessoal;Federal
+525;Belém;PA;Ciência e Tecnologia;Secretaria de Segurança;2275662,96;21/06/2022;Pessoal;Convênio
+526;Goiânia;GO;Saneamento;Prefeitura Municipal;1447077,93;30/08/2022;Custeio;Convênio
+527;Porto Alegre;RS;Habitação;Fundo Municipal;1025068,47;07/08/2022;Investimento;Convênio
+528;Campo Grande;RS;Administração;Câmara Municipal;1061786,06;19/01/2024;Pessoal;Convênio
+529;São Paulo;SP;Meio Ambiente;Câmara Municipal;1208757,05;29/01/2024;Transferência;Municipal
+530;Niterói;MA;Saneamento;Secretaria de Educação;2138222,31;01/09/2022;Investimento;Convênio
+531;Belém;SE;Educação;Secretaria de Segurança;1273317,14;25/11/2023;Custeio;Estadual
+532;São Paulo;MG;Habitação;Secretaria de Saúde;2059022,39;23/08/2024;Transferência;Federal
+533;Macapá;AP;Cultura;Secretaria de Saúde;1524527,01;27/02/2024;Transferência;Municipal
+534;Salvador;RR;Habitação;Secretaria de Educação;1602526,83;18/06/2024;Custeio;Estadual
+535;São José dos Campos;RO;Assistência Social;Secretaria de Segurança;88855,33;11/11/2024;Investimento;Estadual
+536;Porto Velho;RO;Infraestrutura;Prefeitura Municipal;2439236,52;27/06/2022;Pessoal;Convênio
+537;Niterói;MS;Transporte;Secretaria de Segurança;1296768,04;21/05/2022;Custeio;Municipal
+538;Maringá;SC;Cultura;Fundo Municipal;2408402,72;21/07/2023;Investimento;Estadual
+539;Aparecida de Goiânia;PB;Saúde;Secretaria de Obras;441711,79;02/11/2024;Custeio;Federal
+540;Recife;PE;Educação;Câmara Municipal;2391989,83;28/05/2023;Transferência;Convênio
+541;Maceió;RJ;Habitação;Fundo Municipal;2403290,62;28/07/2024;Transferência;Federal
+542;Curitiba;PR;Educação;Autarquia de Trânsito;1585986,18;28/03/2023;Investimento;Municipal
+543;São José dos Campos;PA;Meio Ambiente;Prefeitura Municipal;1753542,29;24/06/2023;Investimento;Municipal
+544;Vitória;AP;Educação;Câmara Municipal;2328833,62;02/09/2024;Pessoal;Municipal
+545;Natal;DF;Segurança Pública;Secretaria de Segurança;1250003,35;13/02/2023;Investimento;Estadual
+546;Goiânia;GO;Infraestrutura;Secretaria de Segurança;2091655,10;31/12/2023;Investimento;Federal
+547;Uberlândia;AM;Transporte;Prefeitura Municipal;1911789,31;28/03/2022;Transferência;Municipal
+548;Aparecida de Goiânia;RN;Administração;Secretaria de Obras;1229559,35;12/11/2024;Pessoal;Convênio
+549;Manaus;ES;Saúde;Câmara Municipal;1999178,44;06/09/2024;Custeio;Municipal
+550;Goiânia;MG;Ciência e Tecnologia;Secretaria de Saúde;1747120,20;31/07/2024;Pessoal;Federal
+551;Porto Velho;AC;Transporte;Secretaria de Saúde;816963,32;16/06/2023;Investimento;Municipal
+552;Vitória;ES;Transporte;Fundo Municipal;917980,76;18/10/2024;Transferência;Estadual
+553;Cuiabá;PA;Cultura;Autarquia de Trânsito;702675,68;04/01/2023;Investimento;Estadual
+554;Palmas;TO;Assistência Social;Secretaria de Segurança;1390573,42;20/02/2024;Investimento;Estadual
+555;Porto Alegre;SE;Ciência e Tecnologia;Prefeitura Municipal;445635,16;20/10/2024;Investimento;Municipal
+556;Campo Grande;SE;Meio Ambiente;Prefeitura Municipal;999012,75;01/12/2022;Custeio;Estadual
+557;Palmas;TO;Administração;Secretaria de Saúde;1127387,77;17/11/2023;Pessoal;Municipal
+558;Campo Grande;MS;Cultura;Prefeitura Municipal;1032343,46;21/12/2023;Investimento;Estadual
+559;São Paulo;SP;Cultura;Câmara Municipal;1221296,89;04/07/2024;Custeio;Convênio
+560;Natal;RN;Comunicação;Secretaria de Educação;2171302,84;22/11/2023;Transferência;Convênio
+561;Macapá;AP;Cultura;Secretaria de Segurança;787137,75;20/08/2023;Pessoal;Convênio
+562;Cuiabá;GO;Saneamento;Câmara Municipal;2413987,45;27/04/2024;Investimento;Estadual
+563;Rio Branco;AC;Infraestrutura;Secretaria de Obras;2351391,16;13/06/2022;Investimento;Estadual
+564;Belo Horizonte;MG;Educação;Instituto de Previdência;1373342,19;23/02/2022;Transferência;Federal
+565;Manaus;AM;Segurança Pública;Secretaria de Saúde;1638807,53;09/03/2024;Pessoal;Estadual
+566;Londrina;ES;Comunicação;Secretaria de Educação;332536,39;16/12/2022;Custeio;Federal
+567;Florianópolis;RO;Administração;Instituto de Previdência;1170647,72;12/07/2023;Transferência;Estadual
+568;Maringá;RR;Transporte;Instituto de Previdência;1579463,57;09/06/2024;Pessoal;Municipal
+569;Brasília;PR;Ciência e Tecnologia;Secretaria de Obras;917629,39;17/06/2023;Investimento;Municipal
+570;Rio Branco;AC;Administração;Secretaria de Educação;862992,87;18/08/2024;Custeio;Convênio
+571;São Paulo;SP;Habitação;Autarquia de Trânsito;1995922,12;19/04/2023;Custeio;Municipal
+572;Juiz de Fora;DF;Esporte e Lazer;Autarquia de Trânsito;628490,81;09/03/2024;Transferência;Estadual
+573;Goiânia;GO;Comunicação;Secretaria de Segurança;1293942,10;11/07/2023;Pessoal;Municipal
+574;Belém;PA;Educação;Secretaria de Educação;345876,96;15/08/2022;Transferência;Convênio
+575;Uberlândia;GO;Infraestrutura;Fundo Municipal;53391,52;12/04/2022;Custeio;Estadual
+576;Manaus;AM;Segurança Pública;Instituto de Previdência;1819132,14;22/04/2023;Custeio;Estadual
+577;Vitória;AC;Esporte e Lazer;Secretaria de Obras;1965384,72;17/10/2024;Pessoal;Convênio
+578;Vitória;RR;Educação;Secretaria de Educação;144815,67;14/03/2024;Custeio;Convênio
+579;Fortaleza;CE;Administração;Secretaria de Obras;2044040,56;26/01/2022;Custeio;Estadual
+580;Londrina;MG;Infraestrutura;Prefeitura Municipal;501953,79;12/07/2022;Investimento;Convênio
+581;Teresina;MG;Cultura;Secretaria de Educação;1574764,81;28/03/2022;Custeio;Municipal
+582;Guarulhos;PR;Cultura;Prefeitura Municipal;2159825,88;23/03/2023;Custeio;Estadual
+583;São Paulo;RS;Segurança Pública;Secretaria de Obras;1463818,67;21/03/2024;Investimento;Federal
+584;Joinville;AL;Saneamento;Secretaria de Educação;931639,66;03/07/2022;Investimento;Estadual
+585;Curitiba;PR;Transporte;Fundo Municipal;2327467,72;03/05/2022;Custeio;Municipal
+586;Porto Alegre;RS;Meio Ambiente;Secretaria de Saúde;318939,51;22/04/2023;Pessoal;Municipal
+587;Guarulhos;SE;Saúde;Autarquia de Trânsito;898627,91;03/10/2022;Pessoal;Federal
+588;Juiz de Fora;PR;Assistência Social;Câmara Municipal;1744109,25;24/01/2023;Investimento;Municipal
+589;Natal;MT;Administração;Câmara Municipal;405056,81;23/12/2024;Investimento;Convênio
+590;Feira de Santana;MA;Cultura;Instituto de Previdência;6795,97;02/11/2024;Transferência;Estadual
+591;Cuiabá;AC;Habitação;Secretaria de Segurança;805131,77;10/05/2022;Transferência;Estadual
+592;Juiz de Fora;PE;Segurança Pública;Secretaria de Obras;809887,10;22/10/2023;Custeio;Federal
+593;Belo Horizonte;PE;Administração;Secretaria de Educação;450703,81;06/03/2022;Investimento;Federal
+594;Curitiba;PR;Saúde;Autarquia de Trânsito;1646513,54;12/12/2024;Pessoal;Federal
+595;Campo Grande;MS;Saneamento;Secretaria de Saúde;37649,84;04/03/2023;Transferência;Federal
+596;Salvador;PB;Cultura;Câmara Municipal;1859976,22;01/05/2024;Pessoal;Federal
+597;São José dos Campos;TO;Saúde;Secretaria de Saúde;2086968,96;09/06/2022;Investimento;Federal
+598;Feira de Santana;AM;Esporte e Lazer;Secretaria de Segurança;486833,02;25/05/2023;Investimento;Convênio
+599;Florianópolis;SC;Comunicação;Fundo Municipal;1687858,95;24/05/2024;Custeio;Estadual
+600;Aracaju;SE;Esporte e Lazer;Câmara Municipal;847094,61;20/11/2022;Transferência;Municipal

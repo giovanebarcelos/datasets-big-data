@@ -1,0 +1,1001 @@
+﻿Pedido_ID;Data_Pedido;Cliente_ID;Cidade;UF;Regiao;Categoria_Produto;Produto;Quantidade;Valor_Unitario_R$;Valor_Total_R$;Canal_Marketing;Desconto_%;Frete_R$;Status_Pedido;Avaliacao_1a5;Tempo_Entrega_Dias;Reclamacao
+PED-0001;13/10/2024;CLI-3074;Rio de Janeiro;RN;Nordeste;Casa;Almofada;4;1188,53;4754,12;Influenciador;20;36,46;Cancelado;;;
+PED-0002;03/06/2023;CLI-4579;Salvador;GO;Centro-Oeste;Livros;Romance;3;577,31;1731,93;TikTok Ads;25;10,45;Entregue;1;19;Sim
+PED-0003;16/09/2024;CLI-7563;Natal;SE;Nordeste;Moda;Calça Jeans;3;2059,35;6178,05;Influenciador;25;39,49;Processando;;;
+PED-0004;03/12/2024;CLI-2211;Fortaleza;AM;Norte;Moda;Calça Jeans;5;284,61;1423,05;YouTube Ads;15;43,62;Devolvido;;20;
+PED-0005;04/10/2023;CLI-2887;Fortaleza;SP;Sudeste;Moda;Bolsa;2;739,33;1478,66;Orgânico;25;19,55;Em Transporte;;;
+PED-0006;17/06/2024;CLI-1099;Aparecida de Goiânia;AC;Norte;Moda;Calça Jeans;1;1739,32;1739,32;YouTube Ads;0;26,54;Em Transporte;;;
+PED-0007;01/03/2024;CLI-4418;Fortaleza;ES;Sudeste;Esportes;Garrafa Térmica;5;547,66;2738,30;Google Ads;10;35,27;Processando;;;
+PED-0008;26/11/2024;CLI-9075;Recife;PR;Sul;Moda;Relógio;3;1371,09;4113,27;TikTok Ads;30;5,75;Processando;;;
+PED-0009;14/10/2024;CLI-9589;Fortaleza;MS;Centro-Oeste;Beleza;Hidratante;1;2456,85;2456,85;Google Ads;30;33,96;Cancelado;;;
+PED-0010;01/01/2024;CLI-9424;Guarulhos;SP;Sudeste;Moda;Camiseta;4;538,28;2153,12;Facebook Ads;5;25,65;Processando;;;
+PED-0011;01/09/2024;CLI-2842;Santos;SP;Sudeste;Esportes;Bola;3;2004,11;6012,33;TikTok Ads;10;37,19;Cancelado;;;
+PED-0012;24/01/2023;CLI-9853;Ribeirão Preto;TO;Norte;Casa;Quadro;1;735,95;735,95;Facebook Ads;25;0,46;Processando;;;
+PED-0013;05/03/2023;CLI-2840;Niterói;MG;Sudeste;Alimentos;Cesta Orgânica;3;3129,34;9388,02;Google Ads;20;20,22;Em Transporte;;;
+PED-0014;16/09/2023;CLI-6365;Vitória;MT;Centro-Oeste;Beleza;Shampoo;1;2391,53;2391,53;Google Ads;15;7,67;Processando;;;
+PED-0015;07/01/2024;CLI-7508;Florianópolis;PI;Nordeste;Livros;Romance;2;3097,13;6194,26;YouTube Ads;5;24,48;Cancelado;;;
+PED-0016;30/12/2023;CLI-9593;Brasília;MA;Nordeste;Beleza;Perfume;2;686,54;1373,08;Orgânico;20;30,43;Processando;;;
+PED-0017;05/08/2024;CLI-3550;Uberlândia;GO;Centro-Oeste;Alimentos;Cesta Orgânica;2;2342,46;4684,92;TikTok Ads;30;26,69;Cancelado;;;
+PED-0018;04/12/2023;CLI-8313;Santos;AC;Norte;Livros;Autoajuda;4;1942,30;7769,20;Facebook Ads;30;19,40;Processando;;;
+PED-0019;09/01/2023;CLI-3503;Porto Velho;GO;Centro-Oeste;Eletrônicos;Tablet;2;344,87;689,74;Orgânico;20;32,66;Processando;;;
+PED-0020;02/11/2024;CLI-1609;Niterói;GO;Centro-Oeste;Livros;Autoajuda;5;1505,87;7529,35;Facebook Ads;30;31,94;Processando;;;
+PED-0021;29/04/2024;CLI-9668;Ribeirão Preto;RS;Sul;Casa;Almofada;3;408,53;1225,59;TikTok Ads;0;39,48;Cancelado;;;
+PED-0022;02/06/2024;CLI-7363;Salvador;MT;Centro-Oeste;Eletrônicos;Fone Bluetooth;3;1772,82;5318,46;Orgânico;30;28,91;Entregue;2;6;Não
+PED-0023;28/04/2023;CLI-6481;Joinville;MT;Centro-Oeste;Beleza;Shampoo;1;3157,51;3157,51;Facebook Ads;20;26,98;Processando;;;
+PED-0024;04/10/2023;CLI-2014;Manaus;PE;Nordeste;Moda;Camiseta;3;362,47;1087,41;Facebook Ads;0;29,95;Processando;;;
+PED-0025;15/11/2024;CLI-3791;Maringá;DF;Centro-Oeste;Alimentos;Chocolate;3;1965,84;5897,52;Google Ads;15;0,88;Processando;;;
+PED-0026;27/07/2023;CLI-5071;Londrina;DF;Centro-Oeste;Casa;Vaso Decorativo;1;1951,68;1951,68;Google Ads;5;26,78;Em Transporte;;;
+PED-0027;26/07/2023;CLI-9782;Juiz de Fora;MS;Centro-Oeste;Alimentos;Kit Fitness;4;1476,80;5907,20;Orgânico;25;37,48;Entregue;2;23;Não
+PED-0028;11/08/2023;CLI-7223;Vitória;PE;Nordeste;Eletrônicos;Smartphone;1;2251,95;2251,95;Orgânico;0;20,34;Cancelado;;;
+PED-0029;18/07/2024;CLI-6066;Fortaleza;PA;Norte;Livros;Romance;1;1525,78;1525,78;E-mail Marketing;10;5,08;Devolvido;;8;
+PED-0030;20/08/2023;CLI-1788;Ribeirão Preto;MG;Sudeste;Beleza;Shampoo;4;1733,56;6934,24;Google Ads;15;40,96;Cancelado;;;
+PED-0031;31/10/2024;CLI-2994;Aparecida de Goiânia;RJ;Sudeste;Livros;Não-Ficção;5;199,51;997,55;Google Ads;25;43,06;Cancelado;;;
+PED-0032;07/03/2024;CLI-5863;Cuiabá;RN;Nordeste;Brinquedos;Jogo de Tabuleiro;1;1103,94;1103,94;Facebook Ads;30;10,92;Cancelado;;;
+PED-0033;20/04/2023;CLI-7118;Ribeirão Preto;MS;Centro-Oeste;Esportes;Tapete Yoga;3;1188,31;3564,93;Instagram Ads;0;7,70;Entregue;2;10;Sim
+PED-0034;05/06/2023;CLI-1902;Goiânia;GO;Centro-Oeste;Alimentos;Chocolate;2;1759,57;3519,14;E-mail Marketing;5;25,68;Em Transporte;;;
+PED-0035;19/07/2024;CLI-8656;Campinas;MT;Centro-Oeste;Beleza;Shampoo;3;443,52;1330,56;YouTube Ads;10;38,12;Entregue;4;18;Não
+PED-0036;05/01/2024;CLI-9538;Uberlândia;MT;Centro-Oeste;Alimentos;Chocolate;5;1157,00;5785,00;Orgânico;10;10,54;Entregue;4;9;Não
+PED-0037;02/07/2024;CLI-7543;Fortaleza;AL;Nordeste;Livros;Não-Ficção;4;3046,12;12184,48;YouTube Ads;15;35,36;Em Transporte;;;
+PED-0038;14/08/2024;CLI-9884;Maringá;SC;Sul;Eletrônicos;Tablet;1;1642,90;1642,90;Google Ads;15;38,76;Em Transporte;;;
+PED-0039;10/04/2023;CLI-6997;Aparecida de Goiânia;RJ;Sudeste;Brinquedos;Lego;3;1430,39;4291,17;Facebook Ads;20;30,17;Em Transporte;;;
+PED-0040;22/01/2024;CLI-9265;Ribeirão Preto;SC;Sul;Beleza;Perfume;1;2351,09;2351,09;Facebook Ads;25;37,11;Devolvido;;9;
+PED-0041;27/03/2023;CLI-7296;Porto Velho;PE;Nordeste;Moda;Calça Jeans;3;2547,42;7642,26;YouTube Ads;25;46,76;Entregue;1;19;Não
+PED-0042;26/08/2024;CLI-3787;Recife;PE;Nordeste;Beleza;Perfume;4;145,83;583,32;YouTube Ads;15;17,98;Em Transporte;;;
+PED-0043;20/12/2023;CLI-2362;São José dos Campos;SC;Sul;Brinquedos;Quebra-Cabeça;4;761,65;3046,60;Influenciador;15;38,05;Devolvido;;23;
+PED-0044;23/05/2023;CLI-7589;Londrina;RJ;Sudeste;Livros;Romance;2;1132,25;2264,50;Influenciador;0;32,17;Em Transporte;;;
+PED-0045;19/07/2023;CLI-3661;Florianópolis;MT;Centro-Oeste;Brinquedos;Jogo de Tabuleiro;5;3367,03;16835,15;Orgânico;30;40,80;Processando;;;
+PED-0046;30/03/2024;CLI-1707;Teresina;CE;Nordeste;Casa;Luminária;2;1072,11;2144,22;Influenciador;0;8,57;Em Transporte;;;
+PED-0047;17/05/2024;CLI-1555;Manaus;GO;Centro-Oeste;Eletrônicos;Notebook;3;3423,82;10271,46;Facebook Ads;30;28,66;Devolvido;;17;
+PED-0048;29/11/2023;CLI-3494;São José dos Campos;RR;Norte;Alimentos;Vinho;4;1734,63;6938,52;Facebook Ads;15;46,62;Entregue;4;19;Não
+PED-0049;24/07/2024;CLI-1250;Brasília;MS;Centro-Oeste;Livros;Romance;1;3385,10;3385,10;Facebook Ads;15;49,52;Em Transporte;;;
+PED-0050;04/01/2024;CLI-4025;Osasco;GO;Centro-Oeste;Eletrônicos;Fone Bluetooth;1;1706,43;1706,43;Influenciador;5;3,47;Entregue;4;12;Sim
+PED-0051;02/01/2024;CLI-3431;Curitiba;MA;Nordeste;Alimentos;Chocolate;1;2133,35;2133,35;Influenciador;0;44,81;Devolvido;;16;
+PED-0052;23/02/2024;CLI-7882;Teresina;RR;Norte;Eletrônicos;Smartphone;4;468,52;1874,08;E-mail Marketing;5;35,22;Em Transporte;;;
+PED-0053;17/12/2023;CLI-9829;Cuiabá;SE;Nordeste;Brinquedos;Boneca;5;561,37;2806,85;Influenciador;30;5,14;Entregue;3;16;Sim
+PED-0054;28/12/2023;CLI-7089;Salvador;RS;Sul;Esportes;Tênis Corrida;4;1927,93;7711,72;Orgânico;30;40,83;Cancelado;;;
+PED-0055;25/01/2023;CLI-5763;Manaus;RR;Norte;Moda;Bolsa;5;3175,11;15875,55;Facebook Ads;30;23,59;Devolvido;;15;
+PED-0056;09/09/2024;CLI-8211;Uberlândia;AP;Norte;Brinquedos;Jogo de Tabuleiro;5;3284,62;16423,10;E-mail Marketing;0;42,13;Entregue;4;4;Não
+PED-0057;24/05/2024;CLI-9789;Natal;MA;Nordeste;Esportes;Haltere;1;2325,78;2325,78;YouTube Ads;0;10,98;Em Transporte;;;
+PED-0058;04/02/2024;CLI-9359;Uberlândia;ES;Sudeste;Beleza;Shampoo;1;387,29;387,29;Orgânico;10;43,10;Entregue;1;8;Não
+PED-0059;07/09/2023;CLI-5582;Juiz de Fora;PR;Sul;Esportes;Tapete Yoga;2;3390,37;6780,74;Orgânico;10;16,36;Cancelado;;;
+PED-0060;21/12/2024;CLI-2919;João Pessoa;ES;Sudeste;Esportes;Bola;1;100,46;100,46;Google Ads;30;15,27;Processando;;;
+PED-0061;27/05/2024;CLI-1903;Recife;RN;Nordeste;Casa;Vaso Decorativo;4;824,73;3298,92;TikTok Ads;5;44,50;Em Transporte;;;
+PED-0062;21/11/2023;CLI-1477;Teresina;BA;Nordeste;Esportes;Bola;3;1253,33;3759,99;Facebook Ads;15;9,39;Entregue;1;9;Não
+PED-0063;22/02/2024;CLI-4076;São José dos Campos;RR;Norte;Alimentos;Vinho;5;3409,17;17045,85;YouTube Ads;20;28,76;Entregue;5;13;Não
+PED-0064;23/01/2024;CLI-2799;Campo Grande;AC;Norte;Beleza;Maquiagem;3;2279,14;6837,42;Google Ads;25;43,29;Entregue;3;7;Não
+PED-0065;01/01/2024;CLI-8697;João Pessoa;PI;Nordeste;Alimentos;Vinho;4;254,02;1016,08;Facebook Ads;0;20,89;Processando;;;
+PED-0066;04/08/2023;CLI-7041;Sorocaba;PB;Nordeste;Beleza;Shampoo;4;3142,55;12570,20;E-mail Marketing;15;4,24;Devolvido;;2;
+PED-0067;16/06/2024;CLI-4973;João Pessoa;MS;Centro-Oeste;Brinquedos;Boneca;1;1575,45;1575,45;Facebook Ads;0;47,77;Cancelado;;;
+PED-0068;17/12/2024;CLI-3374;Porto Velho;MT;Centro-Oeste;Brinquedos;Boneca;5;1575,02;7875,10;E-mail Marketing;15;3,62;Devolvido;;24;
+PED-0069;01/12/2024;CLI-3548;São Paulo;MS;Centro-Oeste;Eletrônicos;Fone Bluetooth;4;1284,45;5137,80;Orgânico;25;19,62;Devolvido;;5;
+PED-0070;27/03/2024;CLI-2687;Campinas;AP;Norte;Casa;Organizador;1;392,12;392,12;Instagram Ads;25;17,22;Devolvido;;8;
+PED-0071;20/08/2023;CLI-8360;Feira de Santana;MS;Centro-Oeste;Eletrônicos;Notebook;4;3120,89;12483,56;Instagram Ads;10;12,20;Cancelado;;;
+PED-0072;02/11/2024;CLI-5292;Goiânia;AL;Nordeste;Alimentos;Cesta Orgânica;3;136,54;409,62;E-mail Marketing;10;31,91;Cancelado;;;
+PED-0073;08/11/2023;CLI-4528;Osasco;MS;Centro-Oeste;Moda;Tênis;2;560,73;1121,46;TikTok Ads;10;31,62;Cancelado;;;
+PED-0074;23/03/2024;CLI-9455;Aracaju;AP;Norte;Esportes;Tapete Yoga;2;1697,03;3394,06;Google Ads;15;37,17;Cancelado;;;
+PED-0075;14/01/2024;CLI-2653;Guarulhos;AM;Norte;Beleza;Shampoo;3;3386,13;10158,39;TikTok Ads;25;3,68;Entregue;2;12;Sim
+PED-0076;30/12/2024;CLI-9914;Juiz de Fora;GO;Centro-Oeste;Livros;HQ/Mangá;4;2311,61;9246,44;Influenciador;0;47,60;Processando;;;
+PED-0077;09/04/2024;CLI-6757;Feira de Santana;SP;Sudeste;Eletrônicos;Smartphone;1;411,26;411,26;Facebook Ads;20;42,25;Cancelado;;;
+PED-0078;25/06/2023;CLI-9868;Vitória;PI;Nordeste;Beleza;Perfume;5;559,39;2796,95;Google Ads;30;28,80;Entregue;5;16;Não
+PED-0079;24/08/2024;CLI-1701;Juiz de Fora;PR;Sul;Esportes;Haltere;4;863,22;3452,88;YouTube Ads;10;22,25;Processando;;;
+PED-0080;03/09/2023;CLI-1996;Belo Horizonte;RJ;Sudeste;Beleza;Perfume;4;763,93;3055,72;TikTok Ads;0;21,46;Em Transporte;;;
+PED-0081;07/06/2023;CLI-3401;Londrina;SP;Sudeste;Esportes;Tapete Yoga;1;1663,52;1663,52;Instagram Ads;30;22,08;Entregue;1;25;Não
+PED-0082;12/12/2024;CLI-1427;Brasília;RR;Norte;Beleza;Hidratante;3;2477,68;7433,04;Facebook Ads;5;4,07;Processando;;;
+PED-0083;09/08/2023;CLI-1781;Ribeirão Preto;ES;Sudeste;Beleza;Shampoo;2;763,17;1526,34;Orgânico;25;7,21;Devolvido;;9;
+PED-0084;26/05/2023;CLI-5144;São Paulo;TO;Norte;Eletrônicos;Smartphone;4;987,55;3950,20;Instagram Ads;20;30,86;Cancelado;;;
+PED-0085;08/12/2024;CLI-5291;Joinville;ES;Sudeste;Beleza;Hidratante;2;1408,44;2816,88;Google Ads;30;21,31;Processando;;;
+PED-0086;19/01/2023;CLI-6677;Santos;AC;Norte;Livros;Não-Ficção;3;3376,89;10130,67;Orgânico;0;28,07;Cancelado;;;
+PED-0087;24/05/2024;CLI-8263;Curitiba;AC;Norte;Eletrônicos;Notebook;4;1201,76;4807,04;YouTube Ads;25;46,12;Devolvido;;22;
+PED-0088;23/05/2024;CLI-9931;Recife;AM;Norte;Alimentos;Kit Fitness;5;187,77;938,85;Orgânico;10;37,13;Processando;;;
+PED-0089;22/03/2024;CLI-7214;Vitória;DF;Centro-Oeste;Alimentos;Cesta Orgânica;4;765,34;3061,36;YouTube Ads;5;35,70;Devolvido;;5;
+PED-0090;21/04/2024;CLI-6821;Sorocaba;RS;Sul;Beleza;Perfume;5;3031,79;15158,95;Facebook Ads;10;3,71;Em Transporte;;;
+PED-0091;13/09/2023;CLI-7214;Salvador;PB;Nordeste;Casa;Vaso Decorativo;3;3366,44;10099,32;Instagram Ads;5;49,35;Em Transporte;;;
+PED-0092;19/05/2023;CLI-6362;Natal;MA;Nordeste;Alimentos;Chocolate;5;1418,09;7090,45;E-mail Marketing;5;18,96;Processando;;;
+PED-0093;16/04/2023;CLI-8902;Porto Velho;RJ;Sudeste;Alimentos;Chocolate;2;26,65;53,30;Orgânico;0;15,70;Processando;;;
+PED-0094;28/07/2024;CLI-5237;Natal;RJ;Sudeste;Alimentos;Cesta Orgânica;5;912,82;4564,10;Orgânico;30;5,32;Devolvido;;16;
+PED-0095;16/01/2024;CLI-7344;Aparecida de Goiânia;RO;Norte;Esportes;Tênis Corrida;3;2239,15;6717,45;Orgânico;10;39,55;Entregue;5;17;Sim
+PED-0096;06/09/2024;CLI-1887;Juiz de Fora;AP;Norte;Livros;Técnico;1;2330,82;2330,82;Orgânico;0;40,78;Em Transporte;;;
+PED-0097;07/11/2024;CLI-6810;Porto Velho;RO;Norte;Casa;Vaso Decorativo;3;2379,98;7139,94;Google Ads;20;35,14;Processando;;;
+PED-0098;15/12/2023;CLI-6227;Brasília;MA;Nordeste;Livros;HQ/Mangá;2;3451,81;6903,62;Instagram Ads;0;18,93;Entregue;3;20;Não
+PED-0099;16/02/2023;CLI-6314;Manaus;MG;Sudeste;Brinquedos;Lego;4;2075,81;8303,24;YouTube Ads;0;29,81;Devolvido;;15;
+PED-0100;28/11/2024;CLI-4600;Recife;MA;Nordeste;Moda;Calça Jeans;3;2767,54;8302,62;Influenciador;25;2,02;Entregue;2;2;Não
+PED-0101;11/12/2023;CLI-2034;Florianópolis;PB;Nordeste;Casa;Luminária;2;891,65;1783,30;Facebook Ads;0;17,53;Devolvido;;5;
+PED-0102;18/03/2024;CLI-4326;Maringá;SE;Nordeste;Alimentos;Chocolate;5;1149,60;5748,00;TikTok Ads;0;18,12;Em Transporte;;;
+PED-0103;22/01/2024;CLI-3522;Aracaju;PA;Norte;Alimentos;Kit Fitness;3;1833,57;5500,71;Facebook Ads;0;5,45;Entregue;4;2;Não
+PED-0104;28/06/2024;CLI-3056;Curitiba;AM;Norte;Brinquedos;Carrinho;3;852,85;2558,55;TikTok Ads;0;19,80;Cancelado;;;
+PED-0105;23/05/2023;CLI-5326;Sorocaba;RR;Norte;Livros;Romance;4;2765,35;11061,40;Facebook Ads;5;30,85;Em Transporte;;;
+PED-0106;29/12/2023;CLI-9910;Feira de Santana;PR;Sul;Moda;Calça Jeans;2;2284,54;4569,08;Instagram Ads;30;17,68;Em Transporte;;;
+PED-0107;29/10/2024;CLI-9457;Maringá;AC;Norte;Eletrônicos;Fone Bluetooth;4;1647,87;6591,48;Facebook Ads;5;32,35;Cancelado;;;
+PED-0108;11/11/2024;CLI-4390;Belo Horizonte;MT;Centro-Oeste;Eletrônicos;Fone Bluetooth;3;1897,19;5691,57;Facebook Ads;30;44,17;Entregue;1;18;Não
+PED-0109;28/11/2023;CLI-8919;Feira de Santana;PB;Nordeste;Brinquedos;Lego;3;352,24;1056,72;Influenciador;30;12,66;Em Transporte;;;
+PED-0110;30/09/2024;CLI-5338;Campinas;BA;Nordeste;Moda;Tênis;5;1482,52;7412,60;Instagram Ads;5;37,50;Em Transporte;;;
+PED-0111;22/02/2023;CLI-8913;Maceió;SC;Sul;Beleza;Protetor Solar;1;3452,05;3452,05;E-mail Marketing;15;27,97;Devolvido;;16;
+PED-0112;06/12/2023;CLI-9775;Teresina;RS;Sul;Eletrônicos;Smartphone;5;1679,47;8397,35;E-mail Marketing;30;17,27;Processando;;;
+PED-0113;09/06/2023;CLI-9059;Salvador;RR;Norte;Livros;Técnico;2;2583,13;5166,26;TikTok Ads;25;39,64;Cancelado;;;
+PED-0114;27/02/2023;CLI-5768;São Luís;MA;Nordeste;Esportes;Tênis Corrida;3;1411,43;4234,29;Facebook Ads;0;48,99;Devolvido;;3;
+PED-0115;22/02/2024;CLI-3480;Maceió;AL;Nordeste;Casa;Organizador;5;3416,66;17083,30;Facebook Ads;10;34,45;Em Transporte;;;
+PED-0116;15/02/2023;CLI-3103;Uberlândia;BA;Nordeste;Livros;HQ/Mangá;3;591,69;1775,07;TikTok Ads;5;15,64;Cancelado;;;
+PED-0117;27/06/2024;CLI-4654;Recife;MT;Centro-Oeste;Casa;Almofada;5;763,79;3818,95;Facebook Ads;0;24,43;Devolvido;;18;
+PED-0118;06/01/2024;CLI-2581;Teresina;MS;Centro-Oeste;Eletrônicos;Tablet;3;935,92;2807,76;Facebook Ads;5;46,44;Cancelado;;;
+PED-0119;14/07/2024;CLI-8055;Osasco;PI;Nordeste;Eletrônicos;Smartphone;1;1198,37;1198,37;TikTok Ads;10;5,76;Em Transporte;;;
+PED-0120;17/04/2024;CLI-8564;Rio de Janeiro;RO;Norte;Moda;Tênis;2;1801,92;3603,84;Instagram Ads;0;35,94;Cancelado;;;
+PED-0121;18/02/2024;CLI-4324;Florianópolis;PI;Nordeste;Livros;Não-Ficção;1;2749,55;2749,55;Facebook Ads;0;6,13;Processando;;;
+PED-0122;25/12/2024;CLI-3753;Salvador;PB;Nordeste;Brinquedos;Lego;3;2953,23;8859,69;YouTube Ads;5;49,90;Devolvido;;12;
+PED-0123;16/07/2023;CLI-4593;Campinas;SE;Nordeste;Livros;HQ/Mangá;3;1587,45;4762,35;Instagram Ads;15;19,50;Entregue;2;24;Sim
+PED-0124;01/07/2024;CLI-5265;Vitória;CE;Nordeste;Alimentos;Vinho;2;803,96;1607,92;Orgânico;30;36,52;Devolvido;;19;
+PED-0125;05/05/2024;CLI-1808;Joinville;TO;Norte;Casa;Vaso Decorativo;5;51,66;258,30;YouTube Ads;10;10,26;Em Transporte;;;
+PED-0126;01/07/2024;CLI-2371;Porto Velho;RN;Nordeste;Brinquedos;Jogo de Tabuleiro;1;1576,10;1576,10;E-mail Marketing;25;42,74;Cancelado;;;
+PED-0127;23/12/2023;CLI-2879;Campinas;TO;Norte;Livros;Técnico;4;2477,19;9908,76;Influenciador;5;6,95;Processando;;;
+PED-0128;15/04/2024;CLI-6600;São Luís;RR;Norte;Beleza;Shampoo;4;1970,73;7882,92;TikTok Ads;0;3,34;Em Transporte;;;
+PED-0129;14/12/2023;CLI-7522;Maringá;PE;Nordeste;Casa;Quadro;5;2589,28;12946,40;TikTok Ads;30;38,72;Cancelado;;;
+PED-0130;20/03/2024;CLI-9466;Aparecida de Goiânia;PI;Nordeste;Alimentos;Chocolate;2;3441,53;6883,06;YouTube Ads;20;48,14;Entregue;3;12;Não
+PED-0131;10/02/2023;CLI-9920;Guarulhos;SP;Sudeste;Esportes;Tênis Corrida;3;24,88;74,64;TikTok Ads;5;27,69;Processando;;;
+PED-0132;29/11/2023;CLI-6300;João Pessoa;MA;Nordeste;Esportes;Garrafa Térmica;5;2912,04;14560,20;YouTube Ads;0;28,87;Devolvido;;17;
+PED-0133;03/08/2024;CLI-9666;Recife;BA;Nordeste;Moda;Camiseta;5;1120,06;5600,30;Influenciador;10;40,87;Processando;;;
+PED-0134;11/10/2024;CLI-3673;Cuiabá;PB;Nordeste;Alimentos;Kit Fitness;1;2876,25;2876,25;Influenciador;5;15,96;Devolvido;;7;
+PED-0135;03/03/2023;CLI-9665;São Paulo;AL;Nordeste;Eletrônicos;Smartphone;2;2421,60;4843,20;Facebook Ads;0;38,53;Devolvido;;9;
+PED-0136;23/04/2023;CLI-3848;Osasco;RS;Sul;Eletrônicos;Smartphone;5;326,96;1634,80;E-mail Marketing;0;6,94;Entregue;4;22;Não
+PED-0137;31/08/2024;CLI-5973;João Pessoa;SP;Sudeste;Brinquedos;Jogo de Tabuleiro;4;3326,40;13305,60;Instagram Ads;5;20,28;Processando;;;
+PED-0138;01/02/2024;CLI-5661;Belo Horizonte;PR;Sul;Alimentos;Chocolate;5;1372,66;6863,30;Facebook Ads;25;43,37;Cancelado;;;
+PED-0139;10/12/2023;CLI-6966;Florianópolis;SP;Sudeste;Esportes;Garrafa Térmica;1;1464,41;1464,41;Google Ads;30;25,01;Cancelado;;;
+PED-0140;15/11/2023;CLI-1075;Londrina;AM;Norte;Casa;Quadro;5;2170,78;10853,90;YouTube Ads;0;5,47;Devolvido;;23;
+PED-0141;12/03/2024;CLI-3354;Brasília;MT;Centro-Oeste;Brinquedos;Boneca;1;977,15;977,15;Google Ads;10;37,08;Entregue;3;5;Não
+PED-0142;09/01/2024;CLI-3773;Florianópolis;DF;Centro-Oeste;Casa;Almofada;1;1945,79;1945,79;Facebook Ads;5;34,14;Cancelado;;;
+PED-0143;12/09/2024;CLI-4951;Brasília;SE;Nordeste;Eletrônicos;Smartphone;1;3307,50;3307,50;Instagram Ads;15;37,63;Entregue;4;5;Não
+PED-0144;24/09/2023;CLI-5267;Niterói;SC;Sul;Brinquedos;Carrinho;5;2276,30;11381,50;Instagram Ads;25;27,49;Processando;;;
+PED-0145;14/02/2023;CLI-9716;Belém;MG;Sudeste;Moda;Tênis;3;544,41;1633,23;Instagram Ads;0;29,59;Processando;;;
+PED-0146;04/06/2024;CLI-9979;Belo Horizonte;RR;Norte;Esportes;Tênis Corrida;1;2091,32;2091,32;Facebook Ads;30;49,72;Entregue;1;4;Não
+PED-0147;11/09/2024;CLI-2870;Aparecida de Goiânia;SC;Sul;Brinquedos;Carrinho;1;2731,62;2731,62;Orgânico;15;11,20;Cancelado;;;
+PED-0148;29/04/2024;CLI-9304;Porto Alegre;AP;Norte;Brinquedos;Boneca;5;2773,79;13868,95;Facebook Ads;15;18,16;Entregue;3;14;Não
+PED-0149;18/10/2024;CLI-3621;Rio de Janeiro;BA;Nordeste;Esportes;Haltere;4;1076,67;4306,68;Instagram Ads;20;29,03;Cancelado;;;
+PED-0150;28/05/2023;CLI-6569;Belém;RO;Norte;Casa;Organizador;2;2435,43;4870,86;Google Ads;15;7,66;Cancelado;;;
+PED-0151;28/06/2024;CLI-5780;São Luís;CE;Nordeste;Moda;Calça Jeans;4;3026,71;12106,84;Google Ads;30;24,71;Em Transporte;;;
+PED-0152;09/10/2023;CLI-5104;Curitiba;GO;Centro-Oeste;Alimentos;Chocolate;2;653,89;1307,78;YouTube Ads;15;16,04;Processando;;;
+PED-0153;13/08/2023;CLI-1411;Florianópolis;AC;Norte;Alimentos;Vinho;5;1947,24;9736,20;Influenciador;20;7,52;Cancelado;;;
+PED-0154;15/05/2024;CLI-3740;Natal;SE;Nordeste;Casa;Organizador;5;3316,74;16583,70;YouTube Ads;25;13,24;Entregue;1;25;Não
+PED-0155;09/08/2024;CLI-7971;Campo Grande;PA;Norte;Eletrônicos;Smartphone;4;1041,07;4164,28;Instagram Ads;10;42,43;Devolvido;;1;
+PED-0156;23/03/2023;CLI-5762;Fortaleza;MT;Centro-Oeste;Livros;Romance;1;2664,69;2664,69;Facebook Ads;30;24,38;Cancelado;;;
+PED-0157;26/04/2024;CLI-9439;Porto Velho;AP;Norte;Casa;Almofada;3;2911,25;8733,75;YouTube Ads;25;19,13;Devolvido;;20;
+PED-0158;21/02/2023;CLI-2396;Brasília;RN;Nordeste;Alimentos;Chocolate;2;828,27;1656,54;Instagram Ads;20;9,42;Processando;;;
+PED-0159;20/03/2024;CLI-4481;Belo Horizonte;PB;Nordeste;Eletrônicos;Smartphone;2;2734,98;5469,96;Facebook Ads;25;37,42;Processando;;;
+PED-0160;13/09/2024;CLI-8307;São José dos Campos;AL;Nordeste;Beleza;Hidratante;2;819,60;1639,20;TikTok Ads;15;28,58;Cancelado;;;
+PED-0161;30/06/2024;CLI-7578;Campo Grande;SP;Sudeste;Moda;Bolsa;1;1136,74;1136,74;Google Ads;10;44,10;Entregue;4;4;Não
+PED-0162;04/03/2024;CLI-1671;Recife;AL;Nordeste;Livros;Autoajuda;4;600,01;2400,04;Orgânico;0;38,47;Entregue;2;19;Não
+PED-0163;26/08/2023;CLI-1182;Campinas;TO;Norte;Moda;Camiseta;3;2989,66;8968,98;TikTok Ads;0;38,98;Devolvido;;25;
+PED-0164;20/08/2024;CLI-2867;São Paulo;PB;Nordeste;Alimentos;Kit Fitness;2;2836,01;5672,02;Instagram Ads;25;42,00;Entregue;3;6;Não
+PED-0165;14/08/2023;CLI-9819;Porto Alegre;RS;Sul;Casa;Organizador;3;3024,24;9072,72;Influenciador;0;48,47;Cancelado;;;
+PED-0166;04/09/2023;CLI-9951;Teresina;AM;Norte;Eletrônicos;Notebook;3;119,52;358,56;YouTube Ads;20;9,18;Devolvido;;1;
+PED-0167;07/12/2024;CLI-7504;Santos;MS;Centro-Oeste;Esportes;Tapete Yoga;1;3084,38;3084,38;E-mail Marketing;0;31,13;Em Transporte;;;
+PED-0168;27/03/2024;CLI-8857;João Pessoa;AL;Nordeste;Moda;Relógio;3;616,28;1848,84;Instagram Ads;20;6,54;Entregue;3;7;Não
+PED-0169;25/12/2024;CLI-1136;São Paulo;MG;Sudeste;Casa;Almofada;1;3300,57;3300,57;Google Ads;15;45,26;Processando;;;
+PED-0170;23/05/2023;CLI-8694;Uberlândia;DF;Centro-Oeste;Esportes;Haltere;4;2464,14;9856,56;E-mail Marketing;15;21,19;Cancelado;;;
+PED-0171;30/05/2023;CLI-8089;Joinville;SC;Sul;Esportes;Tênis Corrida;5;1940,01;9700,05;E-mail Marketing;20;36,19;Entregue;5;20;Não
+PED-0172;05/04/2024;CLI-8245;Maceió;PB;Nordeste;Alimentos;Cesta Orgânica;1;1508,41;1508,41;Influenciador;10;39,03;Devolvido;;6;
+PED-0173;21/10/2023;CLI-6220;Londrina;TO;Norte;Esportes;Haltere;1;2921,41;2921,41;Influenciador;10;30,69;Devolvido;;2;
+PED-0174;23/06/2024;CLI-7712;Belo Horizonte;SE;Nordeste;Esportes;Tênis Corrida;5;2020,49;10102,45;Google Ads;0;27,97;Entregue;3;25;Sim
+PED-0175;11/03/2024;CLI-9949;Sorocaba;DF;Centro-Oeste;Alimentos;Vinho;5;1048,64;5243,20;TikTok Ads;0;25,81;Entregue;2;10;Sim
+PED-0176;22/07/2023;CLI-2514;Porto Velho;PR;Sul;Livros;Técnico;1;2250,16;2250,16;Facebook Ads;0;30,60;Processando;;;
+PED-0177;11/07/2024;CLI-9421;Goiânia;RN;Nordeste;Livros;HQ/Mangá;2;1601,35;3202,70;YouTube Ads;10;37,37;Devolvido;;25;
+PED-0178;11/05/2024;CLI-9684;Aparecida de Goiânia;RO;Norte;Eletrônicos;Smartphone;5;3277,54;16387,70;Instagram Ads;5;10,17;Cancelado;;;
+PED-0179;13/05/2023;CLI-2686;Curitiba;RO;Norte;Casa;Organizador;2;3489,41;6978,82;Google Ads;15;44,10;Cancelado;;;
+PED-0180;09/10/2024;CLI-5809;São Paulo;PB;Nordeste;Casa;Luminária;1;2977,76;2977,76;Facebook Ads;5;15,97;Devolvido;;13;
+PED-0181;08/04/2024;CLI-6783;Santos;AM;Norte;Moda;Calça Jeans;5;681,12;3405,60;Influenciador;10;2,18;Processando;;;
+PED-0182;10/08/2023;CLI-7592;Campinas;DF;Centro-Oeste;Livros;Autoajuda;4;3286,96;13147,84;Influenciador;30;23,71;Processando;;;
+PED-0183;10/05/2024;CLI-9074;Porto Velho;AM;Norte;Casa;Vaso Decorativo;4;1270,68;5082,72;Orgânico;5;15,56;Entregue;1;2;Sim
+PED-0184;24/02/2024;CLI-1577;Rio de Janeiro;TO;Norte;Esportes;Bola;5;3407,22;17036,10;E-mail Marketing;25;20,35;Em Transporte;;;
+PED-0185;06/02/2023;CLI-7711;Porto Velho;TO;Norte;Alimentos;Café Especial;1;2964,18;2964,18;Google Ads;0;4,60;Devolvido;;9;
+PED-0186;10/01/2024;CLI-2856;Ribeirão Preto;RS;Sul;Beleza;Maquiagem;4;1612,70;6450,80;Facebook Ads;0;5,29;Entregue;4;2;Não
+PED-0187;25/08/2023;CLI-1098;São José dos Campos;MT;Centro-Oeste;Brinquedos;Boneca;4;167,84;671,36;Facebook Ads;5;41,94;Cancelado;;;
+PED-0188;12/01/2024;CLI-6776;Recife;RJ;Sudeste;Livros;Romance;2;3431,11;6862,22;Instagram Ads;5;32,29;Devolvido;;14;
+PED-0189;08/12/2023;CLI-1700;Feira de Santana;AC;Norte;Moda;Bolsa;1;2854,41;2854,41;Influenciador;25;28,45;Cancelado;;;
+PED-0190;05/09/2024;CLI-1607;Natal;MT;Centro-Oeste;Brinquedos;Quebra-Cabeça;5;971,89;4859,45;Facebook Ads;15;31,52;Cancelado;;;
+PED-0191;16/03/2023;CLI-3872;São Paulo;AL;Nordeste;Esportes;Haltere;1;1115,68;1115,68;Instagram Ads;15;11,07;Devolvido;;11;
+PED-0192;20/03/2024;CLI-9302;Cuiabá;SC;Sul;Alimentos;Vinho;4;2875,32;11501,28;Orgânico;15;38,78;Entregue;2;15;Sim
+PED-0193;22/09/2024;CLI-2590;Fortaleza;PB;Nordeste;Esportes;Haltere;4;391,49;1565,96;Influenciador;0;8,23;Cancelado;;;
+PED-0194;26/09/2023;CLI-1614;Natal;PE;Nordeste;Beleza;Maquiagem;3;2245,76;6737,28;YouTube Ads;25;46,59;Processando;;;
+PED-0195;16/05/2023;CLI-6630;Teresina;AP;Norte;Beleza;Hidratante;1;1004,50;1004,50;TikTok Ads;0;47,31;Devolvido;;18;
+PED-0196;19/03/2023;CLI-5666;Campinas;RN;Nordeste;Beleza;Shampoo;3;2905,32;8715,96;YouTube Ads;15;22,12;Cancelado;;;
+PED-0197;03/01/2023;CLI-6574;Teresina;PR;Sul;Alimentos;Cesta Orgânica;3;2807,41;8422,23;Influenciador;10;4,09;Processando;;;
+PED-0198;03/03/2024;CLI-8862;São José dos Campos;BA;Nordeste;Beleza;Protetor Solar;2;3229,51;6459,02;YouTube Ads;15;36,37;Em Transporte;;;
+PED-0199;10/10/2024;CLI-4321;Joinville;RO;Norte;Esportes;Bola;3;2211,00;6633,00;YouTube Ads;0;39,34;Cancelado;;;
+PED-0200;07/05/2024;CLI-4814;Belém;BA;Nordeste;Beleza;Protetor Solar;1;703,10;703,10;Facebook Ads;15;9,11;Entregue;2;18;Não
+PED-0201;03/11/2024;CLI-4983;João Pessoa;SC;Sul;Eletrônicos;Notebook;4;641,57;2566,28;Influenciador;25;7,75;Cancelado;;;
+PED-0202;04/06/2023;CLI-3099;João Pessoa;BA;Nordeste;Beleza;Hidratante;4;1614,85;6459,40;Influenciador;5;42,47;Entregue;5;5;Não
+PED-0203;24/11/2024;CLI-1416;Joinville;MS;Centro-Oeste;Moda;Bolsa;2;277,47;554,94;Facebook Ads;25;1,28;Entregue;2;10;Não
+PED-0204;14/07/2023;CLI-7994;Salvador;DF;Centro-Oeste;Alimentos;Café Especial;5;506,32;2531,60;Facebook Ads;20;39,75;Devolvido;;23;
+PED-0205;02/01/2024;CLI-9588;Natal;RJ;Sudeste;Brinquedos;Jogo de Tabuleiro;3;2768,62;8305,86;Instagram Ads;0;40,02;Processando;;;
+PED-0206;04/08/2023;CLI-2776;São Luís;PE;Nordeste;Alimentos;Chocolate;3;1310,87;3932,61;E-mail Marketing;0;11,39;Cancelado;;;
+PED-0207;13/06/2024;CLI-7870;Goiânia;MG;Sudeste;Livros;Romance;2;2938,95;5877,90;Influenciador;0;44,45;Cancelado;;;
+PED-0208;22/07/2024;CLI-7243;Salvador;AM;Norte;Eletrônicos;Smartphone;4;2320,74;9282,96;Instagram Ads;0;0,06;Cancelado;;;
+PED-0209;27/11/2024;CLI-3699;Curitiba;RN;Nordeste;Beleza;Shampoo;4;2436,58;9746,32;Google Ads;30;9,68;Entregue;2;12;Não
+PED-0210;13/12/2024;CLI-7423;Fortaleza;GO;Centro-Oeste;Casa;Luminária;4;456,78;1827,12;Orgânico;0;7,72;Processando;;;
+PED-0211;29/08/2024;CLI-9486;Feira de Santana;RJ;Sudeste;Beleza;Maquiagem;2;383,61;767,22;YouTube Ads;0;32,87;Cancelado;;;
+PED-0212;10/05/2023;CLI-3479;Guarulhos;AM;Norte;Casa;Quadro;3;329,20;987,60;Influenciador;5;22,98;Devolvido;;12;
+PED-0213;24/11/2024;CLI-6884;Aparecida de Goiânia;TO;Norte;Casa;Organizador;2;2649,31;5298,62;Orgânico;5;15,87;Cancelado;;;
+PED-0214;12/12/2024;CLI-8282;Aracaju;RJ;Sudeste;Livros;HQ/Mangá;4;618,29;2473,16;Instagram Ads;25;32,93;Processando;;;
+PED-0215;13/04/2024;CLI-6372;Belém;PE;Nordeste;Casa;Quadro;1;1566,56;1566,56;Instagram Ads;25;6,61;Cancelado;;;
+PED-0216;10/07/2024;CLI-6857;Manaus;BA;Nordeste;Esportes;Tapete Yoga;1;1521,97;1521,97;YouTube Ads;5;2,61;Em Transporte;;;
+PED-0217;21/07/2024;CLI-9454;São José dos Campos;MA;Nordeste;Alimentos;Café Especial;1;1829,78;1829,78;Instagram Ads;5;20,33;Cancelado;;;
+PED-0218;15/09/2024;CLI-2296;João Pessoa;AC;Norte;Alimentos;Cesta Orgânica;5;2933,94;14669,70;Instagram Ads;20;44,58;Cancelado;;;
+PED-0219;09/12/2023;CLI-7226;Porto Alegre;RJ;Sudeste;Brinquedos;Jogo de Tabuleiro;3;2064,43;6193,29;E-mail Marketing;15;5,78;Devolvido;;6;
+PED-0220;27/04/2023;CLI-9369;Aracaju;SC;Sul;Moda;Tênis;3;2210,40;6631,20;E-mail Marketing;15;38,23;Processando;;;
+PED-0221;01/11/2024;CLI-8395;Aracaju;TO;Norte;Beleza;Shampoo;3;1632,81;4898,43;E-mail Marketing;25;48,72;Processando;;;
+PED-0222;25/06/2023;CLI-9091;Osasco;PA;Norte;Moda;Camiseta;2;369,81;739,62;YouTube Ads;25;37,99;Entregue;3;24;Sim
+PED-0223;03/03/2024;CLI-6994;São Paulo;GO;Centro-Oeste;Brinquedos;Lego;5;1572,12;7860,60;Instagram Ads;15;2,13;Entregue;1;14;Não
+PED-0224;21/12/2024;CLI-7422;Natal;RS;Sul;Livros;Técnico;1;1262,79;1262,79;Google Ads;5;42,95;Entregue;5;15;Não
+PED-0225;06/06/2023;CLI-9822;Vitória;SC;Sul;Alimentos;Kit Fitness;5;2193,30;10966,50;Google Ads;20;38,76;Em Transporte;;;
+PED-0226;09/06/2024;CLI-1248;Aracaju;RO;Norte;Beleza;Maquiagem;4;1170,58;4682,32;E-mail Marketing;5;14,63;Entregue;2;1;Não
+PED-0227;11/01/2023;CLI-4703;Belo Horizonte;PI;Nordeste;Livros;Técnico;2;827,24;1654,48;Orgânico;10;37,95;Devolvido;;25;
+PED-0228;31/08/2023;CLI-9216;Maringá;MT;Centro-Oeste;Alimentos;Café Especial;5;2146,62;10733,10;YouTube Ads;10;35,74;Devolvido;;11;
+PED-0229;27/10/2023;CLI-9004;Londrina;GO;Centro-Oeste;Alimentos;Café Especial;1;2332,71;2332,71;Google Ads;15;43,79;Processando;;;
+PED-0230;25/12/2024;CLI-1875;Brasília;PA;Norte;Beleza;Maquiagem;5;1748,42;8742,10;Facebook Ads;15;19,73;Entregue;2;11;Não
+PED-0231;20/01/2023;CLI-1206;Cuiabá;TO;Norte;Esportes;Bola;2;2269,66;4539,32;Orgânico;15;49,06;Processando;;;
+PED-0232;11/03/2023;CLI-6974;Campo Grande;AC;Norte;Moda;Bolsa;4;1036,34;4145,36;Influenciador;0;9,57;Cancelado;;;
+PED-0233;07/10/2023;CLI-5167;Manaus;MT;Centro-Oeste;Beleza;Perfume;3;2755,65;8266,95;Facebook Ads;10;16,25;Entregue;2;22;Não
+PED-0234;09/11/2024;CLI-5518;São Paulo;AC;Norte;Beleza;Shampoo;4;1238,39;4953,56;TikTok Ads;0;19,63;Devolvido;;14;
+PED-0235;10/10/2023;CLI-4221;Rio de Janeiro;PA;Norte;Brinquedos;Boneca;5;1706,57;8532,85;Google Ads;5;23,83;Processando;;;
+PED-0236;25/03/2024;CLI-4160;Porto Velho;CE;Nordeste;Moda;Relógio;3;1791,92;5375,76;YouTube Ads;30;45,11;Cancelado;;;
+PED-0237;07/12/2023;CLI-6205;São José dos Campos;MA;Nordeste;Moda;Camiseta;4;1335,43;5341,72;YouTube Ads;10;32,49;Devolvido;;10;
+PED-0238;02/07/2023;CLI-4040;Fortaleza;RJ;Sudeste;Moda;Tênis;2;356,88;713,76;Google Ads;30;2,30;Devolvido;;4;
+PED-0239;13/10/2024;CLI-1734;Porto Alegre;RS;Sul;Eletrônicos;Notebook;2;1006,62;2013,24;Instagram Ads;20;2,03;Devolvido;;3;
+PED-0240;16/07/2024;CLI-4733;Rio de Janeiro;ES;Sudeste;Alimentos;Chocolate;5;2041,67;10208,35;Facebook Ads;10;7,97;Cancelado;;;
+PED-0241;13/02/2023;CLI-1900;Sorocaba;PE;Nordeste;Casa;Vaso Decorativo;5;739,92;3699,60;Facebook Ads;10;8,52;Cancelado;;;
+PED-0242;18/04/2023;CLI-2597;Salvador;RS;Sul;Eletrônicos;Notebook;2;2991,72;5983,44;Facebook Ads;25;11,23;Cancelado;;;
+PED-0243;11/12/2023;CLI-4456;Teresina;CE;Nordeste;Moda;Camiseta;3;1301,62;3904,86;Facebook Ads;0;30,57;Em Transporte;;;
+PED-0244;06/05/2023;CLI-1713;São Luís;AL;Nordeste;Livros;Não-Ficção;4;86,35;345,40;Orgânico;15;36,52;Processando;;;
+PED-0245;15/10/2024;CLI-5484;Teresina;SP;Sudeste;Eletrônicos;Fone Bluetooth;2;1793,31;3586,62;Google Ads;30;44,83;Cancelado;;;
+PED-0246;03/01/2024;CLI-5476;Belo Horizonte;MT;Centro-Oeste;Livros;Técnico;5;1323,04;6615,20;Orgânico;15;15,82;Devolvido;;10;
+PED-0247;05/02/2024;CLI-6982;Rio de Janeiro;PR;Sul;Casa;Almofada;1;2845,16;2845,16;E-mail Marketing;15;5,39;Entregue;4;5;Sim
+PED-0248;11/06/2024;CLI-5881;Natal;PI;Nordeste;Beleza;Maquiagem;4;2648,78;10595,12;E-mail Marketing;0;49,79;Processando;;;
+PED-0249;05/01/2023;CLI-9608;Curitiba;AL;Nordeste;Casa;Vaso Decorativo;2;829,73;1659,46;E-mail Marketing;10;7,09;Devolvido;;3;
+PED-0250;30/08/2024;CLI-4989;Rio de Janeiro;AC;Norte;Casa;Luminária;4;2151,42;8605,68;TikTok Ads;15;22,28;Processando;;;
+PED-0251;23/11/2023;CLI-9665;Belo Horizonte;AC;Norte;Moda;Bolsa;3;1078,48;3235,44;Facebook Ads;30;2,08;Devolvido;;6;
+PED-0252;04/09/2023;CLI-1386;Feira de Santana;SE;Nordeste;Esportes;Garrafa Térmica;4;1537,56;6150,24;Facebook Ads;30;25,57;Em Transporte;;;
+PED-0253;21/12/2023;CLI-9355;Natal;DF;Centro-Oeste;Esportes;Bola;4;1524,20;6096,80;Influenciador;0;12,27;Entregue;2;20;Não
+PED-0254;09/09/2024;CLI-4529;Rio de Janeiro;MS;Centro-Oeste;Moda;Calça Jeans;4;240,21;960,84;Facebook Ads;0;46,49;Processando;;;
+PED-0255;26/09/2023;CLI-5334;Santos;MT;Centro-Oeste;Casa;Organizador;5;1965,12;9825,60;TikTok Ads;20;6,73;Cancelado;;;
+PED-0256;07/08/2023;CLI-1950;Teresina;AL;Nordeste;Alimentos;Chocolate;2;1226,80;2453,60;Instagram Ads;20;19,23;Entregue;1;7;Não
+PED-0257;13/06/2023;CLI-5679;Curitiba;MS;Centro-Oeste;Esportes;Haltere;4;2178,32;8713,28;Influenciador;0;34,90;Cancelado;;;
+PED-0258;12/12/2024;CLI-1100;Recife;CE;Nordeste;Eletrônicos;Tablet;2;1808,38;3616,76;Instagram Ads;0;47,31;Devolvido;;7;
+PED-0259;01/10/2023;CLI-9104;São Paulo;AM;Norte;Alimentos;Kit Fitness;3;434,43;1303,29;E-mail Marketing;15;6,61;Em Transporte;;;
+PED-0260;04/10/2024;CLI-7849;Campinas;AM;Norte;Brinquedos;Carrinho;1;1994,58;1994,58;E-mail Marketing;0;5,58;Entregue;1;4;Não
+PED-0261;27/09/2024;CLI-5827;Ribeirão Preto;RJ;Sudeste;Eletrônicos;Fone Bluetooth;4;1663,01;6652,04;Influenciador;25;12,98;Processando;;;
+PED-0262;02/03/2023;CLI-9161;Porto Velho;AM;Norte;Esportes;Bola;3;663,09;1989,27;Facebook Ads;0;20,88;Em Transporte;;;
+PED-0263;12/08/2023;CLI-5481;Salvador;AM;Norte;Alimentos;Cesta Orgânica;2;767,99;1535,98;Facebook Ads;10;29,94;Em Transporte;;;
+PED-0264;01/05/2024;CLI-4176;Niterói;AP;Norte;Brinquedos;Quebra-Cabeça;5;1035,45;5177,25;E-mail Marketing;20;27,12;Devolvido;;10;
+PED-0265;27/10/2024;CLI-5401;São José dos Campos;MT;Centro-Oeste;Beleza;Perfume;2;949,15;1898,30;Facebook Ads;30;43,14;Cancelado;;;
+PED-0266;26/09/2024;CLI-2755;Santos;MA;Nordeste;Brinquedos;Lego;3;1521,89;4565,67;Orgânico;0;47,97;Entregue;1;25;Não
+PED-0267;26/08/2024;CLI-2287;Guarulhos;ES;Sudeste;Brinquedos;Lego;5;2231,09;11155,45;YouTube Ads;5;49,15;Em Transporte;;;
+PED-0268;23/04/2023;CLI-7349;Maceió;AP;Norte;Livros;HQ/Mangá;4;2723,00;10892,00;Facebook Ads;20;23,10;Em Transporte;;;
+PED-0269;25/12/2023;CLI-6363;Curitiba;ES;Sudeste;Alimentos;Kit Fitness;5;850,32;4251,60;Google Ads;0;48,44;Devolvido;;20;
+PED-0270;29/11/2024;CLI-5625;Cuiabá;BA;Nordeste;Alimentos;Cesta Orgânica;2;1091,19;2182,38;E-mail Marketing;15;32,77;Entregue;1;10;Sim
+PED-0271;25/06/2023;CLI-8371;Aparecida de Goiânia;AM;Norte;Eletrônicos;Notebook;4;2164,54;8658,16;YouTube Ads;15;44,00;Em Transporte;;;
+PED-0272;03/06/2024;CLI-1377;Porto Velho;MG;Sudeste;Eletrônicos;Fone Bluetooth;4;851,24;3404,96;TikTok Ads;15;10,38;Cancelado;;;
+PED-0273;07/10/2023;CLI-8658;Osasco;RS;Sul;Brinquedos;Carrinho;1;3089,31;3089,31;Influenciador;30;19,29;Devolvido;;16;
+PED-0274;06/11/2024;CLI-1100;Rio de Janeiro;SP;Sudeste;Moda;Calça Jeans;5;87,33;436,65;Instagram Ads;15;9,80;Processando;;;
+PED-0275;27/03/2023;CLI-1597;São Paulo;RN;Nordeste;Casa;Organizador;2;759,69;1519,38;E-mail Marketing;25;16,94;Processando;;;
+PED-0276;21/10/2023;CLI-8330;São Paulo;CE;Nordeste;Moda;Bolsa;2;2332,25;4664,50;TikTok Ads;20;41,74;Cancelado;;;
+PED-0277;11/03/2024;CLI-8571;Aparecida de Goiânia;PR;Sul;Moda;Tênis;4;1801,66;7206,64;Influenciador;30;13,42;Processando;;;
+PED-0278;04/11/2023;CLI-6521;Belém;PE;Nordeste;Casa;Organizador;1;3118,10;3118,10;E-mail Marketing;10;48,10;Devolvido;;15;
+PED-0279;14/06/2024;CLI-1684;Aparecida de Goiânia;BA;Nordeste;Casa;Vaso Decorativo;2;1279,56;2559,12;YouTube Ads;30;22,34;Processando;;;
+PED-0280;11/06/2024;CLI-9247;Londrina;BA;Nordeste;Livros;HQ/Mangá;5;2999,49;14997,45;E-mail Marketing;30;15,14;Processando;;;
+PED-0281;07/11/2024;CLI-7189;Maceió;RJ;Sudeste;Esportes;Bola;3;1115,67;3347,01;YouTube Ads;5;25,19;Processando;;;
+PED-0282;10/08/2023;CLI-4923;Fortaleza;DF;Centro-Oeste;Esportes;Bola;2;2445,53;4891,06;TikTok Ads;0;23,68;Em Transporte;;;
+PED-0283;21/10/2024;CLI-8974;Sorocaba;AP;Norte;Livros;Romance;4;270,94;1083,76;Google Ads;25;46,12;Cancelado;;;
+PED-0284;02/09/2024;CLI-1731;Salvador;SP;Sudeste;Casa;Quadro;5;2206,66;11033,30;YouTube Ads;10;9,54;Em Transporte;;;
+PED-0285;26/12/2024;CLI-1856;João Pessoa;AL;Nordeste;Esportes;Garrafa Térmica;5;1073,60;5368,00;Facebook Ads;25;47,62;Em Transporte;;;
+PED-0286;21/08/2023;CLI-7677;Cuiabá;CE;Nordeste;Beleza;Shampoo;2;809,65;1619,30;Influenciador;30;15,95;Devolvido;;9;
+PED-0287;28/10/2023;CLI-7061;Feira de Santana;CE;Nordeste;Livros;HQ/Mangá;3;612,67;1838,01;YouTube Ads;30;9,11;Cancelado;;;
+PED-0288;29/08/2023;CLI-4567;Natal;MT;Centro-Oeste;Beleza;Perfume;2;2157,81;4315,62;Influenciador;0;28,90;Devolvido;;18;
+PED-0289;29/04/2024;CLI-9581;Sorocaba;RR;Norte;Moda;Calça Jeans;5;1235,62;6178,10;Google Ads;10;33,91;Processando;;;
+PED-0290;10/01/2024;CLI-5388;Campinas;DF;Centro-Oeste;Alimentos;Cesta Orgânica;3;3229,56;9688,68;Facebook Ads;10;8,56;Entregue;5;13;Não
+PED-0291;09/04/2024;CLI-3957;Curitiba;PA;Norte;Casa;Organizador;4;3335,84;13343,36;Influenciador;30;26,86;Cancelado;;;
+PED-0292;04/08/2023;CLI-5892;Sorocaba;MT;Centro-Oeste;Livros;Romance;5;3165,89;15829,45;TikTok Ads;0;1,93;Devolvido;;5;
+PED-0293;01/03/2024;CLI-6352;Porto Alegre;PE;Nordeste;Esportes;Garrafa Térmica;1;1148,23;1148,23;TikTok Ads;20;15,03;Processando;;;
+PED-0294;03/05/2023;CLI-1341;Aracaju;AP;Norte;Eletrônicos;Smart Watch;3;1466,57;4399,71;TikTok Ads;30;12,26;Em Transporte;;;
+PED-0295;21/06/2023;CLI-7330;Vitória;MS;Centro-Oeste;Beleza;Hidratante;1;2937,28;2937,28;E-mail Marketing;0;44,49;Cancelado;;;
+PED-0296;02/07/2023;CLI-5008;São Paulo;RO;Norte;Eletrônicos;Fone Bluetooth;1;1494,81;1494,81;TikTok Ads;20;7,20;Em Transporte;;;
+PED-0297;31/10/2023;CLI-4818;Fortaleza;RJ;Sudeste;Esportes;Garrafa Térmica;3;2603,32;7809,96;YouTube Ads;15;45,04;Processando;;;
+PED-0298;30/12/2024;CLI-9470;Fortaleza;PA;Norte;Esportes;Tênis Corrida;3;2896,48;8689,44;TikTok Ads;5;13,45;Em Transporte;;;
+PED-0299;20/12/2024;CLI-2943;João Pessoa;DF;Centro-Oeste;Livros;HQ/Mangá;1;851,88;851,88;Facebook Ads;0;45,06;Devolvido;;6;
+PED-0300;27/12/2023;CLI-6446;Natal;AM;Norte;Casa;Quadro;1;2366,45;2366,45;Orgânico;10;0,39;Cancelado;;;
+PED-0301;06/08/2023;CLI-5527;Salvador;RS;Sul;Eletrônicos;Tablet;3;1451,11;4353,33;Orgânico;0;46,52;Entregue;1;10;Não
+PED-0302;12/04/2024;CLI-7032;Campinas;ES;Sudeste;Livros;Romance;3;2248,59;6745,77;Orgânico;25;0,83;Devolvido;;17;
+PED-0303;27/01/2023;CLI-9874;Guarulhos;AP;Norte;Casa;Organizador;4;3249,50;12998,00;Influenciador;10;36,96;Devolvido;;24;
+PED-0304;07/06/2023;CLI-3862;Maringá;SP;Sudeste;Livros;Técnico;2;254,51;509,02;YouTube Ads;5;45,82;Em Transporte;;;
+PED-0305;12/04/2023;CLI-5237;Juiz de Fora;PI;Nordeste;Brinquedos;Jogo de Tabuleiro;3;3312,25;9936,75;Influenciador;25;25,31;Entregue;2;18;Sim
+PED-0306;13/05/2023;CLI-9627;Juiz de Fora;PI;Nordeste;Brinquedos;Jogo de Tabuleiro;4;3157,11;12628,44;Google Ads;20;38,66;Devolvido;;20;
+PED-0307;11/05/2023;CLI-1829;Porto Alegre;PI;Nordeste;Beleza;Maquiagem;2;2682,37;5364,74;YouTube Ads;25;40,78;Devolvido;;25;
+PED-0308;03/12/2023;CLI-7243;Osasco;PR;Sul;Beleza;Perfume;3;2213,93;6641,79;Orgânico;0;23,30;Cancelado;;;
+PED-0309;20/04/2024;CLI-7245;Juiz de Fora;MT;Centro-Oeste;Moda;Relógio;5;42,22;211,10;TikTok Ads;20;5,99;Em Transporte;;;
+PED-0310;27/01/2023;CLI-4478;Vitória;AL;Nordeste;Beleza;Protetor Solar;5;1441,88;7209,40;TikTok Ads;30;47,06;Processando;;;
+PED-0311;06/10/2023;CLI-6081;Maringá;SP;Sudeste;Alimentos;Kit Fitness;1;442,48;442,48;E-mail Marketing;20;32,97;Processando;;;
+PED-0312;07/10/2024;CLI-3746;Joinville;RO;Norte;Eletrônicos;Smartphone;4;2093,84;8375,36;Instagram Ads;0;29,99;Processando;;;
+PED-0313;01/03/2023;CLI-3490;João Pessoa;MT;Centro-Oeste;Eletrônicos;Smart Watch;4;642,42;2569,68;TikTok Ads;15;13,15;Processando;;;
+PED-0314;07/07/2024;CLI-2734;Aracaju;RJ;Sudeste;Livros;Romance;4;1694,14;6776,56;E-mail Marketing;15;2,59;Entregue;5;16;Não
+PED-0315;23/06/2023;CLI-1292;Santos;ES;Sudeste;Esportes;Tênis Corrida;2;603,84;1207,68;Orgânico;25;9,76;Entregue;3;25;Não
+PED-0316;14/04/2023;CLI-4436;Juiz de Fora;SC;Sul;Alimentos;Cesta Orgânica;3;345,35;1036,05;YouTube Ads;0;12,69;Processando;;;
+PED-0317;27/12/2023;CLI-1128;Sorocaba;AP;Norte;Beleza;Shampoo;3;1177,10;3531,30;TikTok Ads;15;18,05;Devolvido;;3;
+PED-0318;16/03/2024;CLI-3618;Natal;PE;Nordeste;Esportes;Tapete Yoga;5;1791,64;8958,20;E-mail Marketing;10;34,69;Cancelado;;;
+PED-0319;20/10/2023;CLI-9945;Fortaleza;TO;Norte;Livros;Autoajuda;1;2958,42;2958,42;Instagram Ads;10;37,41;Processando;;;
+PED-0320;25/11/2024;CLI-7419;Sorocaba;ES;Sudeste;Brinquedos;Quebra-Cabeça;4;109,09;436,36;TikTok Ads;0;32,77;Processando;;;
+PED-0321;03/02/2023;CLI-5756;Aparecida de Goiânia;RJ;Sudeste;Eletrônicos;Notebook;2;582,46;1164,92;TikTok Ads;10;5,13;Cancelado;;;
+PED-0322;23/10/2024;CLI-2691;Sorocaba;PB;Nordeste;Alimentos;Vinho;5;737,38;3686,90;TikTok Ads;30;33,21;Em Transporte;;;
+PED-0323;13/08/2024;CLI-1310;Juiz de Fora;PI;Nordeste;Livros;Romance;5;1150,72;5753,60;Instagram Ads;15;2,14;Em Transporte;;;
+PED-0324;01/06/2024;CLI-3829;Joinville;DF;Centro-Oeste;Moda;Tênis;3;535,00;1605,00;Instagram Ads;20;25,77;Devolvido;;2;
+PED-0325;20/02/2024;CLI-6299;Sorocaba;SE;Nordeste;Eletrônicos;Notebook;3;944,19;2832,57;Influenciador;5;2,81;Processando;;;
+PED-0326;24/06/2024;CLI-3030;João Pessoa;PE;Nordeste;Moda;Relógio;3;1045,52;3136,56;Google Ads;20;34,30;Entregue;5;17;Não
+PED-0327;05/04/2023;CLI-8070;Ribeirão Preto;MS;Centro-Oeste;Eletrônicos;Fone Bluetooth;2;2697,92;5395,84;E-mail Marketing;20;49,65;Entregue;1;15;Não
+PED-0328;02/04/2024;CLI-3453;Salvador;PE;Nordeste;Casa;Almofada;3;1573,27;4719,81;TikTok Ads;20;32,05;Cancelado;;;
+PED-0329;16/10/2024;CLI-5145;São José dos Campos;AL;Nordeste;Alimentos;Chocolate;3;2939,06;8817,18;TikTok Ads;0;8,15;Cancelado;;;
+PED-0330;26/01/2023;CLI-9006;Rio de Janeiro;CE;Nordeste;Alimentos;Cesta Orgânica;2;2668,07;5336,14;TikTok Ads;0;5,41;Processando;;;
+PED-0331;10/01/2023;CLI-4849;São José dos Campos;AM;Norte;Esportes;Haltere;5;59,76;298,80;YouTube Ads;0;23,01;Processando;;;
+PED-0332;28/05/2023;CLI-5785;Juiz de Fora;RR;Norte;Moda;Tênis;5;1035,49;5177,45;Facebook Ads;0;5,91;Cancelado;;;
+PED-0333;01/08/2024;CLI-7772;Campo Grande;RS;Sul;Esportes;Tênis Corrida;5;2356,00;11780,00;YouTube Ads;0;29,98;Cancelado;;;
+PED-0334;12/08/2024;CLI-7222;Florianópolis;GO;Centro-Oeste;Livros;Autoajuda;1;206,83;206,83;Google Ads;0;24,46;Cancelado;;;
+PED-0335;16/02/2023;CLI-2509;Vitória;RS;Sul;Beleza;Maquiagem;5;1004,88;5024,40;Facebook Ads;15;28,08;Devolvido;;17;
+PED-0336;20/08/2023;CLI-1420;São Paulo;RJ;Sudeste;Eletrônicos;Smart Watch;1;1586,38;1586,38;Instagram Ads;0;8,86;Processando;;;
+PED-0337;08/02/2023;CLI-2879;São Luís;TO;Norte;Beleza;Hidratante;4;1831,06;7324,24;Facebook Ads;0;44,55;Entregue;3;17;Sim
+PED-0338;13/07/2023;CLI-8590;Uberlândia;TO;Norte;Beleza;Maquiagem;4;3205,89;12823,56;YouTube Ads;0;31,24;Cancelado;;;
+PED-0339;11/09/2024;CLI-6561;Vitória;PA;Norte;Casa;Luminária;1;1451,20;1451,20;Google Ads;15;44,28;Entregue;2;18;Não
+PED-0340;23/11/2023;CLI-4410;Cuiabá;TO;Norte;Alimentos;Cesta Orgânica;2;696,22;1392,44;Influenciador;15;19,37;Processando;;;
+PED-0341;31/12/2023;CLI-4587;Feira de Santana;DF;Centro-Oeste;Brinquedos;Carrinho;5;468,90;2344,50;Influenciador;30;14,38;Cancelado;;;
+PED-0342;03/04/2024;CLI-4125;Sorocaba;MG;Sudeste;Eletrônicos;Notebook;5;1904,75;9523,75;Influenciador;5;29,46;Processando;;;
+PED-0343;21/01/2023;CLI-1658;Manaus;SE;Nordeste;Esportes;Garrafa Térmica;1;1023,88;1023,88;Instagram Ads;5;41,38;Processando;;;
+PED-0344;08/01/2023;CLI-5174;Ribeirão Preto;GO;Centro-Oeste;Livros;Romance;1;25,28;25,28;Influenciador;25;40,32;Em Transporte;;;
+PED-0345;18/12/2024;CLI-9503;Joinville;PI;Nordeste;Esportes;Bola;5;3267,83;16339,15;Influenciador;25;23,12;Processando;;;
+PED-0346;10/06/2024;CLI-7642;Campinas;CE;Nordeste;Moda;Bolsa;2;758,23;1516,46;Instagram Ads;25;17,69;Devolvido;;25;
+PED-0347;09/07/2023;CLI-5136;Campo Grande;GO;Centro-Oeste;Beleza;Shampoo;1;1555,04;1555,04;Orgânico;15;9,04;Cancelado;;;
+PED-0348;03/09/2024;CLI-6449;Belo Horizonte;MA;Nordeste;Brinquedos;Quebra-Cabeça;3;2875,89;8627,67;YouTube Ads;25;14,08;Entregue;3;2;Não
+PED-0349;24/09/2024;CLI-6397;São José dos Campos;MT;Centro-Oeste;Beleza;Hidratante;4;3389,31;13557,24;TikTok Ads;5;17,47;Em Transporte;;;
+PED-0350;23/07/2024;CLI-8705;Brasília;PA;Norte;Esportes;Haltere;3;592,14;1776,42;Orgânico;30;28,71;Devolvido;;8;
+PED-0351;06/12/2023;CLI-8938;São José dos Campos;MA;Nordeste;Alimentos;Café Especial;1;2655,13;2655,13;E-mail Marketing;15;15,65;Entregue;2;1;Não
+PED-0352;10/09/2024;CLI-1461;Maceió;AC;Norte;Beleza;Protetor Solar;2;106,35;212,70;Influenciador;25;43,64;Cancelado;;;
+PED-0353;31/01/2023;CLI-6759;Uberlândia;MS;Centro-Oeste;Casa;Luminária;3;1995,62;5986,86;Orgânico;5;46,79;Entregue;1;14;Não
+PED-0354;13/10/2023;CLI-7395;Sorocaba;PA;Norte;Beleza;Protetor Solar;4;137,07;548,28;YouTube Ads;25;38,50;Entregue;4;23;Sim
+PED-0355;27/10/2023;CLI-3189;Salvador;RR;Norte;Casa;Almofada;2;2282,39;4564,78;Influenciador;20;48,21;Em Transporte;;;
+PED-0356;23/07/2024;CLI-5507;Recife;MG;Sudeste;Esportes;Tênis Corrida;4;2020,43;8081,72;Orgânico;30;31,72;Entregue;1;18;Não
+PED-0357;10/05/2024;CLI-7696;São José dos Campos;AM;Norte;Beleza;Perfume;1;3360,32;3360,32;Google Ads;10;16,33;Entregue;3;20;Não
+PED-0358;08/09/2024;CLI-3738;Guarulhos;MG;Sudeste;Moda;Camiseta;4;1617,72;6470,88;Orgânico;30;46,10;Devolvido;;7;
+PED-0359;14/03/2023;CLI-4644;Campinas;GO;Centro-Oeste;Moda;Camiseta;4;2780,80;11123,20;Google Ads;5;40,74;Em Transporte;;;
+PED-0360;01/08/2024;CLI-5091;Vitória;SC;Sul;Livros;Autoajuda;4;860,26;3441,04;TikTok Ads;30;3,23;Devolvido;;11;
+PED-0361;28/02/2023;CLI-4014;Natal;PE;Nordeste;Beleza;Shampoo;5;416,69;2083,45;Google Ads;25;33,52;Cancelado;;;
+PED-0362;14/12/2023;CLI-9466;Maringá;SC;Sul;Casa;Quadro;2;1594,38;3188,76;YouTube Ads;20;49,37;Em Transporte;;;
+PED-0363;17/07/2023;CLI-6704;Porto Velho;MS;Centro-Oeste;Livros;Romance;3;3251,30;9753,90;Facebook Ads;5;24,78;Cancelado;;;
+PED-0364;11/12/2024;CLI-5602;Curitiba;TO;Norte;Eletrônicos;Smart Watch;4;1256,19;5024,76;Influenciador;10;13,73;Em Transporte;;;
+PED-0365;02/12/2023;CLI-9720;Salvador;MA;Nordeste;Moda;Relógio;1;253,65;253,65;TikTok Ads;0;9,12;Processando;;;
+PED-0366;30/04/2023;CLI-3880;Vitória;RJ;Sudeste;Livros;Técnico;2;1268,88;2537,76;Orgânico;10;15,02;Em Transporte;;;
+PED-0367;10/03/2024;CLI-3049;Rio de Janeiro;GO;Centro-Oeste;Brinquedos;Lego;3;3006,82;9020,46;Google Ads;0;12,82;Processando;;;
+PED-0368;07/11/2023;CLI-8468;Maringá;MS;Centro-Oeste;Beleza;Maquiagem;2;2959,81;5919,62;Google Ads;25;19,67;Devolvido;;2;
+PED-0369;11/10/2023;CLI-6554;Porto Alegre;SP;Sudeste;Beleza;Protetor Solar;5;484,25;2421,25;Instagram Ads;5;1,83;Cancelado;;;
+PED-0370;12/01/2023;CLI-3992;Aracaju;TO;Norte;Eletrônicos;Notebook;5;2699,74;13498,70;Orgânico;25;37,42;Processando;;;
+PED-0371;19/07/2023;CLI-1510;Vitória;ES;Sudeste;Brinquedos;Quebra-Cabeça;5;1095,14;5475,70;Google Ads;25;21,10;Entregue;5;18;Não
+PED-0372;11/10/2023;CLI-9560;Osasco;SE;Nordeste;Esportes;Garrafa Térmica;4;1104,41;4417,64;E-mail Marketing;20;8,03;Em Transporte;;;
+PED-0373;18/06/2024;CLI-6969;Joinville;RR;Norte;Moda;Calça Jeans;1;2270,57;2270,57;Instagram Ads;30;44,03;Entregue;1;19;Não
+PED-0374;23/10/2024;CLI-4690;Vitória;PB;Nordeste;Beleza;Protetor Solar;2;2095,31;4190,62;Instagram Ads;20;38,16;Entregue;1;20;Não
+PED-0375;11/06/2023;CLI-8784;Curitiba;RJ;Sudeste;Alimentos;Cesta Orgânica;1;798,68;798,68;Google Ads;20;39,37;Devolvido;;4;
+PED-0376;25/06/2024;CLI-1568;Maringá;PE;Nordeste;Casa;Luminária;3;3310,19;9930,57;E-mail Marketing;10;47,01;Devolvido;;11;
+PED-0377;13/08/2023;CLI-2257;Porto Alegre;PE;Nordeste;Esportes;Garrafa Térmica;5;896,19;4480,95;E-mail Marketing;0;18,26;Em Transporte;;;
+PED-0378;24/03/2023;CLI-7628;Osasco;GO;Centro-Oeste;Esportes;Haltere;3;2581,97;7745,91;YouTube Ads;15;9,34;Entregue;4;17;Não
+PED-0379;15/06/2024;CLI-4717;Rio de Janeiro;AL;Nordeste;Livros;HQ/Mangá;3;612,15;1836,45;Influenciador;30;18,39;Processando;;;
+PED-0380;15/07/2023;CLI-7226;João Pessoa;RN;Nordeste;Casa;Quadro;5;3361,22;16806,10;TikTok Ads;0;0,41;Devolvido;;21;
+PED-0381;23/08/2023;CLI-1134;Rio de Janeiro;PR;Sul;Casa;Luminária;5;2987,64;14938,20;TikTok Ads;20;12,35;Cancelado;;;
+PED-0382;22/08/2023;CLI-9889;Belém;AM;Norte;Moda;Camiseta;5;3312,82;16564,10;TikTok Ads;15;49,06;Processando;;;
+PED-0383;07/10/2023;CLI-4818;Goiânia;AP;Norte;Esportes;Garrafa Térmica;3;2031,20;6093,60;Influenciador;15;28,68;Entregue;1;20;Não
+PED-0384;16/01/2024;CLI-9457;Joinville;SC;Sul;Brinquedos;Carrinho;5;1848,36;9241,80;YouTube Ads;25;40,43;Processando;;;
+PED-0385;02/04/2024;CLI-1968;Maringá;RN;Nordeste;Beleza;Maquiagem;3;2455,60;7366,80;YouTube Ads;25;44,77;Processando;;;
+PED-0386;05/08/2023;CLI-2365;Sorocaba;RS;Sul;Brinquedos;Lego;4;1572,78;6291,12;Instagram Ads;10;33,02;Processando;;;
+PED-0387;15/03/2024;CLI-8051;Maringá;MA;Nordeste;Moda;Bolsa;2;143,57;287,14;Facebook Ads;20;42,77;Entregue;3;15;Não
+PED-0388;18/04/2023;CLI-6113;Guarulhos;AC;Norte;Livros;Autoajuda;4;413,63;1654,52;Google Ads;20;1,33;Entregue;2;11;Não
+PED-0389;13/06/2024;CLI-4328;Ribeirão Preto;RR;Norte;Alimentos;Café Especial;3;2348,03;7044,09;Google Ads;0;27,99;Processando;;;
+PED-0390;23/07/2024;CLI-3235;Belém;RS;Sul;Casa;Quadro;2;520,84;1041,68;Google Ads;0;20,22;Cancelado;;;
+PED-0391;30/01/2024;CLI-5925;Belém;GO;Centro-Oeste;Livros;Autoajuda;1;2094,95;2094,95;Instagram Ads;10;28,20;Entregue;2;10;Não
+PED-0392;10/11/2024;CLI-3111;Goiânia;PA;Norte;Moda;Bolsa;4;841,62;3366,48;TikTok Ads;25;2,18;Em Transporte;;;
+PED-0393;17/06/2024;CLI-5593;Campo Grande;MT;Centro-Oeste;Casa;Organizador;5;2293,12;11465,60;Influenciador;15;35,98;Entregue;2;6;Não
+PED-0394;05/04/2024;CLI-2497;Aracaju;ES;Sudeste;Livros;HQ/Mangá;5;1196,68;5983,40;Orgânico;20;32,66;Cancelado;;;
+PED-0395;10/09/2024;CLI-3069;Juiz de Fora;RS;Sul;Moda;Tênis;1;2733,99;2733,99;Orgânico;30;40,58;Em Transporte;;;
+PED-0396;26/01/2024;CLI-6996;Guarulhos;AP;Norte;Beleza;Hidratante;4;1334,93;5339,72;Instagram Ads;0;11,97;Cancelado;;;
+PED-0397;20/02/2024;CLI-2436;Porto Alegre;PE;Nordeste;Eletrônicos;Fone Bluetooth;3;2928,83;8786,49;Facebook Ads;10;43,76;Em Transporte;;;
+PED-0398;10/06/2023;CLI-7050;Vitória;PA;Norte;Eletrônicos;Smartphone;1;220,67;220,67;Orgânico;20;15,32;Processando;;;
+PED-0399;01/09/2023;CLI-8012;Natal;ES;Sudeste;Brinquedos;Jogo de Tabuleiro;5;2674,67;13373,35;Instagram Ads;25;49,63;Em Transporte;;;
+PED-0400;30/05/2023;CLI-7719;Curitiba;PI;Nordeste;Moda;Relógio;4;703,03;2812,12;Facebook Ads;5;40,35;Devolvido;;1;
+PED-0401;12/10/2023;CLI-4149;Curitiba;RS;Sul;Casa;Organizador;1;469,57;469,57;Facebook Ads;15;2,78;Processando;;;
+PED-0402;10/04/2023;CLI-5623;Maringá;RR;Norte;Casa;Luminária;3;336,33;1008,99;YouTube Ads;0;1,15;Entregue;5;3;Não
+PED-0403;19/10/2023;CLI-1890;Belém;BA;Nordeste;Esportes;Tênis Corrida;1;1460,67;1460,67;Instagram Ads;0;15,52;Processando;;;
+PED-0404;19/07/2024;CLI-7980;Guarulhos;DF;Centro-Oeste;Casa;Luminária;1;2518,32;2518,32;TikTok Ads;10;29,32;Entregue;1;15;Não
+PED-0405;03/10/2023;CLI-6452;Guarulhos;PI;Nordeste;Moda;Camiseta;1;3296,26;3296,26;TikTok Ads;0;47,33;Entregue;3;2;Não
+PED-0406;14/11/2023;CLI-8276;Aracaju;MG;Sudeste;Alimentos;Café Especial;2;2142,58;4285,16;TikTok Ads;0;3,97;Devolvido;;13;
+PED-0407;09/10/2024;CLI-5307;Sorocaba;ES;Sudeste;Esportes;Bola;2;1511,05;3022,10;Orgânico;0;20,06;Cancelado;;;
+PED-0408;29/12/2024;CLI-9732;Florianópolis;GO;Centro-Oeste;Alimentos;Café Especial;1;1803,86;1803,86;Facebook Ads;15;20,07;Cancelado;;;
+PED-0409;08/01/2023;CLI-4348;Manaus;SE;Nordeste;Eletrônicos;Smart Watch;4;2620,63;10482,52;TikTok Ads;0;16,41;Processando;;;
+PED-0410;02/10/2023;CLI-4747;Maceió;AM;Norte;Esportes;Garrafa Térmica;4;1841,71;7366,84;Orgânico;25;11,34;Processando;;;
+PED-0411;10/07/2024;CLI-4760;João Pessoa;PI;Nordeste;Alimentos;Chocolate;1;265,48;265,48;Orgânico;15;16,64;Entregue;2;12;Não
+PED-0412;29/07/2024;CLI-5393;São Luís;AM;Norte;Casa;Quadro;3;964,26;2892,78;Facebook Ads;10;40,78;Entregue;2;12;Não
+PED-0413;30/08/2024;CLI-6089;Londrina;CE;Nordeste;Beleza;Shampoo;1;49,04;49,04;TikTok Ads;30;9,23;Em Transporte;;;
+PED-0414;29/11/2023;CLI-3771;João Pessoa;SE;Nordeste;Esportes;Tapete Yoga;2;849,85;1699,70;Facebook Ads;0;10,38;Devolvido;;16;
+PED-0415;04/08/2023;CLI-5541;Manaus;AM;Norte;Brinquedos;Carrinho;5;1601,77;8008,85;YouTube Ads;0;43,34;Processando;;;
+PED-0416;23/09/2024;CLI-5373;Cuiabá;CE;Nordeste;Casa;Luminária;3;2012,42;6037,26;YouTube Ads;15;33,50;Cancelado;;;
+PED-0417;17/11/2023;CLI-5978;Belém;RR;Norte;Brinquedos;Boneca;1;1224,45;1224,45;Facebook Ads;25;44,62;Entregue;5;3;Sim
+PED-0418;22/08/2023;CLI-3917;São José dos Campos;AM;Norte;Livros;Autoajuda;3;1612,76;4838,28;TikTok Ads;30;40,02;Processando;;;
+PED-0419;06/05/2024;CLI-9999;Sorocaba;MG;Sudeste;Eletrônicos;Fone Bluetooth;5;331,59;1657,95;Instagram Ads;30;28,32;Devolvido;;5;
+PED-0420;27/05/2024;CLI-3365;Campo Grande;SE;Nordeste;Alimentos;Chocolate;3;1951,86;5855,58;Influenciador;10;7,24;Entregue;5;18;Não
+PED-0421;26/12/2023;CLI-7346;Florianópolis;TO;Norte;Brinquedos;Carrinho;5;53,80;269,00;YouTube Ads;5;47,08;Processando;;;
+PED-0422;17/10/2024;CLI-3808;Osasco;PE;Nordeste;Livros;Romance;3;1219,67;3659,01;Facebook Ads;25;16,60;Devolvido;;22;
+PED-0423;25/07/2024;CLI-2257;Santos;RS;Sul;Moda;Bolsa;2;3037,39;6074,78;E-mail Marketing;0;12,50;Entregue;3;4;Não
+PED-0424;10/09/2023;CLI-6730;Teresina;PE;Nordeste;Moda;Calça Jeans;4;166,72;666,88;TikTok Ads;5;2,83;Entregue;3;18;Não
+PED-0425;21/02/2023;CLI-4966;Aracaju;PB;Nordeste;Esportes;Haltere;1;1855,84;1855,84;Orgânico;25;43,84;Cancelado;;;
+PED-0426;27/11/2024;CLI-1744;Joinville;SC;Sul;Moda;Tênis;1;2761,52;2761,52;Google Ads;15;20,89;Devolvido;;5;
+PED-0427;21/03/2023;CLI-2598;Juiz de Fora;PB;Nordeste;Casa;Quadro;5;920,66;4603,30;Influenciador;30;30,97;Entregue;2;12;Não
+PED-0428;20/12/2023;CLI-2793;Fortaleza;PA;Norte;Alimentos;Café Especial;4;2837,04;11348,16;Orgânico;0;11,34;Entregue;3;23;Sim
+PED-0429;22/11/2024;CLI-6476;Maceió;CE;Nordeste;Livros;Romance;5;2362,54;11812,70;Google Ads;15;33,41;Devolvido;;15;
+PED-0430;25/05/2023;CLI-8069;Maringá;PA;Norte;Alimentos;Vinho;2;2578,48;5156,96;Orgânico;30;13,46;Processando;;;
+PED-0431;08/07/2023;CLI-6351;Londrina;PA;Norte;Casa;Organizador;4;2279,41;9117,64;Orgânico;0;10,48;Cancelado;;;
+PED-0432;26/05/2023;CLI-7698;Manaus;AP;Norte;Casa;Luminária;3;57,17;171,51;Orgânico;15;12,03;Entregue;1;1;Não
+PED-0433;06/04/2023;CLI-6246;São Luís;RN;Nordeste;Moda;Calça Jeans;1;2941,70;2941,70;Orgânico;0;36,68;Entregue;4;7;Não
+PED-0434;07/02/2024;CLI-4621;Fortaleza;MT;Centro-Oeste;Alimentos;Vinho;1;3495,38;3495,38;Influenciador;0;11,95;Processando;;;
+PED-0435;05/08/2023;CLI-2947;Brasília;ES;Sudeste;Brinquedos;Lego;5;2394,43;11972,15;Orgânico;10;1,79;Devolvido;;24;
+PED-0436;05/09/2023;CLI-8821;Salvador;AM;Norte;Casa;Vaso Decorativo;4;2547,42;10189,68;YouTube Ads;0;22,03;Cancelado;;;
+PED-0437;06/03/2023;CLI-5531;Manaus;PE;Nordeste;Casa;Organizador;5;1879,07;9395,35;Facebook Ads;15;13,71;Devolvido;;18;
+PED-0438;08/07/2023;CLI-1967;Natal;AC;Norte;Moda;Relógio;1;2310,53;2310,53;Orgânico;0;33,85;Entregue;4;12;Sim
+PED-0439;19/01/2024;CLI-4672;Campo Grande;SP;Sudeste;Brinquedos;Quebra-Cabeça;3;2423,13;7269,39;TikTok Ads;20;3,58;Em Transporte;;;
+PED-0440;15/09/2024;CLI-8164;Salvador;AM;Norte;Beleza;Perfume;2;462,47;924,94;Google Ads;30;31,48;Em Transporte;;;
+PED-0441;24/06/2023;CLI-5624;Sorocaba;BA;Nordeste;Brinquedos;Lego;2;2242,89;4485,78;Orgânico;25;39,49;Em Transporte;;;
+PED-0442;27/08/2024;CLI-6083;São José dos Campos;GO;Centro-Oeste;Moda;Relógio;3;1985,33;5955,99;TikTok Ads;10;15,73;Em Transporte;;;
+PED-0443;30/06/2024;CLI-7013;São Paulo;AM;Norte;Esportes;Garrafa Térmica;5;2142,94;10714,70;YouTube Ads;10;17,57;Devolvido;;25;
+PED-0444;14/12/2024;CLI-9444;Osasco;RO;Norte;Alimentos;Cesta Orgânica;5;1462,37;7311,85;YouTube Ads;0;9,08;Devolvido;;15;
+PED-0445;24/12/2023;CLI-2265;Brasília;AC;Norte;Brinquedos;Boneca;3;2768,85;8306,55;E-mail Marketing;20;5,32;Devolvido;;16;
+PED-0446;06/01/2023;CLI-2723;Rio de Janeiro;ES;Sudeste;Brinquedos;Carrinho;3;3247,74;9743,22;Influenciador;25;33,40;Cancelado;;;
+PED-0447;25/08/2024;CLI-5488;Niterói;PR;Sul;Beleza;Shampoo;3;662,26;1986,78;Instagram Ads;0;28,97;Devolvido;;13;
+PED-0448;09/10/2023;CLI-6901;Juiz de Fora;AL;Nordeste;Brinquedos;Lego;5;2652,81;13264,05;Google Ads;25;14,01;Devolvido;;23;
+PED-0449;25/02/2023;CLI-1648;Porto Alegre;GO;Centro-Oeste;Alimentos;Chocolate;5;1292,74;6463,70;TikTok Ads;25;25,31;Entregue;3;3;Não
+PED-0450;07/10/2024;CLI-5972;Sorocaba;BA;Nordeste;Livros;Autoajuda;3;3322,27;9966,81;YouTube Ads;30;36,23;Entregue;2;14;Sim
+PED-0451;16/12/2023;CLI-4679;Fortaleza;MA;Nordeste;Eletrônicos;Smartphone;1;643,63;643,63;YouTube Ads;25;23,83;Devolvido;;1;
+PED-0452;13/01/2024;CLI-2392;Londrina;AP;Norte;Beleza;Protetor Solar;3;979,32;2937,96;Instagram Ads;10;21,24;Processando;;;
+PED-0453;09/09/2024;CLI-8994;Maringá;PI;Nordeste;Livros;Romance;2;1051,73;2103,46;Facebook Ads;5;37,35;Cancelado;;;
+PED-0454;21/12/2023;CLI-6185;Santos;RN;Nordeste;Casa;Almofada;1;1830,60;1830,60;E-mail Marketing;0;44,26;Cancelado;;;
+PED-0455;29/06/2023;CLI-7127;Porto Velho;AL;Nordeste;Beleza;Maquiagem;1;2565,86;2565,86;E-mail Marketing;30;39,40;Em Transporte;;;
+PED-0456;06/09/2023;CLI-2696;Ribeirão Preto;GO;Centro-Oeste;Alimentos;Café Especial;4;252,43;1009,72;Influenciador;0;13,77;Cancelado;;;
+PED-0457;11/11/2023;CLI-9404;Joinville;MA;Nordeste;Beleza;Shampoo;1;3397,22;3397,22;Google Ads;5;36,90;Entregue;5;23;Sim
+PED-0458;20/04/2023;CLI-5243;Salvador;SC;Sul;Alimentos;Kit Fitness;4;1327,30;5309,20;Instagram Ads;15;28,14;Entregue;5;6;Não
+PED-0459;27/11/2023;CLI-5841;Campinas;AL;Nordeste;Brinquedos;Lego;3;2209,98;6629,94;YouTube Ads;15;24,98;Entregue;3;15;Não
+PED-0460;23/08/2024;CLI-7543;Campo Grande;PB;Nordeste;Casa;Almofada;4;3231,86;12927,44;Facebook Ads;0;22,99;Entregue;3;16;Não
+PED-0461;21/06/2023;CLI-8306;Campo Grande;RS;Sul;Eletrônicos;Fone Bluetooth;5;3491,30;17456,50;TikTok Ads;0;4,91;Devolvido;;6;
+PED-0462;01/10/2023;CLI-8373;Juiz de Fora;RN;Nordeste;Moda;Tênis;4;1236,36;4945,44;Orgânico;25;4,07;Processando;;;
+PED-0463;18/10/2024;CLI-3818;Campo Grande;AL;Nordeste;Eletrônicos;Smartphone;2;186,98;373,96;Influenciador;20;35,72;Processando;;;
+PED-0464;05/05/2023;CLI-8542;Goiânia;MG;Sudeste;Brinquedos;Boneca;1;2336,88;2336,88;E-mail Marketing;15;2,15;Devolvido;;6;
+PED-0465;06/04/2023;CLI-2188;Joinville;GO;Centro-Oeste;Livros;HQ/Mangá;1;519,99;519,99;TikTok Ads;30;42,32;Cancelado;;;
+PED-0466;05/02/2023;CLI-7570;Porto Alegre;AC;Norte;Alimentos;Chocolate;1;3278,04;3278,04;TikTok Ads;15;27,60;Devolvido;;4;
+PED-0467;16/09/2023;CLI-5092;Osasco;PA;Norte;Eletrônicos;Smartphone;5;2942,43;14712,15;TikTok Ads;30;26,83;Entregue;1;3;Não
+PED-0468;26/07/2023;CLI-1643;Guarulhos;MA;Nordeste;Eletrônicos;Notebook;3;1690,15;5070,45;Facebook Ads;0;35,56;Entregue;5;21;Não
+PED-0469;14/09/2024;CLI-1843;Recife;RO;Norte;Livros;Técnico;1;1119,53;1119,53;TikTok Ads;5;20,46;Cancelado;;;
+PED-0470;27/08/2024;CLI-7122;Curitiba;RJ;Sudeste;Brinquedos;Jogo de Tabuleiro;2;2116,93;4233,86;Influenciador;15;45,68;Devolvido;;20;
+PED-0471;18/10/2024;CLI-1149;Aparecida de Goiânia;GO;Centro-Oeste;Moda;Tênis;5;1353,54;6767,70;E-mail Marketing;0;28,86;Processando;;;
+PED-0472;20/02/2023;CLI-5021;Vitória;PR;Sul;Eletrônicos;Smart Watch;2;2325,01;4650,02;Orgânico;0;11,91;Processando;;;
+PED-0473;04/12/2024;CLI-3182;Maringá;SP;Sudeste;Esportes;Tapete Yoga;5;1690,62;8453,10;YouTube Ads;25;16,07;Entregue;3;2;Não
+PED-0474;13/02/2023;CLI-1295;Uberlândia;RS;Sul;Beleza;Perfume;1;1349,09;1349,09;Influenciador;5;18,89;Devolvido;;13;
+PED-0475;14/04/2024;CLI-8012;Maceió;RJ;Sudeste;Moda;Bolsa;1;114,43;114,43;E-mail Marketing;15;35,59;Entregue;1;23;Não
+PED-0476;15/05/2023;CLI-9274;Niterói;RR;Norte;Esportes;Garrafa Térmica;5;637,26;3186,30;Facebook Ads;30;49,66;Devolvido;;3;
+PED-0477;25/11/2024;CLI-2613;Campo Grande;PB;Nordeste;Casa;Organizador;3;1900,55;5701,65;Influenciador;25;13,93;Devolvido;;10;
+PED-0478;22/07/2023;CLI-7989;Natal;MS;Centro-Oeste;Moda;Tênis;1;2346,23;2346,23;TikTok Ads;0;12,25;Cancelado;;;
+PED-0479;10/06/2024;CLI-8206;Fortaleza;SC;Sul;Livros;Técnico;1;936,73;936,73;Instagram Ads;10;46,60;Entregue;2;16;Não
+PED-0480;21/07/2024;CLI-4140;Porto Alegre;PB;Nordeste;Alimentos;Cesta Orgânica;3;3177,59;9532,77;TikTok Ads;20;12,38;Devolvido;;25;
+PED-0481;30/10/2023;CLI-6049;Belo Horizonte;AM;Norte;Esportes;Tapete Yoga;4;1488,94;5955,76;Orgânico;15;36,54;Devolvido;;19;
+PED-0482;13/01/2023;CLI-3652;Natal;RS;Sul;Alimentos;Cesta Orgânica;4;3290,95;13163,80;Orgânico;20;2,33;Processando;;;
+PED-0483;30/07/2024;CLI-8504;Fortaleza;SC;Sul;Beleza;Hidratante;1;2109,85;2109,85;YouTube Ads;5;12,04;Cancelado;;;
+PED-0484;18/06/2023;CLI-5208;São José dos Campos;PE;Nordeste;Eletrônicos;Smart Watch;1;2147,48;2147,48;TikTok Ads;10;4,64;Em Transporte;;;
+PED-0485;04/08/2024;CLI-2034;São José dos Campos;MT;Centro-Oeste;Moda;Bolsa;5;1356,87;6784,35;Facebook Ads;5;15,10;Processando;;;
+PED-0486;24/02/2023;CLI-9552;Recife;MS;Centro-Oeste;Brinquedos;Boneca;2;949,64;1899,28;E-mail Marketing;0;30,48;Cancelado;;;
+PED-0487;28/08/2024;CLI-5241;Goiânia;RJ;Sudeste;Alimentos;Vinho;5;1003,78;5018,90;YouTube Ads;5;29,38;Processando;;;
+PED-0488;29/03/2024;CLI-3763;Niterói;AC;Norte;Brinquedos;Lego;5;1731,75;8658,75;Google Ads;30;42,89;Em Transporte;;;
+PED-0489;19/07/2024;CLI-6315;Fortaleza;RR;Norte;Beleza;Hidratante;5;75,92;379,60;YouTube Ads;0;11,93;Em Transporte;;;
+PED-0490;19/07/2024;CLI-9919;Natal;RN;Nordeste;Livros;Autoajuda;2;2395,56;4791,12;Orgânico;10;16,06;Processando;;;
+PED-0491;31/10/2023;CLI-9078;Goiânia;SC;Sul;Brinquedos;Carrinho;5;333,26;1666,30;Orgânico;20;42,26;Processando;;;
+PED-0492;17/10/2023;CLI-5023;Porto Alegre;MG;Sudeste;Moda;Bolsa;4;1335,53;5342,12;Influenciador;25;26,74;Devolvido;;25;
+PED-0493;27/09/2024;CLI-6007;Niterói;PI;Nordeste;Livros;HQ/Mangá;4;1635,17;6540,68;TikTok Ads;10;13,30;Cancelado;;;
+PED-0494;28/06/2024;CLI-3356;Belo Horizonte;RN;Nordeste;Brinquedos;Lego;3;2237,66;6712,98;E-mail Marketing;5;7,60;Em Transporte;;;
+PED-0495;28/11/2024;CLI-6893;Maringá;SP;Sudeste;Esportes;Garrafa Térmica;1;1085,03;1085,03;Influenciador;20;43,80;Cancelado;;;
+PED-0496;09/11/2024;CLI-1516;Recife;AL;Nordeste;Alimentos;Cesta Orgânica;3;1561,21;4683,63;Google Ads;30;35,57;Devolvido;;1;
+PED-0497;11/12/2024;CLI-8267;Natal;TO;Norte;Beleza;Maquiagem;5;1558,52;7792,60;Google Ads;0;37,48;Processando;;;
+PED-0498;08/06/2024;CLI-1851;Santos;MT;Centro-Oeste;Livros;Autoajuda;1;1012,47;1012,47;Facebook Ads;25;41,36;Processando;;;
+PED-0499;01/12/2023;CLI-2361;Osasco;DF;Centro-Oeste;Livros;HQ/Mangá;4;556,70;2226,80;YouTube Ads;0;32,39;Processando;;;
+PED-0500;07/07/2024;CLI-4977;Santos;AP;Norte;Alimentos;Kit Fitness;3;2352,68;7058,04;E-mail Marketing;5;3,56;Entregue;1;20;Sim
+PED-0501;14/12/2023;CLI-9513;São José dos Campos;SP;Sudeste;Casa;Organizador;2;2443,49;4886,98;YouTube Ads;0;42,25;Entregue;5;8;Não
+PED-0502;26/02/2023;CLI-1489;Joinville;TO;Norte;Livros;Não-Ficção;4;3023,30;12093,20;Orgânico;5;8,15;Devolvido;;20;
+PED-0503;17/02/2023;CLI-4968;Osasco;CE;Nordeste;Alimentos;Kit Fitness;3;787,93;2363,79;Instagram Ads;30;27,18;Processando;;;
+PED-0504;18/12/2023;CLI-6850;Joinville;GO;Centro-Oeste;Casa;Vaso Decorativo;2;1707,31;3414,62;YouTube Ads;30;10,30;Em Transporte;;;
+PED-0505;26/07/2023;CLI-8015;Belo Horizonte;ES;Sudeste;Moda;Bolsa;3;144,88;434,64;YouTube Ads;20;17,26;Entregue;4;8;Sim
+PED-0506;11/09/2024;CLI-3176;Belo Horizonte;SP;Sudeste;Livros;Romance;4;3327,03;13308,12;YouTube Ads;0;25,49;Processando;;;
+PED-0507;12/04/2024;CLI-5122;Campo Grande;GO;Centro-Oeste;Casa;Almofada;1;3268,14;3268,14;Facebook Ads;0;13,98;Devolvido;;8;
+PED-0508;10/04/2023;CLI-2637;Maringá;SC;Sul;Brinquedos;Jogo de Tabuleiro;4;2604,04;10416,16;E-mail Marketing;5;20,10;Devolvido;;1;
+PED-0509;02/10/2023;CLI-6646;Osasco;RJ;Sudeste;Brinquedos;Carrinho;2;3035,66;6071,32;TikTok Ads;20;12,55;Em Transporte;;;
+PED-0510;16/05/2023;CLI-4408;Salvador;DF;Centro-Oeste;Eletrônicos;Tablet;3;3282,85;9848,55;E-mail Marketing;30;1,82;Devolvido;;16;
+PED-0511;17/03/2024;CLI-9427;Salvador;CE;Nordeste;Eletrônicos;Notebook;3;1560,63;4681,89;Instagram Ads;10;12,21;Em Transporte;;;
+PED-0512;16/06/2023;CLI-8187;Juiz de Fora;AL;Nordeste;Moda;Camiseta;5;1973,66;9868,30;YouTube Ads;0;10,00;Cancelado;;;
+PED-0513;15/11/2023;CLI-9534;Belo Horizonte;SC;Sul;Brinquedos;Carrinho;2;2664,84;5329,68;E-mail Marketing;15;17,45;Devolvido;;11;
+PED-0514;16/08/2023;CLI-6169;Maringá;MG;Sudeste;Livros;HQ/Mangá;5;2379,90;11899,50;Google Ads;20;2,19;Em Transporte;;;
+PED-0515;13/02/2024;CLI-9334;Santos;PA;Norte;Brinquedos;Carrinho;3;1443,54;4330,62;Google Ads;25;0,34;Processando;;;
+PED-0516;04/08/2023;CLI-1455;Maceió;PB;Nordeste;Esportes;Bola;1;2211,92;2211,92;TikTok Ads;10;30,68;Cancelado;;;
+PED-0517;06/09/2024;CLI-5490;Juiz de Fora;RR;Norte;Esportes;Bola;2;3339,36;6678,72;E-mail Marketing;10;26,04;Devolvido;;22;
+PED-0518;23/04/2024;CLI-5449;Belém;PI;Nordeste;Esportes;Tapete Yoga;5;2888,08;14440,40;Facebook Ads;30;31,36;Cancelado;;;
+PED-0519;14/03/2024;CLI-6384;Niterói;TO;Norte;Livros;Autoajuda;5;2455,21;12276,05;TikTok Ads;0;27,28;Devolvido;;11;
+PED-0520;24/09/2023;CLI-8111;Maceió;MG;Sudeste;Eletrônicos;Fone Bluetooth;2;908,05;1816,10;YouTube Ads;20;4,54;Entregue;4;21;Não
+PED-0521;13/08/2024;CLI-6937;Porto Alegre;SP;Sudeste;Brinquedos;Carrinho;1;1357,08;1357,08;Influenciador;10;6,96;Em Transporte;;;
+PED-0522;10/10/2024;CLI-7619;Osasco;GO;Centro-Oeste;Casa;Vaso Decorativo;3;260,60;781,80;YouTube Ads;25;6,94;Em Transporte;;;
+PED-0523;07/02/2024;CLI-7801;Maceió;MT;Centro-Oeste;Eletrônicos;Fone Bluetooth;4;23,27;93,08;Facebook Ads;30;25,19;Devolvido;;14;
+PED-0524;22/02/2024;CLI-4495;Teresina;CE;Nordeste;Beleza;Hidratante;2;739,12;1478,24;E-mail Marketing;20;21,84;Devolvido;;24;
+PED-0525;27/12/2024;CLI-4460;Joinville;AM;Norte;Moda;Relógio;1;2897,92;2897,92;Instagram Ads;0;48,50;Devolvido;;1;
+PED-0526;31/10/2023;CLI-6785;Teresina;TO;Norte;Eletrônicos;Tablet;4;2726,51;10906,04;Instagram Ads;10;32,59;Entregue;1;25;Não
+PED-0527;01/08/2023;CLI-5647;Feira de Santana;CE;Nordeste;Alimentos;Kit Fitness;3;309,33;927,99;YouTube Ads;10;43,52;Processando;;;
+PED-0528;14/03/2023;CLI-6543;Joinville;AM;Norte;Esportes;Garrafa Térmica;2;2134,85;4269,70;Google Ads;0;9,78;Cancelado;;;
+PED-0529;21/06/2023;CLI-8428;Salvador;RN;Nordeste;Alimentos;Kit Fitness;1;306,43;306,43;YouTube Ads;5;24,30;Em Transporte;;;
+PED-0530;24/06/2024;CLI-4349;Belém;RJ;Sudeste;Brinquedos;Carrinho;5;2667,11;13335,55;Facebook Ads;10;4,69;Processando;;;
+PED-0531;10/09/2023;CLI-4728;Porto Velho;MS;Centro-Oeste;Esportes;Tapete Yoga;4;1789,72;7158,88;E-mail Marketing;0;21,08;Cancelado;;;
+PED-0532;31/12/2023;CLI-4718;Joinville;MG;Sudeste;Alimentos;Café Especial;3;393,22;1179,66;Google Ads;0;48,09;Devolvido;;10;
+PED-0533;09/07/2023;CLI-6915;Feira de Santana;PR;Sul;Moda;Camiseta;4;3074,98;12299,92;Facebook Ads;15;35,53;Em Transporte;;;
+PED-0534;03/04/2024;CLI-7007;Teresina;AM;Norte;Eletrônicos;Tablet;3;2863,80;8591,40;YouTube Ads;20;20,48;Cancelado;;;
+PED-0535;01/11/2023;CLI-3396;Rio de Janeiro;PA;Norte;Alimentos;Cesta Orgânica;1;647,89;647,89;Orgânico;15;11,72;Processando;;;
+PED-0536;27/11/2023;CLI-5330;Porto Alegre;AC;Norte;Alimentos;Café Especial;5;1718,37;8591,85;Orgânico;10;26,24;Em Transporte;;;
+PED-0537;11/08/2024;CLI-4029;Teresina;CE;Nordeste;Moda;Camiseta;2;2296,06;4592,12;TikTok Ads;5;29,16;Em Transporte;;;
+PED-0538;12/07/2024;CLI-3488;Ribeirão Preto;PE;Nordeste;Brinquedos;Carrinho;4;1897,80;7591,20;YouTube Ads;10;6,20;Em Transporte;;;
+PED-0539;19/11/2023;CLI-1219;São Luís;MS;Centro-Oeste;Brinquedos;Jogo de Tabuleiro;2;865,06;1730,12;Influenciador;0;49,44;Em Transporte;;;
+PED-0540;23/08/2024;CLI-8231;São José dos Campos;TO;Norte;Alimentos;Chocolate;1;3320,61;3320,61;Google Ads;30;14,52;Processando;;;
+PED-0541;30/05/2024;CLI-9202;Ribeirão Preto;PE;Nordeste;Alimentos;Cesta Orgânica;2;366,84;733,68;E-mail Marketing;25;23,77;Devolvido;;22;
+PED-0542;26/07/2023;CLI-4972;Salvador;ES;Sudeste;Esportes;Tênis Corrida;3;1364,98;4094,94;Google Ads;5;40,06;Devolvido;;13;
+PED-0543;23/07/2024;CLI-1158;Santos;PR;Sul;Eletrônicos;Fone Bluetooth;5;182,69;913,45;E-mail Marketing;15;41,26;Em Transporte;;;
+PED-0544;14/01/2023;CLI-8111;Rio de Janeiro;SE;Nordeste;Beleza;Maquiagem;3;1332,13;3996,39;Facebook Ads;25;22,51;Em Transporte;;;
+PED-0545;22/02/2023;CLI-1128;Osasco;RJ;Sudeste;Moda;Calça Jeans;2;3299,54;6599,08;Google Ads;10;33,07;Devolvido;;7;
+PED-0546;07/03/2023;CLI-1238;Brasília;SE;Nordeste;Beleza;Shampoo;5;186,30;931,50;TikTok Ads;5;30,12;Devolvido;;21;
+PED-0547;23/02/2024;CLI-3809;Porto Alegre;DF;Centro-Oeste;Moda;Relógio;1;2242,09;2242,09;Instagram Ads;25;21,01;Cancelado;;;
+PED-0548;18/01/2024;CLI-6636;São Luís;PI;Nordeste;Beleza;Protetor Solar;2;2603,68;5207,36;Influenciador;30;29,84;Processando;;;
+PED-0549;03/06/2024;CLI-9085;Maceió;MA;Nordeste;Alimentos;Vinho;5;3074,15;15370,75;E-mail Marketing;0;27,60;Cancelado;;;
+PED-0550;22/05/2023;CLI-2863;Campo Grande;PB;Nordeste;Livros;Autoajuda;5;703,05;3515,25;TikTok Ads;10;27,72;Entregue;2;18;Não
+PED-0551;25/09/2023;CLI-8451;Porto Alegre;PE;Nordeste;Livros;Autoajuda;3;2742,78;8228,34;Facebook Ads;0;40,33;Cancelado;;;
+PED-0552;10/06/2024;CLI-6668;Porto Velho;AM;Norte;Brinquedos;Quebra-Cabeça;1;2868,98;2868,98;Orgânico;0;39,31;Processando;;;
+PED-0553;18/10/2024;CLI-1168;Porto Alegre;RJ;Sudeste;Eletrônicos;Smartphone;5;2637,14;13185,70;Facebook Ads;0;42,70;Cancelado;;;
+PED-0554;06/02/2023;CLI-8514;Manaus;RJ;Sudeste;Esportes;Tênis Corrida;5;3097,40;15487,00;E-mail Marketing;0;26,21;Entregue;1;16;Não
+PED-0555;04/01/2024;CLI-9017;Maceió;PR;Sul;Brinquedos;Boneca;2;2009,70;4019,40;YouTube Ads;0;13,99;Entregue;5;21;Não
+PED-0556;15/03/2023;CLI-9621;João Pessoa;ES;Sudeste;Casa;Almofada;1;706,22;706,22;Influenciador;15;14,15;Processando;;;
+PED-0557;04/05/2023;CLI-5094;Uberlândia;SE;Nordeste;Casa;Vaso Decorativo;4;1538,41;6153,64;E-mail Marketing;0;41,76;Cancelado;;;
+PED-0558;06/03/2023;CLI-5074;Santos;SE;Nordeste;Alimentos;Kit Fitness;1;2742,71;2742,71;E-mail Marketing;0;21,65;Processando;;;
+PED-0559;24/03/2023;CLI-4419;São Luís;PI;Nordeste;Esportes;Tapete Yoga;3;2548,10;7644,30;E-mail Marketing;0;26,09;Cancelado;;;
+PED-0560;29/03/2024;CLI-7373;Recife;CE;Nordeste;Esportes;Bola;4;2398,35;9593,40;Instagram Ads;10;22,32;Processando;;;
+PED-0561;04/12/2023;CLI-5827;Salvador;TO;Norte;Esportes;Garrafa Térmica;4;3235,81;12943,24;YouTube Ads;10;44,17;Entregue;5;5;Sim
+PED-0562;08/12/2024;CLI-5990;Curitiba;PE;Nordeste;Esportes;Garrafa Térmica;5;1143,52;5717,60;Orgânico;30;6,14;Devolvido;;21;
+PED-0563;13/06/2024;CLI-7903;Campo Grande;TO;Norte;Beleza;Protetor Solar;5;411,52;2057,60;Facebook Ads;0;24,16;Entregue;1;11;Não
+PED-0564;28/11/2024;CLI-2311;Vitória;PA;Norte;Casa;Vaso Decorativo;5;2591,61;12958,05;Facebook Ads;5;11,35;Cancelado;;;
+PED-0565;30/05/2023;CLI-3700;Porto Velho;GO;Centro-Oeste;Brinquedos;Carrinho;5;1459,23;7296,15;Google Ads;10;0,63;Processando;;;
+PED-0566;12/12/2023;CLI-1299;Londrina;RS;Sul;Brinquedos;Boneca;1;2176,62;2176,62;Influenciador;30;22,44;Entregue;3;7;Não
+PED-0567;01/08/2024;CLI-2569;Londrina;AP;Norte;Livros;Autoajuda;1;2794,67;2794,67;Google Ads;15;47,77;Cancelado;;;
+PED-0568;29/10/2023;CLI-5822;Niterói;BA;Nordeste;Brinquedos;Jogo de Tabuleiro;1;754,61;754,61;YouTube Ads;15;20,91;Devolvido;;20;
+PED-0569;04/08/2024;CLI-4779;Teresina;RR;Norte;Alimentos;Kit Fitness;5;220,02;1100,10;Influenciador;30;15,71;Entregue;4;6;Não
+PED-0570;22/07/2024;CLI-7807;Guarulhos;AM;Norte;Moda;Calça Jeans;3;719,03;2157,09;Facebook Ads;10;7,64;Entregue;4;1;Não
+PED-0571;27/01/2024;CLI-3402;Porto Velho;MT;Centro-Oeste;Eletrônicos;Smart Watch;3;2999,71;8999,13;Google Ads;10;44,56;Processando;;;
+PED-0572;01/11/2023;CLI-1000;Niterói;SE;Nordeste;Brinquedos;Boneca;2;1256,28;2512,56;YouTube Ads;5;12,27;Entregue;2;4;Não
+PED-0573;06/04/2024;CLI-4010;Porto Velho;SP;Sudeste;Esportes;Tapete Yoga;4;664,81;2659,24;Facebook Ads;25;1,91;Processando;;;
+PED-0574;06/03/2024;CLI-5281;Sorocaba;PR;Sul;Moda;Bolsa;3;744,04;2232,12;Orgânico;10;39,99;Devolvido;;20;
+PED-0575;11/09/2024;CLI-6025;São José dos Campos;AC;Norte;Livros;HQ/Mangá;1;3097,75;3097,75;Facebook Ads;30;26,12;Entregue;4;15;Não
+PED-0576;11/09/2024;CLI-8918;Niterói;DF;Centro-Oeste;Casa;Quadro;2;742,96;1485,92;E-mail Marketing;5;39,96;Em Transporte;;;
+PED-0577;24/12/2023;CLI-2895;João Pessoa;SP;Sudeste;Casa;Almofada;3;2768,64;8305,92;Orgânico;15;34,61;Em Transporte;;;
+PED-0578;22/10/2023;CLI-1180;São José dos Campos;RR;Norte;Alimentos;Chocolate;2;1814,32;3628,64;Facebook Ads;25;27,35;Em Transporte;;;
+PED-0579;24/11/2024;CLI-7270;Juiz de Fora;PE;Nordeste;Casa;Vaso Decorativo;1;3437,82;3437,82;TikTok Ads;20;46,24;Em Transporte;;;
+PED-0580;11/03/2023;CLI-4592;Osasco;AL;Nordeste;Eletrônicos;Smart Watch;1;1971,98;1971,98;E-mail Marketing;0;36,63;Devolvido;;9;
+PED-0581;13/10/2024;CLI-3241;Uberlândia;GO;Centro-Oeste;Esportes;Tênis Corrida;5;2087,12;10435,60;Facebook Ads;25;37,18;Processando;;;
+PED-0582;09/12/2024;CLI-4861;Teresina;PE;Nordeste;Esportes;Tapete Yoga;4;649,00;2596,00;Influenciador;0;14,63;Entregue;5;11;Não
+PED-0583;15/02/2024;CLI-6703;Joinville;PA;Norte;Moda;Camiseta;5;3130,21;15651,05;E-mail Marketing;15;21,43;Entregue;5;1;Não
+PED-0584;11/09/2024;CLI-6653;Florianópolis;GO;Centro-Oeste;Livros;HQ/Mangá;2;2864,91;5729,82;Influenciador;5;16,29;Em Transporte;;;
+PED-0585;06/03/2024;CLI-2234;Florianópolis;RJ;Sudeste;Casa;Vaso Decorativo;5;3229,29;16146,45;Google Ads;20;32,11;Devolvido;;5;
+PED-0586;15/12/2023;CLI-1734;Osasco;MG;Sudeste;Eletrônicos;Notebook;4;3187,36;12749,44;Instagram Ads;25;15,84;Devolvido;;8;
+PED-0587;21/11/2023;CLI-4387;Joinville;DF;Centro-Oeste;Casa;Almofada;3;648,60;1945,80;Google Ads;0;0,13;Cancelado;;;
+PED-0588;19/05/2024;CLI-7879;Niterói;RN;Nordeste;Esportes;Haltere;5;2782,15;13910,75;TikTok Ads;0;27,17;Devolvido;;8;
+PED-0589;12/02/2023;CLI-1767;Aparecida de Goiânia;RS;Sul;Livros;Não-Ficção;2;3040,15;6080,30;TikTok Ads;10;39,64;Cancelado;;;
+PED-0590;10/12/2023;CLI-5433;Santos;AP;Norte;Livros;Não-Ficção;2;2481,60;4963,20;Influenciador;20;5,11;Processando;;;
+PED-0591;30/10/2024;CLI-7420;Uberlândia;MT;Centro-Oeste;Brinquedos;Carrinho;4;298,69;1194,76;Orgânico;0;38,76;Em Transporte;;;
+PED-0592;15/10/2024;CLI-2902;São Paulo;AC;Norte;Eletrônicos;Smart Watch;2;446,00;892,00;Instagram Ads;10;38,75;Processando;;;
+PED-0593;11/03/2024;CLI-4342;Niterói;ES;Sudeste;Brinquedos;Quebra-Cabeça;5;724,64;3623,20;Orgânico;0;15,11;Processando;;;
+PED-0594;14/12/2023;CLI-3980;Santos;MG;Sudeste;Alimentos;Kit Fitness;3;1643,69;4931,07;Instagram Ads;25;44,43;Processando;;;
+PED-0595;03/05/2023;CLI-6094;Ribeirão Preto;RO;Norte;Eletrônicos;Fone Bluetooth;1;1311,14;1311,14;Facebook Ads;5;24,24;Em Transporte;;;
+PED-0596;21/10/2023;CLI-7008;Salvador;RR;Norte;Livros;HQ/Mangá;2;1271,86;2543,72;Orgânico;30;43,86;Devolvido;;6;
+PED-0597;07/08/2023;CLI-7415;Porto Alegre;BA;Nordeste;Casa;Quadro;4;2291,50;9166,00;YouTube Ads;0;11,53;Devolvido;;20;
+PED-0598;04/11/2024;CLI-7267;Santos;RN;Nordeste;Esportes;Tapete Yoga;3;1382,56;4147,68;Influenciador;0;39,76;Processando;;;
+PED-0599;02/11/2023;CLI-8631;Florianópolis;RN;Nordeste;Esportes;Tapete Yoga;3;2146,56;6439,68;YouTube Ads;30;39,19;Devolvido;;21;
+PED-0600;21/08/2023;CLI-8479;Fortaleza;RO;Norte;Livros;Não-Ficção;4;701,66;2806,64;Google Ads;0;40,14;Devolvido;;5;
+PED-0601;04/05/2024;CLI-8210;Porto Alegre;RS;Sul;Brinquedos;Lego;1;2212,62;2212,62;Influenciador;25;29,64;Cancelado;;;
+PED-0602;12/05/2024;CLI-2102;Belém;PA;Norte;Brinquedos;Boneca;4;1179,10;4716,40;YouTube Ads;10;44,07;Entregue;3;1;Não
+PED-0603;21/09/2023;CLI-1129;São Paulo;PA;Norte;Beleza;Hidratante;4;519,52;2078,08;Instagram Ads;0;36,16;Em Transporte;;;
+PED-0604;15/08/2023;CLI-1368;Maringá;AC;Norte;Alimentos;Café Especial;2;72,82;145,64;Influenciador;10;3,08;Cancelado;;;
+PED-0605;08/02/2024;CLI-4880;São Luís;RR;Norte;Livros;Não-Ficção;4;1855,11;7420,44;Influenciador;10;2,11;Em Transporte;;;
+PED-0606;11/11/2024;CLI-5252;Fortaleza;RR;Norte;Alimentos;Kit Fitness;4;498,76;1995,04;E-mail Marketing;25;14,66;Entregue;2;1;Não
+PED-0607;18/05/2024;CLI-6263;Salvador;RN;Nordeste;Moda;Relógio;4;1171,90;4687,60;Influenciador;20;32,68;Processando;;;
+PED-0608;16/01/2023;CLI-5797;Uberlândia;MG;Sudeste;Alimentos;Chocolate;5;166,96;834,80;Influenciador;25;17,46;Processando;;;
+PED-0609;07/12/2023;CLI-3913;Niterói;DF;Centro-Oeste;Livros;Autoajuda;1;983,45;983,45;Orgânico;5;49,97;Devolvido;;12;
+PED-0610;31/03/2024;CLI-8724;Niterói;MG;Sudeste;Moda;Calça Jeans;1;799,65;799,65;TikTok Ads;0;5,31;Cancelado;;;
+PED-0611;30/01/2024;CLI-8202;Uberlândia;DF;Centro-Oeste;Moda;Relógio;5;986,55;4932,75;Instagram Ads;15;24,69;Processando;;;
+PED-0612;22/07/2023;CLI-2017;Porto Velho;RJ;Sudeste;Casa;Quadro;1;2516,68;2516,68;Influenciador;15;33,21;Processando;;;
+PED-0613;14/03/2023;CLI-3568;Juiz de Fora;SC;Sul;Livros;Autoajuda;2;2080,26;4160,52;E-mail Marketing;0;44,50;Em Transporte;;;
+PED-0614;14/11/2023;CLI-2570;Belém;MG;Sudeste;Eletrônicos;Notebook;3;3132,48;9397,44;Orgânico;5;16,10;Processando;;;
+PED-0615;03/01/2024;CLI-6137;Ribeirão Preto;SE;Nordeste;Eletrônicos;Smartphone;2;452,92;905,84;Orgânico;15;24,27;Processando;;;
+PED-0616;16/07/2024;CLI-5201;Joinville;AC;Norte;Brinquedos;Jogo de Tabuleiro;5;2666,47;13332,35;TikTok Ads;20;10,59;Entregue;2;23;Sim
+PED-0617;25/10/2024;CLI-7044;Cuiabá;CE;Nordeste;Brinquedos;Quebra-Cabeça;5;2675,04;13375,20;TikTok Ads;25;9,04;Cancelado;;;
+PED-0618;30/05/2024;CLI-1083;Recife;RS;Sul;Eletrônicos;Notebook;1;3482,58;3482,58;Orgânico;30;1,45;Entregue;5;22;Não
+PED-0619;26/03/2024;CLI-9933;Porto Velho;ES;Sudeste;Eletrônicos;Smart Watch;5;241,24;1206,20;Google Ads;25;17,18;Processando;;;
+PED-0620;11/04/2024;CLI-4769;Campinas;RS;Sul;Moda;Tênis;2;1119,01;2238,02;YouTube Ads;10;49,19;Em Transporte;;;
+PED-0621;21/12/2023;CLI-2339;Brasília;MT;Centro-Oeste;Livros;Não-Ficção;3;322,85;968,55;YouTube Ads;30;29,86;Cancelado;;;
+PED-0622;09/07/2024;CLI-6185;Campinas;TO;Norte;Eletrônicos;Tablet;2;582,58;1165,16;TikTok Ads;20;47,54;Processando;;;
+PED-0623;14/05/2023;CLI-4863;Ribeirão Preto;AM;Norte;Esportes;Haltere;5;679,63;3398,15;Influenciador;20;22,52;Entregue;5;22;Não
+PED-0624;04/12/2023;CLI-4098;Campinas;PR;Sul;Livros;Romance;2;547,45;1094,90;Influenciador;10;39,50;Devolvido;;9;
+PED-0625;27/02/2024;CLI-2002;São Paulo;TO;Norte;Livros;HQ/Mangá;1;3428,50;3428,50;Facebook Ads;0;40,28;Processando;;;
+PED-0626;31/05/2024;CLI-7234;Ribeirão Preto;RJ;Sudeste;Alimentos;Kit Fitness;4;238,72;954,88;Orgânico;25;44,83;Cancelado;;;
+PED-0627;12/11/2024;CLI-9055;Goiânia;PE;Nordeste;Alimentos;Chocolate;1;1912,78;1912,78;Instagram Ads;0;29,45;Devolvido;;21;
+PED-0628;06/09/2023;CLI-8911;Recife;SE;Nordeste;Casa;Vaso Decorativo;2;1688,99;3377,98;YouTube Ads;5;24,01;Entregue;1;10;Não
+PED-0629;17/06/2024;CLI-6964;Rio de Janeiro;RS;Sul;Brinquedos;Lego;5;1209,64;6048,20;Facebook Ads;30;20,21;Devolvido;;11;
+PED-0630;17/12/2024;CLI-2301;Niterói;AP;Norte;Eletrônicos;Notebook;4;2238,46;8953,84;YouTube Ads;20;12,09;Processando;;;
+PED-0631;19/03/2024;CLI-2486;Guarulhos;RO;Norte;Moda;Camiseta;4;1930,03;7720,12;Instagram Ads;10;20,64;Processando;;;
+PED-0632;03/03/2024;CLI-2831;Manaus;SC;Sul;Eletrônicos;Smart Watch;5;1274,87;6374,35;YouTube Ads;0;31,15;Em Transporte;;;
+PED-0633;12/06/2023;CLI-2716;Natal;AM;Norte;Moda;Relógio;3;812,56;2437,68;YouTube Ads;0;4,69;Cancelado;;;
+PED-0634;23/01/2023;CLI-5001;Londrina;CE;Nordeste;Casa;Almofada;3;617,88;1853,64;Facebook Ads;20;15,06;Processando;;;
+PED-0635;04/02/2023;CLI-1299;Sorocaba;BA;Nordeste;Casa;Almofada;4;1233,63;4934,52;YouTube Ads;0;14,16;Processando;;;
+PED-0636;12/12/2023;CLI-8095;Campo Grande;RN;Nordeste;Casa;Almofada;4;2929,04;11716,16;Orgânico;5;5,45;Em Transporte;;;
+PED-0637;06/01/2024;CLI-5530;Belo Horizonte;AM;Norte;Esportes;Tênis Corrida;4;361,70;1446,80;Instagram Ads;30;4,70;Em Transporte;;;
+PED-0638;01/09/2024;CLI-1411;Vitória;DF;Centro-Oeste;Alimentos;Chocolate;4;261,18;1044,72;YouTube Ads;0;33,77;Cancelado;;;
+PED-0639;30/07/2023;CLI-9510;Maringá;RN;Nordeste;Eletrônicos;Tablet;4;2708,81;10835,24;Influenciador;15;32,20;Devolvido;;20;
+PED-0640;04/02/2024;CLI-3474;Aparecida de Goiânia;BA;Nordeste;Esportes;Bola;3;1962,09;5886,27;Google Ads;30;12,05;Devolvido;;12;
+PED-0641;07/02/2024;CLI-2305;Brasília;PE;Nordeste;Brinquedos;Jogo de Tabuleiro;1;2503,22;2503,22;Orgânico;0;38,04;Entregue;3;12;Não
+PED-0642;29/09/2024;CLI-1471;Recife;MS;Centro-Oeste;Brinquedos;Boneca;4;3010,29;12041,16;E-mail Marketing;20;37,46;Entregue;4;2;Não
+PED-0643;05/10/2024;CLI-3588;Maringá;MS;Centro-Oeste;Eletrônicos;Fone Bluetooth;1;2857,95;2857,95;TikTok Ads;25;3,94;Processando;;;
+PED-0644;20/04/2023;CLI-8082;Cuiabá;AL;Nordeste;Esportes;Tênis Corrida;2;2013,37;4026,74;Google Ads;20;0,33;Cancelado;;;
+PED-0645;20/06/2023;CLI-2429;São José dos Campos;MT;Centro-Oeste;Moda;Calça Jeans;1;883,34;883,34;TikTok Ads;5;21,27;Cancelado;;;
+PED-0646;13/08/2023;CLI-4387;Porto Velho;MT;Centro-Oeste;Alimentos;Kit Fitness;2;1516,71;3033,42;Orgânico;5;0,14;Devolvido;;12;
+PED-0647;16/10/2023;CLI-3367;Florianópolis;MS;Centro-Oeste;Casa;Almofada;3;2548,79;7646,37;E-mail Marketing;5;38,90;Cancelado;;;
+PED-0648;26/03/2023;CLI-6314;Niterói;PE;Nordeste;Eletrônicos;Smart Watch;2;1939,27;3878,54;TikTok Ads;0;1,42;Em Transporte;;;
+PED-0649;12/07/2024;CLI-9710;Florianópolis;AC;Norte;Moda;Relógio;1;3225,19;3225,19;Influenciador;0;49,72;Cancelado;;;
+PED-0650;30/04/2023;CLI-2309;Aparecida de Goiânia;TO;Norte;Beleza;Perfume;3;1118,38;3355,14;Orgânico;0;4,63;Cancelado;;;
+PED-0651;01/06/2024;CLI-3090;Manaus;PE;Nordeste;Casa;Organizador;5;1264,56;6322,80;YouTube Ads;0;8,39;Processando;;;
+PED-0652;14/10/2024;CLI-1639;Londrina;RR;Norte;Moda;Relógio;3;1482,05;4446,15;Influenciador;5;25,50;Cancelado;;;
+PED-0653;21/10/2024;CLI-7160;Porto Alegre;MT;Centro-Oeste;Livros;Autoajuda;1;2447,08;2447,08;E-mail Marketing;25;46,34;Devolvido;;3;
+PED-0654;29/06/2024;CLI-1543;Salvador;RN;Nordeste;Brinquedos;Boneca;3;3222,80;9668,40;Influenciador;20;7,27;Em Transporte;;;
+PED-0655;19/05/2023;CLI-2712;Vitória;MS;Centro-Oeste;Alimentos;Chocolate;1;2355,16;2355,16;Orgânico;0;13,42;Devolvido;;17;
+PED-0656;26/09/2023;CLI-8947;Sorocaba;MT;Centro-Oeste;Alimentos;Chocolate;4;2179,52;8718,08;Orgânico;5;36,23;Processando;;;
+PED-0657;29/05/2023;CLI-8479;Curitiba;AC;Norte;Alimentos;Vinho;4;1429,73;5718,92;YouTube Ads;20;36,60;Cancelado;;;
+PED-0658;04/10/2024;CLI-9491;Maceió;TO;Norte;Moda;Camiseta;1;1870,65;1870,65;Facebook Ads;5;9,61;Processando;;;
+PED-0659;08/09/2024;CLI-5057;Goiânia;DF;Centro-Oeste;Alimentos;Kit Fitness;3;332,69;998,07;Facebook Ads;25;16,28;Processando;;;
+PED-0660;11/10/2024;CLI-2410;Sorocaba;SC;Sul;Alimentos;Café Especial;5;2550,63;12753,15;Google Ads;30;30,06;Devolvido;;14;
+PED-0661;30/12/2024;CLI-2795;São Luís;AL;Nordeste;Beleza;Perfume;2;2845,42;5690,84;TikTok Ads;5;48,82;Em Transporte;;;
+PED-0662;29/03/2023;CLI-4107;Vitória;AC;Norte;Alimentos;Kit Fitness;4;3320,93;13283,72;Google Ads;20;26,65;Devolvido;;1;
+PED-0663;24/11/2024;CLI-2131;Belém;SC;Sul;Moda;Calça Jeans;2;189,88;379,76;Influenciador;30;33,22;Cancelado;;;
+PED-0664;20/04/2023;CLI-6922;São Luís;DF;Centro-Oeste;Brinquedos;Boneca;3;297,01;891,03;E-mail Marketing;25;48,81;Em Transporte;;;
+PED-0665;12/08/2024;CLI-8387;Aracaju;MA;Nordeste;Alimentos;Vinho;2;2451,80;4903,60;Influenciador;30;9,88;Em Transporte;;;
+PED-0666;13/01/2024;CLI-8332;Campinas;ES;Sudeste;Esportes;Bola;3;684,81;2054,43;Google Ads;5;21,05;Processando;;;
+PED-0667;04/06/2023;CLI-8124;Niterói;MT;Centro-Oeste;Eletrônicos;Tablet;2;2908,72;5817,44;E-mail Marketing;0;2,83;Devolvido;;7;
+PED-0668;19/07/2024;CLI-9911;Fortaleza;PR;Sul;Brinquedos;Boneca;2;65,82;131,64;Facebook Ads;0;31,50;Em Transporte;;;
+PED-0669;27/06/2023;CLI-9446;São Luís;AP;Norte;Moda;Camiseta;1;3054,06;3054,06;YouTube Ads;15;23,73;Processando;;;
+PED-0670;17/01/2024;CLI-8131;João Pessoa;PA;Norte;Esportes;Garrafa Térmica;1;874,87;874,87;Google Ads;30;39,88;Em Transporte;;;
+PED-0671;20/01/2023;CLI-7896;Curitiba;AC;Norte;Casa;Quadro;2;975,64;1951,28;TikTok Ads;0;39,65;Entregue;4;24;Não
+PED-0672;17/12/2024;CLI-4498;Recife;CE;Nordeste;Beleza;Perfume;4;1785,38;7141,52;Instagram Ads;20;36,61;Devolvido;;17;
+PED-0673;26/04/2023;CLI-2386;Salvador;SE;Nordeste;Casa;Organizador;2;1718,82;3437,64;TikTok Ads;0;6,99;Devolvido;;2;
+PED-0674;26/11/2024;CLI-7858;Curitiba;MA;Nordeste;Casa;Organizador;3;1933,30;5799,90;Orgânico;0;14,82;Processando;;;
+PED-0675;07/07/2023;CLI-4710;Fortaleza;DF;Centro-Oeste;Esportes;Tapete Yoga;5;3297,81;16489,05;E-mail Marketing;10;10,02;Devolvido;;15;
+PED-0676;28/07/2023;CLI-8640;Cuiabá;DF;Centro-Oeste;Esportes;Garrafa Térmica;3;1637,95;4913,85;TikTok Ads;15;0,58;Em Transporte;;;
+PED-0677;16/01/2023;CLI-6801;Aracaju;RS;Sul;Esportes;Bola;2;413,95;827,90;Orgânico;5;26,01;Em Transporte;;;
+PED-0678;08/12/2023;CLI-5167;Niterói;AP;Norte;Eletrônicos;Smart Watch;1;3154,16;3154,16;Facebook Ads;15;2,48;Em Transporte;;;
+PED-0679;30/01/2024;CLI-9121;Osasco;RJ;Sudeste;Moda;Calça Jeans;2;1237,16;2474,32;YouTube Ads;0;40,11;Entregue;2;7;Não
+PED-0680;11/02/2024;CLI-8415;Cuiabá;RR;Norte;Eletrônicos;Smart Watch;2;132,84;265,68;Google Ads;25;22,48;Processando;;;
+PED-0681;07/12/2023;CLI-2406;João Pessoa;DF;Centro-Oeste;Moda;Bolsa;3;2447,39;7342,17;Influenciador;20;36,83;Devolvido;;22;
+PED-0682;29/03/2024;CLI-6747;Teresina;SE;Nordeste;Esportes;Tênis Corrida;1;3306,27;3306,27;TikTok Ads;0;33,51;Entregue;4;6;Não
+PED-0683;30/12/2023;CLI-7683;Santos;DF;Centro-Oeste;Alimentos;Chocolate;4;2088,08;8352,32;Influenciador;15;32,80;Em Transporte;;;
+PED-0684;01/03/2023;CLI-5800;Salvador;RO;Norte;Alimentos;Kit Fitness;5;3490,85;17454,25;YouTube Ads;0;0,55;Devolvido;;24;
+PED-0685;01/01/2023;CLI-5408;Campinas;RO;Norte;Alimentos;Kit Fitness;1;364,93;364,93;YouTube Ads;15;14,51;Cancelado;;;
+PED-0686;06/02/2023;CLI-3009;Maceió;MG;Sudeste;Moda;Bolsa;1;1619,53;1619,53;Facebook Ads;0;39,90;Entregue;1;23;Não
+PED-0687;09/03/2023;CLI-3359;Feira de Santana;DF;Centro-Oeste;Brinquedos;Lego;2;1232,09;2464,18;TikTok Ads;5;1,60;Processando;;;
+PED-0688;26/08/2023;CLI-6962;Niterói;BA;Nordeste;Eletrônicos;Fone Bluetooth;2;2488,65;4977,30;Influenciador;0;2,84;Cancelado;;;
+PED-0689;12/03/2023;CLI-4584;Fortaleza;MG;Sudeste;Livros;Autoajuda;4;2741,61;10966,44;Instagram Ads;0;17,69;Entregue;2;5;Não
+PED-0690;19/05/2023;CLI-8912;Brasília;SC;Sul;Beleza;Hidratante;1;2103,51;2103,51;Orgânico;25;19,26;Entregue;2;20;Não
+PED-0691;06/09/2023;CLI-2222;Fortaleza;MS;Centro-Oeste;Alimentos;Vinho;4;367,00;1468,00;YouTube Ads;0;48,32;Em Transporte;;;
+PED-0692;03/03/2024;CLI-9176;Juiz de Fora;BA;Nordeste;Moda;Tênis;3;2280,04;6840,12;YouTube Ads;15;35,84;Cancelado;;;
+PED-0693;06/02/2023;CLI-3765;Niterói;AM;Norte;Livros;Autoajuda;4;391,53;1566,12;TikTok Ads;0;36,86;Em Transporte;;;
+PED-0694;09/11/2023;CLI-8354;Fortaleza;PR;Sul;Alimentos;Café Especial;2;3004,10;6008,20;TikTok Ads;30;41,67;Cancelado;;;
+PED-0695;22/08/2024;CLI-6851;Joinville;DF;Centro-Oeste;Brinquedos;Quebra-Cabeça;4;2312,51;9250,04;TikTok Ads;20;34,52;Entregue;1;16;Sim
+PED-0696;27/09/2024;CLI-7393;Guarulhos;RJ;Sudeste;Moda;Camiseta;4;2095,78;8383,12;E-mail Marketing;10;13,70;Em Transporte;;;
+PED-0697;06/11/2024;CLI-7097;Ribeirão Preto;MG;Sudeste;Casa;Vaso Decorativo;2;1866,67;3733,34;TikTok Ads;5;22,83;Em Transporte;;;
+PED-0698;27/04/2023;CLI-1235;São José dos Campos;PB;Nordeste;Beleza;Protetor Solar;4;2758,70;11034,80;Instagram Ads;15;15,47;Em Transporte;;;
+PED-0699;23/11/2023;CLI-7979;Teresina;PE;Nordeste;Eletrônicos;Smart Watch;5;2006,62;10033,10;Google Ads;25;6,61;Processando;;;
+PED-0700;13/08/2023;CLI-1735;Vitória;PB;Nordeste;Alimentos;Kit Fitness;2;1929,00;3858,00;YouTube Ads;10;10,39;Devolvido;;6;
+PED-0701;17/06/2023;CLI-5666;Niterói;GO;Centro-Oeste;Esportes;Tapete Yoga;5;1600,40;8002,00;Instagram Ads;5;41,39;Entregue;2;1;Não
+PED-0702;02/01/2023;CLI-1097;Vitória;AP;Norte;Casa;Quadro;3;3353,59;10060,77;TikTok Ads;10;16,46;Entregue;3;20;Não
+PED-0703;20/07/2023;CLI-8135;João Pessoa;AL;Nordeste;Beleza;Maquiagem;2;1545,17;3090,34;E-mail Marketing;5;0,30;Devolvido;;21;
+PED-0704;20/03/2023;CLI-4683;Porto Velho;TO;Norte;Casa;Vaso Decorativo;2;2019,72;4039,44;E-mail Marketing;15;45,96;Em Transporte;;;
+PED-0705;29/10/2023;CLI-9921;Brasília;BA;Nordeste;Eletrônicos;Smartphone;5;2124,42;10622,10;Orgânico;0;11,22;Em Transporte;;;
+PED-0706;28/02/2024;CLI-3062;Belém;PE;Nordeste;Moda;Camiseta;5;1246,25;6231,25;Google Ads;0;36,63;Processando;;;
+PED-0707;11/04/2023;CLI-8998;Niterói;MT;Centro-Oeste;Brinquedos;Quebra-Cabeça;3;424,31;1272,93;Influenciador;0;9,40;Processando;;;
+PED-0708;20/05/2024;CLI-2356;Brasília;AM;Norte;Brinquedos;Lego;5;3339,08;16695,40;Instagram Ads;5;42,45;Processando;;;
+PED-0709;07/12/2023;CLI-6466;João Pessoa;TO;Norte;Brinquedos;Carrinho;5;922,95;4614,75;TikTok Ads;30;15,66;Entregue;4;7;Não
+PED-0710;16/09/2023;CLI-8654;São Paulo;RJ;Sudeste;Esportes;Haltere;3;636,86;1910,58;Orgânico;0;23,93;Devolvido;;9;
+PED-0711;01/11/2023;CLI-5712;Recife;AL;Nordeste;Alimentos;Café Especial;5;593,78;2968,90;Orgânico;0;35,23;Em Transporte;;;
+PED-0712;01/06/2023;CLI-1596;Maceió;SC;Sul;Brinquedos;Carrinho;4;738,32;2953,28;Orgânico;5;29,23;Entregue;5;10;Não
+PED-0713;08/04/2023;CLI-3333;Manaus;ES;Sudeste;Moda;Relógio;2;1057,85;2115,70;Influenciador;0;37,10;Cancelado;;;
+PED-0714;04/02/2023;CLI-7739;Cuiabá;ES;Sudeste;Esportes;Bola;2;2173,41;4346,82;Instagram Ads;25;44,47;Devolvido;;22;
+PED-0715;11/08/2023;CLI-2729;Osasco;PB;Nordeste;Livros;Romance;3;672,18;2016,54;Orgânico;15;11,94;Processando;;;
+PED-0716;01/04/2024;CLI-6963;Campo Grande;BA;Nordeste;Beleza;Shampoo;4;3204,36;12817,44;Google Ads;0;35,77;Processando;;;
+PED-0717;20/05/2024;CLI-1373;Vitória;SC;Sul;Casa;Quadro;3;1247,85;3743,55;Facebook Ads;0;17,82;Processando;;;
+PED-0718;10/04/2024;CLI-1699;Sorocaba;RN;Nordeste;Moda;Tênis;5;2458,41;12292,05;E-mail Marketing;5;29,04;Entregue;1;24;Sim
+PED-0719;08/02/2024;CLI-1671;Teresina;GO;Centro-Oeste;Moda;Tênis;5;794,45;3972,25;Influenciador;0;42,72;Processando;;;
+PED-0720;14/03/2023;CLI-9571;Fortaleza;GO;Centro-Oeste;Alimentos;Vinho;4;3455,99;13823,96;Influenciador;10;12,03;Devolvido;;4;
+PED-0721;22/11/2023;CLI-8696;Campo Grande;SE;Nordeste;Beleza;Hidratante;2;1053,95;2107,90;Orgânico;0;6,21;Processando;;;
+PED-0722;02/07/2023;CLI-6946;Curitiba;SE;Nordeste;Esportes;Tênis Corrida;4;2588,59;10354,36;Orgânico;0;39,63;Em Transporte;;;
+PED-0723;23/08/2024;CLI-5295;Ribeirão Preto;ES;Sudeste;Eletrônicos;Notebook;2;45,37;90,74;Orgânico;30;8,49;Devolvido;;10;
+PED-0724;12/11/2024;CLI-4681;João Pessoa;DF;Centro-Oeste;Livros;Autoajuda;4;2969,64;11878,56;Instagram Ads;0;11,93;Entregue;5;21;Não
+PED-0725;23/03/2023;CLI-1652;Joinville;AM;Norte;Brinquedos;Quebra-Cabeça;1;1980,54;1980,54;TikTok Ads;20;28,84;Cancelado;;;
+PED-0726;05/11/2023;CLI-2152;Uberlândia;SP;Sudeste;Beleza;Hidratante;2;1043,06;2086,12;Instagram Ads;20;6,23;Em Transporte;;;
+PED-0727;31/05/2024;CLI-8153;Recife;PB;Nordeste;Livros;Técnico;4;1153,35;4613,40;YouTube Ads;10;32,30;Processando;;;
+PED-0728;22/09/2023;CLI-3764;Niterói;BA;Nordeste;Eletrônicos;Smart Watch;1;2003,85;2003,85;Orgânico;10;13,17;Cancelado;;;
+PED-0729;18/06/2023;CLI-1444;Aracaju;PE;Nordeste;Esportes;Garrafa Térmica;1;1895,86;1895,86;Orgânico;0;34,31;Em Transporte;;;
+PED-0730;21/10/2023;CLI-5465;Uberlândia;PE;Nordeste;Esportes;Tapete Yoga;1;77,96;77,96;Influenciador;0;23,22;Em Transporte;;;
+PED-0731;30/11/2023;CLI-4147;Florianópolis;DF;Centro-Oeste;Casa;Organizador;3;3388,32;10164,96;Instagram Ads;20;33,04;Processando;;;
+PED-0732;15/04/2024;CLI-9972;Porto Velho;RS;Sul;Moda;Calça Jeans;5;2664,00;13320,00;Google Ads;0;10,73;Em Transporte;;;
+PED-0733;21/06/2023;CLI-3733;Cuiabá;MG;Sudeste;Casa;Organizador;4;2502,62;10010,48;YouTube Ads;30;16,11;Devolvido;;13;
+PED-0734;22/02/2024;CLI-4725;São Paulo;ES;Sudeste;Moda;Bolsa;2;417,23;834,46;Facebook Ads;25;8,19;Cancelado;;;
+PED-0735;13/10/2023;CLI-3788;Fortaleza;PA;Norte;Alimentos;Café Especial;4;1525,68;6102,72;Google Ads;0;31,47;Entregue;5;24;Não
+PED-0736;04/08/2024;CLI-4138;Osasco;RO;Norte;Alimentos;Cesta Orgânica;4;1394,64;5578,56;Instagram Ads;25;44,67;Processando;;;
+PED-0737;20/09/2024;CLI-6529;Vitória;PI;Nordeste;Beleza;Protetor Solar;1;3062,80;3062,80;E-mail Marketing;20;31,45;Processando;;;
+PED-0738;06/10/2023;CLI-6862;Campinas;PR;Sul;Brinquedos;Quebra-Cabeça;4;3352,60;13410,40;Orgânico;0;23,29;Entregue;3;16;Não
+PED-0739;26/12/2023;CLI-3264;Aparecida de Goiânia;AM;Norte;Casa;Luminária;2;2908,73;5817,46;Influenciador;30;48,49;Entregue;3;7;Não
+PED-0740;06/02/2023;CLI-9877;Rio de Janeiro;RR;Norte;Esportes;Garrafa Térmica;5;3010,09;15050,45;Google Ads;0;40,49;Processando;;;
+PED-0741;30/06/2024;CLI-8079;Florianópolis;PA;Norte;Brinquedos;Boneca;2;2613,72;5227,44;Influenciador;15;2,13;Devolvido;;4;
+PED-0742;19/12/2024;CLI-8581;Florianópolis;RR;Norte;Casa;Organizador;4;2526,62;10106,48;TikTok Ads;10;40,85;Processando;;;
+PED-0743;04/12/2023;CLI-1266;Porto Alegre;AC;Norte;Eletrônicos;Fone Bluetooth;2;2073,42;4146,84;TikTok Ads;15;7,84;Em Transporte;;;
+PED-0744;30/10/2023;CLI-6550;Feira de Santana;PA;Norte;Moda;Calça Jeans;3;1614,24;4842,72;Facebook Ads;20;14,70;Entregue;1;6;Sim
+PED-0745;09/06/2024;CLI-1041;Brasília;MA;Nordeste;Beleza;Maquiagem;1;1877,78;1877,78;Instagram Ads;15;17,90;Processando;;;
+PED-0746;14/06/2024;CLI-1013;Niterói;PB;Nordeste;Brinquedos;Boneca;2;1056,08;2112,16;E-mail Marketing;0;19,80;Cancelado;;;
+PED-0747;09/11/2023;CLI-3593;Belém;ES;Sudeste;Moda;Camiseta;1;621,47;621,47;Influenciador;0;6,27;Em Transporte;;;
+PED-0748;14/08/2023;CLI-8785;Rio de Janeiro;RR;Norte;Brinquedos;Quebra-Cabeça;1;134,67;134,67;Google Ads;5;8,97;Em Transporte;;;
+PED-0749;18/04/2024;CLI-4494;Curitiba;MG;Sudeste;Alimentos;Chocolate;2;3088,28;6176,56;Facebook Ads;0;47,18;Entregue;3;16;Sim
+PED-0750;13/11/2023;CLI-2048;Aracaju;BA;Nordeste;Beleza;Maquiagem;5;1925,86;9629,30;Google Ads;10;3,67;Cancelado;;;
+PED-0751;31/07/2023;CLI-9670;Joinville;SE;Nordeste;Eletrônicos;Smartphone;4;1398,22;5592,88;E-mail Marketing;0;14,26;Em Transporte;;;
+PED-0752;20/04/2024;CLI-9787;Campo Grande;RN;Nordeste;Moda;Relógio;2;2079,56;4159,12;E-mail Marketing;30;8,43;Processando;;;
+PED-0753;02/04/2024;CLI-5922;Aracaju;RO;Norte;Beleza;Maquiagem;3;72,85;218,55;TikTok Ads;5;37,60;Processando;;;
+PED-0754;01/11/2023;CLI-3175;Belo Horizonte;GO;Centro-Oeste;Brinquedos;Carrinho;2;830,02;1660,04;Facebook Ads;0;8,44;Entregue;3;4;Não
+PED-0755;29/09/2023;CLI-9514;Natal;BA;Nordeste;Brinquedos;Carrinho;5;1974,51;9872,55;YouTube Ads;0;1,49;Em Transporte;;;
+PED-0756;06/04/2024;CLI-4536;Aparecida de Goiânia;PR;Sul;Alimentos;Kit Fitness;3;2929,11;8787,33;TikTok Ads;30;49,72;Processando;;;
+PED-0757;12/01/2024;CLI-1309;Cuiabá;SE;Nordeste;Moda;Relógio;1;3080,60;3080,60;YouTube Ads;0;4,29;Entregue;3;1;Sim
+PED-0758;05/02/2023;CLI-7968;Belém;SC;Sul;Brinquedos;Boneca;5;1666,86;8334,30;Facebook Ads;5;24,07;Processando;;;
+PED-0759;05/06/2023;CLI-4045;Belém;DF;Centro-Oeste;Esportes;Tapete Yoga;2;593,40;1186,80;E-mail Marketing;0;29,29;Devolvido;;21;
+PED-0760;27/02/2023;CLI-2494;Goiânia;MG;Sudeste;Casa;Luminária;2;714,60;1429,20;Instagram Ads;10;22,60;Em Transporte;;;
+PED-0761;01/03/2024;CLI-3429;Manaus;DF;Centro-Oeste;Casa;Vaso Decorativo;1;77,69;77,69;TikTok Ads;5;30,74;Em Transporte;;;
+PED-0762;08/08/2024;CLI-8895;Belém;GO;Centro-Oeste;Casa;Almofada;4;2005,25;8021,00;Orgânico;25;7,87;Processando;;;
+PED-0763;10/02/2023;CLI-8776;Vitória;SE;Nordeste;Casa;Almofada;4;1687,68;6750,72;YouTube Ads;0;14,15;Devolvido;;11;
+PED-0764;13/09/2023;CLI-4250;Campo Grande;PB;Nordeste;Brinquedos;Lego;2;450,91;901,82;Orgânico;0;13,42;Cancelado;;;
+PED-0765;16/03/2024;CLI-6896;Osasco;MT;Centro-Oeste;Esportes;Tênis Corrida;2;3369,65;6739,30;TikTok Ads;30;29,25;Entregue;5;20;Não
+PED-0766;03/01/2024;CLI-7598;Curitiba;RR;Norte;Casa;Luminária;1;1668,49;1668,49;Influenciador;30;40,38;Entregue;5;18;Não
+PED-0767;10/03/2024;CLI-7977;Recife;PR;Sul;Eletrônicos;Smartphone;2;2735,96;5471,92;E-mail Marketing;20;11,20;Entregue;3;21;Não
+PED-0768;31/12/2023;CLI-3567;Belém;SP;Sudeste;Brinquedos;Quebra-Cabeça;2;1959,20;3918,40;YouTube Ads;20;11,55;Processando;;;
+PED-0769;05/10/2023;CLI-9358;Belém;PR;Sul;Moda;Bolsa;5;2959,08;14795,40;Facebook Ads;10;11,43;Cancelado;;;
+PED-0770;08/04/2023;CLI-7250;Osasco;DF;Centro-Oeste;Moda;Relógio;3;2029,50;6088,50;E-mail Marketing;15;6,09;Cancelado;;;
+PED-0771;15/01/2024;CLI-8885;Salvador;PI;Nordeste;Moda;Bolsa;4;1116,51;4466,04;E-mail Marketing;15;10,45;Devolvido;;10;
+PED-0772;01/05/2024;CLI-5567;Florianópolis;MS;Centro-Oeste;Beleza;Perfume;5;1303,66;6518,30;YouTube Ads;25;5,11;Em Transporte;;;
+PED-0773;18/07/2024;CLI-1033;Salvador;RR;Norte;Livros;HQ/Mangá;2;914,00;1828,00;Orgânico;10;26,79;Em Transporte;;;
+PED-0774;24/07/2024;CLI-9200;Manaus;MT;Centro-Oeste;Brinquedos;Quebra-Cabeça;3;1073,69;3221,07;Influenciador;20;0,90;Cancelado;;;
+PED-0775;22/04/2023;CLI-6157;Juiz de Fora;SP;Sudeste;Brinquedos;Quebra-Cabeça;1;2745,58;2745,58;Google Ads;25;1,98;Devolvido;;15;
+PED-0776;03/11/2024;CLI-3935;Natal;RR;Norte;Esportes;Tênis Corrida;2;3296,99;6593,98;Instagram Ads;10;4,35;Em Transporte;;;
+PED-0777;08/01/2023;CLI-6398;Salvador;MA;Nordeste;Alimentos;Vinho;3;2887,62;8662,86;Orgânico;0;30,95;Em Transporte;;;
+PED-0778;29/09/2023;CLI-9095;Natal;PR;Sul;Brinquedos;Quebra-Cabeça;4;1812,07;7248,28;TikTok Ads;25;7,78;Cancelado;;;
+PED-0779;15/06/2024;CLI-4182;Fortaleza;RO;Norte;Esportes;Bola;5;422,62;2113,10;YouTube Ads;0;13,50;Em Transporte;;;
+PED-0780;26/03/2024;CLI-1564;Maceió;SP;Sudeste;Beleza;Shampoo;3;940,71;2822,13;E-mail Marketing;20;10,09;Devolvido;;5;
+PED-0781;02/06/2023;CLI-8045;Uberlândia;PB;Nordeste;Livros;Romance;4;703,44;2813,76;YouTube Ads;10;37,61;Em Transporte;;;
+PED-0782;27/12/2024;CLI-6622;Cuiabá;GO;Centro-Oeste;Eletrônicos;Fone Bluetooth;1;2509,15;2509,15;Orgânico;20;25,34;Devolvido;;6;
+PED-0783;24/07/2023;CLI-2263;Guarulhos;RN;Nordeste;Alimentos;Cesta Orgânica;4;1085,71;4342,84;Orgânico;0;40,97;Cancelado;;;
+PED-0784;21/01/2024;CLI-8221;Fortaleza;PR;Sul;Eletrônicos;Smartphone;4;1054,79;4219,16;Instagram Ads;30;10,50;Em Transporte;;;
+PED-0785;09/10/2024;CLI-1245;Fortaleza;ES;Sudeste;Beleza;Maquiagem;2;2540,94;5081,88;Orgânico;25;14,44;Processando;;;
+PED-0786;20/10/2023;CLI-5213;Cuiabá;AL;Nordeste;Eletrônicos;Fone Bluetooth;1;390,70;390,70;YouTube Ads;25;43,70;Cancelado;;;
+PED-0787;23/05/2023;CLI-1526;São Paulo;ES;Sudeste;Esportes;Tênis Corrida;5;2570,41;12852,05;Facebook Ads;0;15,73;Processando;;;
+PED-0788;08/08/2024;CLI-3625;Niterói;MA;Nordeste;Esportes;Bola;5;2220,31;11101,55;Facebook Ads;0;48,90;Processando;;;
+PED-0789;20/01/2024;CLI-8741;Porto Alegre;MA;Nordeste;Eletrônicos;Notebook;1;1175,77;1175,77;Orgânico;25;18,06;Processando;;;
+PED-0790;09/11/2024;CLI-9128;São José dos Campos;PB;Nordeste;Esportes;Garrafa Térmica;4;1758,00;7032,00;Facebook Ads;10;41,11;Em Transporte;;;
+PED-0791;30/08/2024;CLI-8134;Guarulhos;CE;Nordeste;Brinquedos;Boneca;1;3055,98;3055,98;Instagram Ads;5;32,14;Processando;;;
+PED-0792;15/06/2024;CLI-4844;Ribeirão Preto;AC;Norte;Esportes;Bola;4;2118,85;8475,40;E-mail Marketing;30;47,52;Processando;;;
+PED-0793;28/03/2024;CLI-1074;Ribeirão Preto;PA;Norte;Beleza;Hidratante;5;1255,73;6278,65;YouTube Ads;20;27,78;Processando;;;
+PED-0794;13/08/2023;CLI-3022;Maringá;PR;Sul;Esportes;Tapete Yoga;4;549,72;2198,88;Facebook Ads;15;45,73;Entregue;4;6;Não
+PED-0795;03/06/2023;CLI-9976;Maceió;AC;Norte;Esportes;Tênis Corrida;4;3015,73;12062,92;Instagram Ads;20;10,44;Processando;;;
+PED-0796;11/09/2023;CLI-9661;Curitiba;SP;Sudeste;Esportes;Tênis Corrida;4;627,88;2511,52;Orgânico;0;32,72;Em Transporte;;;
+PED-0797;19/03/2023;CLI-7219;Campo Grande;RR;Norte;Alimentos;Cesta Orgânica;4;368,78;1475,12;E-mail Marketing;15;42,94;Em Transporte;;;
+PED-0798;10/09/2024;CLI-9718;Santos;BA;Nordeste;Esportes;Tênis Corrida;2;2186,35;4372,70;Instagram Ads;5;28,40;Cancelado;;;
+PED-0799;20/08/2023;CLI-3160;Belém;RR;Norte;Brinquedos;Lego;1;1125,89;1125,89;Instagram Ads;10;44,69;Cancelado;;;
+PED-0800;17/05/2024;CLI-9501;Fortaleza;MA;Nordeste;Moda;Relógio;1;641,36;641,36;Google Ads;20;34,78;Cancelado;;;
+PED-0801;13/01/2023;CLI-6496;Ribeirão Preto;BA;Nordeste;Brinquedos;Quebra-Cabeça;5;247,19;1235,95;Google Ads;15;47,39;Processando;;;
+PED-0802;04/12/2024;CLI-7783;Maringá;AL;Nordeste;Livros;HQ/Mangá;2;1763,25;3526,50;Orgânico;0;0,89;Cancelado;;;
+PED-0803;09/01/2024;CLI-3969;Cuiabá;BA;Nordeste;Alimentos;Kit Fitness;3;1375,40;4126,20;Google Ads;25;24,48;Em Transporte;;;
+PED-0804;23/02/2024;CLI-9242;Juiz de Fora;PE;Nordeste;Beleza;Hidratante;3;2463,66;7390,98;Google Ads;25;35,91;Devolvido;;8;
+PED-0805;01/01/2023;CLI-6175;Niterói;TO;Norte;Brinquedos;Jogo de Tabuleiro;3;195,52;586,56;E-mail Marketing;30;48,75;Devolvido;;22;
+PED-0806;07/11/2023;CLI-8943;Ribeirão Preto;RJ;Sudeste;Moda;Calça Jeans;2;2151,18;4302,36;Google Ads;30;15,02;Em Transporte;;;
+PED-0807;13/06/2024;CLI-7592;Aparecida de Goiânia;AM;Norte;Moda;Camiseta;3;3026,81;9080,43;TikTok Ads;10;46,86;Processando;;;
+PED-0808;08/12/2024;CLI-8809;Uberlândia;MG;Sudeste;Alimentos;Chocolate;1;3102,47;3102,47;Facebook Ads;25;44,38;Entregue;3;8;Não
+PED-0809;07/03/2024;CLI-8243;Belo Horizonte;RR;Norte;Esportes;Bola;3;414,04;1242,12;TikTok Ads;0;45,21;Cancelado;;;
+PED-0810;27/05/2023;CLI-2013;Niterói;AL;Nordeste;Livros;HQ/Mangá;5;2106,22;10531,10;Orgânico;0;47,92;Em Transporte;;;
+PED-0811;07/03/2023;CLI-5802;Ribeirão Preto;SC;Sul;Livros;Romance;3;1197,95;3593,85;YouTube Ads;20;20,10;Cancelado;;;
+PED-0812;06/03/2024;CLI-1535;Joinville;ES;Sudeste;Brinquedos;Carrinho;1;2670,13;2670,13;Instagram Ads;15;43,89;Entregue;3;4;Não
+PED-0813;19/01/2024;CLI-4858;Belém;BA;Nordeste;Eletrônicos;Smart Watch;1;3168,18;3168,18;Orgânico;0;22,35;Em Transporte;;;
+PED-0814;02/05/2024;CLI-2710;João Pessoa;RS;Sul;Esportes;Tapete Yoga;1;1021,10;1021,10;Google Ads;5;2,08;Em Transporte;;;
+PED-0815;07/03/2023;CLI-1959;Manaus;RS;Sul;Beleza;Maquiagem;5;1480,88;7404,40;Influenciador;20;44,66;Devolvido;;24;
+PED-0816;18/11/2023;CLI-5258;Guarulhos;RS;Sul;Brinquedos;Boneca;5;2484,80;12424,00;Orgânico;0;35,75;Em Transporte;;;
+PED-0817;28/11/2023;CLI-3876;Curitiba;SC;Sul;Moda;Camiseta;4;2046,16;8184,64;YouTube Ads;10;43,00;Devolvido;;13;
+PED-0818;15/01/2024;CLI-5460;São Paulo;SC;Sul;Eletrônicos;Smartphone;3;702,23;2106,69;TikTok Ads;20;9,17;Processando;;;
+PED-0819;20/10/2023;CLI-2389;Juiz de Fora;SC;Sul;Alimentos;Café Especial;3;716,73;2150,19;Google Ads;0;31,13;Cancelado;;;
+PED-0820;29/07/2024;CLI-5535;São José dos Campos;SP;Sudeste;Moda;Calça Jeans;4;2389,37;9557,48;Influenciador;25;38,42;Devolvido;;11;
+PED-0821;24/02/2024;CLI-7493;Niterói;ES;Sudeste;Beleza;Perfume;5;47,81;239,05;Influenciador;15;10,73;Em Transporte;;;
+PED-0822;15/04/2023;CLI-7412;Londrina;PA;Norte;Brinquedos;Jogo de Tabuleiro;1;2591,61;2591,61;Orgânico;25;13,12;Devolvido;;1;
+PED-0823;16/12/2024;CLI-7469;Goiânia;MT;Centro-Oeste;Moda;Camiseta;3;1920,39;5761,17;Instagram Ads;0;3,71;Devolvido;;24;
+PED-0824;21/10/2023;CLI-6696;Teresina;PA;Norte;Alimentos;Cesta Orgânica;2;1495,34;2990,68;YouTube Ads;10;46,92;Entregue;1;6;Não
+PED-0825;07/03/2023;CLI-6955;Niterói;MG;Sudeste;Casa;Vaso Decorativo;5;1671,62;8358,10;Influenciador;20;10,30;Devolvido;;25;
+PED-0826;22/01/2023;CLI-7711;Natal;RJ;Sudeste;Alimentos;Chocolate;1;2722,25;2722,25;YouTube Ads;25;17,38;Processando;;;
+PED-0827;22/06/2024;CLI-7542;Rio de Janeiro;RR;Norte;Moda;Calça Jeans;3;3114,07;9342,21;Facebook Ads;10;11,40;Processando;;;
+PED-0828;23/08/2024;CLI-9182;Joinville;CE;Nordeste;Brinquedos;Lego;5;3100,03;15500,15;Orgânico;0;19,00;Processando;;;
+PED-0829;12/11/2023;CLI-2015;Niterói;RO;Norte;Moda;Tênis;4;2393,81;9575,24;TikTok Ads;10;17,95;Entregue;5;25;Não
+PED-0830;17/03/2024;CLI-3346;Feira de Santana;DF;Centro-Oeste;Alimentos;Café Especial;1;1388,35;1388,35;Influenciador;0;5,44;Processando;;;
+PED-0831;12/01/2023;CLI-4618;Curitiba;GO;Centro-Oeste;Moda;Calça Jeans;4;1297,07;5188,28;Instagram Ads;25;6,14;Em Transporte;;;
+PED-0832;12/03/2024;CLI-5305;Salvador;GO;Centro-Oeste;Eletrônicos;Smart Watch;5;1924,09;9620,45;Google Ads;25;9,59;Em Transporte;;;
+PED-0833;08/04/2023;CLI-6381;Salvador;PA;Norte;Brinquedos;Quebra-Cabeça;2;1471,34;2942,68;Instagram Ads;0;34,06;Entregue;2;3;Não
+PED-0834;20/07/2023;CLI-9480;Sorocaba;AM;Norte;Casa;Vaso Decorativo;1;1835,10;1835,10;YouTube Ads;0;35,92;Cancelado;;;
+PED-0835;21/07/2023;CLI-5930;Ribeirão Preto;PB;Nordeste;Moda;Calça Jeans;3;3282,26;9846,78;Google Ads;10;28,38;Cancelado;;;
+PED-0836;02/11/2024;CLI-8480;Brasília;DF;Centro-Oeste;Esportes;Tênis Corrida;3;1222,97;3668,91;Instagram Ads;20;40,03;Devolvido;;23;
+PED-0837;01/12/2023;CLI-1085;Belo Horizonte;SC;Sul;Brinquedos;Jogo de Tabuleiro;3;2137,59;6412,77;Orgânico;5;43,62;Em Transporte;;;
+PED-0838;04/10/2024;CLI-5578;Sorocaba;AP;Norte;Eletrônicos;Fone Bluetooth;4;2890,30;11561,20;Facebook Ads;30;30,99;Em Transporte;;;
+PED-0839;07/11/2024;CLI-3907;Brasília;RS;Sul;Livros;Técnico;3;160,48;481,44;YouTube Ads;15;39,01;Processando;;;
+PED-0840;22/05/2023;CLI-7675;Recife;RN;Nordeste;Eletrônicos;Fone Bluetooth;2;3367,98;6735,96;Facebook Ads;15;27,43;Devolvido;;3;
+PED-0841;12/01/2023;CLI-7747;Maringá;MT;Centro-Oeste;Alimentos;Chocolate;3;2936,83;8810,49;Facebook Ads;15;19,74;Processando;;;
+PED-0842;20/08/2024;CLI-4036;Niterói;SE;Nordeste;Alimentos;Chocolate;1;1541,33;1541,33;YouTube Ads;0;26,09;Em Transporte;;;
+PED-0843;29/01/2023;CLI-7160;Recife;CE;Nordeste;Moda;Calça Jeans;4;1777,56;7110,24;Orgânico;5;10,76;Entregue;5;25;Não
+PED-0844;11/03/2024;CLI-1702;Belo Horizonte;MS;Centro-Oeste;Brinquedos;Jogo de Tabuleiro;5;2206,78;11033,90;Orgânico;20;45,49;Entregue;1;1;Não
+PED-0845;22/08/2024;CLI-1085;Campinas;MG;Sudeste;Alimentos;Vinho;3;35,75;107,25;YouTube Ads;15;6,11;Processando;;;
+PED-0846;02/09/2023;CLI-9363;Londrina;PB;Nordeste;Beleza;Perfume;5;1694,99;8474,95;YouTube Ads;0;3,76;Em Transporte;;;
+PED-0847;09/07/2023;CLI-8186;Juiz de Fora;TO;Norte;Livros;Autoajuda;2;274,89;549,78;TikTok Ads;5;20,38;Em Transporte;;;
+PED-0848;29/01/2024;CLI-3412;João Pessoa;AC;Norte;Casa;Vaso Decorativo;1;531,58;531,58;TikTok Ads;5;14,72;Processando;;;
+PED-0849;20/10/2024;CLI-9915;Uberlândia;TO;Norte;Casa;Organizador;5;1120,36;5601,80;Google Ads;25;30,40;Cancelado;;;
+PED-0850;06/08/2023;CLI-1182;Porto Alegre;AL;Nordeste;Beleza;Hidratante;1;2372,51;2372,51;Orgânico;0;11,59;Em Transporte;;;
+PED-0851;09/06/2024;CLI-6813;Rio de Janeiro;DF;Centro-Oeste;Brinquedos;Quebra-Cabeça;4;2652,67;10610,68;E-mail Marketing;20;15,11;Processando;;;
+PED-0852;19/04/2023;CLI-6924;Uberlândia;MT;Centro-Oeste;Moda;Tênis;1;2967,40;2967,40;Orgânico;15;38,60;Em Transporte;;;
+PED-0853;18/05/2024;CLI-7471;Salvador;SE;Nordeste;Eletrônicos;Smart Watch;4;1609,09;6436,36;E-mail Marketing;10;0,29;Devolvido;;12;
+PED-0854;19/12/2023;CLI-7888;Goiânia;AP;Norte;Casa;Vaso Decorativo;1;670,93;670,93;Facebook Ads;25;15,12;Em Transporte;;;
+PED-0855;09/06/2023;CLI-5399;Juiz de Fora;PB;Nordeste;Beleza;Maquiagem;4;104,10;416,40;Google Ads;30;3,49;Devolvido;;24;
+PED-0856;14/08/2024;CLI-2374;Londrina;GO;Centro-Oeste;Moda;Relógio;4;2856,78;11427,12;TikTok Ads;0;47,72;Cancelado;;;
+PED-0857;19/07/2024;CLI-8170;Campinas;AP;Norte;Esportes;Garrafa Térmica;1;425,68;425,68;Orgânico;30;18,23;Cancelado;;;
+PED-0858;18/07/2023;CLI-2227;Teresina;RS;Sul;Beleza;Perfume;1;3019,96;3019,96;YouTube Ads;0;5,44;Devolvido;;11;
+PED-0859;30/05/2024;CLI-4077;São José dos Campos;MS;Centro-Oeste;Casa;Vaso Decorativo;4;2341,15;9364,60;Instagram Ads;30;39,41;Cancelado;;;
+PED-0860;28/05/2024;CLI-7018;Vitória;AM;Norte;Casa;Almofada;3;999,90;2999,70;Orgânico;30;2,91;Processando;;;
+PED-0861;07/08/2023;CLI-5604;Niterói;PB;Nordeste;Esportes;Haltere;5;1000,79;5003,95;TikTok Ads;0;29,78;Devolvido;;22;
+PED-0862;07/09/2023;CLI-7336;Niterói;CE;Nordeste;Eletrônicos;Fone Bluetooth;4;2578,17;10312,68;Google Ads;15;8,35;Processando;;;
+PED-0863;07/04/2024;CLI-8274;Recife;SC;Sul;Moda;Calça Jeans;4;3109,13;12436,52;Facebook Ads;25;5,85;Entregue;4;17;Sim
+PED-0864;17/10/2024;CLI-2708;Campinas;RN;Nordeste;Eletrônicos;Smartphone;4;1797,56;7190,24;Influenciador;25;19,18;Devolvido;;6;
+PED-0865;07/02/2023;CLI-1341;Londrina;RR;Norte;Moda;Calça Jeans;1;1769,64;1769,64;Facebook Ads;10;12,31;Em Transporte;;;
+PED-0866;18/10/2023;CLI-2867;Porto Alegre;MT;Centro-Oeste;Esportes;Tênis Corrida;4;31,15;124,60;Facebook Ads;10;12,00;Cancelado;;;
+PED-0867;02/07/2024;CLI-6994;Guarulhos;MG;Sudeste;Moda;Relógio;1;2047,94;2047,94;YouTube Ads;30;41,10;Devolvido;;10;
+PED-0868;04/08/2024;CLI-7767;Londrina;AP;Norte;Esportes;Garrafa Térmica;1;519,77;519,77;Google Ads;10;45,94;Entregue;1;20;Não
+PED-0869;25/03/2023;CLI-2887;Santos;SC;Sul;Livros;Não-Ficção;4;1681,43;6725,72;Influenciador;15;20,96;Em Transporte;;;
+PED-0870;25/07/2024;CLI-5931;Belo Horizonte;MG;Sudeste;Moda;Bolsa;2;2561,31;5122,62;E-mail Marketing;25;24,53;Cancelado;;;
+PED-0871;03/12/2024;CLI-9138;Goiânia;RN;Nordeste;Livros;Técnico;1;1634,02;1634,02;Facebook Ads;15;28,67;Processando;;;
+PED-0872;23/03/2023;CLI-2644;Osasco;CE;Nordeste;Moda;Tênis;2;3232,85;6465,70;E-mail Marketing;5;11,26;Entregue;3;3;Não
+PED-0873;23/10/2023;CLI-7376;Feira de Santana;PB;Nordeste;Moda;Tênis;4;328,91;1315,64;Instagram Ads;0;43,45;Devolvido;;14;
+PED-0874;04/04/2024;CLI-2217;Florianópolis;MS;Centro-Oeste;Livros;HQ/Mangá;3;64,81;194,43;TikTok Ads;30;19,19;Cancelado;;;
+PED-0875;07/02/2023;CLI-6650;Osasco;AL;Nordeste;Livros;HQ/Mangá;2;772,79;1545,58;Orgânico;30;15,29;Em Transporte;;;
+PED-0876;02/01/2023;CLI-3077;Aparecida de Goiânia;AC;Norte;Brinquedos;Carrinho;4;295,98;1183,92;Orgânico;25;7,91;Cancelado;;;
+PED-0877;19/04/2023;CLI-2883;Ribeirão Preto;CE;Nordeste;Casa;Almofada;3;3037,43;9112,29;Orgânico;20;26,73;Processando;;;
+PED-0878;23/11/2023;CLI-3953;Londrina;PB;Nordeste;Moda;Camiseta;2;277,36;554,72;Facebook Ads;30;21,70;Processando;;;
+PED-0879;14/07/2024;CLI-3433;Maceió;SP;Sudeste;Livros;Técnico;1;781,43;781,43;E-mail Marketing;5;22,94;Processando;;;
+PED-0880;23/05/2023;CLI-4640;Aracaju;AP;Norte;Esportes;Bola;2;1770,89;3541,78;YouTube Ads;30;25,52;Entregue;3;22;Não
+PED-0881;10/09/2023;CLI-9211;Juiz de Fora;MT;Centro-Oeste;Casa;Quadro;2;1858,59;3717,18;TikTok Ads;15;32,14;Entregue;5;17;Não
+PED-0882;04/09/2023;CLI-7906;Sorocaba;RJ;Sudeste;Esportes;Tapete Yoga;2;1980,83;3961,66;Influenciador;25;13,76;Em Transporte;;;
+PED-0883;22/08/2023;CLI-2217;Teresina;MA;Nordeste;Eletrônicos;Tablet;1;1629,41;1629,41;Instagram Ads;20;25,78;Em Transporte;;;
+PED-0884;16/08/2024;CLI-9034;Manaus;PR;Sul;Moda;Relógio;4;3120,80;12483,20;Instagram Ads;10;34,11;Cancelado;;;
+PED-0885;07/08/2024;CLI-6521;Porto Velho;RN;Nordeste;Moda;Bolsa;3;1701,80;5105,40;Orgânico;0;4,13;Devolvido;;14;
+PED-0886;17/05/2023;CLI-3452;Salvador;SE;Nordeste;Alimentos;Chocolate;2;1416,49;2832,98;Google Ads;25;45,09;Entregue;2;16;Não
+PED-0887;07/09/2024;CLI-5605;Aracaju;GO;Centro-Oeste;Casa;Organizador;2;2562,86;5125,72;YouTube Ads;0;37,71;Em Transporte;;;
+PED-0888;07/02/2023;CLI-9976;Brasília;PA;Norte;Livros;HQ/Mangá;5;1576,77;7883,85;E-mail Marketing;0;22,92;Cancelado;;;
+PED-0889;15/11/2023;CLI-6608;Ribeirão Preto;DF;Centro-Oeste;Eletrônicos;Fone Bluetooth;1;3065,79;3065,79;Instagram Ads;5;1,44;Em Transporte;;;
+PED-0890;30/06/2024;CLI-8175;Salvador;PB;Nordeste;Moda;Tênis;5;666,25;3331,25;Facebook Ads;25;29,85;Devolvido;;16;
+PED-0891;08/12/2023;CLI-3203;Cuiabá;RS;Sul;Brinquedos;Jogo de Tabuleiro;4;3008,73;12034,92;Orgânico;0;45,90;Devolvido;;9;
+PED-0892;06/07/2024;CLI-1213;Ribeirão Preto;MG;Sudeste;Alimentos;Chocolate;1;1518,45;1518,45;Orgânico;20;30,54;Em Transporte;;;
+PED-0893;15/12/2023;CLI-4785;Santos;AM;Norte;Eletrônicos;Notebook;5;1555,92;7779,60;YouTube Ads;0;19,52;Cancelado;;;
+PED-0894;22/12/2023;CLI-7546;Rio de Janeiro;TO;Norte;Casa;Luminária;1;2775,97;2775,97;E-mail Marketing;10;5,85;Devolvido;;10;
+PED-0895;12/01/2023;CLI-1847;Sorocaba;TO;Norte;Alimentos;Kit Fitness;5;1978,69;9893,45;Orgânico;30;47,97;Cancelado;;;
+PED-0896;03/12/2024;CLI-2308;Aparecida de Goiânia;AC;Norte;Moda;Bolsa;3;2017,43;6052,29;E-mail Marketing;10;23,14;Devolvido;;17;
+PED-0897;19/12/2023;CLI-8753;Rio de Janeiro;TO;Norte;Esportes;Garrafa Térmica;1;3146,36;3146,36;YouTube Ads;30;35,85;Entregue;1;10;Não
+PED-0898;27/12/2023;CLI-3543;Sorocaba;SC;Sul;Alimentos;Vinho;3;2045,75;6137,25;Influenciador;10;36,71;Cancelado;;;
+PED-0899;30/10/2024;CLI-3021;Salvador;PB;Nordeste;Esportes;Haltere;2;202,53;405,06;Instagram Ads;0;27,54;Cancelado;;;
+PED-0900;01/02/2023;CLI-2389;São José dos Campos;GO;Centro-Oeste;Moda;Relógio;4;2479,29;9917,16;Orgânico;5;7,16;Cancelado;;;
+PED-0901;24/08/2024;CLI-7998;Rio de Janeiro;MS;Centro-Oeste;Beleza;Shampoo;4;2708,67;10834,68;Instagram Ads;15;40,37;Processando;;;
+PED-0902;18/05/2024;CLI-6291;João Pessoa;SE;Nordeste;Casa;Quadro;3;1820,30;5460,90;YouTube Ads;0;7,65;Em Transporte;;;
+PED-0903;16/10/2023;CLI-3585;Santos;PB;Nordeste;Casa;Organizador;2;1678,59;3357,18;Orgânico;0;25,50;Processando;;;
+PED-0904;25/12/2024;CLI-7668;Niterói;ES;Sudeste;Moda;Relógio;5;3261,88;16309,40;Google Ads;0;16,16;Cancelado;;;
+PED-0905;31/10/2023;CLI-1490;Fortaleza;SC;Sul;Esportes;Bola;1;1169,15;1169,15;Influenciador;0;10,69;Entregue;4;21;Não
+PED-0906;03/02/2024;CLI-5131;Curitiba;PR;Sul;Beleza;Perfume;2;1208,96;2417,92;Google Ads;15;48,14;Cancelado;;;
+PED-0907;16/12/2024;CLI-7357;Joinville;RS;Sul;Casa;Vaso Decorativo;5;304,15;1520,75;Facebook Ads;0;14,48;Cancelado;;;
+PED-0908;16/12/2023;CLI-2273;Londrina;MA;Nordeste;Eletrônicos;Smart Watch;3;2734,98;8204,94;TikTok Ads;10;17,63;Entregue;1;10;Não
+PED-0909;08/04/2023;CLI-1839;São José dos Campos;TO;Norte;Esportes;Tênis Corrida;3;761,70;2285,10;E-mail Marketing;0;10,84;Processando;;;
+PED-0910;16/08/2024;CLI-6168;Cuiabá;PB;Nordeste;Moda;Bolsa;5;2438,96;12194,80;E-mail Marketing;25;16,91;Em Transporte;;;
+PED-0911;21/05/2023;CLI-5001;Porto Alegre;PB;Nordeste;Beleza;Hidratante;4;2104,97;8419,88;Google Ads;5;17,14;Entregue;2;24;Não
+PED-0912;14/03/2024;CLI-7482;Cuiabá;BA;Nordeste;Casa;Vaso Decorativo;3;3025,44;9076,32;Facebook Ads;10;32,93;Em Transporte;;;
+PED-0913;01/06/2023;CLI-5188;Campinas;AC;Norte;Esportes;Tênis Corrida;4;1781,04;7124,16;TikTok Ads;15;31,46;Entregue;2;5;Não
+PED-0914;28/02/2023;CLI-8907;Fortaleza;AL;Nordeste;Esportes;Tapete Yoga;3;1339,05;4017,15;Instagram Ads;15;38,91;Processando;;;
+PED-0915;22/12/2024;CLI-2895;Aracaju;RN;Nordeste;Eletrônicos;Smart Watch;1;2031,87;2031,87;Instagram Ads;5;3,70;Cancelado;;;
+PED-0916;18/06/2023;CLI-7508;Teresina;PE;Nordeste;Esportes;Garrafa Térmica;4;925,92;3703,68;YouTube Ads;10;4,00;Cancelado;;;
+PED-0917;10/04/2023;CLI-1980;Ribeirão Preto;RS;Sul;Brinquedos;Quebra-Cabeça;2;3267,64;6535,28;TikTok Ads;0;27,68;Cancelado;;;
+PED-0918;26/12/2023;CLI-3998;Campo Grande;ES;Sudeste;Esportes;Haltere;2;1051,23;2102,46;E-mail Marketing;25;25,51;Entregue;4;2;Sim
+PED-0919;30/07/2023;CLI-9843;Sorocaba;RJ;Sudeste;Brinquedos;Lego;1;2793,98;2793,98;Google Ads;20;9,76;Entregue;4;12;Não
+PED-0920;02/01/2024;CLI-2141;João Pessoa;TO;Norte;Alimentos;Vinho;3;979,64;2938,92;Google Ads;30;20,18;Processando;;;
+PED-0921;27/05/2023;CLI-4215;Curitiba;RS;Sul;Esportes;Haltere;4;1532,23;6128,92;Facebook Ads;0;7,58;Em Transporte;;;
+PED-0922;30/12/2023;CLI-2388;João Pessoa;MA;Nordeste;Alimentos;Kit Fitness;5;1049,99;5249,95;Facebook Ads;10;42,29;Em Transporte;;;
+PED-0923;11/03/2024;CLI-8414;Fortaleza;PR;Sul;Beleza;Hidratante;5;2691,36;13456,80;TikTok Ads;15;48,83;Devolvido;;3;
+PED-0924;26/10/2024;CLI-6370;Londrina;AL;Nordeste;Moda;Bolsa;2;2122,99;4245,98;Orgânico;10;41,06;Devolvido;;11;
+PED-0925;15/04/2023;CLI-2305;Manaus;RO;Norte;Casa;Vaso Decorativo;3;1577,78;4733,34;Facebook Ads;30;14,39;Devolvido;;5;
+PED-0926;16/04/2023;CLI-6721;Manaus;RO;Norte;Brinquedos;Boneca;5;315,61;1578,05;Influenciador;20;20,16;Cancelado;;;
+PED-0927;14/11/2023;CLI-7079;Londrina;SC;Sul;Moda;Bolsa;3;606,69;1820,07;Facebook Ads;15;43,23;Em Transporte;;;
+PED-0928;11/02/2023;CLI-8204;Ribeirão Preto;CE;Nordeste;Brinquedos;Boneca;1;1622,85;1622,85;Instagram Ads;5;35,80;Devolvido;;1;
+PED-0929;01/01/2024;CLI-4277;Campo Grande;SE;Nordeste;Casa;Luminária;2;3401,52;6803,04;E-mail Marketing;15;31,60;Devolvido;;2;
+PED-0930;15/05/2024;CLI-1368;São José dos Campos;SE;Nordeste;Livros;Romance;5;3326,35;16631,75;Facebook Ads;5;4,34;Entregue;2;4;Não
+PED-0931;26/11/2023;CLI-4414;Juiz de Fora;DF;Centro-Oeste;Moda;Bolsa;1;1249,22;1249,22;Google Ads;10;2,36;Em Transporte;;;
+PED-0932;14/06/2023;CLI-4396;Londrina;SP;Sudeste;Brinquedos;Quebra-Cabeça;4;1077,45;4309,80;E-mail Marketing;0;8,71;Processando;;;
+PED-0933;22/10/2024;CLI-3071;São Luís;RO;Norte;Brinquedos;Lego;4;2919,79;11679,16;E-mail Marketing;20;14,10;Entregue;4;3;Sim
+PED-0934;01/10/2024;CLI-4841;Recife;RN;Nordeste;Alimentos;Kit Fitness;1;1684,42;1684,42;Google Ads;0;15,96;Entregue;1;10;Não
+PED-0935;20/06/2024;CLI-6950;Goiânia;PE;Nordeste;Alimentos;Vinho;1;940,07;940,07;E-mail Marketing;5;34,44;Devolvido;;1;
+PED-0936;08/11/2023;CLI-5018;Curitiba;PB;Nordeste;Beleza;Perfume;2;467,14;934,28;Facebook Ads;0;2,40;Em Transporte;;;
+PED-0937;05/06/2024;CLI-8722;Feira de Santana;PI;Nordeste;Moda;Calça Jeans;5;3271,81;16359,05;TikTok Ads;20;34,39;Em Transporte;;;
+PED-0938;09/01/2024;CLI-8989;Porto Alegre;RJ;Sudeste;Beleza;Perfume;2;3204,33;6408,66;E-mail Marketing;25;44,29;Processando;;;
+PED-0939;07/07/2023;CLI-8913;Vitória;PA;Norte;Alimentos;Kit Fitness;4;2626,88;10507,52;Orgânico;15;30,26;Cancelado;;;
+PED-0940;05/02/2024;CLI-3697;Maceió;TO;Norte;Brinquedos;Carrinho;1;333,55;333,55;Orgânico;10;13,15;Em Transporte;;;
+PED-0941;04/08/2023;CLI-9100;Feira de Santana;RR;Norte;Eletrônicos;Fone Bluetooth;5;2044,40;10222,00;YouTube Ads;5;29,76;Em Transporte;;;
+PED-0942;21/04/2023;CLI-3411;Porto Alegre;PE;Nordeste;Alimentos;Vinho;2;1111,50;2223,00;Instagram Ads;0;32,24;Em Transporte;;;
+PED-0943;14/01/2024;CLI-7909;Maceió;MA;Nordeste;Esportes;Tapete Yoga;1;656,13;656,13;TikTok Ads;0;29,34;Devolvido;;19;
+PED-0944;21/07/2023;CLI-7393;Aparecida de Goiânia;RS;Sul;Eletrônicos;Smart Watch;5;2325,36;11626,80;Instagram Ads;30;41,64;Entregue;4;13;Não
+PED-0945;07/12/2023;CLI-7676;Goiânia;AM;Norte;Esportes;Tênis Corrida;2;1359,13;2718,26;Facebook Ads;15;8,20;Entregue;5;10;Sim
+PED-0946;26/02/2024;CLI-9083;Vitória;MG;Sudeste;Beleza;Protetor Solar;2;3008,41;6016,82;E-mail Marketing;10;49,51;Processando;;;
+PED-0947;16/12/2024;CLI-5080;Guarulhos;ES;Sudeste;Casa;Organizador;4;1357,29;5429,16;E-mail Marketing;30;45,26;Em Transporte;;;
+PED-0948;19/07/2024;CLI-3669;Salvador;RO;Norte;Moda;Tênis;3;2420,51;7261,53;TikTok Ads;30;17,69;Em Transporte;;;
+PED-0949;20/01/2023;CLI-2957;São José dos Campos;PA;Norte;Eletrônicos;Notebook;2;411,24;822,48;Orgânico;25;15,95;Cancelado;;;
+PED-0950;12/09/2024;CLI-9692;Niterói;RJ;Sudeste;Eletrônicos;Smart Watch;3;593,58;1780,74;YouTube Ads;5;2,85;Em Transporte;;;
+PED-0951;21/06/2024;CLI-2251;João Pessoa;AP;Norte;Casa;Luminária;3;3229,61;9688,83;Influenciador;20;21,03;Cancelado;;;
+PED-0952;11/10/2023;CLI-6948;Joinville;RO;Norte;Brinquedos;Boneca;1;27,21;27,21;Google Ads;20;0,89;Processando;;;
+PED-0953;15/02/2023;CLI-5266;Aracaju;PI;Nordeste;Livros;Técnico;2;1763,29;3526,58;Instagram Ads;10;4,64;Processando;;;
+PED-0954;28/08/2024;CLI-9531;Guarulhos;RO;Norte;Casa;Almofada;3;3032,79;9098,37;Orgânico;30;10,52;Devolvido;;14;
+PED-0955;11/02/2024;CLI-2052;Santos;SP;Sudeste;Eletrônicos;Smartphone;1;1647,04;1647,04;Orgânico;20;47,88;Processando;;;
+PED-0956;24/10/2024;CLI-9929;Aracaju;GO;Centro-Oeste;Moda;Tênis;4;2158,40;8633,60;Influenciador;25;39,87;Entregue;5;11;Não
+PED-0957;09/07/2023;CLI-2759;Joinville;PE;Nordeste;Esportes;Bola;2;2474,88;4949,76;TikTok Ads;30;34,22;Cancelado;;;
+PED-0958;12/10/2023;CLI-4698;São José dos Campos;PE;Nordeste;Livros;Não-Ficção;5;148,83;744,15;E-mail Marketing;10;13,12;Em Transporte;;;
+PED-0959;20/01/2024;CLI-6529;Ribeirão Preto;PI;Nordeste;Casa;Vaso Decorativo;4;1778,93;7115,72;Facebook Ads;20;0,64;Processando;;;
+PED-0960;28/05/2024;CLI-6821;Salvador;AL;Nordeste;Casa;Quadro;5;3455,90;17279,50;Google Ads;30;22,34;Cancelado;;;
+PED-0961;07/07/2024;CLI-3279;Feira de Santana;AL;Nordeste;Brinquedos;Boneca;4;856,40;3425,60;TikTok Ads;30;14,92;Processando;;;
+PED-0962;06/02/2023;CLI-6562;São José dos Campos;PE;Nordeste;Alimentos;Vinho;1;1173,17;1173,17;E-mail Marketing;0;28,41;Entregue;2;16;Não
+PED-0963;21/06/2023;CLI-9744;Maceió;PR;Sul;Eletrônicos;Smartphone;1;538,76;538,76;E-mail Marketing;25;41,49;Devolvido;;21;
+PED-0964;30/08/2024;CLI-4643;Vitória;RR;Norte;Esportes;Haltere;1;919,74;919,74;YouTube Ads;5;16,82;Processando;;;
+PED-0965;15/09/2023;CLI-5540;Curitiba;RJ;Sudeste;Casa;Almofada;5;1988,43;9942,15;Influenciador;0;47,33;Em Transporte;;;
+PED-0966;06/05/2024;CLI-5511;Campo Grande;AL;Nordeste;Alimentos;Café Especial;4;1578,28;6313,12;E-mail Marketing;30;40,72;Entregue;2;20;Não
+PED-0967;14/09/2024;CLI-7317;Juiz de Fora;PR;Sul;Alimentos;Cesta Orgânica;1;622,64;622,64;E-mail Marketing;30;11,31;Em Transporte;;;
+PED-0968;11/06/2023;CLI-1595;Campinas;RS;Sul;Eletrônicos;Smart Watch;3;96,21;288,63;Influenciador;30;2,83;Devolvido;;14;
+PED-0969;11/02/2023;CLI-8733;Aparecida de Goiânia;AL;Nordeste;Casa;Quadro;5;157,30;786,50;Facebook Ads;5;47,96;Entregue;4;1;Não
+PED-0970;20/08/2024;CLI-1634;Recife;SE;Nordeste;Casa;Vaso Decorativo;3;197,88;593,64;E-mail Marketing;0;18,11;Processando;;;
+PED-0971;23/07/2023;CLI-6062;Campinas;GO;Centro-Oeste;Brinquedos;Lego;1;739,15;739,15;Facebook Ads;10;29,49;Processando;;;
+PED-0972;31/05/2023;CLI-9067;Campo Grande;MG;Sudeste;Moda;Bolsa;2;30,49;60,98;TikTok Ads;10;22,21;Entregue;3;16;Não
+PED-0973;02/10/2023;CLI-1350;Niterói;RN;Nordeste;Casa;Organizador;4;433,99;1735,96;Instagram Ads;10;16,91;Devolvido;;8;
+PED-0974;13/12/2023;CLI-6396;Uberlândia;SE;Nordeste;Casa;Organizador;3;2654,13;7962,39;E-mail Marketing;30;19,42;Em Transporte;;;
+PED-0975;10/03/2023;CLI-4314;Fortaleza;AL;Nordeste;Livros;Técnico;4;177,85;711,40;Facebook Ads;30;19,79;Cancelado;;;
+PED-0976;07/11/2024;CLI-5947;Fortaleza;PB;Nordeste;Brinquedos;Carrinho;3;1889,36;5668,08;E-mail Marketing;0;21,35;Processando;;;
+PED-0977;05/03/2024;CLI-5419;Sorocaba;AL;Nordeste;Casa;Vaso Decorativo;1;309,39;309,39;TikTok Ads;0;48,07;Devolvido;;9;
+PED-0978;23/07/2023;CLI-7738;Maringá;RS;Sul;Esportes;Garrafa Térmica;5;225,29;1126,45;Orgânico;25;11,47;Cancelado;;;
+PED-0979;29/03/2023;CLI-6332;Maceió;AL;Nordeste;Livros;Não-Ficção;5;1514,78;7573,90;YouTube Ads;30;8,26;Em Transporte;;;
+PED-0980;31/08/2024;CLI-3650;Aparecida de Goiânia;AP;Norte;Esportes;Garrafa Térmica;5;1497,79;7488,95;Influenciador;0;7,03;Devolvido;;25;
+PED-0981;12/05/2024;CLI-4707;Maringá;AC;Norte;Alimentos;Vinho;3;2336,80;7010,40;E-mail Marketing;30;12,58;Em Transporte;;;
+PED-0982;09/01/2024;CLI-6369;Goiânia;TO;Norte;Esportes;Bola;1;2853,25;2853,25;E-mail Marketing;20;10,88;Em Transporte;;;
+PED-0983;30/09/2023;CLI-5663;Florianópolis;PB;Nordeste;Alimentos;Vinho;5;3243,88;16219,40;E-mail Marketing;10;16,05;Devolvido;;13;
+PED-0984;09/02/2023;CLI-9177;Joinville;DF;Centro-Oeste;Alimentos;Cesta Orgânica;4;682,17;2728,68;YouTube Ads;25;35,84;Processando;;;
+PED-0985;22/12/2024;CLI-7325;Londrina;AM;Norte;Brinquedos;Lego;2;660,45;1320,90;Instagram Ads;10;38,62;Em Transporte;;;
+PED-0986;26/02/2024;CLI-9004;Joinville;CE;Nordeste;Casa;Vaso Decorativo;4;3038,58;12154,32;Instagram Ads;10;7,98;Em Transporte;;;
+PED-0987;09/08/2024;CLI-1107;Sorocaba;MT;Centro-Oeste;Alimentos;Vinho;1;1951,26;1951,26;Facebook Ads;20;16,11;Devolvido;;15;
+PED-0988;16/10/2023;CLI-5350;Londrina;MG;Sudeste;Alimentos;Café Especial;5;147,47;737,35;TikTok Ads;5;43,22;Entregue;5;21;Sim
+PED-0989;04/09/2023;CLI-1981;Porto Alegre;MA;Nordeste;Livros;Romance;1;1087,55;1087,55;TikTok Ads;30;42,98;Entregue;5;19;Não
+PED-0990;21/03/2024;CLI-2626;Niterói;SE;Nordeste;Casa;Almofada;2;1579,30;3158,60;Google Ads;0;37,00;Devolvido;;3;
+PED-0991;19/03/2024;CLI-8161;Aparecida de Goiânia;MS;Centro-Oeste;Beleza;Maquiagem;2;643,82;1287,64;Influenciador;0;35,86;Cancelado;;;
+PED-0992;06/02/2024;CLI-1388;Rio de Janeiro;SE;Nordeste;Moda;Tênis;3;425,15;1275,45;TikTok Ads;0;23,71;Processando;;;
+PED-0993;04/08/2024;CLI-9791;Porto Velho;MT;Centro-Oeste;Beleza;Perfume;5;1808,92;9044,60;E-mail Marketing;25;21,02;Cancelado;;;
+PED-0994;06/04/2023;CLI-7801;Cuiabá;AC;Norte;Brinquedos;Carrinho;3;1381,04;4143,12;E-mail Marketing;20;22,91;Entregue;4;3;Não
+PED-0995;02/01/2024;CLI-3796;Belém;MA;Nordeste;Moda;Tênis;5;418,49;2092,45;Google Ads;0;31,44;Em Transporte;;;
+PED-0996;10/08/2024;CLI-1367;João Pessoa;AL;Nordeste;Eletrônicos;Fone Bluetooth;3;922,64;2767,92;Facebook Ads;30;21,15;Processando;;;
+PED-0997;24/08/2023;CLI-6627;Salvador;PI;Nordeste;Beleza;Protetor Solar;1;185,02;185,02;TikTok Ads;20;25,64;Processando;;;
+PED-0998;27/11/2024;CLI-3959;Campinas;SC;Sul;Beleza;Protetor Solar;5;509,45;2547,25;TikTok Ads;10;26,89;Devolvido;;13;
+PED-0999;22/08/2024;CLI-7704;Uberlândia;BA;Nordeste;Eletrônicos;Smartphone;4;957,08;3828,32;Orgânico;5;25,97;Em Transporte;;;
+PED-1000;30/08/2024;CLI-7981;São Luís;RJ;Sudeste;Moda;Bolsa;2;3110,86;6221,72;YouTube Ads;0;15,92;Devolvido;;13;

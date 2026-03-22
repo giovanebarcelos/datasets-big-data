@@ -1,0 +1,16 @@
+﻿ID;Nome_Fonte;URL;Tipo_Dados;Formato_Disponivel;Atualizacao;Tema_Principal;Dificuldade_Uso;Observacao
+1;Portal Dados Abertos Brasil;https://dados.gov.br;Governo;CSV, JSON, XML;Variável;Governo/Políticas Públicas;Fácil;Principal portal de dados abertos do governo federal
+2;IBGE - Sidra;https://sidra.ibge.gov.br;Censo/Estatísticas;CSV, XLS, JSON;Anual/Mensal;Demografia/Economia;Médio;Sistema IBGE de Recuperação Automática
+3;TSE - Dados Abertos;https://dadosabertos.tse.jus.br;Eleições;CSV;Por eleição;Eleições/Política;Médio;Resultados eleitorais, candidaturas, prestação de contas
+4;DATASUS - TabNet;https://datasus.saude.gov.br;Saúde;CSV, DBF;Mensal;Saúde Pública;Difícil;Sistema de informações do SUS
+5;INEP - Microdados;https://www.gov.br/inep;Educação;CSV;Anual;Educação/ENEM/Censo Escolar;Difícil;Microdados do ENEM, Censo Escolar, IDEB
+6;Google Trends;https://trends.google.com.br;Buscas;CSV;Tempo real;Tendências/Interesse Público;Fácil;Tendências de busca no Google
+7;Meta Ad Library;https://www.facebook.com/ads/library;Publicidade;Online;Tempo real;Publicidade/Comunicação Política;Médio;Biblioteca de anúncios do Facebook/Instagram
+8;Kaggle Datasets;https://www.kaggle.com/datasets;Variado;CSV, JSON, SQL;Variável;Diversos;Fácil;Comunidade global de ciência de dados
+9;Portal da Transparência;https://portaldatransparencia.gov.br;Governo;CSV, JSON;Diário;Gastos Públicos;Médio;Gastos federais, servidores, programas sociais
+10;IPEA Data;http://www.ipeadata.gov.br;Economia;CSV, XLS;Mensal;Economia/Indicadores Sociais;Médio;Dados macroeconômicos e sociais
+11;Brasil.IO;https://brasil.io;Governo/Saúde;CSV, API;Variável;Dados públicos tratados;Fácil;Dados públicos acessíveis e tratados pela comunidade
+12;Our World in Data;https://ourworldindata.org;Global;CSV, JSON;Contínua;Indicadores Globais;Fácil;Dados globais com visualizações prontas
+13;Data.World;https://data.world;Variado;CSV, JSON;Variável;Diversos;Fácil;Plataforma colaborativa de dados
+14;Reclame Aqui - Ranking;https://www.reclameaqui.com.br;Consumo;Online;Tempo real;Reclamações/Consumo;Fácil;Rankings e dados de reclamações de consumidores
+15;Base dos Dados;https://basedosdados.org;Variado;CSV, BigQuery;Variável;Dados públicos integrados;Médio;Plataforma brasileira que integra bases de dados públicas

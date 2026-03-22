@@ -1,0 +1,1001 @@
+﻿ID;Idade;Genero;Renda_Mensal_R$;Escolaridade;Estado_Civil;Filhos;Cidade;UF;Canal_Compra_Preferido;Influencia_Decisao;Categoria_Produto_Frequente;Gasto_Medio_Mensal_R$;Freq_Compra_Online_Mes;Usa_Cupom_Desconto;Segue_Influenciadores;Compra_Por_Impulso;Classe_Consumidor
+1;47;Feminino;3204,64;Superior;Solteiro(a);0;Porto Velho;GO;Loja Física;Anúncio Rede Social;Beleza/Cosméticos;4819,84;4;Às vezes;Sim;Às vezes;Consumidor Padrão
+2;26;Feminino;10855,48;Pós-Graduação;Casado(a);0;Florianópolis;SE;Redes Sociais;Recomendação Amigo;Moda;2574,95;8;Não;Sim;Às vezes;Comprador Frequente Premium
+3;60;Feminino;3395,82;Pós-Graduação;Solteiro(a);3;Campo Grande;RJ;App do Fabricante;Busca Google;Livros/Educação;1758,80;5;Sim;Não;Frequentemente;Consumidor Padrão
+4;51;Masculino;9631,16;Superior;União Estável;0;Salvador;RR;Redes Sociais;Podcast Patrocinado;Beleza/Cosméticos;4022,95;0;Às vezes;Sim;Nunca;Influenciável Engajado
+5;59;Masculino;1792,55;Superior;União Estável;1;São Luís;MG;Marketplace;Influenciador Digital;Viagem;2070,30;5;Não;Sim;Às vezes;Consumidor Padrão
+6;65;Masculino;23228,98;Pós-Graduação;Casado(a);0;Rio de Janeiro;SC;App do Fabricante;Review YouTube;Viagem;4543,63;11;Não;Sim;Nunca;Comprador Frequente Premium
+7;49;Feminino;14027,99;Fundamental;União Estável;0;São Paulo;GO;E-commerce;Recomendação Amigo;Moda;718,27;14;Não;Sim;Frequentemente;Comprador Frequente Premium
+8;66;Feminino;19187,45;Superior;Casado(a);3;Feira de Santana;RN;WhatsApp Business;Email Marketing;Beleza/Cosméticos;2417,04;15;Sim;Não;Às vezes;Comprador Frequente Premium
+9;47;Feminino;13126,79;Fundamental;Divorciado(a);0;Porto Velho;MT;Loja Física;Anúncio Rede Social;Eletrônicos;4148,07;11;Sim;Sim;Nunca;Comprador Frequente Premium
+10;37;Feminino;2329,52;Superior;União Estável;2;Guarulhos;RR;Marketplace;Influenciador Digital;Viagem;3243,27;6;Sim;Não;Raramente;Consumidor Padrão
+11;42;Masculino;4616,91;Fundamental;União Estável;0;Belo Horizonte;PI;E-commerce;Recomendação Amigo;Moda;2848,91;1;Sim;Sim;Raramente;Consumidor Padrão
+12;54;Feminino;12087,76;Médio;Casado(a);2;Londrina;SP;App do Fabricante;Busca Google;Casa/Decoração;2594,92;9;Não;Não;Frequentemente;Comprador Frequente Premium
+13;61;Feminino;12816,98;Fundamental;Casado(a);0;São Luís;RR;WhatsApp Business;Propaganda TV;Moda;3079,96;15;Às vezes;Não;Raramente;Comprador Frequente Premium
+14;46;Feminino;17061,07;Médio;Casado(a);2;Porto Velho;MG;E-commerce;Recomendação Amigo;Alimentos;945,78;0;Não;Não;Nunca;Consumidor Padrão
+15;47;Feminino;6821,05;Superior;Casado(a);2;Salvador;PB;Redes Sociais;Influenciador Digital;Alimentos;1100,67;2;Às vezes;Sim;Raramente;Influenciável Engajado
+16;45;Masculino;10415,45;Médio;Casado(a);0;Brasília;MS;Marketplace;Review YouTube;Moda;696,60;8;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+17;58;Masculino;13970,14;Pós-Graduação;União Estável;1;Curitiba;RO;App do Fabricante;Email Marketing;Moda;4188,48;8;Às vezes;Sim;Nunca;Comprador Frequente Premium
+18;64;Feminino;17365,89;Fundamental;Divorciado(a);0;Goiânia;AC;E-commerce;Busca Google;Moda;1654,37;5;Sim;Sim;Nunca;Influenciável Engajado
+19;22;Masculino;8589,32;Médio;Solteiro(a);0;Juiz de Fora;SC;Marketplace;Busca Google;Casa/Decoração;3684,90;15;Sim;Sim;Frequentemente;Influenciável Engajado
+20;44;Feminino;12406,08;Pós-Graduação;Casado(a);0;Curitiba;PA;WhatsApp Business;Anúncio Rede Social;Livros/Educação;4262,50;13;Sim;Sim;Raramente;Comprador Frequente Premium
+21;40;Feminino;18887,50;Superior;Casado(a);2;São Paulo;MG;Marketplace;Review YouTube;Moda;3775,36;8;Às vezes;Sim;Raramente;Comprador Frequente Premium
+22;61;Masculino;3495,68;Pós-Graduação;Casado(a);2;Manaus;BA;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;3626,41;9;Às vezes;Não;Nunca;Consumidor Padrão
+23;24;Feminino;7677,48;Fundamental;União Estável;1;Manaus;PB;Marketplace;Busca Google;Eletrônicos;3312,13;12;Às vezes;Não;Nunca;Consumidor Padrão
+24;59;Feminino;16206,50;Fundamental;Solteiro(a);1;Sorocaba;SE;WhatsApp Business;Review YouTube;Esportes;2949,88;11;Sim;Não;Nunca;Comprador Frequente Premium
+25;19;Feminino;24066,03;Médio;Divorciado(a);0;Juiz de Fora;GO;WhatsApp Business;Podcast Patrocinado;Esportes;1825,40;4;Sim;Não;Nunca;Consumidor Padrão
+26;29;Masculino;17532,94;Pós-Graduação;Solteiro(a);0;Guarulhos;RS;App do Fabricante;Propaganda TV;Livros/Educação;3177,22;7;Não;Sim;Frequentemente;Comprador Frequente Premium
+27;36;Feminino;16499,46;Médio;União Estável;0;Maringá;MG;WhatsApp Business;Influenciador Digital;Eletrônicos;3651,97;10;Sim;Não;Nunca;Comprador Frequente Premium
+28;39;Masculino;5030,12;Fundamental;União Estável;0;Santos;PA;Redes Sociais;Podcast Patrocinado;Livros/Educação;4261,99;2;Às vezes;Sim;Frequentemente;Influenciável Engajado
+29;63;Masculino;10691,97;Pós-Graduação;Divorciado(a);0;Osasco;ES;E-commerce;Review YouTube;Moda;2758,22;3;Sim;Não;Raramente;Consumidor Padrão
+30;56;Feminino;9859,09;Médio;União Estável;0;Juiz de Fora;PR;App do Fabricante;Propaganda TV;Livros/Educação;3386,67;9;Não;Não;Às vezes;Consumidor Padrão
+31;69;Masculino;13322,16;Médio;União Estável;3;Salvador;SE;App do Fabricante;Email Marketing;Esportes;394,93;13;Não;Não;Frequentemente;Comprador Frequente Premium
+32;65;Feminino;22168,29;Superior;Solteiro(a);0;Campo Grande;PA;Loja Física;Email Marketing;Moda;799,24;7;Não;Sim;Às vezes;Comprador Frequente Premium
+33;27;Masculino;22578,79;Médio;União Estável;0;Fortaleza;DF;Marketplace;Podcast Patrocinado;Alimentos;3750,23;1;Às vezes;Não;Nunca;Consumidor Padrão
+34;33;Feminino;10418,39;Superior;Solteiro(a);2;Cuiabá;DF;Redes Sociais;Review YouTube;Viagem;4963,89;7;Às vezes;Sim;Nunca;Comprador Frequente Premium
+35;37;Masculino;8266,53;Médio;União Estável;2;São Paulo;MT;E-commerce;Influenciador Digital;Beleza/Cosméticos;1102,60;12;Sim;Sim;Raramente;Influenciável Engajado
+36;45;Feminino;23057,95;Superior;Solteiro(a);0;Feira de Santana;RO;App do Fabricante;Recomendação Amigo;Viagem;309,59;5;Às vezes;Sim;Raramente;Influenciável Engajado
+37;64;Masculino;6832,66;Fundamental;Divorciado(a);1;Londrina;GO;Marketplace;Anúncio Rede Social;Viagem;3242,06;13;Às vezes;Sim;Raramente;Influenciável Engajado
+38;19;Masculino;14790,70;Médio;União Estável;2;Ribeirão Preto;SE;Marketplace;Recomendação Amigo;Viagem;2231,51;9;Não;Sim;Às vezes;Comprador Frequente Premium
+39;47;Masculino;3177,54;Médio;Divorciado(a);2;Sorocaba;MS;App do Fabricante;Anúncio Rede Social;Viagem;4182,85;12;Sim;Sim;Nunca;Consumidor Padrão
+40;25;Masculino;15495,48;Superior;Solteiro(a);3;Rio de Janeiro;PI;Redes Sociais;Propaganda TV;Esportes;1600,88;3;Não;Sim;Às vezes;Influenciável Engajado
+41;69;Feminino;10611,30;Médio;Divorciado(a);0;João Pessoa;BA;App do Fabricante;Propaganda TV;Esportes;2922,53;8;Não;Sim;Raramente;Comprador Frequente Premium
+42;38;Feminino;8280,14;Pós-Graduação;Casado(a);1;Natal;RS;Redes Sociais;Anúncio Rede Social;Beleza/Cosméticos;3969,69;14;Às vezes;Sim;Frequentemente;Influenciável Engajado
+43;23;Feminino;22350,05;Médio;Casado(a);1;Joinville;RN;E-commerce;Anúncio Rede Social;Esportes;2691,92;10;Sim;Não;Nunca;Comprador Frequente Premium
+44;19;Masculino;21557,18;Fundamental;União Estável;2;Vitória;PE;Redes Sociais;Anúncio Rede Social;Moda;453,76;0;Sim;Não;Raramente;Caçador de Ofertas
+45;41;Masculino;20276,19;Fundamental;Solteiro(a);2;Niterói;RS;Loja Física;Anúncio Rede Social;Esportes;4251,45;15;Não;Sim;Frequentemente;Comprador Frequente Premium
+46;30;Feminino;1621,59;Superior;Casado(a);0;Rio de Janeiro;SC;Redes Sociais;Busca Google;Beleza/Cosméticos;2495,51;4;Sim;Não;Frequentemente;Consumidor Padrão
+47;18;Feminino;16967,68;Pós-Graduação;Casado(a);0;Aparecida de Goiânia;AM;Redes Sociais;Busca Google;Eletrônicos;3456,20;3;Não;Não;Frequentemente;Consumidor Padrão
+48;44;Masculino;1942,65;Pós-Graduação;Casado(a);0;Florianópolis;DF;Marketplace;Podcast Patrocinado;Eletrônicos;150,95;6;Não;Não;Frequentemente;Consumidor Padrão
+49;49;Masculino;22613,98;Fundamental;Solteiro(a);2;Florianópolis;RO;Marketplace;Influenciador Digital;Moda;3760,67;14;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+50;59;Feminino;23343,74;Superior;Casado(a);1;Manaus;MS;Marketplace;Email Marketing;Beleza/Cosméticos;3248,97;8;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+51;29;Masculino;23158,86;Superior;Casado(a);0;Porto Alegre;MT;App do Fabricante;Busca Google;Beleza/Cosméticos;3477,29;6;Não;Sim;Às vezes;Comprador Frequente Premium
+52;26;Masculino;24570,61;Pós-Graduação;Solteiro(a);1;Joinville;RS;Marketplace;Email Marketing;Viagem;4506,86;7;Sim;Sim;Frequentemente;Comprador Frequente Premium
+53;19;Feminino;22843,58;Fundamental;União Estável;2;Porto Velho;PR;App do Fabricante;Email Marketing;Casa/Decoração;1070,13;6;Não;Sim;Às vezes;Comprador Frequente Premium
+54;40;Feminino;13393,69;Médio;União Estável;0;Fortaleza;RO;Loja Física;Influenciador Digital;Beleza/Cosméticos;1029,06;12;Sim;Sim;Nunca;Comprador Frequente Premium
+55;31;Feminino;17991,17;Superior;Solteiro(a);2;Rio de Janeiro;MT;Loja Física;Busca Google;Beleza/Cosméticos;4787,92;11;Sim;Sim;Nunca;Comprador Frequente Premium
+56;33;Feminino;14441,74;Superior;Divorciado(a);3;Maceió;PA;E-commerce;Anúncio Rede Social;Beleza/Cosméticos;113,49;8;Às vezes;Sim;Nunca;Comprador Frequente Premium
+57;68;Masculino;5217,89;Médio;Casado(a);0;Niterói;RN;App do Fabricante;Recomendação Amigo;Viagem;718,05;14;Sim;Sim;Às vezes;Influenciável Engajado
+58;56;Feminino;18931,58;Fundamental;União Estável;2;Brasília;AP;Loja Física;Recomendação Amigo;Beleza/Cosméticos;3046,62;8;Sim;Não;Raramente;Comprador Frequente Premium
+59;44;Feminino;21521,44;Superior;União Estável;1;Aracaju;RN;WhatsApp Business;Propaganda TV;Viagem;367,06;1;Sim;Sim;Às vezes;Influenciável Engajado
+60;68;Feminino;8296,73;Médio;Solteiro(a);1;Feira de Santana;MA;WhatsApp Business;Busca Google;Beleza/Cosméticos;682,58;7;Sim;Sim;Frequentemente;Influenciável Engajado
+61;59;Masculino;8085,81;Médio;Divorciado(a);2;São Paulo;DF;Loja Física;Recomendação Amigo;Beleza/Cosméticos;3428,48;10;Às vezes;Não;Às vezes;Tradicional Presencial
+62;19;Masculino;1769,17;Pós-Graduação;Divorciado(a);0;Salvador;AC;WhatsApp Business;Recomendação Amigo;Casa/Decoração;1818,11;6;Sim;Não;Frequentemente;Consumidor Padrão
+63;45;Masculino;6502,89;Fundamental;Divorciado(a);1;São José dos Campos;PR;Marketplace;Email Marketing;Beleza/Cosméticos;2492,55;7;Sim;Não;Às vezes;Consumidor Padrão
+64;40;Feminino;4343,76;Pós-Graduação;União Estável;1;São Paulo;AL;WhatsApp Business;Podcast Patrocinado;Esportes;3833,95;5;Não;Sim;Nunca;Consumidor Padrão
+65;60;Masculino;15651,81;Pós-Graduação;União Estável;1;Juiz de Fora;PI;Loja Física;Busca Google;Moda;1407,61;0;Sim;Não;Raramente;Tradicional Presencial
+66;67;Feminino;15859,79;Superior;Solteiro(a);1;Maceió;AP;Marketplace;Influenciador Digital;Moda;1211,24;15;Às vezes;Não;Às vezes;Comprador Frequente Premium
+67;57;Feminino;6934,83;Médio;União Estável;0;Ribeirão Preto;RJ;Marketplace;Recomendação Amigo;Livros/Educação;108,87;11;Não;Sim;Frequentemente;Influenciável Engajado
+68;29;Feminino;4736,07;Médio;Solteiro(a);0;João Pessoa;RS;Loja Física;Review YouTube;Livros/Educação;4669,94;11;Às vezes;Sim;Raramente;Consumidor Padrão
+69;40;Feminino;7427,89;Pós-Graduação;Solteiro(a);1;Manaus;AM;App do Fabricante;Podcast Patrocinado;Eletrônicos;1232,89;11;Às vezes;Sim;Raramente;Influenciável Engajado
+70;28;Masculino;17085,95;Superior;Divorciado(a);0;Manaus;SC;Loja Física;Review YouTube;Eletrônicos;4531,72;2;Sim;Não;Nunca;Consumidor Padrão
+71;31;Feminino;21681,14;Médio;Divorciado(a);1;Osasco;SP;E-commerce;Review YouTube;Casa/Decoração;1850,77;3;Não;Não;Nunca;Consumidor Padrão
+72;26;Masculino;9244,65;Superior;Solteiro(a);3;Manaus;PB;Marketplace;Email Marketing;Viagem;4644,41;5;Não;Sim;Raramente;Influenciável Engajado
+73;55;Feminino;23196,68;Superior;União Estável;0;Londrina;ES;Marketplace;Busca Google;Esportes;327,48;9;Não;Não;Frequentemente;Comprador Frequente Premium
+74;45;Feminino;8514,35;Fundamental;Casado(a);2;Rio de Janeiro;BA;WhatsApp Business;Podcast Patrocinado;Eletrônicos;165,71;14;Sim;Sim;Frequentemente;Influenciável Engajado
+75;45;Feminino;13306,47;Médio;Casado(a);0;Aracaju;RO;App do Fabricante;Review YouTube;Eletrônicos;356,70;3;Não;Não;Raramente;Consumidor Padrão
+76;42;Feminino;7439,06;Fundamental;Casado(a);1;Goiânia;BA;App do Fabricante;Review YouTube;Eletrônicos;2151,24;2;Sim;Sim;Frequentemente;Influenciável Engajado
+77;48;Masculino;18855,77;Superior;Casado(a);0;Juiz de Fora;PA;Redes Sociais;Podcast Patrocinado;Alimentos;1098,84;13;Não;Não;Nunca;Comprador Frequente Premium
+78;64;Feminino;11004,26;Superior;Divorciado(a);2;São Luís;PB;App do Fabricante;Podcast Patrocinado;Casa/Decoração;1703,79;14;Sim;Sim;Nunca;Comprador Frequente Premium
+79;62;Masculino;7917,30;Fundamental;União Estável;0;Osasco;DF;E-commerce;Podcast Patrocinado;Viagem;1345,49;14;Sim;Não;Nunca;Consumidor Padrão
+80;64;Masculino;5105,36;Pós-Graduação;Solteiro(a);1;Santos;AP;Marketplace;Busca Google;Esportes;1577,23;15;Às vezes;Não;Às vezes;Consumidor Padrão
+81;20;Masculino;23750,10;Médio;Solteiro(a);3;Teresina;RS;App do Fabricante;Anúncio Rede Social;Esportes;948,99;8;Sim;Sim;Às vezes;Comprador Frequente Premium
+82;35;Feminino;15478,45;Fundamental;Casado(a);1;Fortaleza;MA;WhatsApp Business;Propaganda TV;Livros/Educação;888,43;11;Às vezes;Sim;Raramente;Comprador Frequente Premium
+83;34;Feminino;18714,98;Fundamental;Divorciado(a);1;Teresina;DF;App do Fabricante;Recomendação Amigo;Casa/Decoração;351,56;12;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+84;40;Masculino;2626,92;Superior;Solteiro(a);2;Maringá;MA;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;1449,26;9;Sim;Sim;Raramente;Consumidor Padrão
+85;26;Feminino;2644,79;Fundamental;União Estável;3;Fortaleza;GO;App do Fabricante;Podcast Patrocinado;Esportes;1492,72;7;Não;Sim;Nunca;Consumidor Padrão
+86;59;Masculino;6782,42;Médio;Divorciado(a);0;Goiânia;ES;Marketplace;Propaganda TV;Viagem;4760,87;14;Às vezes;Sim;Frequentemente;Influenciável Engajado
+87;61;Masculino;12099,09;Fundamental;Divorciado(a);0;João Pessoa;MT;App do Fabricante;Review YouTube;Eletrônicos;3125,14;3;Sim;Não;Frequentemente;Consumidor Padrão
+88;48;Masculino;21203,37;Superior;Solteiro(a);0;Londrina;SP;Loja Física;Email Marketing;Beleza/Cosméticos;4962,06;11;Sim;Sim;Frequentemente;Comprador Frequente Premium
+89;66;Feminino;4119,94;Pós-Graduação;Casado(a);2;Niterói;RR;Loja Física;Anúncio Rede Social;Esportes;1241,74;12;Não;Não;Raramente;Tradicional Presencial
+90;59;Masculino;7968,64;Superior;União Estável;2;São Paulo;SP;WhatsApp Business;Review YouTube;Alimentos;2613,19;7;Não;Não;Raramente;Consumidor Padrão
+91;56;Masculino;14496,87;Fundamental;União Estável;0;Fortaleza;TO;WhatsApp Business;Busca Google;Esportes;1205,39;9;Sim;Sim;Às vezes;Comprador Frequente Premium
+92;33;Masculino;3393,68;Médio;União Estável;0;Osasco;SC;Marketplace;Anúncio Rede Social;Livros/Educação;2426,57;6;Às vezes;Sim;Raramente;Consumidor Padrão
+93;55;Feminino;15648,57;Fundamental;Solteiro(a);1;Belo Horizonte;SC;E-commerce;Busca Google;Viagem;2960,01;3;Não;Sim;Raramente;Influenciável Engajado
+94;63;Masculino;5027,70;Pós-Graduação;União Estável;3;Salvador;SP;Redes Sociais;Email Marketing;Livros/Educação;4242,32;6;Sim;Não;Nunca;Consumidor Padrão
+95;46;Feminino;21275,09;Fundamental;Divorciado(a);0;Porto Velho;RJ;WhatsApp Business;Recomendação Amigo;Esportes;159,74;11;Não;Sim;Nunca;Comprador Frequente Premium
+96;31;Feminino;24732,25;Superior;Solteiro(a);2;Curitiba;PB;Marketplace;Email Marketing;Livros/Educação;1485,93;2;Sim;Sim;Raramente;Influenciável Engajado
+97;52;Masculino;18306,50;Superior;Divorciado(a);0;Niterói;ES;Redes Sociais;Busca Google;Beleza/Cosméticos;2699,99;1;Não;Sim;Nunca;Influenciável Engajado
+98;48;Masculino;7921,96;Médio;Solteiro(a);0;São Paulo;MG;E-commerce;Propaganda TV;Eletrônicos;1609,74;11;Sim;Não;Nunca;Consumidor Padrão
+99;25;Feminino;1312,43;Superior;União Estável;3;Recife;RO;Redes Sociais;Influenciador Digital;Viagem;4701,38;7;Sim;Sim;Frequentemente;Consumidor Padrão
+100;21;Masculino;2469,60;Fundamental;Solteiro(a);1;São José dos Campos;RN;E-commerce;Propaganda TV;Esportes;2796,13;0;Às vezes;Não;Nunca;Consumidor Padrão
+101;57;Masculino;15811,22;Médio;União Estável;1;Niterói;RN;Loja Física;Review YouTube;Moda;119,18;13;Sim;Sim;Às vezes;Comprador Frequente Premium
+102;51;Masculino;23089,11;Médio;Casado(a);0;Goiânia;ES;Marketplace;Busca Google;Viagem;1618,23;15;Sim;Não;Frequentemente;Comprador Frequente Premium
+103;39;Masculino;19156,00;Superior;Solteiro(a);0;Feira de Santana;RS;App do Fabricante;Podcast Patrocinado;Alimentos;279,20;12;Não;Não;Nunca;Comprador Frequente Premium
+104;43;Feminino;23633,34;Pós-Graduação;União Estável;0;Guarulhos;AC;App do Fabricante;Email Marketing;Beleza/Cosméticos;3034,68;4;Sim;Sim;Nunca;Influenciável Engajado
+105;63;Feminino;6262,84;Superior;União Estável;2;Aracaju;PB;Marketplace;Busca Google;Esportes;2353,45;0;Não;Sim;Nunca;Influenciável Engajado
+106;40;Masculino;1257,31;Fundamental;Divorciado(a);0;Campo Grande;DF;App do Fabricante;Influenciador Digital;Moda;1800,03;6;Sim;Não;Frequentemente;Consumidor Padrão
+107;18;Feminino;17707,96;Médio;Divorciado(a);1;Teresina;RR;App do Fabricante;Anúncio Rede Social;Livros/Educação;3941,28;10;Não;Não;Frequentemente;Comprador Frequente Premium
+108;35;Masculino;24950,15;Pós-Graduação;Divorciado(a);1;Londrina;MG;Loja Física;Propaganda TV;Beleza/Cosméticos;975,24;11;Não;Sim;Nunca;Comprador Frequente Premium
+109;56;Feminino;17770,42;Médio;Divorciado(a);0;Campo Grande;RO;WhatsApp Business;Review YouTube;Beleza/Cosméticos;3795,82;13;Sim;Não;Às vezes;Comprador Frequente Premium
+110;38;Masculino;7343,62;Fundamental;Solteiro(a);1;Aparecida de Goiânia;SE;Marketplace;Propaganda TV;Livros/Educação;1217,43;5;Não;Não;Raramente;Consumidor Padrão
+111;49;Feminino;20877,71;Superior;Casado(a);2;Maringá;MS;WhatsApp Business;Propaganda TV;Alimentos;4706,72;12;Às vezes;Não;Às vezes;Comprador Frequente Premium
+112;55;Masculino;22017,66;Médio;Solteiro(a);0;Osasco;BA;App do Fabricante;Review YouTube;Casa/Decoração;721,31;1;Sim;Não;Às vezes;Consumidor Padrão
+113;39;Masculino;3018,08;Médio;Divorciado(a);3;Rio de Janeiro;RS;Marketplace;Email Marketing;Moda;3985,06;4;Sim;Não;Às vezes;Consumidor Padrão
+114;68;Masculino;5561,71;Superior;Divorciado(a);2;Florianópolis;PB;E-commerce;Busca Google;Viagem;1374,47;12;Sim;Não;Raramente;Consumidor Padrão
+115;20;Masculino;24598,41;Pós-Graduação;Casado(a);2;Maringá;RN;Loja Física;Email Marketing;Beleza/Cosméticos;4220,68;10;Sim;Não;Raramente;Comprador Frequente Premium
+116;44;Masculino;12264,98;Médio;Solteiro(a);3;Salvador;ES;Redes Sociais;Podcast Patrocinado;Beleza/Cosméticos;2397,39;12;Sim;Sim;Frequentemente;Comprador Frequente Premium
+117;40;Masculino;12427,15;Pós-Graduação;Casado(a);3;João Pessoa;RR;App do Fabricante;Propaganda TV;Moda;2681,12;8;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+118;40;Masculino;14871,90;Superior;Divorciado(a);0;Aparecida de Goiânia;AC;Loja Física;Recomendação Amigo;Casa/Decoração;4033,46;14;Às vezes;Sim;Raramente;Comprador Frequente Premium
+119;47;Masculino;24434,34;Médio;Solteiro(a);0;Belém;SE;Loja Física;Busca Google;Viagem;3810,41;7;Às vezes;Não;Raramente;Comprador Frequente Premium
+120;20;Feminino;16434,59;Médio;Divorciado(a);0;Curitiba;PA;Marketplace;Podcast Patrocinado;Casa/Decoração;3338,33;13;Sim;Sim;Às vezes;Comprador Frequente Premium
+121;49;Masculino;15965,19;Pós-Graduação;Divorciado(a);2;Fortaleza;AC;E-commerce;Propaganda TV;Livros/Educação;2033,48;8;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+122;29;Masculino;22001,40;Fundamental;União Estável;0;Aracaju;CE;WhatsApp Business;Anúncio Rede Social;Eletrônicos;443,97;2;Não;Não;Nunca;Consumidor Padrão
+123;54;Feminino;1696,81;Superior;União Estável;0;São Paulo;MG;E-commerce;Recomendação Amigo;Casa/Decoração;4080,36;1;Sim;Não;Nunca;Consumidor Padrão
+124;39;Masculino;12263,73;Superior;Solteiro(a);0;Guarulhos;RJ;E-commerce;Review YouTube;Eletrônicos;3518,31;8;Não;Sim;Nunca;Comprador Frequente Premium
+125;64;Masculino;11182,97;Fundamental;Divorciado(a);3;Porto Velho;MT;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;2909,28;7;Sim;Sim;Às vezes;Comprador Frequente Premium
+126;64;Feminino;15304,03;Médio;Casado(a);0;Ribeirão Preto;RR;App do Fabricante;Podcast Patrocinado;Eletrônicos;594,15;4;Às vezes;Não;Raramente;Consumidor Padrão
+127;35;Feminino;2878,38;Pós-Graduação;Solteiro(a);1;Uberlândia;AC;E-commerce;Email Marketing;Eletrônicos;4135,74;9;Às vezes;Não;Raramente;Consumidor Padrão
+128;32;Masculino;8762,27;Fundamental;Casado(a);3;João Pessoa;ES;App do Fabricante;Busca Google;Moda;4292,37;3;Às vezes;Não;Raramente;Consumidor Padrão
+129;35;Feminino;15281,56;Fundamental;União Estável;0;Salvador;RJ;WhatsApp Business;Anúncio Rede Social;Alimentos;3700,35;15;Às vezes;Não;Nunca;Comprador Frequente Premium
+130;21;Feminino;4936,46;Fundamental;Casado(a);1;São Luís;SE;Loja Física;Recomendação Amigo;Eletrônicos;4065,84;5;Sim;Sim;Raramente;Consumidor Padrão
+131;31;Feminino;9215,61;Médio;Solteiro(a);1;Campo Grande;RJ;Redes Sociais;Anúncio Rede Social;Viagem;4650,28;4;Sim;Sim;Nunca;Influenciável Engajado
+132;42;Masculino;24438,80;Médio;Casado(a);0;Recife;PE;Redes Sociais;Recomendação Amigo;Eletrônicos;3833,55;1;Às vezes;Sim;Raramente;Influenciável Engajado
+133;68;Feminino;2766,57;Fundamental;União Estável;0;Teresina;CE;WhatsApp Business;Review YouTube;Livros/Educação;3232,34;15;Não;Sim;Nunca;Consumidor Padrão
+134;19;Masculino;8140,35;Pós-Graduação;Casado(a);0;Aracaju;MS;Marketplace;Recomendação Amigo;Viagem;4488,93;4;Sim;Não;Frequentemente;Consumidor Padrão
+135;55;Feminino;19258,51;Superior;Divorciado(a);0;Aparecida de Goiânia;SC;Loja Física;Email Marketing;Casa/Decoração;1357,84;1;Não;Não;Raramente;Tradicional Presencial
+136;64;Feminino;13721,71;Médio;Casado(a);1;Salvador;RS;App do Fabricante;Review YouTube;Esportes;2045,73;3;Às vezes;Não;Frequentemente;Consumidor Padrão
+137;18;Feminino;7612,18;Fundamental;Solteiro(a);2;Brasília;PI;Loja Física;Recomendação Amigo;Eletrônicos;4571,75;3;Não;Não;Nunca;Consumidor Padrão
+138;47;Feminino;21675,79;Superior;Casado(a);0;Santos;DF;Marketplace;Recomendação Amigo;Livros/Educação;3684,38;9;Não;Sim;Nunca;Comprador Frequente Premium
+139;45;Feminino;8496,14;Fundamental;Divorciado(a);2;Maceió;RN;App do Fabricante;Podcast Patrocinado;Viagem;4723,65;3;Não;Sim;Raramente;Influenciável Engajado
+140;63;Masculino;13033,56;Superior;Casado(a);0;Recife;CE;Loja Física;Busca Google;Viagem;3729,49;13;Sim;Sim;Frequentemente;Comprador Frequente Premium
+141;37;Feminino;5641,72;Médio;Casado(a);1;Manaus;SP;App do Fabricante;Propaganda TV;Livros/Educação;712,01;1;Não;Sim;Nunca;Influenciável Engajado
+142;55;Masculino;18301,25;Superior;Casado(a);1;Guarulhos;AC;Redes Sociais;Propaganda TV;Livros/Educação;2081,88;0;Às vezes;Sim;Às vezes;Influenciável Engajado
+143;63;Feminino;3820,12;Superior;Solteiro(a);1;Campinas;ES;Loja Física;Busca Google;Beleza/Cosméticos;4436,07;1;Não;Não;Às vezes;Tradicional Presencial
+144;64;Masculino;17376,31;Médio;Solteiro(a);0;Cuiabá;TO;WhatsApp Business;Review YouTube;Viagem;4317,43;13;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+145;50;Feminino;9741,71;Médio;União Estável;1;Rio de Janeiro;SE;Loja Física;Review YouTube;Moda;2544,16;6;Sim;Sim;Nunca;Influenciável Engajado
+146;69;Feminino;4951,93;Médio;Divorciado(a);0;Aracaju;MA;Redes Sociais;Anúncio Rede Social;Casa/Decoração;410,10;12;Às vezes;Sim;Às vezes;Consumidor Padrão
+147;29;Masculino;17911,46;Fundamental;Casado(a);0;Fortaleza;SE;App do Fabricante;Propaganda TV;Viagem;2375,70;0;Sim;Sim;Nunca;Influenciável Engajado
+148;47;Masculino;12065,93;Superior;União Estável;3;São José dos Campos;MT;WhatsApp Business;Podcast Patrocinado;Esportes;2212,41;4;Sim;Não;Nunca;Consumidor Padrão
+149;63;Feminino;24846,58;Superior;Divorciado(a);0;Aracaju;TO;Redes Sociais;Anúncio Rede Social;Viagem;1465,54;15;Não;Sim;Raramente;Comprador Frequente Premium
+150;52;Masculino;6332,75;Fundamental;Solteiro(a);0;Goiânia;RN;WhatsApp Business;Anúncio Rede Social;Casa/Decoração;2534,99;8;Não;Não;Às vezes;Consumidor Padrão
+151;38;Masculino;10494,60;Fundamental;União Estável;0;Teresina;RS;App do Fabricante;Propaganda TV;Beleza/Cosméticos;582,72;8;Não;Não;Às vezes;Comprador Frequente Premium
+152;49;Feminino;2518,08;Superior;Divorciado(a);2;Campo Grande;MT;Marketplace;Busca Google;Moda;3186,27;1;Sim;Sim;Nunca;Consumidor Padrão
+153;38;Masculino;4843,56;Superior;União Estável;0;Aparecida de Goiânia;RJ;E-commerce;Review YouTube;Beleza/Cosméticos;1015,66;1;Às vezes;Sim;Raramente;Consumidor Padrão
+154;25;Masculino;6395,23;Fundamental;Casado(a);0;Porto Alegre;PB;WhatsApp Business;Review YouTube;Moda;1788,06;8;Sim;Não;Frequentemente;Consumidor Padrão
+155;23;Feminino;17693,18;Médio;Casado(a);1;Recife;PI;Marketplace;Busca Google;Moda;4730,68;6;Sim;Não;Raramente;Comprador Frequente Premium
+156;49;Masculino;5955,80;Fundamental;União Estável;0;Feira de Santana;AP;Marketplace;Anúncio Rede Social;Livros/Educação;1182,96;12;Sim;Não;Raramente;Consumidor Padrão
+157;51;Masculino;14557,59;Médio;Solteiro(a);3;Juiz de Fora;SP;Marketplace;Recomendação Amigo;Viagem;2188,80;5;Às vezes;Não;Nunca;Consumidor Padrão
+158;53;Feminino;4157,25;Médio;União Estável;0;Uberlândia;RR;WhatsApp Business;Anúncio Rede Social;Esportes;4170,13;4;Não;Não;Às vezes;Consumidor Padrão
+159;60;Masculino;20938,05;Fundamental;Casado(a);0;Niterói;AM;Loja Física;Recomendação Amigo;Moda;586,03;3;Sim;Não;Frequentemente;Tradicional Presencial
+160;37;Masculino;8094,98;Pós-Graduação;União Estável;1;Joinville;MA;App do Fabricante;Influenciador Digital;Casa/Decoração;721,61;14;Às vezes;Sim;Às vezes;Influenciável Engajado
+161;20;Feminino;23023,39;Pós-Graduação;Solteiro(a);0;Santos;RO;E-commerce;Propaganda TV;Esportes;691,95;10;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+162;46;Feminino;3862,61;Pós-Graduação;União Estável;2;Uberlândia;SC;Marketplace;Propaganda TV;Esportes;1954,44;1;Não;Não;Raramente;Consumidor Padrão
+163;53;Feminino;19914,33;Superior;Divorciado(a);0;João Pessoa;MT;Loja Física;Email Marketing;Esportes;1492,52;11;Sim;Não;Raramente;Comprador Frequente Premium
+164;38;Masculino;5296,89;Superior;Casado(a);3;Santos;PA;Redes Sociais;Busca Google;Moda;1748,19;5;Não;Não;Frequentemente;Consumidor Padrão
+165;62;Feminino;20948,62;Médio;Casado(a);0;Brasília;BA;Redes Sociais;Propaganda TV;Esportes;2611,20;0;Não;Sim;Raramente;Influenciável Engajado
+166;38;Feminino;11117,91;Pós-Graduação;União Estável;0;São Paulo;MA;Marketplace;Review YouTube;Alimentos;2199,80;7;Não;Sim;Raramente;Comprador Frequente Premium
+167;29;Masculino;9757,64;Médio;União Estável;0;Rio de Janeiro;MT;E-commerce;Anúncio Rede Social;Moda;3992,14;12;Sim;Não;Às vezes;Consumidor Padrão
+168;38;Feminino;3994,46;Médio;Solteiro(a);0;Campo Grande;AC;WhatsApp Business;Email Marketing;Viagem;1330,50;13;Sim;Não;Raramente;Consumidor Padrão
+169;47;Masculino;20282,59;Fundamental;União Estável;0;Joinville;MS;Redes Sociais;Busca Google;Beleza/Cosméticos;4516,47;5;Sim;Sim;Nunca;Influenciável Engajado
+170;24;Masculino;21794,29;Médio;União Estável;2;Porto Alegre;RN;WhatsApp Business;Podcast Patrocinado;Livros/Educação;4905,35;0;Sim;Sim;Às vezes;Influenciável Engajado
+171;58;Feminino;5007,83;Superior;Divorciado(a);2;Osasco;ES;App do Fabricante;Busca Google;Livros/Educação;1986,84;14;Não;Sim;Nunca;Influenciável Engajado
+172;65;Masculino;8740,00;Superior;União Estável;0;Guarulhos;SE;App do Fabricante;Review YouTube;Eletrônicos;3980,99;9;Não;Não;Frequentemente;Consumidor Padrão
+173;58;Masculino;8108,99;Superior;Casado(a);2;Juiz de Fora;GO;Redes Sociais;Anúncio Rede Social;Beleza/Cosméticos;1040,95;10;Não;Sim;Nunca;Influenciável Engajado
+174;45;Feminino;5775,80;Superior;Divorciado(a);0;São José dos Campos;SC;Marketplace;Podcast Patrocinado;Viagem;4864,24;15;Às vezes;Não;Às vezes;Consumidor Padrão
+175;50;Masculino;15976,97;Médio;União Estável;3;Fortaleza;MA;Loja Física;Influenciador Digital;Livros/Educação;3980,18;8;Sim;Não;Frequentemente;Comprador Frequente Premium
+176;48;Masculino;11482,63;Superior;União Estável;2;Porto Alegre;GO;Marketplace;Recomendação Amigo;Moda;1983,16;5;Às vezes;Sim;Frequentemente;Influenciável Engajado
+177;25;Masculino;13700,56;Superior;Divorciado(a);2;Manaus;AP;WhatsApp Business;Propaganda TV;Alimentos;606,88;11;Às vezes;Não;Nunca;Comprador Frequente Premium
+178;33;Masculino;7085,17;Fundamental;União Estável;1;Porto Alegre;PB;Redes Sociais;Influenciador Digital;Moda;2361,37;0;Não;Sim;Raramente;Influenciável Engajado
+179;32;Masculino;12325,84;Fundamental;Casado(a);2;São Luís;RN;WhatsApp Business;Review YouTube;Casa/Decoração;4600,40;8;Às vezes;Sim;Nunca;Comprador Frequente Premium
+180;34;Feminino;5575,49;Pós-Graduação;Solteiro(a);2;Teresina;RR;Marketplace;Recomendação Amigo;Moda;2965,84;5;Não;Não;Frequentemente;Consumidor Padrão
+181;29;Feminino;13981,86;Superior;Solteiro(a);1;Uberlândia;PA;Loja Física;Busca Google;Eletrônicos;2217,01;10;Não;Não;Frequentemente;Comprador Frequente Premium
+182;18;Feminino;15033,81;Superior;Solteiro(a);3;Osasco;PE;Marketplace;Review YouTube;Livros/Educação;1328,47;4;Não;Não;Às vezes;Consumidor Padrão
+183;33;Feminino;13871,48;Pós-Graduação;Divorciado(a);1;Santos;PI;Loja Física;Influenciador Digital;Alimentos;926,69;0;Às vezes;Não;Nunca;Consumidor Padrão
+184;35;Feminino;9841,46;Fundamental;União Estável;2;Vitória;RJ;Redes Sociais;Recomendação Amigo;Viagem;1357,66;6;Sim;Não;Frequentemente;Consumidor Padrão
+185;27;Masculino;8043,54;Médio;União Estável;0;Maceió;PB;Marketplace;Recomendação Amigo;Esportes;4343,86;13;Às vezes;Não;Nunca;Consumidor Padrão
+186;40;Masculino;23565,18;Fundamental;União Estável;0;Guarulhos;RN;Marketplace;Review YouTube;Beleza/Cosméticos;1213,88;15;Não;Não;Frequentemente;Comprador Frequente Premium
+187;42;Masculino;16017,55;Superior;Solteiro(a);0;Sorocaba;BA;E-commerce;Anúncio Rede Social;Moda;913,56;10;Não;Não;Frequentemente;Comprador Frequente Premium
+188;40;Masculino;5474,27;Pós-Graduação;Solteiro(a);2;São Luís;RN;App do Fabricante;Propaganda TV;Eletrônicos;2656,41;11;Não;Sim;Frequentemente;Influenciável Engajado
+189;67;Feminino;1254,78;Médio;União Estável;0;Salvador;RR;Redes Sociais;Email Marketing;Beleza/Cosméticos;1726,39;0;Não;Sim;Nunca;Consumidor Padrão
+190;47;Masculino;23567,50;Médio;Solteiro(a);3;Aracaju;AP;Loja Física;Busca Google;Livros/Educação;2819,49;13;Não;Não;Nunca;Comprador Frequente Premium
+191;63;Masculino;1485,37;Médio;Solteiro(a);0;Belém;GO;Loja Física;Propaganda TV;Viagem;1150,66;5;Às vezes;Sim;Raramente;Tradicional Presencial
+192;57;Feminino;19238,63;Superior;Casado(a);0;Porto Alegre;GO;WhatsApp Business;Review YouTube;Viagem;1288,59;0;Às vezes;Não;Frequentemente;Consumidor Padrão
+193;37;Masculino;11875,25;Fundamental;Divorciado(a);0;Recife;RJ;Marketplace;Podcast Patrocinado;Beleza/Cosméticos;2125,89;1;Não;Sim;Raramente;Influenciável Engajado
+194;20;Feminino;24475,34;Fundamental;Casado(a);0;Belo Horizonte;MS;Redes Sociais;Recomendação Amigo;Beleza/Cosméticos;2848,57;6;Sim;Não;Frequentemente;Comprador Frequente Premium
+195;50;Masculino;6597,01;Fundamental;União Estável;3;Recife;PA;E-commerce;Review YouTube;Moda;3312,78;10;Não;Sim;Raramente;Influenciável Engajado
+196;36;Masculino;16663,39;Médio;Casado(a);2;Porto Alegre;RO;Loja Física;Anúncio Rede Social;Esportes;291,94;6;Às vezes;Sim;Raramente;Comprador Frequente Premium
+197;69;Feminino;8497,69;Pós-Graduação;União Estável;0;Uberlândia;AP;App do Fabricante;Anúncio Rede Social;Casa/Decoração;3696,71;7;Não;Sim;Às vezes;Influenciável Engajado
+198;62;Feminino;18109,22;Pós-Graduação;União Estável;0;Juiz de Fora;PR;App do Fabricante;Email Marketing;Moda;2316,85;13;Não;Sim;Às vezes;Comprador Frequente Premium
+199;45;Masculino;14791,19;Superior;União Estável;0;Rio de Janeiro;BA;Loja Física;Busca Google;Casa/Decoração;859,08;1;Não;Sim;Frequentemente;Influenciável Engajado
+200;70;Feminino;23379,00;Fundamental;Casado(a);1;Maceió;AP;E-commerce;Review YouTube;Beleza/Cosméticos;3442,91;9;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+201;68;Feminino;17747,91;Médio;Divorciado(a);1;Uberlândia;SC;Loja Física;Influenciador Digital;Livros/Educação;542,31;12;Sim;Não;Frequentemente;Comprador Frequente Premium
+202;18;Masculino;16665,11;Fundamental;União Estável;1;Belo Horizonte;SC;Marketplace;Influenciador Digital;Beleza/Cosméticos;4927,35;14;Às vezes;Não;Às vezes;Comprador Frequente Premium
+203;25;Masculino;13773,36;Fundamental;União Estável;0;Natal;ES;App do Fabricante;Propaganda TV;Moda;1555,01;4;Sim;Sim;Às vezes;Influenciável Engajado
+204;18;Feminino;4690,11;Superior;Divorciado(a);0;São José dos Campos;MT;Loja Física;Propaganda TV;Esportes;3911,15;9;Às vezes;Sim;Raramente;Consumidor Padrão
+205;70;Masculino;15604,82;Superior;União Estável;2;Porto Velho;PE;Loja Física;Propaganda TV;Beleza/Cosméticos;1300,86;2;Não;Sim;Às vezes;Influenciável Engajado
+206;56;Masculino;21274,77;Superior;Casado(a);0;São José dos Campos;RS;E-commerce;Recomendação Amigo;Beleza/Cosméticos;1866,80;12;Sim;Não;Nunca;Comprador Frequente Premium
+207;70;Masculino;19588,78;Pós-Graduação;Casado(a);1;Londrina;AM;App do Fabricante;Busca Google;Moda;2132,02;5;Não;Não;Às vezes;Consumidor Padrão
+208;18;Feminino;17895,83;Superior;Solteiro(a);1;Niterói;MA;App do Fabricante;Influenciador Digital;Eletrônicos;4430,70;5;Às vezes;Não;Raramente;Consumidor Padrão
+209;18;Feminino;18084,67;Pós-Graduação;União Estável;2;Cuiabá;AP;Redes Sociais;Recomendação Amigo;Viagem;3730,26;10;Sim;Sim;Frequentemente;Comprador Frequente Premium
+210;26;Masculino;16340,34;Superior;Divorciado(a);2;João Pessoa;GO;Loja Física;Email Marketing;Beleza/Cosméticos;71,84;2;Às vezes;Não;Frequentemente;Consumidor Padrão
+211;31;Masculino;7244,62;Fundamental;Casado(a);0;Maringá;CE;E-commerce;Busca Google;Livros/Educação;1046,74;8;Não;Não;Nunca;Consumidor Padrão
+212;45;Masculino;1755,80;Fundamental;União Estável;2;Aparecida de Goiânia;MT;App do Fabricante;Influenciador Digital;Livros/Educação;3877,93;8;Sim;Não;Nunca;Consumidor Padrão
+213;37;Feminino;10911,14;Superior;Solteiro(a);2;Sorocaba;AM;Redes Sociais;Recomendação Amigo;Beleza/Cosméticos;4913,35;0;Sim;Sim;Raramente;Influenciável Engajado
+214;54;Masculino;22902,10;Superior;Divorciado(a);2;Florianópolis;SP;Loja Física;Podcast Patrocinado;Livros/Educação;4214,14;5;Às vezes;Sim;Frequentemente;Influenciável Engajado
+215;30;Feminino;24238,58;Superior;Divorciado(a);0;Salvador;AC;Loja Física;Influenciador Digital;Casa/Decoração;2195,32;15;Não;Sim;Às vezes;Comprador Frequente Premium
+216;64;Feminino;20978,05;Pós-Graduação;Divorciado(a);1;Manaus;RO;E-commerce;Propaganda TV;Esportes;2932,64;5;Às vezes;Não;Nunca;Consumidor Padrão
+217;55;Feminino;24050,25;Médio;Divorciado(a);2;Osasco;DF;Marketplace;Podcast Patrocinado;Alimentos;686,39;6;Às vezes;Sim;Raramente;Comprador Frequente Premium
+218;26;Feminino;1993,31;Pós-Graduação;Divorciado(a);0;Florianópolis;PB;Marketplace;Propaganda TV;Eletrônicos;226,44;11;Não;Não;Nunca;Consumidor Padrão
+219;41;Masculino;5474,55;Superior;União Estável;1;Joinville;RO;App do Fabricante;Email Marketing;Eletrônicos;3534,75;4;Sim;Sim;Às vezes;Influenciável Engajado
+220;51;Feminino;21469,28;Fundamental;União Estável;2;Fortaleza;PR;App do Fabricante;Busca Google;Alimentos;3331,83;4;Não;Sim;Frequentemente;Influenciável Engajado
+221;68;Feminino;18340,37;Superior;União Estável;1;Belém;CE;E-commerce;Recomendação Amigo;Beleza/Cosméticos;3528,21;12;Sim;Sim;Nunca;Comprador Frequente Premium
+222;40;Feminino;4625,17;Médio;Casado(a);0;Aparecida de Goiânia;TO;WhatsApp Business;Propaganda TV;Alimentos;1399,20;6;Não;Sim;Frequentemente;Consumidor Padrão
+223;64;Feminino;3071,23;Superior;Divorciado(a);2;Joinville;BA;Redes Sociais;Anúncio Rede Social;Viagem;1024,62;4;Às vezes;Sim;Raramente;Consumidor Padrão
+224;53;Feminino;12625,66;Pós-Graduação;Solteiro(a);1;Niterói;PR;E-commerce;Busca Google;Eletrônicos;3132,71;3;Sim;Não;Frequentemente;Consumidor Padrão
+225;25;Masculino;20867,62;Pós-Graduação;Divorciado(a);0;Guarulhos;AM;Redes Sociais;Email Marketing;Viagem;4001,67;7;Não;Sim;Frequentemente;Comprador Frequente Premium
+226;66;Feminino;21868,47;Pós-Graduação;União Estável;2;Brasília;MS;Loja Física;Recomendação Amigo;Moda;2582,53;8;Não;Sim;Frequentemente;Comprador Frequente Premium
+227;54;Feminino;3984,92;Fundamental;União Estável;2;Maceió;PE;Redes Sociais;Propaganda TV;Eletrônicos;2765,86;9;Sim;Sim;Frequentemente;Consumidor Padrão
+228;30;Masculino;24448,14;Médio;Divorciado(a);2;Vitória;RJ;App do Fabricante;Anúncio Rede Social;Beleza/Cosméticos;3007,46;5;Sim;Não;Nunca;Consumidor Padrão
+229;19;Masculino;16334,94;Superior;Casado(a);0;Goiânia;BA;Marketplace;Podcast Patrocinado;Beleza/Cosméticos;3109,80;13;Não;Sim;Nunca;Comprador Frequente Premium
+230;69;Masculino;2216,19;Fundamental;Solteiro(a);0;São Luís;RS;Loja Física;Busca Google;Alimentos;852,96;5;Sim;Não;Raramente;Tradicional Presencial
+231;32;Masculino;17574,77;Superior;Divorciado(a);1;Osasco;RR;Marketplace;Review YouTube;Eletrônicos;3964,09;12;Não;Não;Frequentemente;Comprador Frequente Premium
+232;29;Masculino;21397,44;Médio;Casado(a);1;Florianópolis;RJ;Redes Sociais;Recomendação Amigo;Alimentos;4770,31;7;Às vezes;Não;Às vezes;Comprador Frequente Premium
+233;35;Feminino;6383,11;Pós-Graduação;Solteiro(a);2;Salvador;SE;Redes Sociais;Busca Google;Moda;70,17;3;Não;Sim;Nunca;Influenciável Engajado
+234;22;Masculino;23490,80;Fundamental;União Estável;2;Guarulhos;RR;Marketplace;Anúncio Rede Social;Moda;3879,91;6;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+235;63;Masculino;14490,48;Superior;Casado(a);1;Porto Alegre;RS;Marketplace;Anúncio Rede Social;Eletrônicos;3536,82;10;Sim;Sim;Frequentemente;Comprador Frequente Premium
+236;64;Feminino;7460,12;Pós-Graduação;Solteiro(a);2;Londrina;RO;Redes Sociais;Busca Google;Alimentos;1376,95;12;Às vezes;Não;Às vezes;Consumidor Padrão
+237;51;Feminino;5987,40;Pós-Graduação;Solteiro(a);0;Goiânia;RR;Redes Sociais;Review YouTube;Beleza/Cosméticos;4166,86;1;Não;Não;Nunca;Consumidor Padrão
+238;43;Feminino;24248,63;Médio;Divorciado(a);1;Teresina;BA;WhatsApp Business;Recomendação Amigo;Moda;4491,95;6;Sim;Não;Raramente;Comprador Frequente Premium
+239;23;Masculino;10136,35;Fundamental;União Estável;0;Londrina;CE;App do Fabricante;Podcast Patrocinado;Alimentos;606,62;13;Às vezes;Sim;Nunca;Comprador Frequente Premium
+240;45;Masculino;5207,54;Médio;União Estável;1;Fortaleza;PA;Marketplace;Influenciador Digital;Moda;3573,96;8;Sim;Não;Frequentemente;Consumidor Padrão
+241;65;Masculino;8627,98;Fundamental;União Estável;2;São Paulo;RO;WhatsApp Business;Podcast Patrocinado;Moda;1042,38;15;Não;Não;Às vezes;Consumidor Padrão
+242;51;Feminino;8284,38;Superior;União Estável;0;Natal;TO;E-commerce;Influenciador Digital;Esportes;4016,38;9;Não;Não;Às vezes;Consumidor Padrão
+243;41;Feminino;7132,48;Fundamental;Casado(a);0;Porto Velho;RN;Marketplace;Propaganda TV;Casa/Decoração;1257,84;10;Não;Sim;Frequentemente;Influenciável Engajado
+244;50;Feminino;20488,28;Fundamental;Divorciado(a);0;Juiz de Fora;TO;E-commerce;Recomendação Amigo;Moda;3782,61;4;Às vezes;Não;Às vezes;Consumidor Padrão
+245;29;Masculino;7738,99;Superior;Solteiro(a);3;João Pessoa;RJ;E-commerce;Busca Google;Livros/Educação;4446,21;13;Sim;Sim;Às vezes;Influenciável Engajado
+246;38;Masculino;13334,83;Superior;Divorciado(a);0;Manaus;RJ;Loja Física;Busca Google;Beleza/Cosméticos;723,20;15;Não;Sim;Às vezes;Comprador Frequente Premium
+247;55;Masculino;20137,73;Fundamental;União Estável;2;Ribeirão Preto;SP;Loja Física;Review YouTube;Livros/Educação;4698,19;11;Não;Sim;Às vezes;Comprador Frequente Premium
+248;57;Feminino;10803,93;Médio;Solteiro(a);0;Florianópolis;PE;E-commerce;Influenciador Digital;Viagem;1983,80;0;Às vezes;Não;Nunca;Consumidor Padrão
+249;30;Feminino;1749,26;Pós-Graduação;Casado(a);0;Juiz de Fora;TO;App do Fabricante;Anúncio Rede Social;Beleza/Cosméticos;4309,47;14;Não;Sim;Às vezes;Consumidor Padrão
+250;40;Feminino;16364,35;Superior;Casado(a);1;Belém;RS;Marketplace;Busca Google;Beleza/Cosméticos;4264,28;10;Sim;Não;Raramente;Comprador Frequente Premium
+251;37;Masculino;6390,40;Fundamental;Casado(a);2;Natal;PR;WhatsApp Business;Propaganda TV;Alimentos;2393,02;0;Não;Não;Raramente;Consumidor Padrão
+252;66;Feminino;14335,13;Pós-Graduação;União Estável;2;Ribeirão Preto;RN;E-commerce;Review YouTube;Casa/Decoração;3590,62;3;Sim;Não;Frequentemente;Consumidor Padrão
+253;65;Masculino;3655,08;Médio;União Estável;0;Niterói;ES;WhatsApp Business;Podcast Patrocinado;Eletrônicos;3942,48;10;Não;Não;Raramente;Consumidor Padrão
+254;44;Feminino;3673,41;Superior;Solteiro(a);1;Goiânia;ES;WhatsApp Business;Review YouTube;Moda;4864,47;10;Sim;Não;Frequentemente;Consumidor Padrão
+255;32;Masculino;4899,05;Superior;Solteiro(a);1;Belo Horizonte;AP;WhatsApp Business;Influenciador Digital;Moda;3372,93;0;Não;Sim;Raramente;Consumidor Padrão
+256;64;Feminino;18650,57;Fundamental;União Estável;1;Florianópolis;PE;WhatsApp Business;Influenciador Digital;Moda;219,90;12;Às vezes;Sim;Raramente;Comprador Frequente Premium
+257;40;Masculino;14979,44;Médio;União Estável;1;João Pessoa;RR;Marketplace;Anúncio Rede Social;Casa/Decoração;2110,53;5;Não;Não;Nunca;Consumidor Padrão
+258;53;Masculino;17628,77;Superior;Divorciado(a);2;Maringá;PR;E-commerce;Recomendação Amigo;Eletrônicos;1884,14;3;Às vezes;Sim;Nunca;Influenciável Engajado
+259;19;Masculino;24938,82;Pós-Graduação;Divorciado(a);2;Joinville;PB;Redes Sociais;Review YouTube;Moda;2941,25;1;Sim;Não;Nunca;Consumidor Padrão
+260;33;Feminino;11824,47;Superior;Divorciado(a);3;Teresina;SC;E-commerce;Propaganda TV;Beleza/Cosméticos;4264,98;12;Não;Sim;Frequentemente;Comprador Frequente Premium
+261;43;Masculino;20448,50;Médio;Divorciado(a);0;Manaus;RN;E-commerce;Review YouTube;Alimentos;4318,58;2;Às vezes;Não;Às vezes;Consumidor Padrão
+262;60;Feminino;9291,35;Médio;União Estável;0;Joinville;MS;Loja Física;Busca Google;Moda;3909,23;10;Às vezes;Não;Às vezes;Tradicional Presencial
+263;19;Feminino;2923,10;Médio;Divorciado(a);3;Sorocaba;RO;App do Fabricante;Anúncio Rede Social;Livros/Educação;3200,78;1;Não;Não;Raramente;Consumidor Padrão
+264;33;Masculino;7711,40;Fundamental;Casado(a);1;Santos;MA;Redes Sociais;Recomendação Amigo;Casa/Decoração;292,56;12;Não;Sim;Frequentemente;Influenciável Engajado
+265;43;Feminino;12161,80;Fundamental;Divorciado(a);2;Rio de Janeiro;ES;Redes Sociais;Anúncio Rede Social;Eletrônicos;664,09;13;Sim;Não;Raramente;Comprador Frequente Premium
+266;49;Masculino;7807,41;Pós-Graduação;União Estável;0;Manaus;ES;Redes Sociais;Recomendação Amigo;Viagem;3552,67;11;Não;Não;Raramente;Consumidor Padrão
+267;45;Feminino;4806,64;Pós-Graduação;Divorciado(a);1;Maringá;RS;App do Fabricante;Influenciador Digital;Casa/Decoração;1455,33;2;Não;Não;Raramente;Consumidor Padrão
+268;64;Masculino;11260,58;Pós-Graduação;União Estável;1;Natal;PE;App do Fabricante;Review YouTube;Moda;3463,20;10;Sim;Não;Frequentemente;Comprador Frequente Premium
+269;19;Masculino;7262,01;Médio;Divorciado(a);1;Vitória;SC;Loja Física;Influenciador Digital;Eletrônicos;2113,23;15;Sim;Não;Nunca;Consumidor Padrão
+270;19;Masculino;22697,16;Superior;Divorciado(a);1;Rio de Janeiro;AL;WhatsApp Business;Podcast Patrocinado;Beleza/Cosméticos;1439,89;11;Sim;Não;Raramente;Comprador Frequente Premium
+271;66;Masculino;18821,65;Médio;Solteiro(a);1;Guarulhos;AL;App do Fabricante;Email Marketing;Beleza/Cosméticos;3958,97;1;Sim;Sim;Nunca;Influenciável Engajado
+272;63;Feminino;19542,18;Pós-Graduação;Divorciado(a);0;Goiânia;SC;Redes Sociais;Influenciador Digital;Eletrônicos;4645,95;13;Às vezes;Não;Raramente;Comprador Frequente Premium
+273;39;Feminino;2952,08;Superior;Casado(a);0;Porto Velho;BA;Marketplace;Podcast Patrocinado;Alimentos;4443,06;0;Sim;Sim;Raramente;Consumidor Padrão
+274;30;Feminino;9475,86;Superior;Casado(a);0;Rio de Janeiro;MT;E-commerce;Email Marketing;Eletrônicos;1206,53;5;Não;Sim;Raramente;Influenciável Engajado
+275;47;Masculino;10518,33;Fundamental;Divorciado(a);1;Santos;PB;E-commerce;Busca Google;Eletrônicos;3816,83;9;Não;Sim;Raramente;Comprador Frequente Premium
+276;61;Masculino;11772,33;Fundamental;Casado(a);1;Aracaju;AP;Marketplace;Review YouTube;Beleza/Cosméticos;1836,30;14;Não;Não;Raramente;Comprador Frequente Premium
+277;52;Feminino;22304,92;Pós-Graduação;União Estável;0;São Paulo;PA;App do Fabricante;Busca Google;Livros/Educação;3909,40;12;Não;Sim;Nunca;Comprador Frequente Premium
+278;19;Masculino;3784,37;Pós-Graduação;União Estável;0;Joinville;TO;Marketplace;Busca Google;Alimentos;3974,74;9;Às vezes;Sim;Nunca;Consumidor Padrão
+279;28;Masculino;9769,43;Fundamental;Divorciado(a);2;Juiz de Fora;SE;App do Fabricante;Anúncio Rede Social;Eletrônicos;665,00;5;Às vezes;Sim;Frequentemente;Influenciável Engajado
+280;18;Masculino;2534,22;Pós-Graduação;Casado(a);0;São Paulo;RO;Loja Física;Influenciador Digital;Viagem;3608,86;8;Às vezes;Sim;Raramente;Consumidor Padrão
+281;18;Masculino;15498,10;Pós-Graduação;Solteiro(a);3;Joinville;TO;Loja Física;Podcast Patrocinado;Alimentos;4065,39;15;Sim;Sim;Raramente;Comprador Frequente Premium
+282;38;Masculino;17292,65;Médio;Solteiro(a);0;Campo Grande;GO;Redes Sociais;Email Marketing;Beleza/Cosméticos;3086,07;15;Não;Sim;Às vezes;Comprador Frequente Premium
+283;38;Feminino;12903,36;Médio;Solteiro(a);1;Manaus;AM;Marketplace;Anúncio Rede Social;Beleza/Cosméticos;2565,47;6;Sim;Sim;Frequentemente;Comprador Frequente Premium
+284;31;Masculino;2831,46;Médio;União Estável;0;Manaus;MG;Redes Sociais;Recomendação Amigo;Beleza/Cosméticos;1750,38;3;Sim;Não;Às vezes;Consumidor Padrão
+285;44;Masculino;7931,27;Superior;União Estável;0;Maringá;PB;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;1818,88;6;Sim;Não;Raramente;Consumidor Padrão
+286;37;Feminino;15472,29;Superior;Casado(a);2;Niterói;DF;Marketplace;Podcast Patrocinado;Moda;4077,16;13;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+287;48;Feminino;3248,82;Pós-Graduação;União Estável;2;Campo Grande;AL;Redes Sociais;Anúncio Rede Social;Eletrônicos;306,18;6;Não;Não;Raramente;Consumidor Padrão
+288;67;Masculino;8310,77;Fundamental;União Estável;3;Recife;TO;Marketplace;Recomendação Amigo;Moda;3566,86;0;Não;Não;Às vezes;Consumidor Padrão
+289;39;Masculino;5752,21;Fundamental;Casado(a);1;Maringá;RS;Redes Sociais;Recomendação Amigo;Alimentos;3075,37;1;Às vezes;Sim;Nunca;Influenciável Engajado
+290;46;Feminino;22379,96;Superior;Solteiro(a);0;Ribeirão Preto;RJ;WhatsApp Business;Recomendação Amigo;Moda;3915,14;14;Não;Não;Frequentemente;Comprador Frequente Premium
+291;32;Masculino;7427,05;Pós-Graduação;Casado(a);2;Natal;PA;Loja Física;Review YouTube;Moda;1692,92;1;Sim;Não;Frequentemente;Consumidor Padrão
+292;39;Masculino;6843,31;Fundamental;Solteiro(a);3;Feira de Santana;SP;Redes Sociais;Propaganda TV;Moda;3504,02;8;Sim;Não;Nunca;Consumidor Padrão
+293;46;Masculino;6707,43;Pós-Graduação;Solteiro(a);0;Ribeirão Preto;BA;Redes Sociais;Busca Google;Viagem;4719,56;13;Não;Não;Às vezes;Consumidor Padrão
+294;26;Feminino;2229,21;Pós-Graduação;Divorciado(a);3;Osasco;CE;Loja Física;Busca Google;Beleza/Cosméticos;3731,67;10;Às vezes;Sim;Frequentemente;Consumidor Padrão
+295;22;Feminino;13267,34;Superior;União Estável;0;Londrina;AP;App do Fabricante;Recomendação Amigo;Casa/Decoração;2442,69;3;Sim;Não;Frequentemente;Consumidor Padrão
+296;34;Feminino;21597,02;Fundamental;Casado(a);1;Goiânia;PI;Redes Sociais;Anúncio Rede Social;Esportes;2238,56;3;Às vezes;Sim;Frequentemente;Influenciável Engajado
+297;25;Feminino;10343,42;Fundamental;Casado(a);3;Brasília;RO;E-commerce;Review YouTube;Moda;1752,16;1;Às vezes;Não;Nunca;Consumidor Padrão
+298;56;Masculino;1319,52;Médio;Divorciado(a);0;Salvador;AL;E-commerce;Busca Google;Livros/Educação;3214,67;6;Às vezes;Sim;Frequentemente;Consumidor Padrão
+299;58;Feminino;8576,00;Médio;Casado(a);0;Osasco;MS;App do Fabricante;Propaganda TV;Moda;1837,45;15;Às vezes;Sim;Às vezes;Influenciável Engajado
+300;42;Feminino;17050,90;Superior;Casado(a);3;Porto Alegre;PI;Loja Física;Review YouTube;Beleza/Cosméticos;3109,55;12;Às vezes;Sim;Raramente;Comprador Frequente Premium
+301;51;Masculino;12914,22;Médio;União Estável;0;Campinas;AP;Loja Física;Anúncio Rede Social;Alimentos;1672,32;9;Sim;Não;Às vezes;Comprador Frequente Premium
+302;23;Masculino;24353,97;Fundamental;Casado(a);0;Maringá;AM;Marketplace;Anúncio Rede Social;Livros/Educação;4407,74;14;Sim;Não;Raramente;Comprador Frequente Premium
+303;33;Masculino;5428,12;Médio;Divorciado(a);2;João Pessoa;DF;E-commerce;Email Marketing;Livros/Educação;3555,60;5;Sim;Sim;Nunca;Influenciável Engajado
+304;50;Masculino;20645,47;Superior;Solteiro(a);1;Salvador;SC;App do Fabricante;Propaganda TV;Esportes;3158,73;14;Sim;Sim;Às vezes;Comprador Frequente Premium
+305;43;Masculino;10058,48;Fundamental;União Estável;1;Ribeirão Preto;MS;Loja Física;Anúncio Rede Social;Beleza/Cosméticos;1478,85;6;Não;Não;Nunca;Comprador Frequente Premium
+306;68;Feminino;2899,25;Superior;Solteiro(a);1;Santos;AM;Redes Sociais;Email Marketing;Casa/Decoração;1629,77;6;Não;Sim;Frequentemente;Consumidor Padrão
+307;51;Feminino;24290,36;Superior;Solteiro(a);1;São Paulo;AC;Redes Sociais;Busca Google;Livros/Educação;225,37;13;Sim;Sim;Às vezes;Comprador Frequente Premium
+308;42;Masculino;17473,21;Médio;União Estável;0;Feira de Santana;SP;Loja Física;Anúncio Rede Social;Viagem;2988,43;14;Não;Não;Às vezes;Comprador Frequente Premium
+309;30;Feminino;13826,74;Superior;Solteiro(a);3;Aparecida de Goiânia;RR;Loja Física;Email Marketing;Viagem;1901,70;5;Sim;Sim;Às vezes;Influenciável Engajado
+310;31;Feminino;16246,87;Fundamental;Solteiro(a);0;São Luís;CE;App do Fabricante;Influenciador Digital;Eletrônicos;3948,54;3;Às vezes;Sim;Raramente;Influenciável Engajado
+311;57;Masculino;7867,57;Superior;Casado(a);0;Brasília;CE;Loja Física;Anúncio Rede Social;Moda;562,39;0;Às vezes;Não;Frequentemente;Tradicional Presencial
+312;42;Feminino;20283,30;Médio;Divorciado(a);2;Curitiba;RR;Marketplace;Influenciador Digital;Eletrônicos;2765,02;3;Não;Não;Às vezes;Consumidor Padrão
+313;59;Feminino;1467,43;Médio;Solteiro(a);3;Teresina;GO;Redes Sociais;Influenciador Digital;Viagem;1294,93;10;Sim;Sim;Raramente;Consumidor Padrão
+314;56;Feminino;16925,13;Pós-Graduação;União Estável;1;Aparecida de Goiânia;AM;Redes Sociais;Influenciador Digital;Eletrônicos;2271,61;9;Sim;Não;Raramente;Comprador Frequente Premium
+315;61;Feminino;1830,41;Fundamental;Divorciado(a);0;Aracaju;AL;Redes Sociais;Busca Google;Casa/Decoração;1519,56;13;Não;Não;Às vezes;Consumidor Padrão
+316;19;Feminino;8444,00;Pós-Graduação;União Estável;2;Maringá;PE;WhatsApp Business;Propaganda TV;Esportes;1256,75;4;Às vezes;Não;Às vezes;Consumidor Padrão
+317;30;Feminino;1408,25;Superior;Solteiro(a);0;Manaus;PB;Marketplace;Propaganda TV;Esportes;755,92;11;Sim;Sim;Raramente;Consumidor Padrão
+318;45;Feminino;1364,16;Médio;Casado(a);0;Aparecida de Goiânia;PB;Marketplace;Review YouTube;Casa/Decoração;4886,23;6;Às vezes;Sim;Raramente;Consumidor Padrão
+319;44;Masculino;4946,67;Pós-Graduação;União Estável;0;Londrina;RR;Redes Sociais;Propaganda TV;Beleza/Cosméticos;2556,81;3;Sim;Sim;Frequentemente;Consumidor Padrão
+320;52;Feminino;18235,53;Fundamental;Casado(a);1;Santos;MT;WhatsApp Business;Influenciador Digital;Eletrônicos;3695,72;7;Sim;Sim;Raramente;Comprador Frequente Premium
+321;47;Masculino;8740,93;Superior;Casado(a);0;Rio de Janeiro;PE;WhatsApp Business;Review YouTube;Casa/Decoração;674,31;1;Não;Não;Raramente;Consumidor Padrão
+322;51;Feminino;2349,33;Superior;União Estável;1;Joinville;TO;App do Fabricante;Propaganda TV;Moda;4165,14;12;Às vezes;Sim;Nunca;Consumidor Padrão
+323;27;Feminino;6983,85;Superior;Divorciado(a);3;Sorocaba;RJ;Redes Sociais;Email Marketing;Livros/Educação;3744,49;0;Às vezes;Não;Às vezes;Consumidor Padrão
+324;66;Masculino;13671,47;Fundamental;Casado(a);3;Porto Alegre;PA;Loja Física;Review YouTube;Casa/Decoração;2416,74;5;Às vezes;Não;Nunca;Tradicional Presencial
+325;27;Masculino;20702,32;Superior;Solteiro(a);3;Ribeirão Preto;SC;Redes Sociais;Influenciador Digital;Livros/Educação;884,09;15;Às vezes;Sim;Raramente;Comprador Frequente Premium
+326;69;Feminino;22333,17;Médio;Divorciado(a);0;Aracaju;MA;Loja Física;Anúncio Rede Social;Viagem;393,37;13;Sim;Não;Nunca;Comprador Frequente Premium
+327;47;Masculino;20398,22;Médio;Divorciado(a);3;Osasco;SE;Marketplace;Anúncio Rede Social;Casa/Decoração;4534,93;8;Não;Não;Às vezes;Comprador Frequente Premium
+328;22;Feminino;5960,10;Fundamental;Divorciado(a);1;Belém;AM;App do Fabricante;Busca Google;Moda;4367,29;11;Às vezes;Sim;Frequentemente;Influenciável Engajado
+329;38;Feminino;19432,54;Superior;Divorciado(a);1;São Luís;RO;App do Fabricante;Influenciador Digital;Esportes;2522,23;3;Não;Não;Às vezes;Consumidor Padrão
+330;41;Masculino;13418,41;Pós-Graduação;União Estável;2;Santos;MG;WhatsApp Business;Podcast Patrocinado;Moda;4172,67;14;Às vezes;Não;Às vezes;Comprador Frequente Premium
+331;37;Masculino;15796,67;Superior;União Estável;0;Maceió;RS;App do Fabricante;Busca Google;Livros/Educação;4636,61;8;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+332;21;Feminino;8478,68;Fundamental;Divorciado(a);0;São Paulo;SC;Redes Sociais;Influenciador Digital;Beleza/Cosméticos;89,09;15;Às vezes;Não;Às vezes;Consumidor Padrão
+333;66;Feminino;6735,93;Superior;União Estável;0;Florianópolis;SC;Redes Sociais;Anúncio Rede Social;Viagem;3030,93;6;Não;Sim;Raramente;Influenciável Engajado
+334;53;Feminino;15591,39;Médio;Divorciado(a);0;Guarulhos;PR;Loja Física;Podcast Patrocinado;Viagem;192,43;6;Sim;Sim;Raramente;Comprador Frequente Premium
+335;22;Masculino;13251,14;Pós-Graduação;Solteiro(a);2;Belo Horizonte;SP;Redes Sociais;Recomendação Amigo;Moda;2395,32;14;Não;Não;Nunca;Comprador Frequente Premium
+336;49;Masculino;19617,95;Superior;União Estável;1;Belém;AC;Marketplace;Influenciador Digital;Eletrônicos;2688,71;0;Sim;Sim;Às vezes;Influenciável Engajado
+337;44;Masculino;17599,55;Médio;Solteiro(a);0;Recife;RN;App do Fabricante;Influenciador Digital;Esportes;4172,38;15;Sim;Sim;Frequentemente;Comprador Frequente Premium
+338;69;Feminino;5084,98;Médio;União Estável;2;São Luís;RR;Marketplace;Anúncio Rede Social;Esportes;1577,99;1;Às vezes;Não;Frequentemente;Consumidor Padrão
+339;63;Feminino;15285,99;Superior;Casado(a);2;Porto Alegre;BA;Loja Física;Recomendação Amigo;Moda;4796,10;10;Sim;Sim;Nunca;Comprador Frequente Premium
+340;70;Feminino;22655,65;Médio;Divorciado(a);1;Porto Alegre;MS;Redes Sociais;Propaganda TV;Beleza/Cosméticos;3458,66;15;Sim;Sim;Raramente;Comprador Frequente Premium
+341;47;Feminino;8483,58;Fundamental;União Estável;2;Porto Alegre;AM;Marketplace;Anúncio Rede Social;Livros/Educação;3412,24;8;Não;Sim;Nunca;Influenciável Engajado
+342;58;Masculino;11226,14;Fundamental;União Estável;2;Porto Velho;PI;E-commerce;Review YouTube;Moda;4400,11;8;Às vezes;Sim;Raramente;Comprador Frequente Premium
+343;39;Masculino;23052,78;Superior;Divorciado(a);3;São Paulo;AC;Marketplace;Influenciador Digital;Moda;2451,49;6;Às vezes;Sim;Nunca;Comprador Frequente Premium
+344;39;Masculino;3656,37;Médio;União Estável;0;São Luís;AM;App do Fabricante;Busca Google;Casa/Decoração;1680,23;1;Sim;Não;Frequentemente;Consumidor Padrão
+345;24;Feminino;3255,75;Superior;Divorciado(a);0;Aracaju;RR;E-commerce;Anúncio Rede Social;Alimentos;4364,96;7;Não;Sim;Raramente;Consumidor Padrão
+346;27;Masculino;21010,24;Pós-Graduação;Divorciado(a);2;Natal;GO;Loja Física;Influenciador Digital;Casa/Decoração;2821,08;4;Às vezes;Sim;Frequentemente;Influenciável Engajado
+347;59;Feminino;20171,18;Pós-Graduação;Casado(a);0;Ribeirão Preto;ES;App do Fabricante;Podcast Patrocinado;Viagem;726,78;10;Sim;Sim;Às vezes;Comprador Frequente Premium
+348;53;Feminino;7003,80;Fundamental;Solteiro(a);0;Porto Velho;ES;App do Fabricante;Review YouTube;Livros/Educação;2981,33;11;Não;Não;Nunca;Consumidor Padrão
+349;18;Feminino;9271,51;Superior;Divorciado(a);2;Guarulhos;PI;App do Fabricante;Recomendação Amigo;Alimentos;1243,53;8;Sim;Sim;Nunca;Influenciável Engajado
+350;20;Feminino;22694,73;Pós-Graduação;Divorciado(a);1;São José dos Campos;BA;Redes Sociais;Podcast Patrocinado;Alimentos;2819,55;14;Não;Não;Nunca;Comprador Frequente Premium
+351;51;Masculino;12285,26;Fundamental;Solteiro(a);2;Recife;RR;E-commerce;Propaganda TV;Livros/Educação;2212,75;5;Às vezes;Sim;Às vezes;Influenciável Engajado
+352;58;Feminino;18875,24;Médio;Divorciado(a);2;Ribeirão Preto;PR;E-commerce;Busca Google;Esportes;3945,71;12;Sim;Não;Raramente;Comprador Frequente Premium
+353;59;Masculino;3717,36;Superior;Divorciado(a);3;Cuiabá;PE;WhatsApp Business;Podcast Patrocinado;Beleza/Cosméticos;4481,69;13;Às vezes;Sim;Raramente;Consumidor Padrão
+354;21;Feminino;8376,89;Fundamental;Solteiro(a);2;Goiânia;MA;Redes Sociais;Propaganda TV;Viagem;3751,27;0;Às vezes;Sim;Frequentemente;Influenciável Engajado
+355;66;Masculino;1227,41;Fundamental;Casado(a);2;Manaus;RO;Redes Sociais;Anúncio Rede Social;Moda;2345,79;5;Às vezes;Não;Às vezes;Consumidor Padrão
+356;26;Feminino;16060,76;Pós-Graduação;Casado(a);2;Belo Horizonte;RR;WhatsApp Business;Influenciador Digital;Alimentos;3058,03;9;Às vezes;Não;Raramente;Comprador Frequente Premium
+357;64;Masculino;20386,76;Fundamental;Divorciado(a);2;Curitiba;PB;WhatsApp Business;Recomendação Amigo;Viagem;203,73;3;Sim;Não;Às vezes;Caçador de Ofertas
+358;25;Feminino;17252,89;Médio;União Estável;0;Osasco;RN;Redes Sociais;Review YouTube;Livros/Educação;3915,36;15;Às vezes;Não;Às vezes;Comprador Frequente Premium
+359;23;Feminino;5804,55;Médio;Casado(a);0;Santos;CE;Marketplace;Influenciador Digital;Viagem;4889,98;14;Não;Sim;Raramente;Influenciável Engajado
+360;50;Feminino;10353,20;Médio;Casado(a);3;Campo Grande;RR;E-commerce;Email Marketing;Alimentos;4358,82;1;Não;Sim;Às vezes;Influenciável Engajado
+361;36;Masculino;20608,56;Fundamental;Divorciado(a);0;Juiz de Fora;RS;E-commerce;Email Marketing;Casa/Decoração;331,39;14;Sim;Não;Frequentemente;Comprador Frequente Premium
+362;56;Masculino;22238,52;Pós-Graduação;Casado(a);2;Belém;PA;Loja Física;Podcast Patrocinado;Casa/Decoração;464,00;8;Sim;Sim;Às vezes;Comprador Frequente Premium
+363;61;Feminino;1961,58;Médio;Solteiro(a);1;Osasco;SP;WhatsApp Business;Propaganda TV;Beleza/Cosméticos;3033,55;5;Sim;Sim;Às vezes;Consumidor Padrão
+364;55;Feminino;20978,36;Superior;Divorciado(a);2;Curitiba;CE;E-commerce;Podcast Patrocinado;Esportes;3272,92;0;Não;Não;Nunca;Consumidor Padrão
+365;18;Feminino;23306,41;Pós-Graduação;Divorciado(a);1;Manaus;SP;Loja Física;Podcast Patrocinado;Eletrônicos;2493,97;3;Sim;Não;Às vezes;Consumidor Padrão
+366;64;Masculino;22818,96;Fundamental;Casado(a);2;Recife;AP;App do Fabricante;Review YouTube;Eletrônicos;1768,49;4;Sim;Sim;Frequentemente;Influenciável Engajado
+367;59;Masculino;10175,51;Médio;Divorciado(a);3;Natal;PE;App do Fabricante;Email Marketing;Esportes;2038,31;15;Não;Não;Raramente;Comprador Frequente Premium
+368;39;Masculino;9835,18;Superior;Solteiro(a);1;São Luís;GO;E-commerce;Anúncio Rede Social;Livros/Educação;2531,35;10;Às vezes;Sim;Raramente;Influenciável Engajado
+369;65;Masculino;3088,33;Superior;Divorciado(a);3;Cuiabá;SC;Loja Física;Email Marketing;Esportes;4589,97;11;Sim;Não;Às vezes;Tradicional Presencial
+370;39;Feminino;16772,22;Médio;Solteiro(a);1;Porto Alegre;PA;Loja Física;Recomendação Amigo;Viagem;3253,94;9;Às vezes;Sim;Raramente;Comprador Frequente Premium
+371;47;Feminino;17661,35;Pós-Graduação;Casado(a);1;Aracaju;CE;Loja Física;Propaganda TV;Viagem;2003,30;2;Sim;Sim;Nunca;Influenciável Engajado
+372;45;Masculino;24805,01;Médio;União Estável;2;Aracaju;ES;Marketplace;Propaganda TV;Casa/Decoração;4105,69;14;Às vezes;Sim;Nunca;Comprador Frequente Premium
+373;28;Masculino;7521,84;Pós-Graduação;Casado(a);1;Juiz de Fora;RR;Marketplace;Anúncio Rede Social;Moda;3363,69;3;Sim;Sim;Raramente;Influenciável Engajado
+374;43;Feminino;11629,36;Fundamental;Solteiro(a);1;Feira de Santana;RO;Loja Física;Propaganda TV;Alimentos;3667,52;4;Não;Não;Nunca;Consumidor Padrão
+375;18;Masculino;3106,11;Fundamental;Solteiro(a);2;Osasco;TO;Redes Sociais;Busca Google;Moda;4873,31;2;Sim;Não;Raramente;Consumidor Padrão
+376;39;Feminino;17917,72;Médio;Casado(a);0;Porto Alegre;GO;Loja Física;Propaganda TV;Livros/Educação;2480,97;12;Às vezes;Não;Raramente;Comprador Frequente Premium
+377;53;Feminino;11463,25;Superior;Solteiro(a);0;Recife;MA;Marketplace;Recomendação Amigo;Viagem;3297,98;3;Não;Sim;Frequentemente;Influenciável Engajado
+378;35;Masculino;17230,99;Fundamental;Solteiro(a);1;Ribeirão Preto;PB;Marketplace;Influenciador Digital;Beleza/Cosméticos;410,19;0;Às vezes;Não;Frequentemente;Consumidor Padrão
+379;48;Masculino;9311,90;Superior;União Estável;0;Joinville;PR;Redes Sociais;Recomendação Amigo;Moda;2172,50;9;Sim;Sim;Nunca;Influenciável Engajado
+380;29;Feminino;14617,87;Médio;Divorciado(a);2;Natal;PB;App do Fabricante;Podcast Patrocinado;Alimentos;2693,80;0;Às vezes;Sim;Nunca;Influenciável Engajado
+381;27;Feminino;14896,33;Pós-Graduação;Solteiro(a);2;Feira de Santana;RN;App do Fabricante;Busca Google;Viagem;3365,93;0;Sim;Não;Frequentemente;Consumidor Padrão
+382;66;Masculino;22940,85;Médio;União Estável;0;Maceió;MG;Marketplace;Review YouTube;Casa/Decoração;4938,91;15;Não;Sim;Frequentemente;Comprador Frequente Premium
+383;41;Masculino;20577,28;Médio;Casado(a);3;Aracaju;MA;E-commerce;Anúncio Rede Social;Livros/Educação;2387,44;1;Sim;Não;Às vezes;Consumidor Padrão
+384;45;Masculino;12866,57;Pós-Graduação;Casado(a);2;Ribeirão Preto;PE;E-commerce;Podcast Patrocinado;Livros/Educação;2265,28;3;Às vezes;Não;Nunca;Consumidor Padrão
+385;38;Masculino;7943,26;Superior;Divorciado(a);0;São Luís;CE;WhatsApp Business;Busca Google;Moda;788,05;3;Não;Sim;Nunca;Influenciável Engajado
+386;34;Masculino;22622,57;Superior;Solteiro(a);2;Porto Velho;MT;Marketplace;Anúncio Rede Social;Alimentos;4030,68;6;Não;Sim;Frequentemente;Comprador Frequente Premium
+387;34;Masculino;11579,09;Médio;Divorciado(a);0;Natal;AM;App do Fabricante;Anúncio Rede Social;Eletrônicos;1483,80;1;Sim;Não;Frequentemente;Consumidor Padrão
+388;43;Feminino;1510,92;Pós-Graduação;União Estável;0;Natal;AC;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;4721,80;6;Às vezes;Sim;Frequentemente;Consumidor Padrão
+389;61;Masculino;12356,90;Médio;Divorciado(a);0;Juiz de Fora;RN;E-commerce;Anúncio Rede Social;Viagem;172,32;4;Às vezes;Não;Nunca;Consumidor Padrão
+390;28;Masculino;14087,93;Superior;União Estável;0;Cuiabá;PB;Redes Sociais;Busca Google;Moda;4770,13;10;Sim;Não;Às vezes;Comprador Frequente Premium
+391;56;Feminino;14028,76;Pós-Graduação;Solteiro(a);1;Niterói;AM;App do Fabricante;Email Marketing;Beleza/Cosméticos;3088,21;13;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+392;69;Masculino;24245,63;Pós-Graduação;Solteiro(a);2;Londrina;AM;Redes Sociais;Busca Google;Eletrônicos;303,52;6;Sim;Não;Nunca;Comprador Frequente Premium
+393;37;Feminino;3140,24;Pós-Graduação;União Estável;1;São José dos Campos;BA;WhatsApp Business;Podcast Patrocinado;Casa/Decoração;4530,64;6;Às vezes;Sim;Frequentemente;Consumidor Padrão
+394;52;Masculino;17170,15;Fundamental;Casado(a);0;Florianópolis;RR;Redes Sociais;Busca Google;Alimentos;4705,43;0;Às vezes;Sim;Nunca;Influenciável Engajado
+395;24;Feminino;17925,26;Médio;União Estável;1;Joinville;ES;Loja Física;Propaganda TV;Eletrônicos;2987,54;4;Sim;Não;Frequentemente;Consumidor Padrão
+396;44;Masculino;2712,90;Médio;União Estável;0;Juiz de Fora;PI;WhatsApp Business;Anúncio Rede Social;Viagem;3941,94;1;Sim;Não;Nunca;Consumidor Padrão
+397;48;Masculino;14747,84;Superior;Casado(a);2;Maceió;RR;Loja Física;Recomendação Amigo;Esportes;4502,88;13;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+398;26;Feminino;18334,08;Médio;União Estável;2;Porto Velho;CE;App do Fabricante;Influenciador Digital;Moda;1056,58;9;Sim;Sim;Às vezes;Comprador Frequente Premium
+399;64;Masculino;16830,29;Superior;União Estável;3;Campinas;SP;Marketplace;Influenciador Digital;Alimentos;695,18;0;Às vezes;Não;Nunca;Consumidor Padrão
+400;60;Masculino;1725,44;Médio;Divorciado(a);0;Londrina;GO;App do Fabricante;Recomendação Amigo;Livros/Educação;539,93;6;Às vezes;Sim;Raramente;Consumidor Padrão
+401;44;Feminino;4700,93;Pós-Graduação;Solteiro(a);0;Curitiba;GO;WhatsApp Business;Podcast Patrocinado;Beleza/Cosméticos;3677,70;4;Não;Sim;Às vezes;Consumidor Padrão
+402;21;Feminino;13996,93;Fundamental;Solteiro(a);0;Cuiabá;SE;Loja Física;Podcast Patrocinado;Livros/Educação;3328,28;13;Sim;Sim;Frequentemente;Comprador Frequente Premium
+403;44;Feminino;12638,36;Pós-Graduação;Divorciado(a);1;Feira de Santana;RN;Marketplace;Propaganda TV;Casa/Decoração;857,99;11;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+404;26;Masculino;2868,32;Pós-Graduação;União Estável;2;Curitiba;MS;Loja Física;Podcast Patrocinado;Livros/Educação;2485,48;5;Sim;Não;Às vezes;Consumidor Padrão
+405;61;Feminino;10553,30;Pós-Graduação;Divorciado(a);3;São José dos Campos;RO;WhatsApp Business;Email Marketing;Esportes;4549,34;0;Sim;Sim;Raramente;Influenciável Engajado
+406;19;Feminino;10312,09;Fundamental;Solteiro(a);2;Manaus;PB;Redes Sociais;Anúncio Rede Social;Eletrônicos;3140,58;12;Sim;Sim;Frequentemente;Comprador Frequente Premium
+407;47;Feminino;22066,31;Superior;União Estável;1;Santos;ES;E-commerce;Recomendação Amigo;Moda;3059,94;10;Às vezes;Não;Nunca;Comprador Frequente Premium
+408;33;Feminino;6401,53;Médio;União Estável;0;Goiânia;ES;Redes Sociais;Busca Google;Eletrônicos;2209,48;7;Não;Não;Frequentemente;Consumidor Padrão
+409;43;Masculino;15807,51;Pós-Graduação;Solteiro(a);0;Juiz de Fora;PB;WhatsApp Business;Propaganda TV;Esportes;4408,51;6;Não;Sim;Frequentemente;Comprador Frequente Premium
+410;39;Feminino;10288,15;Médio;Divorciado(a);0;Londrina;SE;Marketplace;Recomendação Amigo;Eletrônicos;4685,25;14;Às vezes;Não;Às vezes;Comprador Frequente Premium
+411;58;Feminino;4020,42;Pós-Graduação;Solteiro(a);1;Londrina;MT;Redes Sociais;Email Marketing;Esportes;4133,52;3;Não;Sim;Nunca;Consumidor Padrão
+412;35;Masculino;21279,54;Fundamental;União Estável;2;São Paulo;PE;App do Fabricante;Podcast Patrocinado;Eletrônicos;344,85;4;Não;Sim;Às vezes;Influenciável Engajado
+413;53;Masculino;21802,05;Pós-Graduação;Solteiro(a);0;Florianópolis;ES;E-commerce;Email Marketing;Livros/Educação;392,00;3;Sim;Sim;Às vezes;Influenciável Engajado
+414;20;Masculino;6526,85;Médio;Solteiro(a);2;Rio de Janeiro;RS;App do Fabricante;Recomendação Amigo;Alimentos;4599,46;6;Não;Sim;Nunca;Influenciável Engajado
+415;29;Feminino;7024,29;Médio;Casado(a);1;Salvador;TO;Loja Física;Recomendação Amigo;Beleza/Cosméticos;892,57;10;Sim;Sim;Às vezes;Influenciável Engajado
+416;35;Masculino;2171,44;Médio;Casado(a);1;Curitiba;PR;Marketplace;Review YouTube;Eletrônicos;157,23;8;Às vezes;Sim;Raramente;Consumidor Padrão
+417;47;Feminino;15697,33;Médio;Solteiro(a);0;Sorocaba;MG;App do Fabricante;Influenciador Digital;Livros/Educação;4492,66;1;Às vezes;Sim;Frequentemente;Influenciável Engajado
+418;58;Masculino;19615,29;Pós-Graduação;Casado(a);3;Juiz de Fora;CE;WhatsApp Business;Podcast Patrocinado;Alimentos;4332,63;10;Sim;Sim;Nunca;Comprador Frequente Premium
+419;36;Feminino;6570,46;Superior;Solteiro(a);0;Goiânia;MG;App do Fabricante;Email Marketing;Eletrônicos;4573,97;11;Não;Não;Às vezes;Consumidor Padrão
+420;27;Masculino;10990,05;Superior;Casado(a);0;Porto Alegre;GO;App do Fabricante;Busca Google;Alimentos;4858,80;1;Não;Não;Raramente;Consumidor Padrão
+421;39;Feminino;6861,42;Superior;Divorciado(a);0;Campinas;TO;E-commerce;Busca Google;Esportes;1936,68;2;Não;Sim;Raramente;Influenciável Engajado
+422;29;Masculino;1964,44;Fundamental;União Estável;1;Guarulhos;RR;WhatsApp Business;Email Marketing;Livros/Educação;1699,10;0;Não;Não;Às vezes;Consumidor Padrão
+423;35;Masculino;16813,95;Fundamental;Divorciado(a);0;Santos;RO;Redes Sociais;Busca Google;Eletrônicos;3242,70;12;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+424;25;Feminino;17896,13;Médio;Divorciado(a);1;Belo Horizonte;AC;E-commerce;Recomendação Amigo;Eletrônicos;3547,53;13;Não;Não;Raramente;Comprador Frequente Premium
+425;24;Masculino;12559,24;Fundamental;Divorciado(a);3;Rio de Janeiro;RR;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;3182,62;7;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+426;21;Masculino;17151,62;Médio;Solteiro(a);0;Recife;AL;App do Fabricante;Influenciador Digital;Eletrônicos;2858,40;5;Às vezes;Sim;Frequentemente;Influenciável Engajado
+427;67;Masculino;5895,76;Pós-Graduação;Solteiro(a);2;Recife;MA;Loja Física;Podcast Patrocinado;Alimentos;2156,01;9;Sim;Sim;Nunca;Influenciável Engajado
+428;29;Feminino;21793,68;Superior;Divorciado(a);2;São Luís;PE;Redes Sociais;Influenciador Digital;Viagem;4757,87;2;Não;Não;Às vezes;Consumidor Padrão
+429;29;Masculino;9757,46;Médio;Casado(a);1;Joinville;AP;WhatsApp Business;Anúncio Rede Social;Viagem;1680,36;8;Às vezes;Não;Às vezes;Consumidor Padrão
+430;29;Feminino;21289,92;Superior;União Estável;2;Salvador;MA;Redes Sociais;Recomendação Amigo;Livros/Educação;2577,82;4;Sim;Sim;Frequentemente;Influenciável Engajado
+431;18;Masculino;18952,18;Médio;Solteiro(a);0;Fortaleza;PA;WhatsApp Business;Influenciador Digital;Viagem;3650,32;13;Não;Sim;Raramente;Comprador Frequente Premium
+432;64;Masculino;1462,12;Superior;Solteiro(a);1;Aracaju;AL;App do Fabricante;Influenciador Digital;Casa/Decoração;1370,00;5;Sim;Sim;Raramente;Consumidor Padrão
+433;49;Feminino;2980,23;Fundamental;Solteiro(a);1;Campo Grande;CE;WhatsApp Business;Propaganda TV;Casa/Decoração;465,02;8;Não;Sim;Frequentemente;Consumidor Padrão
+434;38;Masculino;12250,61;Fundamental;Divorciado(a);2;Uberlândia;BA;App do Fabricante;Podcast Patrocinado;Esportes;2773,14;3;Às vezes;Sim;Nunca;Influenciável Engajado
+435;26;Masculino;10431,67;Médio;União Estável;0;Campo Grande;ES;WhatsApp Business;Email Marketing;Moda;2897,45;14;Às vezes;Sim;Raramente;Comprador Frequente Premium
+436;54;Masculino;4814,85;Superior;Divorciado(a);1;Rio de Janeiro;MT;WhatsApp Business;Anúncio Rede Social;Livros/Educação;3906,34;12;Sim;Sim;Frequentemente;Consumidor Padrão
+437;53;Masculino;11757,13;Fundamental;União Estável;0;Osasco;PI;Redes Sociais;Propaganda TV;Eletrônicos;2813,20;9;Não;Não;Nunca;Comprador Frequente Premium
+438;20;Feminino;24270,78;Pós-Graduação;Casado(a);2;Uberlândia;MA;E-commerce;Busca Google;Beleza/Cosméticos;4145,07;10;Sim;Não;Frequentemente;Comprador Frequente Premium
+439;37;Feminino;17656,81;Superior;Casado(a);2;Florianópolis;PI;Loja Física;Busca Google;Moda;3933,57;7;Às vezes;Não;Às vezes;Comprador Frequente Premium
+440;22;Masculino;2956,84;Superior;Casado(a);0;Teresina;SC;App do Fabricante;Anúncio Rede Social;Viagem;4886,24;2;Não;Não;Às vezes;Consumidor Padrão
+441;67;Masculino;15633,47;Médio;União Estável;0;Brasília;RJ;Redes Sociais;Busca Google;Moda;1527,78;14;Sim;Não;Raramente;Comprador Frequente Premium
+442;37;Masculino;8901,64;Pós-Graduação;União Estável;0;Recife;RJ;WhatsApp Business;Email Marketing;Esportes;4493,84;3;Sim;Não;Frequentemente;Consumidor Padrão
+443;52;Masculino;20606,85;Pós-Graduação;Divorciado(a);2;Belém;MS;Marketplace;Review YouTube;Moda;3242,68;10;Sim;Não;Raramente;Comprador Frequente Premium
+444;25;Masculino;2366,12;Fundamental;Casado(a);0;Niterói;RO;Loja Física;Anúncio Rede Social;Livros/Educação;2418,23;1;Não;Não;Nunca;Consumidor Padrão
+445;21;Masculino;16116,72;Fundamental;Casado(a);0;Brasília;SP;App do Fabricante;Email Marketing;Alimentos;4547,55;14;Sim;Sim;Frequentemente;Comprador Frequente Premium
+446;30;Feminino;20691,71;Pós-Graduação;Solteiro(a);2;Campinas;BA;App do Fabricante;Podcast Patrocinado;Moda;3817,65;8;Às vezes;Não;Nunca;Comprador Frequente Premium
+447;65;Masculino;10584,28;Superior;Divorciado(a);0;Vitória;CE;Marketplace;Recomendação Amigo;Viagem;3475,64;1;Às vezes;Sim;Frequentemente;Influenciável Engajado
+448;42;Masculino;9213,26;Pós-Graduação;Divorciado(a);1;São Luís;SP;Loja Física;Review YouTube;Alimentos;1144,58;0;Sim;Sim;Frequentemente;Influenciável Engajado
+449;37;Feminino;19669,42;Médio;Solteiro(a);0;Guarulhos;MT;Loja Física;Review YouTube;Beleza/Cosméticos;380,14;9;Às vezes;Não;Às vezes;Comprador Frequente Premium
+450;62;Feminino;12992,36;Superior;Divorciado(a);1;Fortaleza;RO;E-commerce;Propaganda TV;Moda;2440,77;1;Não;Sim;Às vezes;Influenciável Engajado
+451;58;Masculino;13092,12;Superior;Casado(a);2;São Paulo;DF;E-commerce;Influenciador Digital;Eletrônicos;3786,43;6;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+452;57;Masculino;9159,72;Médio;Divorciado(a);1;Porto Alegre;PE;E-commerce;Propaganda TV;Moda;754,75;1;Não;Não;Frequentemente;Consumidor Padrão
+453;23;Masculino;17484,37;Superior;Casado(a);1;Niterói;AC;WhatsApp Business;Recomendação Amigo;Casa/Decoração;2105,12;7;Sim;Sim;Frequentemente;Comprador Frequente Premium
+454;46;Masculino;5106,13;Médio;Solteiro(a);2;Vitória;MA;Loja Física;Busca Google;Livros/Educação;1185,08;12;Às vezes;Não;Frequentemente;Consumidor Padrão
+455;35;Masculino;6315,10;Pós-Graduação;União Estável;2;Niterói;RO;App do Fabricante;Busca Google;Eletrônicos;3651,06;1;Sim;Não;Raramente;Consumidor Padrão
+456;59;Feminino;11081,35;Pós-Graduação;União Estável;0;São Luís;GO;E-commerce;Recomendação Amigo;Beleza/Cosméticos;1005,33;8;Não;Sim;Frequentemente;Comprador Frequente Premium
+457;62;Feminino;12497,89;Superior;Casado(a);3;Manaus;SC;Loja Física;Anúncio Rede Social;Moda;3692,34;6;Às vezes;Não;Raramente;Comprador Frequente Premium
+458;68;Masculino;8119,18;Fundamental;União Estável;0;Brasília;AP;E-commerce;Email Marketing;Alimentos;1626,69;13;Às vezes;Sim;Nunca;Influenciável Engajado
+459;70;Masculino;22440,24;Médio;União Estável;2;Porto Alegre;MS;Loja Física;Busca Google;Viagem;2410,59;15;Não;Sim;Raramente;Comprador Frequente Premium
+460;41;Feminino;15495,56;Superior;Casado(a);0;São Paulo;DF;Marketplace;Email Marketing;Esportes;2994,67;6;Sim;Não;Raramente;Comprador Frequente Premium
+461;56;Masculino;2324,38;Pós-Graduação;União Estável;0;Porto Alegre;PB;App do Fabricante;Influenciador Digital;Moda;3227,62;4;Não;Não;Frequentemente;Consumidor Padrão
+462;56;Masculino;21310,76;Pós-Graduação;Casado(a);1;Teresina;BA;Loja Física;Anúncio Rede Social;Alimentos;4489,73;6;Sim;Não;Raramente;Comprador Frequente Premium
+463;49;Masculino;20035,89;Pós-Graduação;Divorciado(a);1;Campinas;RO;Marketplace;Influenciador Digital;Eletrônicos;417,02;13;Sim;Não;Raramente;Comprador Frequente Premium
+464;49;Feminino;18228,95;Médio;Solteiro(a);1;Goiânia;MT;Marketplace;Recomendação Amigo;Viagem;540,93;0;Não;Não;Nunca;Consumidor Padrão
+465;68;Feminino;15090,77;Médio;União Estável;0;Aracaju;PI;WhatsApp Business;Email Marketing;Viagem;4678,50;0;Não;Sim;Frequentemente;Influenciável Engajado
+466;48;Feminino;20561,45;Superior;Solteiro(a);2;São Luís;AL;Marketplace;Email Marketing;Beleza/Cosméticos;3859,41;2;Às vezes;Não;Raramente;Consumidor Padrão
+467;21;Feminino;7080,66;Superior;Solteiro(a);3;São Paulo;AL;App do Fabricante;Podcast Patrocinado;Livros/Educação;355,50;7;Sim;Não;Às vezes;Caçador de Ofertas
+468;38;Masculino;19698,16;Fundamental;Casado(a);1;Brasília;PE;Redes Sociais;Busca Google;Casa/Decoração;2898,41;8;Às vezes;Não;Às vezes;Comprador Frequente Premium
+469;43;Feminino;24075,61;Pós-Graduação;Casado(a);0;Juiz de Fora;RJ;Loja Física;Influenciador Digital;Moda;2528,58;0;Não;Sim;Às vezes;Influenciável Engajado
+470;67;Masculino;13554,12;Superior;Solteiro(a);1;Fortaleza;RN;Redes Sociais;Busca Google;Livros/Educação;4498,15;12;Sim;Não;Frequentemente;Comprador Frequente Premium
+471;47;Feminino;8644,53;Superior;Solteiro(a);3;Cuiabá;RR;Redes Sociais;Review YouTube;Eletrônicos;1509,19;15;Não;Sim;Frequentemente;Influenciável Engajado
+472;23;Masculino;14529,27;Superior;União Estável;3;Fortaleza;RJ;Loja Física;Busca Google;Alimentos;368,06;15;Sim;Não;Raramente;Comprador Frequente Premium
+473;42;Feminino;15234,84;Fundamental;Divorciado(a);3;Maringá;TO;Redes Sociais;Busca Google;Alimentos;1987,24;8;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+474;60;Masculino;18609,63;Médio;Divorciado(a);1;Salvador;RS;WhatsApp Business;Influenciador Digital;Casa/Decoração;3743,66;10;Sim;Sim;Raramente;Comprador Frequente Premium
+475;26;Masculino;7987,40;Médio;Solteiro(a);2;Santos;MS;Loja Física;Email Marketing;Eletrônicos;1031,16;8;Sim;Sim;Frequentemente;Influenciável Engajado
+476;45;Feminino;22849,25;Médio;Casado(a);0;Porto Velho;CE;Loja Física;Influenciador Digital;Eletrônicos;1164,52;10;Às vezes;Não;Nunca;Comprador Frequente Premium
+477;26;Masculino;21126,12;Superior;Solteiro(a);2;Goiânia;AM;App do Fabricante;Busca Google;Esportes;3508,62;6;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+478;67;Feminino;4564,17;Pós-Graduação;Solteiro(a);3;Osasco;AP;E-commerce;Email Marketing;Alimentos;4938,26;9;Não;Sim;Raramente;Consumidor Padrão
+479;43;Masculino;21327,46;Fundamental;União Estável;0;Joinville;RO;App do Fabricante;Email Marketing;Livros/Educação;4300,30;1;Sim;Sim;Nunca;Influenciável Engajado
+480;45;Masculino;22425,17;Médio;União Estável;3;Campo Grande;AL;App do Fabricante;Review YouTube;Casa/Decoração;2078,30;1;Sim;Sim;Às vezes;Influenciável Engajado
+481;55;Feminino;19181,11;Pós-Graduação;Solteiro(a);1;Teresina;RJ;E-commerce;Anúncio Rede Social;Casa/Decoração;1099,83;3;Não;Não;Frequentemente;Consumidor Padrão
+482;48;Feminino;10561,58;Médio;União Estável;0;Aracaju;CE;Loja Física;Email Marketing;Esportes;3508,01;7;Não;Não;Nunca;Comprador Frequente Premium
+483;47;Feminino;3696,88;Superior;União Estável;1;Campinas;MA;WhatsApp Business;Email Marketing;Moda;3081,20;2;Sim;Sim;Às vezes;Consumidor Padrão
+484;55;Masculino;8427,04;Superior;Casado(a);0;Londrina;GO;App do Fabricante;Influenciador Digital;Moda;1711,11;14;Sim;Sim;Raramente;Influenciável Engajado
+485;42;Feminino;4450,59;Pós-Graduação;Solteiro(a);0;Santos;RS;App do Fabricante;Influenciador Digital;Viagem;1891,63;1;Às vezes;Sim;Nunca;Consumidor Padrão
+486;47;Masculino;13407,16;Médio;Solteiro(a);2;Aparecida de Goiânia;SE;Redes Sociais;Busca Google;Beleza/Cosméticos;2671,11;15;Às vezes;Sim;Nunca;Comprador Frequente Premium
+487;27;Masculino;23599,10;Superior;Casado(a);0;Aracaju;AM;E-commerce;Review YouTube;Alimentos;2553,97;3;Às vezes;Sim;Frequentemente;Influenciável Engajado
+488;29;Masculino;21305,05;Pós-Graduação;União Estável;0;Natal;ES;Loja Física;Busca Google;Livros/Educação;1807,00;11;Sim;Não;Às vezes;Comprador Frequente Premium
+489;51;Masculino;5445,54;Pós-Graduação;Solteiro(a);0;Cuiabá;PB;Marketplace;Email Marketing;Moda;622,59;0;Às vezes;Sim;Nunca;Influenciável Engajado
+490;45;Masculino;18433,70;Fundamental;Solteiro(a);0;Ribeirão Preto;AM;Marketplace;Podcast Patrocinado;Moda;1367,53;9;Sim;Sim;Frequentemente;Comprador Frequente Premium
+491;39;Feminino;1893,49;Médio;Casado(a);2;Osasco;TO;App do Fabricante;Influenciador Digital;Eletrônicos;4403,94;14;Sim;Não;Raramente;Consumidor Padrão
+492;31;Masculino;15962,29;Médio;União Estável;3;Brasília;PI;Redes Sociais;Review YouTube;Beleza/Cosméticos;344,56;14;Não;Não;Às vezes;Comprador Frequente Premium
+493;43;Masculino;15751,00;Superior;Casado(a);3;Teresina;MS;E-commerce;Podcast Patrocinado;Casa/Decoração;3785,54;12;Às vezes;Não;Às vezes;Comprador Frequente Premium
+494;43;Masculino;18068,88;Médio;Solteiro(a);1;Recife;PB;App do Fabricante;Anúncio Rede Social;Beleza/Cosméticos;256,73;7;Não;Sim;Frequentemente;Comprador Frequente Premium
+495;31;Feminino;10344,10;Fundamental;Solteiro(a);0;São José dos Campos;MT;Marketplace;Influenciador Digital;Beleza/Cosméticos;2799,66;8;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+496;18;Feminino;13483,85;Pós-Graduação;Casado(a);0;Sorocaba;ES;Redes Sociais;Podcast Patrocinado;Alimentos;1282,84;2;Sim;Sim;Frequentemente;Influenciável Engajado
+497;57;Feminino;23223,28;Pós-Graduação;Divorciado(a);0;Maceió;AC;Loja Física;Recomendação Amigo;Eletrônicos;4219,23;7;Sim;Sim;Nunca;Comprador Frequente Premium
+498;30;Feminino;13118,81;Fundamental;Solteiro(a);2;Rio de Janeiro;BA;Redes Sociais;Recomendação Amigo;Casa/Decoração;3252,94;14;Sim;Não;Frequentemente;Comprador Frequente Premium
+499;56;Feminino;13850,46;Superior;Casado(a);2;Recife;RR;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;4517,27;11;Às vezes;Sim;Raramente;Comprador Frequente Premium
+500;30;Feminino;13706,03;Médio;Casado(a);0;Ribeirão Preto;MT;Redes Sociais;Review YouTube;Alimentos;3325,30;6;Não;Sim;Às vezes;Comprador Frequente Premium
+501;54;Masculino;10955,89;Fundamental;Casado(a);2;São Paulo;BA;Marketplace;Anúncio Rede Social;Casa/Decoração;3921,85;5;Não;Não;Nunca;Consumidor Padrão
+502;62;Masculino;13703,71;Fundamental;União Estável;1;Aracaju;TO;Redes Sociais;Recomendação Amigo;Alimentos;264,40;11;Não;Sim;Às vezes;Comprador Frequente Premium
+503;47;Masculino;24852,07;Médio;Solteiro(a);0;Londrina;AP;Redes Sociais;Email Marketing;Beleza/Cosméticos;597,39;12;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+504;21;Feminino;13633,52;Fundamental;Solteiro(a);2;Belo Horizonte;CE;WhatsApp Business;Influenciador Digital;Moda;885,79;3;Sim;Não;Raramente;Consumidor Padrão
+505;68;Feminino;19462,09;Médio;União Estável;1;Ribeirão Preto;MA;App do Fabricante;Busca Google;Esportes;2873,37;0;Às vezes;Sim;Às vezes;Influenciável Engajado
+506;39;Masculino;14588,84;Médio;Divorciado(a);3;Juiz de Fora;SP;Loja Física;Busca Google;Viagem;3498,43;5;Sim;Não;Frequentemente;Consumidor Padrão
+507;38;Feminino;1741,06;Superior;Casado(a);0;Salvador;SP;Marketplace;Review YouTube;Eletrônicos;1748,40;5;Não;Sim;Frequentemente;Consumidor Padrão
+508;19;Feminino;20954,11;Pós-Graduação;União Estável;0;João Pessoa;RJ;Marketplace;Busca Google;Livros/Educação;114,84;1;Sim;Sim;Nunca;Influenciável Engajado
+509;50;Masculino;20985,15;Superior;Divorciado(a);3;Florianópolis;SE;Marketplace;Anúncio Rede Social;Alimentos;1139,27;11;Às vezes;Não;Às vezes;Comprador Frequente Premium
+510;55;Feminino;9887,76;Superior;Divorciado(a);0;Natal;AP;Loja Física;Influenciador Digital;Viagem;3231,19;2;Não;Não;Frequentemente;Tradicional Presencial
+511;68;Masculino;5306,82;Médio;Divorciado(a);2;Niterói;CE;App do Fabricante;Podcast Patrocinado;Alimentos;1864,72;9;Às vezes;Sim;Raramente;Influenciável Engajado
+512;35;Feminino;18243,82;Superior;União Estável;0;Osasco;DF;Marketplace;Anúncio Rede Social;Casa/Decoração;3319,94;1;Sim;Sim;Frequentemente;Influenciável Engajado
+513;56;Feminino;23611,22;Pós-Graduação;União Estável;0;Feira de Santana;MG;Redes Sociais;Propaganda TV;Alimentos;4405,85;10;Às vezes;Sim;Raramente;Comprador Frequente Premium
+514;20;Feminino;4240,72;Superior;Casado(a);1;Recife;AC;E-commerce;Busca Google;Eletrônicos;574,30;6;Sim;Sim;Frequentemente;Consumidor Padrão
+515;33;Masculino;10457,04;Médio;Casado(a);2;Ribeirão Preto;MA;App do Fabricante;Review YouTube;Esportes;2112,51;12;Não;Sim;Raramente;Comprador Frequente Premium
+516;65;Masculino;21888,50;Médio;Solteiro(a);0;Belém;AP;App do Fabricante;Influenciador Digital;Livros/Educação;1003,47;12;Sim;Não;Nunca;Comprador Frequente Premium
+517;54;Masculino;7571,66;Médio;União Estável;1;Campo Grande;GO;WhatsApp Business;Review YouTube;Livros/Educação;1547,32;2;Às vezes;Sim;Frequentemente;Influenciável Engajado
+518;44;Feminino;1538,03;Fundamental;Divorciado(a);1;Belo Horizonte;ES;E-commerce;Review YouTube;Moda;4333,82;3;Às vezes;Não;Frequentemente;Consumidor Padrão
+519;20;Feminino;1670,26;Superior;Divorciado(a);2;Campo Grande;SP;Redes Sociais;Busca Google;Alimentos;747,33;9;Sim;Sim;Raramente;Consumidor Padrão
+520;64;Feminino;18765,22;Pós-Graduação;Solteiro(a);2;Uberlândia;RS;E-commerce;Anúncio Rede Social;Eletrônicos;1695,12;8;Sim;Não;Às vezes;Comprador Frequente Premium
+521;24;Masculino;22754,36;Pós-Graduação;Divorciado(a);0;São Paulo;PA;WhatsApp Business;Recomendação Amigo;Moda;1707,50;0;Às vezes;Sim;Raramente;Influenciável Engajado
+522;19;Feminino;24162,00;Pós-Graduação;Divorciado(a);0;Londrina;RN;App do Fabricante;Influenciador Digital;Beleza/Cosméticos;3398,75;7;Sim;Sim;Às vezes;Comprador Frequente Premium
+523;48;Feminino;19708,97;Fundamental;Casado(a);0;Curitiba;TO;E-commerce;Propaganda TV;Viagem;164,01;9;Não;Não;Nunca;Comprador Frequente Premium
+524;22;Masculino;6118,14;Fundamental;Solteiro(a);0;Rio de Janeiro;PA;Loja Física;Review YouTube;Moda;4151,51;10;Sim;Não;Frequentemente;Consumidor Padrão
+525;21;Feminino;13084,34;Pós-Graduação;União Estável;2;Joinville;AC;E-commerce;Anúncio Rede Social;Moda;4244,59;15;Sim;Não;Nunca;Comprador Frequente Premium
+526;33;Masculino;10669,74;Superior;União Estável;0;Salvador;SE;Marketplace;Recomendação Amigo;Livros/Educação;360,35;13;Sim;Sim;Raramente;Comprador Frequente Premium
+527;41;Masculino;16968,04;Pós-Graduação;União Estável;2;Uberlândia;PI;Redes Sociais;Influenciador Digital;Casa/Decoração;4506,01;9;Sim;Sim;Nunca;Comprador Frequente Premium
+528;60;Feminino;15388,76;Fundamental;Solteiro(a);2;Campinas;MA;Loja Física;Anúncio Rede Social;Alimentos;3848,54;4;Não;Não;Nunca;Tradicional Presencial
+529;54;Feminino;10985,62;Pós-Graduação;Solteiro(a);0;Sorocaba;PI;E-commerce;Propaganda TV;Esportes;4117,71;0;Não;Sim;Às vezes;Influenciável Engajado
+530;49;Feminino;7646,59;Fundamental;Divorciado(a);3;Belo Horizonte;DF;App do Fabricante;Busca Google;Livros/Educação;520,00;7;Sim;Sim;Frequentemente;Influenciável Engajado
+531;41;Feminino;12735,92;Pós-Graduação;Solteiro(a);0;Feira de Santana;ES;Loja Física;Podcast Patrocinado;Livros/Educação;3081,57;0;Às vezes;Sim;Raramente;Influenciável Engajado
+532;40;Feminino;1525,59;Superior;Casado(a);0;Rio de Janeiro;AM;E-commerce;Influenciador Digital;Alimentos;3956,44;4;Sim;Sim;Raramente;Consumidor Padrão
+533;35;Masculino;7068,82;Pós-Graduação;Solteiro(a);1;Guarulhos;SP;App do Fabricante;Email Marketing;Livros/Educação;2456,87;14;Às vezes;Sim;Às vezes;Influenciável Engajado
+534;68;Masculino;15380,14;Superior;União Estável;1;Cuiabá;AP;Marketplace;Email Marketing;Esportes;288,15;12;Não;Sim;Nunca;Comprador Frequente Premium
+535;63;Feminino;10960,13;Pós-Graduação;Solteiro(a);0;Natal;DF;Marketplace;Review YouTube;Beleza/Cosméticos;1349,26;10;Não;Não;Raramente;Comprador Frequente Premium
+536;24;Feminino;21110,18;Fundamental;Solteiro(a);2;Ribeirão Preto;ES;E-commerce;Review YouTube;Viagem;3199,10;12;Sim;Não;Às vezes;Comprador Frequente Premium
+537;65;Masculino;2876,34;Médio;Solteiro(a);0;Vitória;RN;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;4441,77;7;Sim;Não;Nunca;Consumidor Padrão
+538;70;Masculino;22462,80;Superior;Solteiro(a);0;Osasco;RR;Loja Física;Influenciador Digital;Esportes;1762,04;10;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+539;50;Masculino;23396,71;Médio;Casado(a);2;Porto Alegre;RN;E-commerce;Review YouTube;Casa/Decoração;2579,14;7;Não;Não;Frequentemente;Comprador Frequente Premium
+540;39;Masculino;24594,44;Superior;Casado(a);2;Porto Alegre;MG;WhatsApp Business;Podcast Patrocinado;Moda;3698,98;11;Sim;Não;Nunca;Comprador Frequente Premium
+541;54;Feminino;22062,82;Superior;União Estável;0;São José dos Campos;PE;E-commerce;Propaganda TV;Viagem;2691,99;15;Não;Não;Frequentemente;Comprador Frequente Premium
+542;41;Feminino;9709,24;Fundamental;União Estável;0;São José dos Campos;PB;Loja Física;Influenciador Digital;Moda;4902,92;13;Não;Sim;Às vezes;Influenciável Engajado
+543;29;Masculino;2709,29;Médio;Divorciado(a);3;Niterói;RN;Loja Física;Busca Google;Esportes;1582,66;14;Sim;Não;Raramente;Consumidor Padrão
+544;42;Feminino;5408,55;Fundamental;Casado(a);0;Ribeirão Preto;RN;App do Fabricante;Anúncio Rede Social;Beleza/Cosméticos;3841,88;8;Sim;Não;Às vezes;Consumidor Padrão
+545;20;Masculino;16395,70;Superior;Casado(a);2;Sorocaba;ES;Redes Sociais;Busca Google;Alimentos;1663,88;3;Não;Sim;Frequentemente;Influenciável Engajado
+546;20;Feminino;16599,52;Fundamental;Solteiro(a);1;Florianópolis;ES;Loja Física;Influenciador Digital;Eletrônicos;894,82;1;Não;Não;Raramente;Consumidor Padrão
+547;36;Feminino;11582,31;Fundamental;União Estável;0;São Luís;MS;App do Fabricante;Anúncio Rede Social;Moda;3229,42;8;Não;Sim;Nunca;Comprador Frequente Premium
+548;27;Feminino;12458,23;Fundamental;Casado(a);3;Recife;RN;App do Fabricante;Recomendação Amigo;Viagem;896,77;9;Sim;Não;Às vezes;Comprador Frequente Premium
+549;70;Masculino;6767,00;Fundamental;União Estável;2;Aracaju;RO;App do Fabricante;Podcast Patrocinado;Esportes;393,82;11;Não;Sim;Às vezes;Influenciável Engajado
+550;18;Masculino;22895,48;Pós-Graduação;União Estável;0;Uberlândia;PB;WhatsApp Business;Influenciador Digital;Eletrônicos;482,43;5;Às vezes;Sim;Raramente;Influenciável Engajado
+551;67;Feminino;17644,66;Pós-Graduação;Casado(a);1;Feira de Santana;PI;WhatsApp Business;Busca Google;Beleza/Cosméticos;3536,71;3;Sim;Não;Às vezes;Consumidor Padrão
+552;41;Feminino;2002,05;Médio;Divorciado(a);2;Campo Grande;AC;WhatsApp Business;Review YouTube;Eletrônicos;3180,00;12;Não;Sim;Às vezes;Consumidor Padrão
+553;56;Masculino;2374,01;Superior;Solteiro(a);0;Vitória;PR;WhatsApp Business;Recomendação Amigo;Viagem;4671,57;0;Não;Sim;Nunca;Consumidor Padrão
+554;28;Masculino;15558,32;Médio;Casado(a);2;São Paulo;MS;E-commerce;Review YouTube;Casa/Decoração;4320,76;2;Sim;Sim;Raramente;Influenciável Engajado
+555;53;Feminino;13551,13;Superior;Casado(a);0;Aparecida de Goiânia;GO;Loja Física;Email Marketing;Livros/Educação;1416,92;13;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+556;35;Masculino;8523,83;Pós-Graduação;União Estável;0;Londrina;DF;Loja Física;Busca Google;Alimentos;4138,12;2;Sim;Sim;Às vezes;Influenciável Engajado
+557;60;Masculino;21722,76;Fundamental;União Estável;1;Campinas;PE;Marketplace;Podcast Patrocinado;Alimentos;3060,18;7;Sim;Sim;Nunca;Comprador Frequente Premium
+558;39;Masculino;23737,86;Superior;Divorciado(a);2;Sorocaba;ES;WhatsApp Business;Busca Google;Viagem;1910,77;1;Não;Sim;Nunca;Influenciável Engajado
+559;47;Feminino;18531,16;Superior;União Estável;1;Porto Alegre;MA;Redes Sociais;Influenciador Digital;Casa/Decoração;3333,49;1;Não;Sim;Às vezes;Influenciável Engajado
+560;62;Masculino;3463,51;Médio;Divorciado(a);0;Cuiabá;PE;WhatsApp Business;Busca Google;Esportes;3576,60;5;Não;Sim;Nunca;Consumidor Padrão
+561;67;Masculino;16382,83;Superior;Divorciado(a);2;Porto Alegre;MG;Redes Sociais;Email Marketing;Esportes;2859,67;7;Não;Não;Às vezes;Comprador Frequente Premium
+562;29;Masculino;24830,60;Médio;União Estável;0;Fortaleza;DF;Loja Física;Recomendação Amigo;Viagem;1089,71;4;Sim;Não;Raramente;Consumidor Padrão
+563;53;Feminino;1422,78;Fundamental;Solteiro(a);1;Aracaju;DF;Marketplace;Email Marketing;Livros/Educação;1996,44;5;Sim;Não;Às vezes;Consumidor Padrão
+564;50;Masculino;12945,40;Pós-Graduação;Casado(a);1;Maceió;DF;Marketplace;Podcast Patrocinado;Viagem;878,48;0;Não;Não;Raramente;Consumidor Padrão
+565;33;Feminino;24874,93;Médio;Casado(a);2;Cuiabá;RJ;App do Fabricante;Email Marketing;Livros/Educação;2816,45;15;Não;Não;Raramente;Comprador Frequente Premium
+566;41;Feminino;11520,38;Superior;Solteiro(a);1;Rio de Janeiro;AC;App do Fabricante;Podcast Patrocinado;Moda;312,79;4;Sim;Não;Frequentemente;Caçador de Ofertas
+567;43;Masculino;19400,76;Médio;Divorciado(a);1;Porto Velho;RO;Marketplace;Anúncio Rede Social;Esportes;4417,80;12;Às vezes;Não;Nunca;Comprador Frequente Premium
+568;62;Feminino;1467,83;Fundamental;União Estável;2;Porto Alegre;GO;WhatsApp Business;Anúncio Rede Social;Moda;4977,73;7;Às vezes;Sim;Nunca;Consumidor Padrão
+569;25;Masculino;12156,21;Médio;Divorciado(a);2;Joinville;SE;App do Fabricante;Email Marketing;Livros/Educação;420,00;9;Às vezes;Não;Às vezes;Comprador Frequente Premium
+570;45;Feminino;17284,21;Superior;Casado(a);3;Belo Horizonte;MS;Redes Sociais;Anúncio Rede Social;Livros/Educação;3112,64;2;Não;Não;Raramente;Consumidor Padrão
+571;35;Masculino;9315,98;Fundamental;Casado(a);0;Belém;SC;App do Fabricante;Anúncio Rede Social;Moda;3714,39;11;Às vezes;Não;Nunca;Consumidor Padrão
+572;50;Masculino;2979,73;Superior;Divorciado(a);0;São José dos Campos;RN;Loja Física;Email Marketing;Eletrônicos;4236,69;14;Não;Sim;Raramente;Consumidor Padrão
+573;47;Feminino;14395,22;Fundamental;Solteiro(a);1;Ribeirão Preto;RO;Redes Sociais;Influenciador Digital;Eletrônicos;4331,17;4;Não;Não;Às vezes;Consumidor Padrão
+574;28;Feminino;14841,18;Médio;Divorciado(a);0;Uberlândia;GO;App do Fabricante;Podcast Patrocinado;Livros/Educação;2313,47;5;Sim;Sim;Raramente;Influenciável Engajado
+575;39;Masculino;8726,96;Médio;Divorciado(a);1;Uberlândia;BA;App do Fabricante;Anúncio Rede Social;Alimentos;220,86;6;Sim;Sim;Nunca;Influenciável Engajado
+576;21;Feminino;4513,65;Pós-Graduação;Casado(a);3;Cuiabá;RN;App do Fabricante;Podcast Patrocinado;Alimentos;4873,97;9;Não;Não;Raramente;Consumidor Padrão
+577;47;Feminino;24113,02;Superior;Solteiro(a);2;Joinville;MS;App do Fabricante;Podcast Patrocinado;Casa/Decoração;3570,82;5;Às vezes;Sim;Frequentemente;Influenciável Engajado
+578;57;Feminino;2171,54;Superior;Divorciado(a);2;Aracaju;CE;App do Fabricante;Propaganda TV;Beleza/Cosméticos;1836,24;1;Não;Sim;Frequentemente;Consumidor Padrão
+579;46;Feminino;20564,41;Médio;Solteiro(a);2;Campo Grande;BA;Redes Sociais;Influenciador Digital;Alimentos;3767,43;8;Sim;Sim;Frequentemente;Comprador Frequente Premium
+580;48;Masculino;19064,21;Superior;União Estável;0;Londrina;GO;E-commerce;Review YouTube;Livros/Educação;2731,23;1;Não;Sim;Frequentemente;Influenciável Engajado
+581;33;Feminino;4509,46;Médio;Casado(a);2;Florianópolis;SC;Loja Física;Email Marketing;Livros/Educação;4953,04;0;Não;Não;Frequentemente;Consumidor Padrão
+582;21;Feminino;4274,06;Fundamental;Casado(a);0;Recife;RS;Loja Física;Influenciador Digital;Livros/Educação;486,62;11;Às vezes;Não;Frequentemente;Consumidor Padrão
+583;36;Feminino;1205,95;Médio;Divorciado(a);0;Belém;RO;Loja Física;Propaganda TV;Moda;3098,78;10;Não;Sim;Nunca;Consumidor Padrão
+584;23;Feminino;4524,85;Médio;União Estável;0;Manaus;RR;Redes Sociais;Propaganda TV;Alimentos;1899,96;4;Não;Não;Nunca;Consumidor Padrão
+585;18;Feminino;2283,02;Pós-Graduação;Solteiro(a);1;São Paulo;SE;Loja Física;Influenciador Digital;Eletrônicos;2602,20;8;Às vezes;Não;Às vezes;Consumidor Padrão
+586;39;Feminino;2125,70;Fundamental;Casado(a);2;Recife;SP;WhatsApp Business;Busca Google;Livros/Educação;3748,77;15;Não;Não;Raramente;Consumidor Padrão
+587;46;Feminino;15976,89;Pós-Graduação;Solteiro(a);0;Niterói;RS;WhatsApp Business;Propaganda TV;Esportes;3486,50;8;Não;Não;Nunca;Comprador Frequente Premium
+588;60;Masculino;5584,49;Pós-Graduação;Casado(a);0;Ribeirão Preto;PI;E-commerce;Podcast Patrocinado;Viagem;1941,61;4;Não;Não;Raramente;Consumidor Padrão
+589;50;Feminino;3252,82;Pós-Graduação;Casado(a);2;São Luís;MT;Redes Sociais;Anúncio Rede Social;Livros/Educação;3476,77;9;Não;Sim;Raramente;Consumidor Padrão
+590;19;Feminino;24707,26;Fundamental;União Estável;1;Guarulhos;AM;Marketplace;Recomendação Amigo;Moda;3363,79;9;Não;Sim;Às vezes;Comprador Frequente Premium
+591;69;Masculino;21805,05;Médio;União Estável;0;Florianópolis;MT;Marketplace;Email Marketing;Eletrônicos;886,46;9;Sim;Sim;Raramente;Comprador Frequente Premium
+592;32;Masculino;24856,85;Superior;Casado(a);0;Joinville;RN;Loja Física;Email Marketing;Alimentos;1955,07;13;Sim;Sim;Nunca;Comprador Frequente Premium
+593;59;Feminino;11098,76;Médio;Divorciado(a);2;Manaus;PI;Marketplace;Recomendação Amigo;Casa/Decoração;4348,87;0;Sim;Sim;Às vezes;Influenciável Engajado
+594;19;Masculino;6603,73;Médio;União Estável;2;Ribeirão Preto;MT;Marketplace;Review YouTube;Casa/Decoração;3175,28;2;Às vezes;Sim;Nunca;Influenciável Engajado
+595;49;Masculino;1467,81;Fundamental;Solteiro(a);2;Aparecida de Goiânia;DF;App do Fabricante;Influenciador Digital;Beleza/Cosméticos;319,97;9;Às vezes;Sim;Nunca;Consumidor Padrão
+596;49;Masculino;5127,21;Fundamental;Divorciado(a);0;Salvador;SE;Redes Sociais;Busca Google;Livros/Educação;55,28;0;Não;Não;Às vezes;Consumidor Padrão
+597;40;Masculino;4312,83;Fundamental;Divorciado(a);1;Salvador;RS;Redes Sociais;Influenciador Digital;Livros/Educação;1025,01;4;Às vezes;Sim;Às vezes;Consumidor Padrão
+598;41;Masculino;19840,88;Superior;Solteiro(a);0;Ribeirão Preto;TO;Redes Sociais;Recomendação Amigo;Viagem;1394,35;6;Sim;Sim;Nunca;Comprador Frequente Premium
+599;40;Feminino;20588,58;Médio;União Estável;1;Recife;AM;Marketplace;Review YouTube;Casa/Decoração;3153,99;9;Às vezes;Sim;Nunca;Comprador Frequente Premium
+600;53;Masculino;23784,93;Superior;Divorciado(a);3;Niterói;ES;Marketplace;Propaganda TV;Esportes;960,42;7;Sim;Não;Raramente;Comprador Frequente Premium
+601;19;Masculino;17815,55;Pós-Graduação;Casado(a);1;Salvador;SC;Marketplace;Anúncio Rede Social;Viagem;4839,87;8;Sim;Sim;Nunca;Comprador Frequente Premium
+602;19;Masculino;12496,64;Fundamental;Divorciado(a);1;Porto Alegre;MT;E-commerce;Propaganda TV;Viagem;3198,28;4;Não;Não;Nunca;Consumidor Padrão
+603;29;Masculino;23514,97;Pós-Graduação;União Estável;0;Feira de Santana;SP;Redes Sociais;Recomendação Amigo;Esportes;1734,28;1;Às vezes;Sim;Frequentemente;Influenciável Engajado
+604;65;Masculino;23398,98;Superior;Divorciado(a);1;Osasco;PA;E-commerce;Anúncio Rede Social;Beleza/Cosméticos;3107,58;15;Sim;Sim;Às vezes;Comprador Frequente Premium
+605;67;Masculino;15203,26;Médio;Solteiro(a);0;Fortaleza;MT;Marketplace;Anúncio Rede Social;Alimentos;822,89;7;Sim;Não;Frequentemente;Comprador Frequente Premium
+606;20;Feminino;17789,77;Superior;Solteiro(a);3;Aparecida de Goiânia;PR;E-commerce;Recomendação Amigo;Moda;295,39;3;Às vezes;Não;Frequentemente;Consumidor Padrão
+607;51;Feminino;2355,97;Fundamental;Casado(a);0;Curitiba;SC;E-commerce;Recomendação Amigo;Eletrônicos;1196,20;0;Às vezes;Não;Frequentemente;Consumidor Padrão
+608;30;Masculino;12938,26;Pós-Graduação;Solteiro(a);0;Niterói;RJ;Loja Física;Podcast Patrocinado;Alimentos;3966,65;1;Não;Sim;Raramente;Influenciável Engajado
+609;36;Feminino;15613,19;Fundamental;Solteiro(a);0;Belém;DF;Loja Física;Busca Google;Viagem;2926,59;1;Não;Não;Nunca;Consumidor Padrão
+610;18;Masculino;12954,17;Fundamental;Divorciado(a);0;Campinas;MT;App do Fabricante;Recomendação Amigo;Eletrônicos;926,36;6;Às vezes;Sim;Raramente;Comprador Frequente Premium
+611;54;Feminino;13804,73;Fundamental;Divorciado(a);2;Belo Horizonte;AM;Marketplace;Email Marketing;Beleza/Cosméticos;68,11;3;Sim;Não;Nunca;Caçador de Ofertas
+612;19;Feminino;22255,50;Médio;Solteiro(a);0;Joinville;MT;E-commerce;Anúncio Rede Social;Beleza/Cosméticos;1804,05;9;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+613;45;Feminino;17132,37;Pós-Graduação;Divorciado(a);2;Feira de Santana;GO;App do Fabricante;Propaganda TV;Alimentos;3195,67;5;Não;Não;Às vezes;Consumidor Padrão
+614;37;Masculino;7600,06;Superior;União Estável;0;Ribeirão Preto;RN;Marketplace;Review YouTube;Casa/Decoração;3289,61;10;Não;Não;Às vezes;Consumidor Padrão
+615;70;Masculino;16639,43;Fundamental;União Estável;0;Goiânia;PR;App do Fabricante;Recomendação Amigo;Livros/Educação;944,06;4;Às vezes;Sim;Frequentemente;Influenciável Engajado
+616;70;Feminino;21069,50;Fundamental;União Estável;0;Santos;PI;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;767,44;3;Não;Sim;Frequentemente;Influenciável Engajado
+617;35;Feminino;23244,47;Superior;Casado(a);0;Brasília;MT;Redes Sociais;Influenciador Digital;Casa/Decoração;1808,02;1;Sim;Não;Às vezes;Consumidor Padrão
+618;70;Masculino;4677,44;Pós-Graduação;União Estável;3;Aparecida de Goiânia;AM;WhatsApp Business;Recomendação Amigo;Livros/Educação;3851,81;8;Sim;Não;Às vezes;Consumidor Padrão
+619;64;Masculino;4258,62;Médio;Solteiro(a);0;Vitória;GO;Loja Física;Influenciador Digital;Livros/Educação;675,46;14;Às vezes;Não;Nunca;Tradicional Presencial
+620;43;Feminino;4517,07;Médio;Casado(a);1;Recife;DF;E-commerce;Anúncio Rede Social;Esportes;4133,34;2;Sim;Não;Raramente;Consumidor Padrão
+621;23;Feminino;1522,94;Superior;Divorciado(a);0;Osasco;RO;E-commerce;Podcast Patrocinado;Viagem;4574,29;4;Às vezes;Sim;Nunca;Consumidor Padrão
+622;25;Feminino;15203,11;Superior;União Estável;0;Sorocaba;MA;Redes Sociais;Email Marketing;Viagem;3146,96;5;Sim;Não;Raramente;Consumidor Padrão
+623;64;Masculino;24463,47;Pós-Graduação;Divorciado(a);3;Rio de Janeiro;GO;WhatsApp Business;Review YouTube;Livros/Educação;2685,25;6;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+624;38;Masculino;19236,58;Médio;União Estável;2;Guarulhos;RO;Loja Física;Podcast Patrocinado;Livros/Educação;4053,82;3;Às vezes;Não;Nunca;Consumidor Padrão
+625;34;Masculino;3659,35;Médio;Solteiro(a);0;Sorocaba;BA;Marketplace;Review YouTube;Viagem;1152,59;9;Às vezes;Não;Raramente;Consumidor Padrão
+626;30;Masculino;12601,90;Superior;Solteiro(a);2;Campo Grande;PB;WhatsApp Business;Anúncio Rede Social;Esportes;165,13;3;Não;Não;Raramente;Consumidor Padrão
+627;35;Masculino;10086,81;Pós-Graduação;Solteiro(a);1;Porto Alegre;PI;E-commerce;Busca Google;Livros/Educação;730,74;5;Sim;Não;Nunca;Consumidor Padrão
+628;26;Masculino;7120,13;Superior;Casado(a);1;Goiânia;BA;Loja Física;Busca Google;Alimentos;3569,12;13;Às vezes;Não;Nunca;Consumidor Padrão
+629;31;Masculino;9002,15;Pós-Graduação;Solteiro(a);1;João Pessoa;PR;Marketplace;Anúncio Rede Social;Beleza/Cosméticos;1546,07;7;Sim;Sim;Frequentemente;Influenciável Engajado
+630;56;Feminino;17247,78;Superior;Divorciado(a);0;Londrina;PB;App do Fabricante;Influenciador Digital;Moda;2472,04;11;Não;Não;Raramente;Comprador Frequente Premium
+631;21;Feminino;7144,99;Pós-Graduação;Casado(a);1;Osasco;RO;Loja Física;Podcast Patrocinado;Esportes;2800,19;13;Sim;Não;Raramente;Consumidor Padrão
+632;62;Masculino;10285,49;Superior;União Estável;1;Santos;MS;E-commerce;Propaganda TV;Casa/Decoração;4337,25;4;Não;Não;Nunca;Consumidor Padrão
+633;63;Feminino;8941,64;Superior;União Estável;1;Campinas;RN;App do Fabricante;Podcast Patrocinado;Beleza/Cosméticos;70,18;14;Sim;Sim;Raramente;Influenciável Engajado
+634;43;Feminino;11130,00;Superior;Casado(a);0;Santos;SC;Loja Física;Recomendação Amigo;Livros/Educação;2451,50;6;Sim;Não;Às vezes;Comprador Frequente Premium
+635;18;Feminino;7573,54;Fundamental;Solteiro(a);0;Londrina;SC;Loja Física;Review YouTube;Esportes;2834,86;10;Não;Sim;Frequentemente;Influenciável Engajado
+636;28;Masculino;21413,28;Superior;Solteiro(a);0;Florianópolis;MT;App do Fabricante;Propaganda TV;Esportes;2473,05;6;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+637;56;Feminino;1245,38;Superior;Casado(a);2;Santos;ES;E-commerce;Podcast Patrocinado;Viagem;283,68;12;Sim;Sim;Às vezes;Caçador de Ofertas
+638;50;Feminino;9328,86;Médio;Divorciado(a);3;Osasco;SE;App do Fabricante;Podcast Patrocinado;Casa/Decoração;4660,13;5;Não;Não;Às vezes;Consumidor Padrão
+639;46;Feminino;23124,66;Pós-Graduação;Divorciado(a);0;Vitória;MA;E-commerce;Propaganda TV;Viagem;497,23;3;Não;Não;Raramente;Consumidor Padrão
+640;54;Masculino;21538,20;Pós-Graduação;Casado(a);1;Maringá;MA;WhatsApp Business;Anúncio Rede Social;Eletrônicos;1662,64;6;Não;Não;Raramente;Comprador Frequente Premium
+641;54;Masculino;7757,90;Superior;Solteiro(a);0;Campo Grande;AM;Loja Física;Propaganda TV;Eletrônicos;2784,26;14;Às vezes;Sim;Nunca;Influenciável Engajado
+642;54;Masculino;9555,92;Superior;União Estável;0;Guarulhos;PR;E-commerce;Recomendação Amigo;Esportes;4133,77;12;Não;Não;Frequentemente;Consumidor Padrão
+643;59;Masculino;19439,25;Fundamental;Casado(a);1;Uberlândia;SC;E-commerce;Propaganda TV;Alimentos;3769,94;10;Não;Não;Frequentemente;Comprador Frequente Premium
+644;49;Feminino;3472,69;Pós-Graduação;União Estável;3;Teresina;AL;Loja Física;Recomendação Amigo;Esportes;2453,05;3;Não;Sim;Nunca;Consumidor Padrão
+645;33;Masculino;15095,81;Superior;Solteiro(a);1;Joinville;PI;App do Fabricante;Recomendação Amigo;Casa/Decoração;1844,44;13;Sim;Sim;Às vezes;Comprador Frequente Premium
+646;66;Feminino;2370,07;Médio;União Estável;0;Londrina;RS;Marketplace;Influenciador Digital;Esportes;1588,74;1;Às vezes;Não;Frequentemente;Consumidor Padrão
+647;34;Feminino;14825,54;Pós-Graduação;Solteiro(a);3;Guarulhos;AC;E-commerce;Podcast Patrocinado;Casa/Decoração;3228,24;15;Às vezes;Não;Às vezes;Comprador Frequente Premium
+648;27;Masculino;9719,66;Fundamental;Solteiro(a);1;Campinas;MG;Marketplace;Review YouTube;Eletrônicos;4079,51;15;Não;Não;Raramente;Consumidor Padrão
+649;34;Masculino;5334,71;Médio;União Estável;0;Santos;SP;WhatsApp Business;Email Marketing;Beleza/Cosméticos;3893,28;14;Sim;Não;Às vezes;Consumidor Padrão
+650;28;Masculino;21786,47;Médio;Divorciado(a);2;Brasília;SC;Redes Sociais;Influenciador Digital;Casa/Decoração;4081,85;3;Às vezes;Sim;Nunca;Influenciável Engajado
+651;35;Masculino;23180,06;Superior;Solteiro(a);0;Cuiabá;MA;Redes Sociais;Recomendação Amigo;Livros/Educação;2155,07;6;Sim;Sim;Raramente;Comprador Frequente Premium
+652;39;Feminino;20995,64;Superior;Casado(a);0;Ribeirão Preto;RJ;Marketplace;Busca Google;Esportes;4324,05;13;Às vezes;Não;Nunca;Comprador Frequente Premium
+653;61;Masculino;9119,14;Pós-Graduação;Solteiro(a);2;Recife;ES;WhatsApp Business;Influenciador Digital;Esportes;3001,35;15;Às vezes;Sim;Nunca;Influenciável Engajado
+654;25;Masculino;1651,11;Fundamental;Casado(a);3;São José dos Campos;MT;E-commerce;Podcast Patrocinado;Alimentos;3633,67;9;Sim;Não;Raramente;Consumidor Padrão
+655;30;Feminino;22695,50;Fundamental;União Estável;0;Sorocaba;AM;Loja Física;Recomendação Amigo;Alimentos;433,90;7;Sim;Não;Às vezes;Comprador Frequente Premium
+656;32;Feminino;18399,39;Médio;Casado(a);0;Rio de Janeiro;AL;Loja Física;Anúncio Rede Social;Livros/Educação;4632,18;15;Não;Não;Frequentemente;Comprador Frequente Premium
+657;31;Masculino;7248,94;Pós-Graduação;Solteiro(a);2;Sorocaba;PB;E-commerce;Review YouTube;Livros/Educação;607,62;9;Sim;Sim;Às vezes;Influenciável Engajado
+658;42;Feminino;11299,59;Médio;Solteiro(a);1;Ribeirão Preto;TO;Marketplace;Review YouTube;Moda;3855,48;1;Sim;Sim;Às vezes;Influenciável Engajado
+659;54;Feminino;5800,53;Pós-Graduação;Casado(a);0;Fortaleza;PE;E-commerce;Propaganda TV;Casa/Decoração;4456,68;15;Não;Sim;Frequentemente;Influenciável Engajado
+660;57;Feminino;5140,27;Fundamental;Divorciado(a);2;Feira de Santana;AM;App do Fabricante;Recomendação Amigo;Eletrônicos;3845,15;2;Sim;Sim;Raramente;Influenciável Engajado
+661;20;Feminino;21410,57;Médio;Casado(a);0;Campo Grande;RR;WhatsApp Business;Email Marketing;Casa/Decoração;4934,03;13;Às vezes;Não;Às vezes;Comprador Frequente Premium
+662;23;Feminino;10946,70;Pós-Graduação;Solteiro(a);1;Brasília;SE;Loja Física;Anúncio Rede Social;Moda;2124,78;13;Às vezes;Não;Raramente;Comprador Frequente Premium
+663;30;Masculino;19500,71;Fundamental;Solteiro(a);0;João Pessoa;TO;Redes Sociais;Email Marketing;Eletrônicos;2277,96;1;Não;Sim;Nunca;Influenciável Engajado
+664;49;Masculino;1721,09;Médio;Casado(a);0;Goiânia;PE;E-commerce;Propaganda TV;Eletrônicos;733,54;11;Sim;Sim;Raramente;Consumidor Padrão
+665;61;Feminino;22051,60;Pós-Graduação;Solteiro(a);1;Manaus;CE;Marketplace;Podcast Patrocinado;Moda;2223,83;2;Às vezes;Não;Frequentemente;Consumidor Padrão
+666;43;Feminino;3801,49;Pós-Graduação;União Estável;1;Manaus;AC;E-commerce;Review YouTube;Eletrônicos;4429,36;3;Não;Não;Frequentemente;Consumidor Padrão
+667;31;Feminino;24792,64;Superior;Divorciado(a);2;Joinville;RS;WhatsApp Business;Review YouTube;Viagem;4791,27;13;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+668;65;Feminino;4063,96;Médio;Solteiro(a);0;Campinas;CE;E-commerce;Busca Google;Livros/Educação;3756,62;1;Sim;Sim;Raramente;Consumidor Padrão
+669;19;Feminino;11614,32;Superior;União Estável;2;Campinas;MG;App do Fabricante;Anúncio Rede Social;Esportes;2610,96;1;Sim;Sim;Nunca;Influenciável Engajado
+670;67;Masculino;7464,48;Médio;Solteiro(a);1;Cuiabá;AC;Marketplace;Podcast Patrocinado;Beleza/Cosméticos;682,11;13;Às vezes;Não;Às vezes;Consumidor Padrão
+671;21;Feminino;11094,27;Superior;União Estável;0;Manaus;DF;Redes Sociais;Influenciador Digital;Moda;4755,11;9;Sim;Não;Raramente;Comprador Frequente Premium
+672;70;Masculino;3422,47;Pós-Graduação;Solteiro(a);1;Porto Velho;SP;WhatsApp Business;Influenciador Digital;Moda;978,84;0;Não;Não;Às vezes;Consumidor Padrão
+673;43;Masculino;15376,92;Pós-Graduação;Divorciado(a);0;João Pessoa;MS;E-commerce;Recomendação Amigo;Alimentos;4137,08;9;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+674;26;Feminino;12131,12;Superior;Casado(a);3;Porto Alegre;MS;Loja Física;Influenciador Digital;Esportes;2215,19;2;Não;Sim;Raramente;Influenciável Engajado
+675;61;Feminino;22728,74;Superior;Divorciado(a);1;Natal;MS;E-commerce;Email Marketing;Casa/Decoração;882,74;11;Sim;Sim;Raramente;Comprador Frequente Premium
+676;44;Masculino;3034,80;Fundamental;Solteiro(a);2;Aracaju;RN;WhatsApp Business;Podcast Patrocinado;Livros/Educação;964,52;7;Não;Sim;Às vezes;Consumidor Padrão
+677;27;Feminino;5042,55;Médio;Casado(a);2;Florianópolis;AM;App do Fabricante;Anúncio Rede Social;Esportes;1648,09;8;Não;Não;Frequentemente;Consumidor Padrão
+678;32;Feminino;10813,93;Fundamental;União Estável;1;Aparecida de Goiânia;SC;App do Fabricante;Review YouTube;Livros/Educação;368,43;12;Às vezes;Não;Nunca;Comprador Frequente Premium
+679;18;Feminino;11888,59;Superior;Solteiro(a);0;São Paulo;AL;E-commerce;Recomendação Amigo;Casa/Decoração;4448,66;12;Não;Sim;Nunca;Comprador Frequente Premium
+680;19;Masculino;3089,70;Pós-Graduação;Solteiro(a);0;Porto Alegre;RR;Redes Sociais;Review YouTube;Viagem;593,00;15;Sim;Sim;Às vezes;Consumidor Padrão
+681;31;Feminino;15582,51;Fundamental;Casado(a);0;Belém;RS;Redes Sociais;Propaganda TV;Casa/Decoração;486,97;6;Sim;Não;Frequentemente;Comprador Frequente Premium
+682;23;Feminino;23138,98;Médio;União Estável;1;Uberlândia;MG;E-commerce;Podcast Patrocinado;Livros/Educação;845,62;12;Sim;Sim;Às vezes;Comprador Frequente Premium
+683;24;Masculino;23015,69;Superior;Solteiro(a);2;João Pessoa;GO;WhatsApp Business;Podcast Patrocinado;Esportes;4333,28;5;Não;Sim;Às vezes;Influenciável Engajado
+684;30;Masculino;11846,58;Superior;Divorciado(a);3;Campo Grande;AM;Marketplace;Recomendação Amigo;Eletrônicos;3905,26;3;Não;Não;Raramente;Consumidor Padrão
+685;37;Masculino;20108,75;Fundamental;União Estável;1;Uberlândia;ES;App do Fabricante;Busca Google;Esportes;3930,78;9;Não;Sim;Às vezes;Comprador Frequente Premium
+686;36;Feminino;15856,64;Superior;União Estável;1;Sorocaba;BA;Marketplace;Anúncio Rede Social;Beleza/Cosméticos;4980,06;13;Não;Não;Raramente;Comprador Frequente Premium
+687;43;Masculino;21409,88;Médio;Casado(a);1;São José dos Campos;RJ;WhatsApp Business;Recomendação Amigo;Casa/Decoração;581,91;3;Sim;Sim;Nunca;Influenciável Engajado
+688;52;Masculino;3647,41;Médio;Casado(a);2;Belo Horizonte;ES;Marketplace;Propaganda TV;Beleza/Cosméticos;4479,95;1;Não;Sim;Nunca;Consumidor Padrão
+689;47;Masculino;9682,69;Superior;Casado(a);2;Juiz de Fora;SC;Redes Sociais;Recomendação Amigo;Moda;4346,36;1;Sim;Não;Frequentemente;Consumidor Padrão
+690;30;Masculino;15767,56;Fundamental;Solteiro(a);0;Recife;SP;App do Fabricante;Recomendação Amigo;Viagem;3048,73;9;Sim;Não;Às vezes;Comprador Frequente Premium
+691;49;Masculino;7856,93;Superior;União Estável;2;Juiz de Fora;RJ;App do Fabricante;Recomendação Amigo;Eletrônicos;2760,46;5;Não;Não;Raramente;Consumidor Padrão
+692;68;Masculino;22949,25;Fundamental;União Estável;1;Belo Horizonte;PR;WhatsApp Business;Busca Google;Beleza/Cosméticos;1763,75;10;Não;Não;Frequentemente;Comprador Frequente Premium
+693;26;Masculino;18338,05;Superior;Casado(a);3;Santos;RS;App do Fabricante;Email Marketing;Alimentos;4462,49;4;Às vezes;Não;Frequentemente;Consumidor Padrão
+694;21;Feminino;21645,86;Fundamental;União Estável;0;Belo Horizonte;AP;WhatsApp Business;Anúncio Rede Social;Esportes;1147,22;3;Às vezes;Sim;Nunca;Influenciável Engajado
+695;40;Feminino;24086,99;Superior;Divorciado(a);1;Goiânia;BA;App do Fabricante;Busca Google;Beleza/Cosméticos;213,14;15;Não;Sim;Às vezes;Comprador Frequente Premium
+696;27;Masculino;3320,83;Fundamental;Divorciado(a);0;Santos;RJ;Marketplace;Email Marketing;Eletrônicos;2066,11;6;Não;Sim;Frequentemente;Consumidor Padrão
+697;60;Masculino;11487,14;Fundamental;Divorciado(a);0;Juiz de Fora;CE;E-commerce;Email Marketing;Esportes;1265,69;5;Não;Não;Nunca;Consumidor Padrão
+698;24;Feminino;15496,72;Fundamental;União Estável;2;Cuiabá;RO;Marketplace;Propaganda TV;Beleza/Cosméticos;1121,20;3;Não;Sim;Frequentemente;Influenciável Engajado
+699;59;Masculino;1934,72;Fundamental;Solteiro(a);2;Juiz de Fora;RS;App do Fabricante;Propaganda TV;Moda;4285,32;8;Não;Sim;Raramente;Consumidor Padrão
+700;66;Masculino;7174,33;Superior;Solteiro(a);2;Porto Velho;AM;E-commerce;Anúncio Rede Social;Livros/Educação;4131,60;12;Sim;Sim;Nunca;Influenciável Engajado
+701;30;Feminino;9204,62;Superior;União Estável;0;Aparecida de Goiânia;AP;Loja Física;Recomendação Amigo;Livros/Educação;3257,83;0;Não;Sim;Frequentemente;Influenciável Engajado
+702;27;Feminino;4466,74;Superior;Solteiro(a);3;Aracaju;AC;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;1258,00;2;Não;Não;Raramente;Consumidor Padrão
+703;37;Feminino;11038,06;Pós-Graduação;Divorciado(a);3;Joinville;PB;WhatsApp Business;Podcast Patrocinado;Beleza/Cosméticos;881,66;12;Não;Sim;Às vezes;Comprador Frequente Premium
+704;63;Feminino;4731,66;Superior;União Estável;1;Londrina;CE;Loja Física;Influenciador Digital;Livros/Educação;1607,32;12;Não;Não;Frequentemente;Tradicional Presencial
+705;38;Masculino;12357,54;Médio;União Estável;1;São Luís;RR;Marketplace;Influenciador Digital;Alimentos;612,64;5;Sim;Não;Às vezes;Consumidor Padrão
+706;23;Masculino;6430,74;Pós-Graduação;Casado(a);0;Campo Grande;BA;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;4957,30;8;Às vezes;Sim;Frequentemente;Influenciável Engajado
+707;46;Masculino;5348,94;Médio;Casado(a);0;Belém;SP;Marketplace;Busca Google;Eletrônicos;4673,97;15;Sim;Sim;Às vezes;Influenciável Engajado
+708;36;Feminino;7604,74;Superior;Divorciado(a);0;Vitória;AM;E-commerce;Podcast Patrocinado;Livros/Educação;3181,41;14;Sim;Não;Raramente;Consumidor Padrão
+709;34;Masculino;2280,95;Pós-Graduação;Casado(a);2;Porto Alegre;TO;App do Fabricante;Email Marketing;Livros/Educação;3098,46;1;Às vezes;Sim;Às vezes;Consumidor Padrão
+710;30;Masculino;22382,26;Superior;Casado(a);0;São José dos Campos;CE;E-commerce;Busca Google;Alimentos;3920,38;2;Às vezes;Não;Frequentemente;Consumidor Padrão
+711;66;Feminino;5289,86;Superior;Divorciado(a);2;Salvador;RJ;App do Fabricante;Influenciador Digital;Viagem;2630,48;4;Às vezes;Sim;Frequentemente;Influenciável Engajado
+712;32;Feminino;12773,49;Fundamental;Divorciado(a);0;Goiânia;TO;E-commerce;Podcast Patrocinado;Livros/Educação;4454,33;6;Sim;Sim;Às vezes;Comprador Frequente Premium
+713;50;Masculino;20105,11;Superior;Divorciado(a);1;Porto Velho;RS;E-commerce;Propaganda TV;Casa/Decoração;4767,52;14;Às vezes;Sim;Nunca;Comprador Frequente Premium
+714;20;Masculino;14429,21;Superior;União Estável;3;Manaus;RS;Redes Sociais;Influenciador Digital;Beleza/Cosméticos;1113,30;12;Sim;Não;Às vezes;Comprador Frequente Premium
+715;40;Masculino;19852,91;Pós-Graduação;Solteiro(a);0;São Luís;SC;Loja Física;Podcast Patrocinado;Casa/Decoração;272,39;3;Sim;Não;Às vezes;Caçador de Ofertas
+716;39;Masculino;21845,74;Pós-Graduação;Casado(a);0;Aparecida de Goiânia;PA;Marketplace;Recomendação Amigo;Alimentos;564,68;3;Às vezes;Não;Raramente;Consumidor Padrão
+717;65;Feminino;12500,79;Médio;Casado(a);1;Brasília;PE;Loja Física;Recomendação Amigo;Moda;3517,39;12;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+718;42;Masculino;8939,55;Médio;União Estável;0;Campinas;RO;App do Fabricante;Propaganda TV;Livros/Educação;2594,30;12;Não;Não;Nunca;Consumidor Padrão
+719;22;Masculino;1919,02;Fundamental;Casado(a);1;Belém;AC;Redes Sociais;Review YouTube;Alimentos;1852,69;15;Sim;Sim;Nunca;Consumidor Padrão
+720;56;Feminino;11430,98;Médio;Divorciado(a);0;Niterói;RN;Loja Física;Anúncio Rede Social;Alimentos;3955,65;2;Sim;Sim;Às vezes;Influenciável Engajado
+721;69;Feminino;11481,34;Superior;Solteiro(a);0;Joinville;ES;E-commerce;Podcast Patrocinado;Viagem;2996,98;14;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+722;63;Feminino;22319,69;Médio;União Estável;2;Joinville;MA;WhatsApp Business;Anúncio Rede Social;Esportes;2629,28;15;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+723;41;Feminino;8226,17;Superior;Casado(a);1;Feira de Santana;SE;Redes Sociais;Recomendação Amigo;Beleza/Cosméticos;1296,78;3;Não;Sim;Às vezes;Influenciável Engajado
+724;54;Masculino;3103,40;Pós-Graduação;União Estável;0;Recife;AM;E-commerce;Podcast Patrocinado;Casa/Decoração;3039,77;9;Às vezes;Não;Às vezes;Consumidor Padrão
+725;20;Feminino;13014,19;Pós-Graduação;Casado(a);1;Juiz de Fora;MA;E-commerce;Propaganda TV;Alimentos;2015,64;11;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+726;21;Masculino;24668,57;Fundamental;Casado(a);0;Curitiba;CE;Loja Física;Recomendação Amigo;Livros/Educação;3179,13;9;Não;Sim;Às vezes;Comprador Frequente Premium
+727;21;Masculino;14815,58;Médio;Divorciado(a);0;Uberlândia;SC;Marketplace;Influenciador Digital;Beleza/Cosméticos;1175,56;5;Sim;Sim;Às vezes;Influenciável Engajado
+728;51;Masculino;21092,02;Fundamental;União Estável;1;Belo Horizonte;AL;Marketplace;Propaganda TV;Casa/Decoração;1956,09;7;Não;Sim;Às vezes;Comprador Frequente Premium
+729;18;Masculino;15679,17;Superior;Casado(a);0;Fortaleza;DF;E-commerce;Influenciador Digital;Beleza/Cosméticos;3989,98;9;Sim;Sim;Raramente;Comprador Frequente Premium
+730;62;Masculino;14369,44;Médio;Divorciado(a);1;Manaus;MS;Redes Sociais;Anúncio Rede Social;Eletrônicos;3564,71;9;Às vezes;Não;Nunca;Comprador Frequente Premium
+731;62;Feminino;20101,23;Superior;Divorciado(a);2;Maringá;RJ;WhatsApp Business;Influenciador Digital;Beleza/Cosméticos;4515,28;12;Não;Não;Raramente;Comprador Frequente Premium
+732;33;Masculino;16366,75;Pós-Graduação;Divorciado(a);1;Teresina;PB;App do Fabricante;Podcast Patrocinado;Casa/Decoração;2123,93;7;Sim;Não;Às vezes;Comprador Frequente Premium
+733;30;Masculino;20562,08;Pós-Graduação;Solteiro(a);1;Maceió;CE;Loja Física;Review YouTube;Moda;3982,98;4;Sim;Não;Frequentemente;Consumidor Padrão
+734;35;Masculino;12477,00;Pós-Graduação;Divorciado(a);0;Juiz de Fora;MA;E-commerce;Busca Google;Viagem;4685,32;8;Sim;Não;Raramente;Comprador Frequente Premium
+735;55;Masculino;15800,28;Pós-Graduação;Casado(a);3;Santos;RN;App do Fabricante;Propaganda TV;Viagem;3451,42;3;Às vezes;Não;Raramente;Consumidor Padrão
+736;27;Masculino;16781,01;Pós-Graduação;Divorciado(a);1;Sorocaba;MT;WhatsApp Business;Propaganda TV;Viagem;4046,74;15;Não;Não;Às vezes;Comprador Frequente Premium
+737;41;Masculino;2251,73;Fundamental;União Estável;2;Ribeirão Preto;PI;Redes Sociais;Podcast Patrocinado;Moda;382,65;12;Não;Não;Nunca;Consumidor Padrão
+738;47;Feminino;21095,15;Fundamental;União Estável;0;Sorocaba;RN;Redes Sociais;Influenciador Digital;Esportes;3736,08;11;Não;Sim;Raramente;Comprador Frequente Premium
+739;68;Feminino;2619,74;Médio;Casado(a);2;Porto Alegre;MA;Redes Sociais;Anúncio Rede Social;Beleza/Cosméticos;3973,22;13;Não;Sim;Às vezes;Consumidor Padrão
+740;53;Feminino;10948,29;Superior;Divorciado(a);2;Natal;MS;Loja Física;Propaganda TV;Viagem;3850,26;10;Às vezes;Não;Às vezes;Comprador Frequente Premium
+741;54;Masculino;3422,08;Superior;União Estável;0;Maringá;MS;WhatsApp Business;Review YouTube;Livros/Educação;1940,75;4;Às vezes;Não;Nunca;Consumidor Padrão
+742;46;Masculino;6307,37;Fundamental;Divorciado(a);2;Natal;RS;Marketplace;Busca Google;Esportes;3879,87;9;Não;Sim;Nunca;Influenciável Engajado
+743;37;Feminino;14969,85;Pós-Graduação;União Estável;1;Ribeirão Preto;SP;WhatsApp Business;Email Marketing;Moda;2173,62;15;Sim;Não;Nunca;Comprador Frequente Premium
+744;62;Feminino;18932,71;Médio;Divorciado(a);0;Niterói;SP;E-commerce;Busca Google;Casa/Decoração;3648,49;2;Às vezes;Não;Às vezes;Consumidor Padrão
+745;63;Feminino;19877,33;Pós-Graduação;União Estável;0;Aparecida de Goiânia;DF;WhatsApp Business;Review YouTube;Viagem;1941,71;3;Não;Não;Às vezes;Consumidor Padrão
+746;21;Masculino;5161,21;Fundamental;Casado(a);0;Belém;AL;Loja Física;Propaganda TV;Livros/Educação;1615,71;2;Não;Sim;Raramente;Influenciável Engajado
+747;37;Feminino;1202,52;Fundamental;Solteiro(a);1;Sorocaba;BA;E-commerce;Email Marketing;Viagem;847,97;4;Não;Sim;Frequentemente;Consumidor Padrão
+748;40;Feminino;22424,38;Pós-Graduação;Solteiro(a);2;Feira de Santana;AL;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;4647,14;0;Não;Não;Às vezes;Consumidor Padrão
+749;61;Feminino;10547,67;Superior;Divorciado(a);2;Porto Velho;GO;E-commerce;Recomendação Amigo;Esportes;56,84;3;Não;Não;Nunca;Consumidor Padrão
+750;62;Masculino;24154,77;Fundamental;Solteiro(a);0;Natal;PB;App do Fabricante;Email Marketing;Eletrônicos;1807,24;11;Às vezes;Não;Às vezes;Comprador Frequente Premium
+751;41;Masculino;22345,00;Fundamental;Casado(a);3;Belém;MT;App do Fabricante;Propaganda TV;Moda;1418,48;13;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+752;67;Feminino;9529,37;Pós-Graduação;Casado(a);0;São Luís;CE;App do Fabricante;Anúncio Rede Social;Moda;1678,06;4;Às vezes;Não;Raramente;Consumidor Padrão
+753;58;Masculino;13584,80;Pós-Graduação;União Estável;3;Recife;RS;App do Fabricante;Influenciador Digital;Alimentos;1009,56;6;Às vezes;Não;Às vezes;Comprador Frequente Premium
+754;53;Feminino;13822,85;Fundamental;União Estável;0;Uberlândia;RS;App do Fabricante;Email Marketing;Viagem;828,34;1;Não;Sim;Frequentemente;Influenciável Engajado
+755;64;Feminino;12236,19;Fundamental;União Estável;1;Porto Alegre;PR;Redes Sociais;Review YouTube;Livros/Educação;3989,97;6;Sim;Sim;Às vezes;Comprador Frequente Premium
+756;36;Masculino;15754,23;Pós-Graduação;Solteiro(a);1;Maceió;MG;Redes Sociais;Anúncio Rede Social;Viagem;146,26;3;Sim;Não;Às vezes;Caçador de Ofertas
+757;38;Feminino;7157,91;Médio;Solteiro(a);2;Campo Grande;CE;WhatsApp Business;Propaganda TV;Esportes;1251,05;9;Não;Sim;Frequentemente;Influenciável Engajado
+758;61;Feminino;8801,70;Pós-Graduação;Solteiro(a);3;Feira de Santana;SE;Redes Sociais;Busca Google;Moda;874,16;1;Não;Não;Às vezes;Consumidor Padrão
+759;42;Masculino;17634,47;Superior;Casado(a);3;Vitória;AP;Redes Sociais;Influenciador Digital;Esportes;3546,87;9;Sim;Sim;Raramente;Comprador Frequente Premium
+760;23;Feminino;11928,50;Fundamental;Solteiro(a);3;João Pessoa;PA;Marketplace;Recomendação Amigo;Livros/Educação;2625,48;9;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+761;23;Feminino;10022,77;Pós-Graduação;Divorciado(a);2;São Luís;DF;Marketplace;Anúncio Rede Social;Esportes;2961,67;4;Não;Sim;Frequentemente;Influenciável Engajado
+762;32;Feminino;15479,52;Pós-Graduação;Divorciado(a);2;São José dos Campos;MA;App do Fabricante;Influenciador Digital;Casa/Decoração;4542,68;4;Sim;Sim;Raramente;Influenciável Engajado
+763;50;Feminino;8173,63;Médio;Casado(a);1;Santos;CE;WhatsApp Business;Recomendação Amigo;Casa/Decoração;3000,93;10;Às vezes;Não;Frequentemente;Consumidor Padrão
+764;24;Feminino;18033,71;Fundamental;União Estável;1;Salvador;AC;WhatsApp Business;Influenciador Digital;Esportes;2395,88;9;Não;Sim;Frequentemente;Comprador Frequente Premium
+765;27;Masculino;20869,16;Fundamental;Solteiro(a);0;Osasco;RO;WhatsApp Business;Recomendação Amigo;Alimentos;4359,74;1;Às vezes;Não;Raramente;Consumidor Padrão
+766;65;Feminino;7882,65;Fundamental;Casado(a);3;São Paulo;SC;WhatsApp Business;Podcast Patrocinado;Eletrônicos;4789,03;4;Sim;Sim;Frequentemente;Influenciável Engajado
+767;68;Feminino;11023,20;Médio;Solteiro(a);3;Aracaju;CE;Marketplace;Email Marketing;Viagem;3373,90;14;Às vezes;Sim;Raramente;Comprador Frequente Premium
+768;57;Feminino;7677,73;Médio;Divorciado(a);0;Manaus;RR;Loja Física;Recomendação Amigo;Eletrônicos;2773,99;13;Às vezes;Não;Raramente;Tradicional Presencial
+769;18;Masculino;12591,84;Fundamental;Divorciado(a);1;São Paulo;MS;WhatsApp Business;Email Marketing;Viagem;465,81;6;Não;Não;Frequentemente;Comprador Frequente Premium
+770;38;Masculino;21306,17;Pós-Graduação;Solteiro(a);0;Teresina;TO;Loja Física;Busca Google;Esportes;4640,99;0;Sim;Sim;Nunca;Influenciável Engajado
+771;59;Masculino;12102,98;Fundamental;União Estável;2;Belo Horizonte;CE;WhatsApp Business;Email Marketing;Eletrônicos;699,10;12;Sim;Não;Nunca;Comprador Frequente Premium
+772;53;Feminino;15262,03;Superior;Divorciado(a);0;Aparecida de Goiânia;RJ;Loja Física;Influenciador Digital;Eletrônicos;4104,18;4;Às vezes;Sim;Nunca;Influenciável Engajado
+773;56;Feminino;12640,61;Fundamental;Casado(a);0;São Luís;PI;Redes Sociais;Recomendação Amigo;Casa/Decoração;83,32;6;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+774;67;Masculino;3221,08;Pós-Graduação;Solteiro(a);1;Londrina;MG;Marketplace;Influenciador Digital;Eletrônicos;1283,08;2;Não;Sim;Nunca;Consumidor Padrão
+775;19;Masculino;4567,77;Fundamental;Casado(a);1;Campo Grande;DF;E-commerce;Podcast Patrocinado;Livros/Educação;4222,24;11;Não;Não;Às vezes;Consumidor Padrão
+776;48;Masculino;23962,18;Superior;União Estável;0;Londrina;BA;Marketplace;Review YouTube;Alimentos;4908,87;15;Às vezes;Não;Nunca;Comprador Frequente Premium
+777;26;Masculino;9218,25;Superior;Solteiro(a);2;Joinville;BA;App do Fabricante;Recomendação Amigo;Beleza/Cosméticos;1973,61;7;Não;Sim;Às vezes;Influenciável Engajado
+778;31;Masculino;15344,93;Pós-Graduação;Casado(a);3;Joinville;SP;WhatsApp Business;Influenciador Digital;Alimentos;2802,01;8;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+779;33;Masculino;19980,59;Fundamental;União Estável;0;Manaus;ES;Loja Física;Review YouTube;Casa/Decoração;3591,08;6;Sim;Não;Frequentemente;Comprador Frequente Premium
+780;46;Feminino;15089,90;Superior;União Estável;1;Osasco;PR;Loja Física;Email Marketing;Viagem;4417,21;9;Sim;Não;Frequentemente;Comprador Frequente Premium
+781;60;Feminino;3960,32;Pós-Graduação;Casado(a);1;São Paulo;MT;E-commerce;Email Marketing;Viagem;2278,83;6;Sim;Sim;Às vezes;Consumidor Padrão
+782;63;Masculino;10136,23;Superior;Casado(a);1;Florianópolis;PA;Marketplace;Review YouTube;Viagem;429,11;2;Não;Sim;Raramente;Influenciável Engajado
+783;63;Feminino;23969,14;Fundamental;Casado(a);1;Campo Grande;AP;Redes Sociais;Influenciador Digital;Livros/Educação;4291,44;12;Sim;Sim;Nunca;Comprador Frequente Premium
+784;20;Feminino;21446,98;Fundamental;Divorciado(a);0;Joinville;MT;Marketplace;Recomendação Amigo;Esportes;1210,29;8;Sim;Não;Nunca;Comprador Frequente Premium
+785;69;Masculino;3152,94;Médio;União Estável;1;Belém;GO;App do Fabricante;Busca Google;Livros/Educação;3522,88;10;Não;Sim;Raramente;Consumidor Padrão
+786;55;Feminino;19223,16;Fundamental;Divorciado(a);0;Vitória;AL;Marketplace;Review YouTube;Moda;4972,51;3;Não;Sim;Às vezes;Influenciável Engajado
+787;29;Feminino;21999,83;Superior;União Estável;0;Brasília;PI;Marketplace;Review YouTube;Beleza/Cosméticos;4819,39;0;Não;Sim;Nunca;Influenciável Engajado
+788;61;Feminino;16527,85;Médio;Solteiro(a);0;Recife;SE;E-commerce;Podcast Patrocinado;Livros/Educação;2118,82;12;Às vezes;Sim;Raramente;Comprador Frequente Premium
+789;24;Feminino;3092,88;Médio;Divorciado(a);2;Recife;AP;App do Fabricante;Recomendação Amigo;Esportes;1062,32;6;Sim;Sim;Nunca;Consumidor Padrão
+790;59;Feminino;24322,06;Médio;Casado(a);1;São Paulo;AC;App do Fabricante;Email Marketing;Esportes;1151,93;2;Às vezes;Não;Raramente;Consumidor Padrão
+791;38;Feminino;23350,37;Fundamental;União Estável;0;Natal;SC;App do Fabricante;Influenciador Digital;Alimentos;361,92;0;Sim;Sim;Às vezes;Influenciável Engajado
+792;61;Feminino;6382,91;Pós-Graduação;Casado(a);2;Vitória;PA;Redes Sociais;Anúncio Rede Social;Esportes;2958,37;11;Não;Sim;Frequentemente;Influenciável Engajado
+793;55;Feminino;14386,90;Médio;Casado(a);3;Florianópolis;AC;WhatsApp Business;Email Marketing;Livros/Educação;2137,12;10;Às vezes;Não;Nunca;Comprador Frequente Premium
+794;20;Masculino;17806,38;Médio;Divorciado(a);1;Fortaleza;MG;Marketplace;Email Marketing;Moda;4441,30;9;Sim;Não;Nunca;Comprador Frequente Premium
+795;19;Feminino;5515,94;Pós-Graduação;Casado(a);1;Aparecida de Goiânia;SC;App do Fabricante;Anúncio Rede Social;Eletrônicos;1116,88;6;Às vezes;Sim;Raramente;Influenciável Engajado
+796;35;Masculino;1398,52;Fundamental;Divorciado(a);1;Belém;CE;Loja Física;Email Marketing;Beleza/Cosméticos;3479,42;5;Sim;Sim;Nunca;Consumidor Padrão
+797;35;Feminino;8054,95;Superior;Casado(a);1;São Paulo;AM;Loja Física;Podcast Patrocinado;Livros/Educação;2868,21;1;Sim;Não;Nunca;Consumidor Padrão
+798;30;Feminino;15039,23;Médio;Solteiro(a);1;Niterói;PA;Redes Sociais;Email Marketing;Esportes;4101,61;7;Sim;Não;Frequentemente;Comprador Frequente Premium
+799;42;Feminino;20188,31;Pós-Graduação;Divorciado(a);0;Uberlândia;RS;Loja Física;Propaganda TV;Viagem;3709,55;7;Às vezes;Não;Nunca;Comprador Frequente Premium
+800;54;Masculino;24965,73;Pós-Graduação;União Estável;2;Florianópolis;BA;Marketplace;Anúncio Rede Social;Beleza/Cosméticos;208,53;9;Não;Não;Nunca;Comprador Frequente Premium
+801;31;Masculino;7226,64;Fundamental;Solteiro(a);0;Cuiabá;DF;Redes Sociais;Anúncio Rede Social;Esportes;2376,45;15;Sim;Sim;Nunca;Influenciável Engajado
+802;50;Feminino;10367,56;Médio;Divorciado(a);1;Recife;MA;E-commerce;Anúncio Rede Social;Beleza/Cosméticos;3266,20;13;Sim;Sim;Nunca;Comprador Frequente Premium
+803;56;Masculino;18295,00;Pós-Graduação;União Estável;2;Uberlândia;PI;Redes Sociais;Busca Google;Casa/Decoração;2988,75;8;Não;Não;Às vezes;Comprador Frequente Premium
+804;35;Masculino;13135,44;Superior;Casado(a);2;Joinville;MA;Redes Sociais;Recomendação Amigo;Eletrônicos;4842,55;13;Não;Sim;Nunca;Comprador Frequente Premium
+805;32;Feminino;18208,35;Pós-Graduação;Divorciado(a);2;Porto Alegre;PE;App do Fabricante;Influenciador Digital;Eletrônicos;4933,51;15;Às vezes;Não;Nunca;Comprador Frequente Premium
+806;43;Feminino;16180,46;Fundamental;Divorciado(a);2;Guarulhos;AC;WhatsApp Business;Podcast Patrocinado;Casa/Decoração;2888,08;10;Não;Não;Nunca;Comprador Frequente Premium
+807;59;Feminino;10260,43;Fundamental;Solteiro(a);0;Belém;PB;E-commerce;Propaganda TV;Beleza/Cosméticos;2352,38;13;Não;Sim;Às vezes;Comprador Frequente Premium
+808;38;Feminino;14550,96;Pós-Graduação;Casado(a);2;Manaus;ES;Marketplace;Influenciador Digital;Alimentos;4130,32;2;Sim;Sim;Nunca;Influenciável Engajado
+809;36;Masculino;22250,71;Pós-Graduação;União Estável;3;Aparecida de Goiânia;MA;Marketplace;Podcast Patrocinado;Viagem;1469,09;5;Às vezes;Sim;Raramente;Influenciável Engajado
+810;20;Masculino;3645,52;Médio;União Estável;1;Porto Velho;RJ;WhatsApp Business;Recomendação Amigo;Moda;3058,38;3;Às vezes;Não;Nunca;Consumidor Padrão
+811;63;Feminino;3173,21;Fundamental;União Estável;2;Aparecida de Goiânia;SP;Marketplace;Podcast Patrocinado;Beleza/Cosméticos;4605,62;1;Sim;Sim;Às vezes;Consumidor Padrão
+812;47;Masculino;18157,95;Superior;Casado(a);3;Ribeirão Preto;PA;App do Fabricante;Influenciador Digital;Beleza/Cosméticos;200,90;0;Não;Não;Frequentemente;Consumidor Padrão
+813;28;Feminino;20385,12;Fundamental;União Estável;3;Brasília;MG;Loja Física;Busca Google;Viagem;4684,55;1;Sim;Sim;Frequentemente;Influenciável Engajado
+814;19;Feminino;5996,41;Superior;Divorciado(a);0;Uberlândia;PE;Marketplace;Anúncio Rede Social;Moda;759,56;2;Sim;Não;Às vezes;Consumidor Padrão
+815;60;Masculino;8541,69;Pós-Graduação;União Estável;1;Curitiba;MS;Redes Sociais;Podcast Patrocinado;Viagem;3425,41;0;Às vezes;Não;Raramente;Consumidor Padrão
+816;47;Feminino;4188,43;Pós-Graduação;União Estável;0;Maceió;DF;Marketplace;Review YouTube;Moda;3479,12;3;Não;Não;Frequentemente;Consumidor Padrão
+817;21;Masculino;2639,16;Pós-Graduação;União Estável;1;Recife;AM;App do Fabricante;Email Marketing;Viagem;1387,16;2;Não;Sim;Nunca;Consumidor Padrão
+818;50;Feminino;13917,09;Pós-Graduação;Casado(a);0;Natal;MG;App do Fabricante;Podcast Patrocinado;Moda;3166,03;11;Não;Sim;Às vezes;Comprador Frequente Premium
+819;23;Masculino;12739,73;Pós-Graduação;Casado(a);0;Vitória;TO;E-commerce;Propaganda TV;Casa/Decoração;3057,46;0;Não;Sim;Nunca;Influenciável Engajado
+820;58;Masculino;18817,48;Médio;Solteiro(a);2;Recife;RO;Redes Sociais;Busca Google;Livros/Educação;1734,80;5;Às vezes;Não;Frequentemente;Consumidor Padrão
+821;30;Masculino;13144,70;Fundamental;União Estável;0;Recife;RR;Marketplace;Podcast Patrocinado;Alimentos;4051,18;6;Não;Sim;Frequentemente;Comprador Frequente Premium
+822;63;Feminino;12392,75;Superior;Solteiro(a);2;Uberlândia;AM;E-commerce;Busca Google;Moda;4764,54;15;Às vezes;Não;Nunca;Comprador Frequente Premium
+823;50;Feminino;19822,42;Superior;Casado(a);3;Manaus;MA;WhatsApp Business;Busca Google;Esportes;3723,31;10;Sim;Sim;Raramente;Comprador Frequente Premium
+824;68;Feminino;6954,89;Pós-Graduação;Solteiro(a);0;Ribeirão Preto;RO;App do Fabricante;Podcast Patrocinado;Beleza/Cosméticos;1054,62;10;Às vezes;Não;Frequentemente;Consumidor Padrão
+825;68;Masculino;16325,94;Fundamental;Divorciado(a);0;João Pessoa;PR;Loja Física;Anúncio Rede Social;Beleza/Cosméticos;1784,90;6;Sim;Não;Nunca;Comprador Frequente Premium
+826;67;Masculino;20772,95;Fundamental;União Estável;0;Porto Velho;RO;E-commerce;Email Marketing;Casa/Decoração;4342,09;15;Às vezes;Não;Às vezes;Comprador Frequente Premium
+827;54;Feminino;8102,12;Médio;Divorciado(a);1;Recife;SE;WhatsApp Business;Recomendação Amigo;Beleza/Cosméticos;3420,99;8;Não;Sim;Nunca;Influenciável Engajado
+828;50;Masculino;11740,28;Fundamental;Solteiro(a);0;Natal;PR;Loja Física;Influenciador Digital;Moda;285,52;7;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+829;32;Masculino;3125,13;Pós-Graduação;União Estável;1;Campo Grande;MT;E-commerce;Podcast Patrocinado;Esportes;3351,91;13;Não;Sim;Raramente;Consumidor Padrão
+830;27;Masculino;6015,18;Pós-Graduação;União Estável;1;Londrina;PE;App do Fabricante;Busca Google;Moda;1152,46;13;Não;Não;Frequentemente;Consumidor Padrão
+831;27;Masculino;17699,63;Pós-Graduação;Divorciado(a);1;Guarulhos;PI;E-commerce;Review YouTube;Livros/Educação;4182,53;11;Às vezes;Não;Às vezes;Comprador Frequente Premium
+832;46;Masculino;16243,49;Superior;Divorciado(a);0;Santos;MG;Loja Física;Email Marketing;Viagem;4179,27;3;Sim;Sim;Nunca;Influenciável Engajado
+833;50;Masculino;15935,69;Superior;Divorciado(a);0;Maringá;GO;Redes Sociais;Recomendação Amigo;Moda;4452,90;11;Não;Sim;Às vezes;Comprador Frequente Premium
+834;69;Feminino;4716,62;Superior;Casado(a);0;Porto Alegre;RO;Marketplace;Influenciador Digital;Alimentos;4181,48;3;Não;Sim;Raramente;Consumidor Padrão
+835;57;Masculino;15397,15;Pós-Graduação;Casado(a);0;São Luís;DF;Loja Física;Recomendação Amigo;Casa/Decoração;4985,29;13;Às vezes;Sim;Nunca;Comprador Frequente Premium
+836;33;Feminino;13157,58;Médio;União Estável;2;Aparecida de Goiânia;MA;Marketplace;Anúncio Rede Social;Viagem;60,68;14;Sim;Não;Raramente;Comprador Frequente Premium
+837;31;Feminino;7433,60;Superior;União Estável;1;Osasco;GO;Loja Física;Email Marketing;Alimentos;2694,55;9;Às vezes;Sim;Frequentemente;Influenciável Engajado
+838;53;Masculino;1598,58;Médio;Solteiro(a);0;Goiânia;SC;WhatsApp Business;Propaganda TV;Eletrônicos;2252,27;13;Às vezes;Sim;Nunca;Consumidor Padrão
+839;43;Masculino;24624,69;Fundamental;Divorciado(a);0;São Paulo;RN;WhatsApp Business;Busca Google;Alimentos;3682,59;5;Sim;Sim;Raramente;Influenciável Engajado
+840;26;Feminino;9734,12;Fundamental;Casado(a);0;Campinas;MT;E-commerce;Busca Google;Beleza/Cosméticos;2618,35;4;Às vezes;Não;Raramente;Consumidor Padrão
+841;61;Feminino;14566,90;Pós-Graduação;União Estável;2;Guarulhos;SC;Loja Física;Recomendação Amigo;Beleza/Cosméticos;4180,99;11;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+842;21;Masculino;1324,78;Superior;União Estável;1;Aracaju;BA;WhatsApp Business;Email Marketing;Moda;3238,45;1;Não;Não;Raramente;Consumidor Padrão
+843;28;Masculino;18824,94;Superior;União Estável;0;Recife;RJ;Loja Física;Review YouTube;Casa/Decoração;282,30;4;Às vezes;Sim;Nunca;Influenciável Engajado
+844;62;Feminino;23430,72;Fundamental;Divorciado(a);0;Londrina;AL;Loja Física;Recomendação Amigo;Viagem;1416,39;3;Sim;Não;Nunca;Tradicional Presencial
+845;44;Feminino;4396,07;Superior;Divorciado(a);3;Santos;PR;Loja Física;Recomendação Amigo;Alimentos;4138,78;14;Às vezes;Sim;Às vezes;Consumidor Padrão
+846;25;Masculino;17523,83;Superior;Solteiro(a);3;Niterói;AM;WhatsApp Business;Recomendação Amigo;Alimentos;4366,64;0;Não;Não;Às vezes;Consumidor Padrão
+847;59;Feminino;23326,01;Fundamental;Casado(a);0;Recife;SE;E-commerce;Busca Google;Viagem;4725,01;4;Às vezes;Sim;Raramente;Influenciável Engajado
+848;62;Masculino;4894,21;Médio;Divorciado(a);3;Campo Grande;PB;Marketplace;Email Marketing;Moda;3294,91;9;Sim;Não;Às vezes;Consumidor Padrão
+849;52;Feminino;5648,12;Médio;Casado(a);2;Fortaleza;AP;Marketplace;Recomendação Amigo;Viagem;3732,63;5;Não;Não;Às vezes;Consumidor Padrão
+850;51;Feminino;14611,52;Médio;Casado(a);1;João Pessoa;PA;E-commerce;Busca Google;Alimentos;500,64;2;Às vezes;Não;Nunca;Consumidor Padrão
+851;20;Masculino;21955,63;Fundamental;União Estável;0;Maceió;RJ;Redes Sociais;Busca Google;Moda;3581,05;0;Às vezes;Sim;Frequentemente;Influenciável Engajado
+852;47;Feminino;4834,95;Pós-Graduação;Divorciado(a);2;Osasco;PB;Loja Física;Recomendação Amigo;Beleza/Cosméticos;3276,03;1;Sim;Não;Nunca;Consumidor Padrão
+853;37;Masculino;24889,89;Médio;Solteiro(a);0;Rio de Janeiro;TO;Redes Sociais;Review YouTube;Beleza/Cosméticos;892,55;13;Não;Sim;Raramente;Comprador Frequente Premium
+854;51;Feminino;13418,36;Médio;União Estável;1;Santos;GO;Loja Física;Recomendação Amigo;Esportes;2136,29;0;Não;Não;Às vezes;Tradicional Presencial
+855;67;Masculino;13682,31;Médio;Casado(a);0;Joinville;PR;Redes Sociais;Busca Google;Esportes;3726,93;7;Sim;Não;Raramente;Comprador Frequente Premium
+856;43;Masculino;12463,26;Superior;Divorciado(a);3;Florianópolis;PI;Redes Sociais;Influenciador Digital;Esportes;1919,93;12;Não;Sim;Nunca;Comprador Frequente Premium
+857;59;Feminino;22270,28;Fundamental;União Estável;2;Porto Velho;PA;E-commerce;Review YouTube;Alimentos;1169,39;8;Sim;Sim;Frequentemente;Comprador Frequente Premium
+858;47;Feminino;13953,86;Fundamental;Divorciado(a);2;Santos;RO;Redes Sociais;Influenciador Digital;Beleza/Cosméticos;1614,99;5;Sim;Sim;Às vezes;Influenciável Engajado
+859;39;Feminino;10048,63;Fundamental;União Estável;1;Niterói;DF;E-commerce;Anúncio Rede Social;Moda;4634,57;13;Não;Não;Nunca;Comprador Frequente Premium
+860;21;Masculino;24475,02;Pós-Graduação;Divorciado(a);2;Curitiba;RN;Loja Física;Email Marketing;Alimentos;1426,27;12;Sim;Não;Frequentemente;Comprador Frequente Premium
+861;45;Feminino;7672,40;Pós-Graduação;Divorciado(a);2;Juiz de Fora;ES;App do Fabricante;Review YouTube;Eletrônicos;3949,68;6;Às vezes;Sim;Às vezes;Influenciável Engajado
+862;66;Masculino;21203,65;Fundamental;Divorciado(a);2;Belo Horizonte;PA;Loja Física;Podcast Patrocinado;Esportes;1280,46;8;Sim;Não;Frequentemente;Comprador Frequente Premium
+863;65;Masculino;8585,62;Médio;Casado(a);0;Uberlândia;PI;E-commerce;Influenciador Digital;Moda;2259,09;5;Às vezes;Sim;Às vezes;Influenciável Engajado
+864;64;Masculino;18946,03;Superior;Divorciado(a);1;Belém;PR;Redes Sociais;Podcast Patrocinado;Viagem;212,98;11;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+865;47;Masculino;22827,82;Fundamental;União Estável;0;Teresina;RR;Redes Sociais;Review YouTube;Esportes;3424,72;0;Não;Sim;Raramente;Influenciável Engajado
+866;66;Feminino;9662,57;Pós-Graduação;Divorciado(a);1;Florianópolis;AP;Loja Física;Propaganda TV;Casa/Decoração;2869,61;8;Não;Não;Raramente;Tradicional Presencial
+867;34;Feminino;23371,54;Pós-Graduação;Casado(a);1;Goiânia;TO;Loja Física;Podcast Patrocinado;Moda;1410,87;0;Sim;Não;Raramente;Consumidor Padrão
+868;30;Feminino;18360,99;Fundamental;União Estável;0;Uberlândia;AC;E-commerce;Podcast Patrocinado;Alimentos;2523,85;4;Sim;Sim;Raramente;Influenciável Engajado
+869;40;Feminino;17425,02;Pós-Graduação;União Estável;0;Osasco;AP;Marketplace;Recomendação Amigo;Livros/Educação;1576,35;6;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+870;65;Feminino;9847,88;Pós-Graduação;Casado(a);1;Salvador;PI;App do Fabricante;Review YouTube;Moda;3428,67;13;Às vezes;Não;Raramente;Consumidor Padrão
+871;42;Feminino;23223,37;Superior;Solteiro(a);3;Campinas;PR;E-commerce;Busca Google;Livros/Educação;713,52;7;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+872;52;Masculino;9139,83;Superior;Divorciado(a);2;Porto Velho;TO;WhatsApp Business;Busca Google;Viagem;3545,28;4;Às vezes;Não;Raramente;Consumidor Padrão
+873;59;Masculino;16440,38;Superior;Divorciado(a);1;Joinville;ES;WhatsApp Business;Anúncio Rede Social;Moda;4768,84;2;Não;Sim;Raramente;Influenciável Engajado
+874;55;Feminino;12885,25;Pós-Graduação;Casado(a);3;São Luís;PI;Redes Sociais;Recomendação Amigo;Livros/Educação;2775,93;13;Sim;Não;Às vezes;Comprador Frequente Premium
+875;29;Masculino;21100,70;Pós-Graduação;Casado(a);1;Uberlândia;MS;WhatsApp Business;Busca Google;Esportes;4548,25;8;Sim;Sim;Nunca;Comprador Frequente Premium
+876;56;Feminino;6386,08;Pós-Graduação;Casado(a);1;Salvador;RN;WhatsApp Business;Propaganda TV;Livros/Educação;3153,94;3;Sim;Sim;Raramente;Influenciável Engajado
+877;65;Feminino;24538,74;Fundamental;Casado(a);1;Juiz de Fora;TO;App do Fabricante;Busca Google;Moda;2956,57;5;Não;Não;Às vezes;Consumidor Padrão
+878;53;Masculino;22133,96;Pós-Graduação;Divorciado(a);1;Campo Grande;MS;App do Fabricante;Review YouTube;Viagem;1117,47;4;Às vezes;Sim;Frequentemente;Influenciável Engajado
+879;26;Masculino;14836,69;Fundamental;União Estável;0;Rio de Janeiro;AL;Loja Física;Influenciador Digital;Alimentos;3016,63;14;Sim;Sim;Às vezes;Comprador Frequente Premium
+880;62;Masculino;15009,03;Superior;Divorciado(a);2;Uberlândia;MS;Loja Física;Podcast Patrocinado;Casa/Decoração;191,75;8;Não;Sim;Às vezes;Comprador Frequente Premium
+881;61;Masculino;7207,26;Fundamental;Divorciado(a);0;Fortaleza;MG;Redes Sociais;Busca Google;Esportes;3581,05;10;Sim;Não;Nunca;Consumidor Padrão
+882;45;Masculino;23918,71;Pós-Graduação;Solteiro(a);0;Sorocaba;SP;Redes Sociais;Review YouTube;Esportes;2939,45;2;Sim;Sim;Às vezes;Influenciável Engajado
+883;62;Feminino;21902,78;Médio;Divorciado(a);0;Sorocaba;DF;WhatsApp Business;Review YouTube;Viagem;1535,53;6;Sim;Não;Raramente;Comprador Frequente Premium
+884;18;Feminino;12028,81;Superior;Casado(a);1;Guarulhos;PE;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;2940,92;0;Não;Sim;Às vezes;Influenciável Engajado
+885;44;Feminino;19610,85;Fundamental;Solteiro(a);2;Curitiba;PE;E-commerce;Anúncio Rede Social;Casa/Decoração;1334,72;13;Às vezes;Não;Raramente;Comprador Frequente Premium
+886;47;Masculino;1272,58;Médio;Casado(a);2;Vitória;MT;Loja Física;Influenciador Digital;Viagem;868,43;8;Às vezes;Não;Nunca;Consumidor Padrão
+887;18;Masculino;12940,54;Médio;Casado(a);0;Teresina;PB;Redes Sociais;Recomendação Amigo;Alimentos;2613,45;5;Às vezes;Não;Às vezes;Consumidor Padrão
+888;53;Masculino;5908,47;Fundamental;Solteiro(a);1;Osasco;AM;Redes Sociais;Anúncio Rede Social;Alimentos;2118,85;10;Às vezes;Sim;Nunca;Influenciável Engajado
+889;58;Feminino;14531,80;Médio;Solteiro(a);2;Porto Velho;PB;E-commerce;Podcast Patrocinado;Moda;2604,70;10;Sim;Sim;Raramente;Comprador Frequente Premium
+890;45;Masculino;23157,49;Fundamental;Solteiro(a);2;Joinville;RJ;Loja Física;Review YouTube;Beleza/Cosméticos;1229,48;5;Às vezes;Sim;Frequentemente;Influenciável Engajado
+891;22;Feminino;5290,30;Médio;Solteiro(a);0;Brasília;RR;App do Fabricante;Influenciador Digital;Beleza/Cosméticos;3621,37;12;Não;Sim;Às vezes;Influenciável Engajado
+892;20;Feminino;16328,25;Pós-Graduação;União Estável;2;Vitória;SE;Redes Sociais;Anúncio Rede Social;Moda;2793,38;8;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+893;51;Masculino;8501,25;Fundamental;Solteiro(a);2;Niterói;PA;E-commerce;Recomendação Amigo;Alimentos;1866,72;3;Não;Sim;Às vezes;Influenciável Engajado
+894;27;Masculino;21712,58;Pós-Graduação;Divorciado(a);2;Salvador;MS;Marketplace;Anúncio Rede Social;Alimentos;3541,21;4;Não;Não;Nunca;Consumidor Padrão
+895;57;Feminino;5007,10;Fundamental;Divorciado(a);2;Aparecida de Goiânia;CE;Redes Sociais;Podcast Patrocinado;Casa/Decoração;4428,30;3;Sim;Sim;Às vezes;Influenciável Engajado
+896;61;Feminino;23967,88;Médio;União Estável;0;Aparecida de Goiânia;SE;Loja Física;Email Marketing;Eletrônicos;3898,75;4;Não;Sim;Frequentemente;Influenciável Engajado
+897;36;Feminino;19043,54;Médio;Divorciado(a);2;Rio de Janeiro;MG;WhatsApp Business;Review YouTube;Esportes;4900,68;10;Não;Sim;Nunca;Comprador Frequente Premium
+898;55;Masculino;6957,46;Pós-Graduação;Solteiro(a);2;Joinville;RS;Loja Física;Propaganda TV;Beleza/Cosméticos;4117,65;14;Às vezes;Sim;Às vezes;Influenciável Engajado
+899;38;Feminino;23094,04;Médio;Divorciado(a);3;Juiz de Fora;DF;E-commerce;Propaganda TV;Esportes;2664,42;9;Não;Não;Raramente;Comprador Frequente Premium
+900;38;Masculino;2443,47;Fundamental;Casado(a);1;Belém;AC;Marketplace;Podcast Patrocinado;Beleza/Cosméticos;4874,60;3;Às vezes;Não;Frequentemente;Consumidor Padrão
+901;29;Masculino;22029,95;Fundamental;Casado(a);3;Joinville;PR;Loja Física;Propaganda TV;Eletrônicos;536,03;8;Às vezes;Não;Frequentemente;Comprador Frequente Premium
+902;51;Masculino;20884,57;Médio;Solteiro(a);0;Londrina;BA;Redes Sociais;Anúncio Rede Social;Viagem;1712,81;11;Sim;Sim;Às vezes;Comprador Frequente Premium
+903;49;Feminino;12960,01;Médio;Solteiro(a);0;Goiânia;RJ;E-commerce;Influenciador Digital;Livros/Educação;4694,24;10;Sim;Sim;Frequentemente;Comprador Frequente Premium
+904;43;Masculino;24263,46;Pós-Graduação;Casado(a);0;Osasco;MA;App do Fabricante;Email Marketing;Alimentos;145,48;4;Não;Sim;Às vezes;Influenciável Engajado
+905;29;Feminino;5372,87;Superior;Divorciado(a);1;Curitiba;PR;E-commerce;Review YouTube;Alimentos;4774,38;2;Não;Não;Nunca;Consumidor Padrão
+906;49;Masculino;15003,44;Médio;Solteiro(a);0;Goiânia;GO;App do Fabricante;Email Marketing;Livros/Educação;613,97;2;Às vezes;Não;Raramente;Consumidor Padrão
+907;37;Masculino;21530,65;Pós-Graduação;Solteiro(a);0;Uberlândia;RR;App do Fabricante;Busca Google;Moda;1602,50;7;Não;Sim;Nunca;Comprador Frequente Premium
+908;64;Masculino;11011,00;Superior;Solteiro(a);0;Guarulhos;CE;Loja Física;Anúncio Rede Social;Casa/Decoração;1108,38;15;Não;Não;Frequentemente;Comprador Frequente Premium
+909;34;Masculino;19207,50;Pós-Graduação;União Estável;1;Porto Alegre;DF;WhatsApp Business;Busca Google;Esportes;2913,37;0;Às vezes;Sim;Raramente;Influenciável Engajado
+910;64;Feminino;5459,05;Fundamental;Solteiro(a);0;Manaus;MS;Redes Sociais;Busca Google;Viagem;3194,56;5;Sim;Sim;Raramente;Influenciável Engajado
+911;43;Feminino;18425,60;Médio;Casado(a);0;Santos;MG;Marketplace;Recomendação Amigo;Casa/Decoração;2088,45;15;Sim;Não;Raramente;Comprador Frequente Premium
+912;30;Feminino;5817,94;Médio;Divorciado(a);2;Vitória;AL;E-commerce;Review YouTube;Viagem;454,04;7;Às vezes;Não;Raramente;Consumidor Padrão
+913;39;Feminino;19898,60;Superior;Solteiro(a);1;Campo Grande;RJ;App do Fabricante;Recomendação Amigo;Viagem;462,01;1;Às vezes;Sim;Nunca;Influenciável Engajado
+914;54;Masculino;13820,45;Fundamental;Divorciado(a);0;São José dos Campos;PA;Marketplace;Review YouTube;Viagem;1045,13;11;Não;Não;Frequentemente;Comprador Frequente Premium
+915;64;Masculino;24777,56;Médio;Divorciado(a);1;Belo Horizonte;MT;E-commerce;Recomendação Amigo;Moda;4411,95;12;Sim;Não;Frequentemente;Comprador Frequente Premium
+916;68;Feminino;1209,84;Médio;Divorciado(a);2;Brasília;TO;Redes Sociais;Propaganda TV;Livros/Educação;2869,31;10;Sim;Sim;Frequentemente;Consumidor Padrão
+917;39;Masculino;22245,79;Pós-Graduação;Solteiro(a);0;Belo Horizonte;MS;E-commerce;Recomendação Amigo;Alimentos;2225,94;10;Sim;Não;Raramente;Comprador Frequente Premium
+918;70;Feminino;9670,51;Pós-Graduação;Divorciado(a);1;Campinas;MG;E-commerce;Recomendação Amigo;Alimentos;4041,02;0;Sim;Sim;Raramente;Influenciável Engajado
+919;43;Feminino;12569,54;Fundamental;União Estável;1;Manaus;BA;Redes Sociais;Anúncio Rede Social;Viagem;451,40;2;Não;Sim;Nunca;Influenciável Engajado
+920;31;Feminino;19018,33;Pós-Graduação;União Estável;3;Ribeirão Preto;MA;E-commerce;Review YouTube;Casa/Decoração;2921,71;9;Sim;Não;Às vezes;Comprador Frequente Premium
+921;20;Masculino;12565,86;Fundamental;Solteiro(a);0;Campo Grande;CE;E-commerce;Influenciador Digital;Moda;2805,40;14;Sim;Não;Frequentemente;Comprador Frequente Premium
+922;65;Masculino;18357,77;Pós-Graduação;Casado(a);0;Londrina;PE;App do Fabricante;Influenciador Digital;Alimentos;1276,61;15;Sim;Não;Às vezes;Comprador Frequente Premium
+923;45;Feminino;15671,69;Pós-Graduação;União Estável;0;Rio de Janeiro;AM;Redes Sociais;Email Marketing;Casa/Decoração;1052,05;7;Sim;Sim;Frequentemente;Comprador Frequente Premium
+924;57;Feminino;21619,47;Fundamental;Casado(a);0;Maceió;AP;Redes Sociais;Email Marketing;Beleza/Cosméticos;188,49;11;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+925;53;Masculino;13414,62;Fundamental;Casado(a);0;Salvador;MS;Loja Física;Recomendação Amigo;Casa/Decoração;4460,14;2;Sim;Sim;Raramente;Influenciável Engajado
+926;36;Feminino;16090,67;Pós-Graduação;Divorciado(a);2;Maceió;RR;Redes Sociais;Review YouTube;Casa/Decoração;1337,11;11;Não;Sim;Frequentemente;Comprador Frequente Premium
+927;51;Masculino;14216,07;Superior;Divorciado(a);1;Campo Grande;PE;Redes Sociais;Busca Google;Livros/Educação;2733,84;2;Às vezes;Sim;Às vezes;Influenciável Engajado
+928;55;Feminino;24993,21;Fundamental;União Estável;0;Feira de Santana;RR;Loja Física;Influenciador Digital;Livros/Educação;4100,81;10;Sim;Não;Nunca;Comprador Frequente Premium
+929;23;Masculino;5333,04;Médio;União Estável;1;Campinas;GO;Loja Física;Email Marketing;Alimentos;4459,30;6;Não;Sim;Raramente;Influenciável Engajado
+930;50;Masculino;22139,92;Superior;Divorciado(a);1;Niterói;PE;E-commerce;Propaganda TV;Casa/Decoração;2978,03;8;Às vezes;Sim;Raramente;Comprador Frequente Premium
+931;47;Masculino;22935,42;Pós-Graduação;Casado(a);2;Londrina;PB;E-commerce;Influenciador Digital;Esportes;1201,56;11;Não;Não;Frequentemente;Comprador Frequente Premium
+932;60;Masculino;14047,89;Pós-Graduação;Casado(a);1;Belém;RR;Marketplace;Podcast Patrocinado;Viagem;2222,52;12;Sim;Não;Nunca;Comprador Frequente Premium
+933;44;Masculino;4345,44;Pós-Graduação;Casado(a);1;Ribeirão Preto;RN;Loja Física;Recomendação Amigo;Livros/Educação;1649,50;11;Sim;Não;Às vezes;Consumidor Padrão
+934;35;Masculino;2124,12;Fundamental;Casado(a);2;Aracaju;BA;App do Fabricante;Influenciador Digital;Viagem;4756,67;15;Às vezes;Não;Frequentemente;Consumidor Padrão
+935;51;Masculino;9308,49;Superior;Casado(a);0;Sorocaba;RJ;WhatsApp Business;Busca Google;Casa/Decoração;2021,09;10;Não;Sim;Nunca;Influenciável Engajado
+936;39;Feminino;5757,38;Pós-Graduação;União Estável;0;Uberlândia;ES;App do Fabricante;Busca Google;Moda;3358,92;4;Às vezes;Sim;Frequentemente;Influenciável Engajado
+937;19;Masculino;14535,33;Fundamental;Solteiro(a);1;Ribeirão Preto;RS;WhatsApp Business;Influenciador Digital;Casa/Decoração;3229,14;0;Não;Sim;Raramente;Influenciável Engajado
+938;49;Masculino;16906,58;Superior;Casado(a);1;Natal;AL;Marketplace;Influenciador Digital;Alimentos;4472,82;14;Não;Sim;Frequentemente;Comprador Frequente Premium
+939;47;Feminino;21642,32;Pós-Graduação;Casado(a);0;Joinville;PA;WhatsApp Business;Email Marketing;Beleza/Cosméticos;2884,73;3;Não;Sim;Às vezes;Influenciável Engajado
+940;53;Masculino;19447,19;Pós-Graduação;Divorciado(a);0;Maringá;PI;WhatsApp Business;Recomendação Amigo;Viagem;89,02;8;Às vezes;Não;Raramente;Comprador Frequente Premium
+941;56;Masculino;13740,87;Pós-Graduação;União Estável;0;Porto Velho;AM;App do Fabricante;Review YouTube;Viagem;3720,45;2;Às vezes;Não;Nunca;Consumidor Padrão
+942;62;Feminino;22070,58;Superior;Solteiro(a);0;São José dos Campos;MA;WhatsApp Business;Podcast Patrocinado;Esportes;876,76;14;Às vezes;Não;Raramente;Comprador Frequente Premium
+943;57;Feminino;18907,66;Fundamental;União Estável;0;Joinville;SE;Loja Física;Influenciador Digital;Alimentos;3514,38;14;Não;Sim;Frequentemente;Comprador Frequente Premium
+944;55;Masculino;3849,65;Superior;União Estável;1;São Paulo;MA;Marketplace;Recomendação Amigo;Beleza/Cosméticos;4544,30;3;Sim;Não;Às vezes;Consumidor Padrão
+945;64;Feminino;8662,75;Pós-Graduação;Divorciado(a);2;Uberlândia;TO;Redes Sociais;Review YouTube;Casa/Decoração;4666,08;9;Sim;Sim;Nunca;Influenciável Engajado
+946;42;Feminino;20352,26;Superior;Solteiro(a);3;Belo Horizonte;PR;E-commerce;Propaganda TV;Moda;1567,78;5;Sim;Sim;Às vezes;Influenciável Engajado
+947;61;Masculino;15211,04;Fundamental;Solteiro(a);2;Joinville;MA;Marketplace;Busca Google;Esportes;3510,62;7;Não;Sim;Raramente;Comprador Frequente Premium
+948;50;Masculino;8239,83;Pós-Graduação;Divorciado(a);1;São José dos Campos;SC;Loja Física;Busca Google;Casa/Decoração;4613,63;4;Não;Não;Às vezes;Consumidor Padrão
+949;62;Feminino;11659,50;Fundamental;Casado(a);0;Joinville;TO;Redes Sociais;Influenciador Digital;Alimentos;1689,96;6;Às vezes;Sim;Nunca;Comprador Frequente Premium
+950;70;Feminino;19626,39;Fundamental;Solteiro(a);0;Manaus;AC;App do Fabricante;Review YouTube;Casa/Decoração;2563,27;5;Às vezes;Não;Frequentemente;Consumidor Padrão
+951;48;Feminino;15994,04;Superior;Divorciado(a);2;Aparecida de Goiânia;SE;E-commerce;Anúncio Rede Social;Beleza/Cosméticos;3700,41;13;Sim;Não;Frequentemente;Comprador Frequente Premium
+952;24;Feminino;4498,31;Pós-Graduação;Solteiro(a);1;Uberlândia;SP;Redes Sociais;Anúncio Rede Social;Beleza/Cosméticos;1526,04;8;Não;Sim;Às vezes;Consumidor Padrão
+953;40;Masculino;18172,14;Superior;União Estável;1;Guarulhos;DF;Loja Física;Propaganda TV;Livros/Educação;4084,34;6;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+954;67;Feminino;12579,39;Médio;Divorciado(a);1;São Paulo;PA;E-commerce;Anúncio Rede Social;Moda;1907,43;9;Às vezes;Sim;Raramente;Comprador Frequente Premium
+955;41;Feminino;23675,61;Médio;Solteiro(a);1;Feira de Santana;PA;Loja Física;Review YouTube;Casa/Decoração;3526,10;2;Sim;Sim;Às vezes;Influenciável Engajado
+956;22;Feminino;2572,15;Pós-Graduação;União Estável;3;Maceió;RR;App do Fabricante;Influenciador Digital;Livros/Educação;2880,76;0;Não;Sim;Raramente;Consumidor Padrão
+957;32;Masculino;10758,09;Fundamental;União Estável;0;Osasco;SC;E-commerce;Influenciador Digital;Alimentos;1838,74;7;Não;Não;Às vezes;Comprador Frequente Premium
+958;61;Feminino;2543,26;Médio;Casado(a);1;Osasco;PA;Loja Física;Propaganda TV;Viagem;1468,83;11;Sim;Não;Nunca;Tradicional Presencial
+959;47;Feminino;16207,05;Superior;Divorciado(a);1;São Luís;AP;WhatsApp Business;Recomendação Amigo;Casa/Decoração;1415,20;11;Não;Sim;Frequentemente;Comprador Frequente Premium
+960;19;Feminino;15896,15;Pós-Graduação;União Estável;0;Goiânia;MA;Loja Física;Email Marketing;Moda;3109,07;3;Às vezes;Sim;Às vezes;Influenciável Engajado
+961;38;Masculino;12941,56;Superior;Casado(a);3;Campinas;RR;WhatsApp Business;Busca Google;Casa/Decoração;73,72;5;Sim;Não;Nunca;Caçador de Ofertas
+962;64;Masculino;21042,66;Médio;União Estável;0;Campo Grande;PA;App do Fabricante;Review YouTube;Viagem;1917,63;2;Não;Sim;Nunca;Influenciável Engajado
+963;37;Feminino;13593,26;Pós-Graduação;Casado(a);0;Porto Alegre;RJ;Marketplace;Review YouTube;Casa/Decoração;4957,24;15;Não;Sim;Às vezes;Comprador Frequente Premium
+964;35;Masculino;23983,26;Superior;União Estável;0;Belém;MS;App do Fabricante;Review YouTube;Moda;2198,94;9;Sim;Sim;Nunca;Comprador Frequente Premium
+965;35;Masculino;23066,99;Fundamental;Solteiro(a);1;Rio de Janeiro;RO;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;4609,78;5;Às vezes;Sim;Nunca;Influenciável Engajado
+966;70;Feminino;17955,94;Fundamental;Divorciado(a);2;Joinville;RS;Loja Física;Busca Google;Moda;707,36;13;Às vezes;Sim;Às vezes;Comprador Frequente Premium
+967;65;Masculino;4107,47;Pós-Graduação;Divorciado(a);0;Aracaju;CE;WhatsApp Business;Email Marketing;Beleza/Cosméticos;3595,54;13;Sim;Sim;Às vezes;Consumidor Padrão
+968;28;Masculino;24222,04;Fundamental;Divorciado(a);0;Londrina;MT;Redes Sociais;Influenciador Digital;Livros/Educação;2440,33;8;Sim;Sim;Nunca;Comprador Frequente Premium
+969;35;Masculino;14453,89;Pós-Graduação;União Estável;0;Cuiabá;SC;E-commerce;Recomendação Amigo;Esportes;3887,23;12;Não;Não;Frequentemente;Comprador Frequente Premium
+970;25;Feminino;13485,57;Pós-Graduação;Solteiro(a);0;Natal;PB;Redes Sociais;Recomendação Amigo;Alimentos;881,69;8;Não;Sim;Frequentemente;Comprador Frequente Premium
+971;65;Feminino;4275,21;Pós-Graduação;Divorciado(a);1;Guarulhos;AC;Redes Sociais;Podcast Patrocinado;Viagem;3866,98;10;Não;Não;Nunca;Consumidor Padrão
+972;65;Feminino;9649,25;Pós-Graduação;Casado(a);2;Campo Grande;CE;Redes Sociais;Podcast Patrocinado;Moda;4407,82;10;Às vezes;Não;Frequentemente;Consumidor Padrão
+973;45;Feminino;24999,27;Fundamental;Solteiro(a);0;Juiz de Fora;GO;App do Fabricante;Email Marketing;Casa/Decoração;2179,96;1;Sim;Não;Nunca;Consumidor Padrão
+974;46;Feminino;3952,40;Superior;União Estável;1;Salvador;MT;App do Fabricante;Podcast Patrocinado;Beleza/Cosméticos;1588,26;5;Às vezes;Sim;Raramente;Consumidor Padrão
+975;30;Feminino;23191,58;Fundamental;Solteiro(a);3;Maceió;AM;Marketplace;Busca Google;Eletrônicos;3118,80;1;Às vezes;Sim;Frequentemente;Influenciável Engajado
+976;43;Masculino;14373,07;Pós-Graduação;Solteiro(a);0;Campo Grande;PE;App do Fabricante;Podcast Patrocinado;Moda;3364,35;15;Sim;Não;Às vezes;Comprador Frequente Premium
+977;34;Masculino;19201,91;Fundamental;Casado(a);1;Maceió;BA;Marketplace;Influenciador Digital;Casa/Decoração;230,35;8;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+978;33;Masculino;19044,39;Fundamental;Solteiro(a);1;Joinville;RJ;Redes Sociais;Recomendação Amigo;Livros/Educação;4815,59;2;Não;Não;Às vezes;Consumidor Padrão
+979;26;Feminino;23926,03;Superior;Divorciado(a);2;Recife;AL;Loja Física;Influenciador Digital;Alimentos;363,78;3;Sim;Sim;Raramente;Influenciável Engajado
+980;20;Feminino;13235,48;Superior;Casado(a);2;Niterói;ES;E-commerce;Podcast Patrocinado;Casa/Decoração;2855,26;8;Às vezes;Não;Raramente;Comprador Frequente Premium
+981;41;Masculino;23928,33;Superior;União Estável;3;Maringá;RJ;Redes Sociais;Busca Google;Alimentos;4482,43;13;Não;Não;Às vezes;Comprador Frequente Premium
+982;54;Feminino;16969,22;Superior;Casado(a);0;Natal;MA;Loja Física;Podcast Patrocinado;Casa/Decoração;1075,10;13;Não;Não;Raramente;Comprador Frequente Premium
+983;32;Feminino;23874,73;Médio;Solteiro(a);0;Porto Alegre;PR;E-commerce;Anúncio Rede Social;Moda;348,89;1;Sim;Não;Nunca;Caçador de Ofertas
+984;41;Feminino;12557,32;Fundamental;União Estável;3;Belo Horizonte;CE;Loja Física;Email Marketing;Viagem;4543,51;8;Não;Não;Frequentemente;Comprador Frequente Premium
+985;23;Feminino;18850,79;Médio;Casado(a);1;Londrina;SP;App do Fabricante;Busca Google;Moda;2691,25;10;Às vezes;Não;Raramente;Comprador Frequente Premium
+986;36;Masculino;3274,17;Fundamental;União Estável;3;Juiz de Fora;DF;Redes Sociais;Podcast Patrocinado;Esportes;4411,91;12;Às vezes;Não;Nunca;Consumidor Padrão
+987;54;Masculino;19766,05;Pós-Graduação;Casado(a);0;Feira de Santana;CE;Marketplace;Busca Google;Eletrônicos;142,23;8;Sim;Sim;Nunca;Comprador Frequente Premium
+988;70;Feminino;17647,92;Fundamental;Divorciado(a);0;Campo Grande;RJ;E-commerce;Recomendação Amigo;Alimentos;1300,77;13;Não;Não;Frequentemente;Comprador Frequente Premium
+989;67;Feminino;7214,71;Pós-Graduação;Divorciado(a);2;Belém;PB;App do Fabricante;Review YouTube;Esportes;1046,37;0;Sim;Sim;Às vezes;Influenciável Engajado
+990;24;Masculino;21492,52;Pós-Graduação;Divorciado(a);3;Ribeirão Preto;AL;Redes Sociais;Podcast Patrocinado;Esportes;2250,59;11;Às vezes;Sim;Frequentemente;Comprador Frequente Premium
+991;31;Masculino;4637,03;Pós-Graduação;Divorciado(a);2;Porto Alegre;RJ;Redes Sociais;Email Marketing;Beleza/Cosméticos;2965,46;13;Sim;Sim;Às vezes;Consumidor Padrão
+992;55;Feminino;8879,14;Médio;Divorciado(a);0;Florianópolis;GO;WhatsApp Business;Propaganda TV;Esportes;4139,05;5;Não;Não;Frequentemente;Consumidor Padrão
+993;68;Masculino;24689,41;Pós-Graduação;União Estável;3;Joinville;RO;E-commerce;Podcast Patrocinado;Beleza/Cosméticos;2188,33;11;Sim;Sim;Frequentemente;Comprador Frequente Premium
+994;61;Masculino;9619,30;Médio;Divorciado(a);1;Florianópolis;BA;Marketplace;Influenciador Digital;Eletrônicos;179,46;13;Sim;Sim;Frequentemente;Influenciável Engajado
+995;67;Masculino;14832,01;Pós-Graduação;Casado(a);1;Fortaleza;MG;Redes Sociais;Anúncio Rede Social;Beleza/Cosméticos;4876,06;6;Não;Sim;Frequentemente;Comprador Frequente Premium
+996;20;Masculino;13560,20;Fundamental;União Estável;0;Vitória;PE;WhatsApp Business;Podcast Patrocinado;Beleza/Cosméticos;86,12;5;Não;Não;Frequentemente;Consumidor Padrão
+997;70;Masculino;6878,69;Médio;Casado(a);0;João Pessoa;PB;Loja Física;Anúncio Rede Social;Casa/Decoração;3517,88;10;Sim;Não;Às vezes;Tradicional Presencial
+998;50;Feminino;7960,50;Superior;União Estável;0;Brasília;RN;Redes Sociais;Influenciador Digital;Alimentos;630,36;7;Às vezes;Não;Nunca;Consumidor Padrão
+999;69;Masculino;16295,20;Fundamental;Casado(a);1;Uberlândia;SP;Marketplace;Recomendação Amigo;Viagem;4812,17;3;Sim;Sim;Raramente;Influenciável Engajado
+1000;28;Feminino;1601,34;Médio;União Estável;1;Porto Velho;AM;App do Fabricante;Propaganda TV;Esportes;4118,70;9;Sim;Sim;Nunca;Consumidor Padrão

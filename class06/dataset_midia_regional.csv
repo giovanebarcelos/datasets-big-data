@@ -1,0 +1,401 @@
+﻿ID;Regiao;UF;Municipio;Veiculo_Comunicacao;Tipo_Conteudo;Audiencia_Mensal;Engajamento_%;Receita_Publicitaria_R$;Funcionarios;Ano_Fundacao;Plataforma_Digital;Assinantes_Digital
+1;Nordeste;AL;Manaus;Portal de Notícias;Entretenimento;115636;0,9;235557,99;55;1958;Não;0
+2;Sudeste;MA;Teresina;Rádio FM;Entretenimento;148347;6,6;1286176,52;130;1953;Não;0
+3;Centro-Oeste;RO;Manaus;Rádio FM;Educação;249147;1,1;1322884,53;111;1956;Em desenvolvimento;0
+4;Centro-Oeste;RJ;Sorocaba;WhatsApp News;Educação;321665;14,8;1932429,80;117;1973;Não;0
+5;Sudeste;RO;Maringá;WhatsApp News;Economia;41319;2,1;698583,88;116;2005;Não;0
+6;Sul;RN;Porto Velho;YouTube Canal Local;Esportes;367805;11,5;808742,14;57;2022;Não;0
+7;Sul;AC;Belo Horizonte;YouTube Canal Local;Entretenimento;477988;3,1;1727843,06;129;1990;Sim;43133
+8;Centro-Oeste;RS;Goiânia;Rádio FM;Notícias;50386;2,1;1769296,64;125;1951;Em desenvolvimento;0
+9;Centro-Oeste;BA;Manaus;Instagram Local;Política;123953;16,4;1820022,23;55;2020;Sim;19958
+10;Nordeste;DF;Recife;WhatsApp News;Entretenimento;226667;24,6;1478603,59;161;2010;Não;0
+11;Centro-Oeste;PA;Maringá;YouTube Canal Local;Notícias;256215;3,3;1209239,54;136;1992;Sim;7205
+12;Norte;MS;Uberlândia;Podcast Local;Educação;67809;6,4;124757,38;52;2013;Sim;21100
+13;Centro-Oeste;PE;Niterói;TV Local;Esportes;211443;7,9;424416,36;47;1988;Não;0
+14;Sul;PI;João Pessoa;WhatsApp News;Política;234321;2,2;565901,52;167;2020;Não;0
+15;Centro-Oeste;AC;São José dos Campos;TV Local;Cultura;339261;17,5;1256009,08;19;2013;Em desenvolvimento;0
+16;Centro-Oeste;RS;Teresina;Portal de Notícias;Notícias;32191;4,3;977258,17;68;2015;Em desenvolvimento;0
+17;Centro-Oeste;CE;Natal;Portal de Notícias;Política;232004;15,4;413754,32;101;2004;Sim;18782
+18;Centro-Oeste;PI;Niterói;YouTube Canal Local;Entretenimento;63167;13,7;156662,42;19;2017;Sim;48485
+19;Sudeste;RR;Londrina;Jornal Impresso;Economia;432318;11,4;580007,00;108;2006;Em desenvolvimento;0
+20;Centro-Oeste;MS;Manaus;YouTube Canal Local;Política;363104;24,7;1286226,36;165;1963;Em desenvolvimento;0
+21;Sul;TO;São José dos Campos;Rádio AM;Cultura;218286;12,6;1710649,64;32;1977;Não;0
+22;Centro-Oeste;RS;Aracaju;Instagram Local;Educação;313590;11,7;1615276,79;187;2008;Em desenvolvimento;0
+23;Norte;PR;Londrina;TV Local;Economia;331279;16,2;678093,83;55;1953;Sim;4668
+24;Sudeste;DF;Curitiba;Portal de Notícias;Entretenimento;79852;12,0;1923269,30;152;1972;Sim;41832
+25;Nordeste;RJ;Juiz de Fora;Instagram Local;Saúde;235275;17,4;520373,94;95;1996;Não;0
+26;Nordeste;MT;Curitiba;YouTube Canal Local;Educação;151871;16,0;713659,14;84;1969;Em desenvolvimento;0
+27;Sudeste;MA;Porto Alegre;Portal de Notícias;Política;230015;8,0;1013045,57;36;1969;Sim;12113
+28;Nordeste;AL;Natal;Rádio AM;Notícias;219856;7,7;1143818,15;12;2008;Sim;24640
+29;Centro-Oeste;CE;Salvador;Rádio AM;Economia;269747;11,8;98962,86;107;2007;Sim;28778
+30;Nordeste;MS;Belo Horizonte;TV Local;Política;84802;24,4;1470849,81;89;1999;Em desenvolvimento;0
+31;Sul;DF;Goiânia;TV Local;Cultura;384524;0,5;1457935,28;12;2000;Em desenvolvimento;0
+32;Sudeste;RS;Recife;Instagram Local;Tecnologia;273044;6,7;1340536,72;34;1977;Não;0
+33;Centro-Oeste;RJ;Campo Grande;Rádio AM;Entretenimento;475229;18,7;1601762,85;175;1971;Sim;35243
+34;Sul;MG;Uberlândia;WhatsApp News;Notícias;156463;1,9;1580004,86;38;1981;Sim;6330
+35;Centro-Oeste;AM;Sorocaba;Instagram Local;Entretenimento;316276;9,7;1182530,15;47;2023;Não;0
+36;Norte;MT;São José dos Campos;WhatsApp News;Cultura;123369;2,5;544869,38;56;1984;Sim;11763
+37;Norte;PR;Belo Horizonte;Portal de Notícias;Política;41745;19,9;95274,19;118;2008;Sim;10876
+38;Nordeste;PI;Sorocaba;Portal de Notícias;Cultura;478931;12,9;388994,54;104;2012;Não;0
+39;Nordeste;PI;Niterói;TV Local;Entretenimento;255380;19,5;1969035,36;178;2010;Em desenvolvimento;0
+40;Sul;PB;Campinas;Podcast Local;Tecnologia;30569;3,4;132161,28;54;1954;Em desenvolvimento;0
+41;Centro-Oeste;CE;Maringá;Rádio FM;Política;278179;6,0;1848038,62;44;1968;Sim;30504
+42;Sudeste;MT;Belo Horizonte;Portal de Notícias;Economia;417653;13,3;64795,56;169;1980;Em desenvolvimento;0
+43;Nordeste;GO;Natal;Podcast Local;Saúde;288275;6,6;74113,58;30;1971;Não;0
+44;Norte;MG;Cuiabá;Instagram Local;Economia;68550;11,9;499025,32;170;2023;Não;0
+45;Norte;BA;Recife;Portal de Notícias;Saúde;41079;18,7;1227250,72;192;1954;Não;0
+46;Sudeste;RO;Porto Velho;Rádio AM;Notícias;78522;24,1;1715316,12;171;1996;Não;0
+47;Centro-Oeste;AP;Maringá;TV Local;Economia;104523;12,5;1734411,12;44;2003;Não;0
+48;Norte;MT;São Paulo;Jornal Impresso;Cultura;217321;19,6;1664863,89;62;2007;Sim;49349
+49;Centro-Oeste;MG;Natal;Instagram Local;Saúde;5538;7,7;1521262,93;93;1961;Sim;38348
+50;Sul;AL;Niterói;Instagram Local;Saúde;384304;6,3;1723636,56;174;2001;Não;0
+51;Sul;AP;Recife;Rádio AM;Educação;267194;8,8;363512,82;156;1971;Em desenvolvimento;0
+52;Sudeste;CE;Maringá;Rádio AM;Saúde;313423;7,6;283535,67;39;1966;Em desenvolvimento;0
+53;Nordeste;MS;Maceió;Podcast Local;Economia;37561;14,0;664046,31;124;1999;Sim;32109
+54;Sudeste;MS;Uberlândia;Rádio FM;Esportes;351714;6,8;1827920,65;95;2016;Em desenvolvimento;0
+55;Nordeste;PA;Osasco;TV Local;Educação;307369;14,2;473625,26;171;1986;Sim;33670
+56;Nordeste;SC;Guarulhos;YouTube Canal Local;Tecnologia;114868;10,1;1272841,76;92;2023;Sim;25497
+57;Sudeste;PE;Niterói;WhatsApp News;Tecnologia;12870;13,8;49149,65;152;1997;Não;0
+58;Centro-Oeste;ES;Salvador;TV Local;Notícias;98235;20,4;971653,29;95;1951;Em desenvolvimento;0
+59;Nordeste;RR;Santos;TV Local;Economia;247093;21,9;1239489,77;145;1954;Sim;14556
+60;Sudeste;SE;Brasília;Portal de Notícias;Esportes;358177;3,2;1609929,91;75;2007;Sim;32690
+61;Sul;ES;Maringá;Rádio FM;Esportes;359762;10,5;1448964,25;130;1985;Em desenvolvimento;0
+62;Centro-Oeste;GO;Belém;YouTube Canal Local;Saúde;389221;22,0;1223434,27;188;1981;Não;0
+63;Sul;PE;Campinas;Rádio FM;Economia;16112;17,1;351853,33;133;1960;Em desenvolvimento;0
+64;Centro-Oeste;RN;Ribeirão Preto;Rádio AM;Saúde;482933;2,3;1004855,05;152;2014;Sim;39308
+65;Sul;PI;Salvador;Portal de Notícias;Notícias;328164;5,6;791102,80;47;2006;Sim;17608
+66;Centro-Oeste;MT;Manaus;Rádio FM;Educação;188925;15,3;276491,03;127;1979;Sim;45187
+67;Sudeste;CE;Goiânia;Rádio FM;Entretenimento;420173;8,2;699872,06;39;1990;Sim;6313
+68;Sudeste;RN;Maringá;Jornal Impresso;Esportes;297613;23,3;887966,57;94;1962;Sim;46178
+69;Sudeste;MT;Fortaleza;WhatsApp News;Notícias;287099;10,3;1550954,18;77;1991;Sim;14728
+70;Nordeste;RJ;Osasco;WhatsApp News;Notícias;498228;18,5;685347,33;120;1991;Sim;42035
+71;Sul;MG;Niterói;Portal de Notícias;Educação;34944;24,4;191536,17;23;1977;Sim;43145
+72;Norte;PB;Porto Alegre;Jornal Impresso;Entretenimento;306134;17,9;1076989,08;104;1992;Não;0
+73;Norte;SP;Santos;Jornal Impresso;Saúde;304743;17,5;1716156,17;89;1958;Não;0
+74;Sudeste;SC;Santos;Instagram Local;Cultura;325585;15,7;1505709,30;21;1998;Não;0
+75;Sul;PB;Niterói;TV Local;Esportes;72805;5,3;553103,94;80;2023;Em desenvolvimento;0
+76;Sul;SE;Aracaju;Rádio AM;Economia;123443;11,5;14038,17;70;1975;Em desenvolvimento;0
+77;Centro-Oeste;BA;João Pessoa;Newsletter;Entretenimento;446964;10,7;862501,31;32;2013;Não;0
+78;Sudeste;SP;Natal;Portal de Notícias;Esportes;95451;4,1;1716402,58;176;1988;Sim;42317
+79;Norte;SE;Maringá;YouTube Canal Local;Política;269571;2,8;1466498,79;176;2023;Sim;15242
+80;Centro-Oeste;PB;Campinas;Rádio AM;Educação;171765;3,0;1324962,86;153;1996;Em desenvolvimento;0
+81;Nordeste;SC;Juiz de Fora;Instagram Local;Notícias;265850;18,5;474124,33;123;1962;Sim;19557
+82;Centro-Oeste;DF;Florianópolis;Rádio AM;Política;167132;16,4;1465070,28;174;1987;Sim;4288
+83;Sudeste;AP;Fortaleza;WhatsApp News;Política;487965;20,3;1520602,04;68;2007;Em desenvolvimento;0
+84;Norte;RR;Aracaju;Portal de Notícias;Política;127958;23,5;1269349,57;44;1991;Não;0
+85;Norte;PR;Santos;Podcast Local;Esportes;361911;17,0;70048,38;140;1967;Em desenvolvimento;0
+86;Sul;SC;Campo Grande;Instagram Local;Tecnologia;361078;1,5;1858851,93;79;1994;Não;0
+87;Norte;RO;Juiz de Fora;WhatsApp News;Entretenimento;397138;14,3;1290587,51;23;2004;Em desenvolvimento;0
+88;Nordeste;MS;João Pessoa;Newsletter;Política;56482;23,0;647874,89;188;2003;Não;0
+89;Norte;DF;Campinas;Podcast Local;Saúde;58684;19,8;831476,59;179;1987;Não;0
+90;Norte;PA;Curitiba;WhatsApp News;Notícias;167599;7,2;456901,02;176;1952;Não;0
+91;Nordeste;MG;Joinville;Rádio AM;Esportes;261677;17,7;970346,30;108;1997;Sim;5118
+92;Nordeste;AM;Sorocaba;Podcast Local;Economia;449429;0,5;1376499,23;161;2007;Sim;38933
+93;Sudeste;PB;Porto Alegre;TV Local;Economia;47199;14,1;343558,06;52;1958;Em desenvolvimento;0
+94;Norte;RS;Porto Velho;YouTube Canal Local;Tecnologia;485786;22,2;907268,28;192;2021;Não;0
+95;Centro-Oeste;PR;Campo Grande;TV Local;Entretenimento;319022;20,6;1278183,41;90;1981;Sim;29691
+96;Centro-Oeste;MT;São Paulo;Portal de Notícias;Saúde;439815;3,0;228828,05;182;1979;Em desenvolvimento;0
+97;Centro-Oeste;AL;São Luís;Newsletter;Educação;66403;21,2;956149,33;74;1994;Não;0
+98;Sudeste;TO;Maringá;TV Local;Economia;47168;6,8;714789,51;170;1957;Em desenvolvimento;0
+99;Centro-Oeste;MG;Guarulhos;WhatsApp News;Notícias;114830;13,0;1294419,90;43;2014;Em desenvolvimento;0
+100;Nordeste;DF;Recife;Jornal Impresso;Esportes;324374;15,7;857862,90;133;1977;Não;0
+101;Nordeste;MS;Feira de Santana;Instagram Local;Entretenimento;457390;15,4;1764673,69;121;2002;Sim;33570
+102;Centro-Oeste;PE;Niterói;Newsletter;Esportes;74822;8,7;1296071,28;71;1979;Não;0
+103;Sudeste;DF;Santos;WhatsApp News;Esportes;264001;12,7;158270,03;31;2005;Não;0
+104;Nordeste;RS;Vitória;Newsletter;Cultura;182478;24,4;1212962,64;96;1956;Não;0
+105;Sul;PE;Vitória;Podcast Local;Esportes;318699;7,0;828946,20;17;2023;Em desenvolvimento;0
+106;Sudeste;RR;Porto Alegre;Podcast Local;Cultura;171035;17,5;557045,44;116;1976;Em desenvolvimento;0
+107;Sul;MA;São Luís;Rádio AM;Economia;470836;14,4;241832,63;42;1959;Não;0
+108;Centro-Oeste;MA;Belo Horizonte;Newsletter;Saúde;243041;21,1;298329,20;38;2020;Não;0
+109;Sudeste;GO;Belo Horizonte;Portal de Notícias;Notícias;497775;19,6;321974,25;173;2012;Em desenvolvimento;0
+110;Sudeste;SE;Rio de Janeiro;Jornal Impresso;Cultura;132351;23,1;864856,62;61;1956;Não;0
+111;Sudeste;RJ;Uberlândia;Instagram Local;Entretenimento;350253;16,3;1167643,91;103;1995;Sim;40727
+112;Centro-Oeste;AC;Uberlândia;Rádio FM;Política;147557;23,8;819237,51;94;1955;Não;0
+113;Norte;RR;Fortaleza;YouTube Canal Local;Notícias;269655;4,2;307332,77;15;1968;Não;0
+114;Norte;SP;Campinas;Newsletter;Notícias;2792;4,9;1378070,49;13;1958;Em desenvolvimento;0
+115;Norte;MA;Londrina;Portal de Notícias;Educação;93028;15,6;114354,07;90;1997;Não;0
+116;Nordeste;ES;Joinville;Podcast Local;Política;364473;15,6;508646,64;128;1994;Não;0
+117;Centro-Oeste;MT;Porto Velho;Podcast Local;Economia;149163;3,8;767440,46;52;1976;Sim;41585
+118;Sul;PI;Teresina;WhatsApp News;Cultura;35213;14,5;88875,73;184;1987;Em desenvolvimento;0
+119;Nordeste;SE;Salvador;Podcast Local;Esportes;154949;2,7;87079,47;110;1956;Não;0
+120;Centro-Oeste;RO;Campo Grande;Newsletter;Notícias;106063;9,5;1489820,76;64;1987;Sim;31806
+121;Sudeste;SC;Guarulhos;Jornal Impresso;Economia;377092;17,3;471276,49;194;1955;Em desenvolvimento;0
+122;Sudeste;AM;Juiz de Fora;Rádio FM;Entretenimento;328470;21,3;323407,05;100;1952;Não;0
+123;Nordeste;RJ;Belém;Jornal Impresso;Entretenimento;277368;23,3;925304,75;164;2016;Sim;44247
+124;Norte;RO;Rio de Janeiro;Podcast Local;Notícias;81372;23,2;474897,71;140;2021;Sim;26156
+125;Sul;RO;Joinville;TV Local;Esportes;418749;21,1;1587185,90;117;1990;Sim;23442
+126;Sudeste;MA;Natal;Rádio AM;Entretenimento;318073;16,6;382563,45;76;2007;Em desenvolvimento;0
+127;Nordeste;PE;Niterói;Jornal Impresso;Saúde;85718;8,0;38237,98;42;1979;Em desenvolvimento;0
+128;Centro-Oeste;RN;Porto Alegre;TV Local;Política;37367;12,1;693283,00;21;1983;Não;0
+129;Norte;RN;Belo Horizonte;Newsletter;Notícias;343854;5,2;1351392,08;198;2011;Sim;34156
+130;Sudeste;RN;Maceió;Newsletter;Cultura;123999;14,6;1280131,55;24;1953;Não;0
+131;Sudeste;ES;São Luís;Jornal Impresso;Tecnologia;97132;11,4;1940534,66;83;1977;Não;0
+132;Sul;RO;Salvador;Rádio FM;Economia;302742;10,0;1044663,68;149;1971;Sim;36525
+133;Centro-Oeste;PI;Aracaju;Instagram Local;Esportes;14770;2,3;1361792,25;30;1996;Em desenvolvimento;0
+134;Centro-Oeste;MA;Teresina;Podcast Local;Economia;258076;15,1;12807,60;71;1957;Não;0
+135;Norte;SE;Juiz de Fora;YouTube Canal Local;Notícias;99475;17,1;344272,47;186;2007;Não;0
+136;Centro-Oeste;RN;Salvador;Rádio FM;Cultura;408067;6,7;1794285,78;154;2017;Sim;37628
+137;Norte;AC;Campinas;Rádio FM;Notícias;362854;7,2;1447595,14;60;2012;Sim;33305
+138;Norte;AL;Porto Alegre;Newsletter;Educação;90846;15,1;1636006,68;116;1991;Não;0
+139;Norte;BA;Osasco;Jornal Impresso;Educação;29775;16,3;990271,67;157;2004;Em desenvolvimento;0
+140;Nordeste;DF;Rio de Janeiro;Rádio FM;Esportes;183450;3,0;777316,12;113;2018;Em desenvolvimento;0
+141;Sul;CE;Recife;Rádio FM;Educação;150274;10,7;201814,66;55;1977;Não;0
+142;Centro-Oeste;RJ;Aracaju;Podcast Local;Esportes;335512;15,8;738215,00;103;1994;Não;0
+143;Nordeste;AP;Maringá;Rádio FM;Cultura;443512;15,2;1169013,08;189;2022;Não;0
+144;Centro-Oeste;AP;Teresina;YouTube Canal Local;Cultura;482088;5,6;880789,64;52;2007;Em desenvolvimento;0
+145;Nordeste;MS;Santos;Portal de Notícias;Tecnologia;186042;13,8;1819944,31;129;2005;Não;0
+146;Sul;MS;Florianópolis;YouTube Canal Local;Educação;379514;0,6;239634,95;106;1996;Sim;25972
+147;Sudeste;RN;Maringá;WhatsApp News;Economia;453645;8,8;203373,68;151;1950;Não;0
+148;Sul;BA;Vitória;WhatsApp News;Tecnologia;239768;0,6;1745801,52;110;1983;Não;0
+149;Sul;PR;Aracaju;TV Local;Tecnologia;25199;19,7;602311,28;103;2002;Sim;45391
+150;Sudeste;ES;Ribeirão Preto;Rádio FM;Tecnologia;195157;1,3;595022,40;108;1968;Não;0
+151;Centro-Oeste;AC;Belém;TV Local;Esportes;95141;8,7;224258,57;198;1978;Em desenvolvimento;0
+152;Norte;CE;Maringá;Portal de Notícias;Economia;367469;20,6;1958232,55;36;2013;Não;0
+153;Nordeste;MT;Curitiba;Portal de Notícias;Tecnologia;243788;7,0;1706730,64;163;1961;Não;0
+154;Norte;BA;Vitória;Portal de Notícias;Cultura;395704;20,2;1198595,99;188;2019;Não;0
+155;Nordeste;RS;São Luís;Instagram Local;Tecnologia;453326;16,7;1143108,75;162;1958;Não;0
+156;Sul;MS;São Luís;Instagram Local;Cultura;75553;3,8;1432411,25;168;1991;Sim;8503
+157;Norte;RJ;Belo Horizonte;Rádio AM;Tecnologia;47588;12,7;607347,10;149;2008;Sim;4146
+158;Norte;AP;João Pessoa;Newsletter;Saúde;125708;5,6;1701968,07;146;2019;Em desenvolvimento;0
+159;Norte;AL;Florianópolis;TV Local;Economia;353113;24,9;647842,88;194;1999;Em desenvolvimento;0
+160;Norte;RN;Londrina;Portal de Notícias;Notícias;15179;21,2;727485,56;127;1996;Em desenvolvimento;0
+161;Nordeste;GO;João Pessoa;Instagram Local;Economia;88596;2,7;1433590,58;43;1952;Em desenvolvimento;0
+162;Sul;MA;Brasília;Podcast Local;Esportes;286416;15,9;1898712,01;84;1984;Em desenvolvimento;0
+163;Norte;TO;Sorocaba;Podcast Local;Educação;91761;8,4;74484,47;97;1989;Sim;21927
+164;Norte;RN;Salvador;Newsletter;Política;240627;9,6;898246,06;121;1950;Não;0
+165;Sul;MG;Rio de Janeiro;WhatsApp News;Entretenimento;476652;16,9;1175986,90;30;1977;Não;0
+166;Norte;CE;Feira de Santana;Portal de Notícias;Tecnologia;107968;9,8;1203888,76;200;1996;Em desenvolvimento;0
+167;Centro-Oeste;PI;Belém;YouTube Canal Local;Educação;386932;2,0;821409,33;160;1966;Sim;27253
+168;Sul;TO;Recife;Instagram Local;Saúde;295859;17,0;1782847,25;155;1953;Não;0
+169;Norte;PE;Goiânia;YouTube Canal Local;Saúde;65730;1,0;343570,26;59;1995;Sim;43124
+170;Nordeste;AC;Campo Grande;Instagram Local;Saúde;306441;3,2;1903205,05;122;1976;Em desenvolvimento;0
+171;Centro-Oeste;RN;Campo Grande;Jornal Impresso;Tecnologia;181950;23,2;1322590,82;53;1976;Não;0
+172;Centro-Oeste;RJ;Ribeirão Preto;Portal de Notícias;Entretenimento;127766;18,4;1472265,03;182;2017;Não;0
+173;Norte;AM;Juiz de Fora;Podcast Local;Entretenimento;330739;19,7;1378586,61;182;1961;Sim;47242
+174;Nordeste;ES;Joinville;Newsletter;Cultura;460516;16,9;323872,84;53;1962;Não;0
+175;Nordeste;CE;Natal;Rádio AM;Educação;7028;16,9;1757195,56;197;1962;Sim;32091
+176;Sul;PR;Santos;Jornal Impresso;Política;391450;13,0;1520127,90;159;1955;Em desenvolvimento;0
+177;Norte;DF;Goiânia;Rádio FM;Notícias;435940;12,9;287721,16;15;1989;Não;0
+178;Sul;MA;Maceió;Instagram Local;Entretenimento;317025;12,5;1553734,19;145;1962;Não;0
+179;Centro-Oeste;RJ;Aracaju;YouTube Canal Local;Entretenimento;421568;19,1;1603423,65;38;1993;Em desenvolvimento;0
+180;Sul;AC;São Paulo;Rádio FM;Tecnologia;154984;4,5;553611,93;26;2013;Sim;46301
+181;Norte;PI;São Luís;Rádio AM;Política;259720;12,6;555161,88;67;1954;Sim;3884
+182;Centro-Oeste;SC;Joinville;Newsletter;Esportes;174612;17,8;1280041,02;129;1978;Sim;16117
+183;Centro-Oeste;PE;Recife;Jornal Impresso;Saúde;263080;4,5;328695,51;22;1992;Sim;40186
+184;Sudeste;RN;Santos;Podcast Local;Cultura;151365;10,4;167259,69;100;2007;Sim;41541
+185;Norte;PA;Belém;TV Local;Tecnologia;72276;23,7;1647776,14;70;1951;Não;0
+186;Sudeste;PA;João Pessoa;Instagram Local;Política;204381;4,2;1152203,88;31;1981;Em desenvolvimento;0
+187;Centro-Oeste;AL;Curitiba;Rádio AM;Política;142510;6,8;1213454,75;140;1991;Sim;38659
+188;Nordeste;TO;Aparecida de Goiânia;Rádio AM;Tecnologia;150080;13,0;1172983,62;153;1982;Não;0
+189;Centro-Oeste;RO;Maringá;Portal de Notícias;Educação;74319;9,1;935058,49;39;1957;Não;0
+190;Sudeste;GO;Teresina;Rádio FM;Entretenimento;235259;21,0;826792,03;147;1982;Em desenvolvimento;0
+191;Norte;GO;Porto Velho;Instagram Local;Entretenimento;458200;7,4;520897,90;109;1996;Não;0
+192;Centro-Oeste;PE;Fortaleza;Portal de Notícias;Cultura;84412;8,3;1408106,46;132;2015;Em desenvolvimento;0
+193;Sudeste;MA;Porto Velho;Instagram Local;Notícias;464378;14,2;462528,28;8;1982;Sim;5387
+194;Sudeste;PI;João Pessoa;Rádio FM;Entretenimento;125068;23,5;200345,84;200;2005;Em desenvolvimento;0
+195;Sul;RN;Uberlândia;Instagram Local;Economia;276765;5,9;433237,75;126;2011;Sim;49047
+196;Sudeste;SC;Recife;Instagram Local;Economia;438726;4,2;518484,37;44;1990;Sim;46961
+197;Nordeste;PE;Campinas;Portal de Notícias;Entretenimento;98037;7,6;279201,77;60;2008;Sim;2855
+198;Sudeste;MA;Fortaleza;Newsletter;Educação;181661;5,8;957627,15;174;1956;Não;0
+199;Nordeste;CE;Maceió;Newsletter;Tecnologia;348649;15,9;1805809,02;118;1976;Sim;24433
+200;Nordeste;AM;São Paulo;Podcast Local;Cultura;480782;13,5;1935487,15;119;1996;Não;0
+201;Sul;SE;Goiânia;WhatsApp News;Política;83923;23,7;1057258,48;73;1997;Sim;47661
+202;Norte;PI;São José dos Campos;Instagram Local;Tecnologia;296157;17,8;1158955,07;183;1961;Em desenvolvimento;0
+203;Norte;AM;Natal;Rádio FM;Tecnologia;63469;12,7;1778168,78;145;1980;Não;0
+204;Nordeste;SP;São Paulo;WhatsApp News;Economia;99957;5,4;1836881,28;192;1990;Não;0
+205;Nordeste;SE;Teresina;Jornal Impresso;Política;149288;14,3;910217,97;27;2006;Sim;40989
+206;Norte;GO;Salvador;Newsletter;Política;97621;7,6;557675,66;52;1954;Sim;40167
+207;Norte;RO;Sorocaba;Jornal Impresso;Entretenimento;197726;5,2;271885,95;167;1979;Sim;43100
+208;Sul;RS;Uberlândia;Rádio FM;Economia;133927;12,3;482038,49;148;1953;Não;0
+209;Norte;BA;Brasília;Rádio FM;Cultura;260420;15,7;1081682,88;152;2005;Em desenvolvimento;0
+210;Norte;AL;Porto Alegre;Portal de Notícias;Entretenimento;298768;24,7;1672930,65;170;1972;Não;0
+211;Nordeste;GO;João Pessoa;Newsletter;Cultura;93027;25,0;884103,15;148;1959;Não;0
+212;Nordeste;TO;Feira de Santana;Jornal Impresso;Entretenimento;47698;23,4;1133122,03;128;2014;Em desenvolvimento;0
+213;Centro-Oeste;AM;Osasco;WhatsApp News;Cultura;448488;22,9;1862789,39;138;1956;Sim;24407
+214;Centro-Oeste;MA;Rio de Janeiro;Rádio FM;Educação;229916;10,1;238682,94;34;1978;Sim;25491
+215;Nordeste;MT;Joinville;Instagram Local;Entretenimento;13346;24,6;43599,15;100;2002;Em desenvolvimento;0
+216;Centro-Oeste;PR;Teresina;Jornal Impresso;Educação;337564;6,3;543911,77;117;1961;Em desenvolvimento;0
+217;Sul;GO;Cuiabá;Podcast Local;Entretenimento;454418;10,0;1722671,85;47;1963;Sim;38813
+218;Norte;PI;Belém;Jornal Impresso;Saúde;102051;24,6;951785,33;36;1992;Sim;6119
+219;Nordeste;RN;São José dos Campos;TV Local;Política;396135;18,1;110172,53;99;1969;Sim;28879
+220;Norte;MS;Belo Horizonte;WhatsApp News;Educação;353553;7,7;1446789,23;46;1994;Sim;9988
+221;Sul;CE;Florianópolis;Portal de Notícias;Saúde;177010;23,9;1512104,45;174;1985;Não;0
+222;Sudeste;ES;Fortaleza;WhatsApp News;Entretenimento;156158;9,6;1799258,44;15;1976;Não;0
+223;Centro-Oeste;ES;Aracaju;Portal de Notícias;Esportes;437237;23,3;884731,56;67;2005;Não;0
+224;Sudeste;MG;Manaus;Rádio FM;Saúde;478394;17,6;782731,91;128;1988;Em desenvolvimento;0
+225;Sudeste;RJ;São Paulo;Portal de Notícias;Cultura;394557;8,7;336420,37;38;1987;Em desenvolvimento;0
+226;Nordeste;RR;Belo Horizonte;Instagram Local;Saúde;137194;24,3;298903,53;75;2007;Em desenvolvimento;0
+227;Norte;MG;Natal;Jornal Impresso;Educação;44071;15,6;1885642,31;169;2000;Sim;45521
+228;Nordeste;MA;Ribeirão Preto;Newsletter;Educação;478929;23,7;142844,10;111;1955;Sim;22805
+229;Sudeste;MT;Maceió;Newsletter;Cultura;97560;23,2;196256,16;191;1990;Não;0
+230;Nordeste;GO;São Paulo;Rádio AM;Cultura;12513;17,1;525921,47;165;2009;Em desenvolvimento;0
+231;Norte;RR;São José dos Campos;WhatsApp News;Tecnologia;14524;13,5;1025891,96;88;2017;Em desenvolvimento;0
+232;Centro-Oeste;MS;Ribeirão Preto;Jornal Impresso;Saúde;137266;8,4;1269127,31;116;1997;Em desenvolvimento;0
+233;Sudeste;RJ;Aparecida de Goiânia;YouTube Canal Local;Economia;70222;9,1;588434,60;43;1957;Em desenvolvimento;0
+234;Centro-Oeste;DF;Porto Velho;Podcast Local;Esportes;418495;12,2;810154,72;67;2013;Em desenvolvimento;0
+235;Sul;MT;Salvador;YouTube Canal Local;Tecnologia;452357;16,2;865061,82;125;1973;Não;0
+236;Nordeste;AL;Ribeirão Preto;Rádio AM;Cultura;278341;0,6;1717772,17;114;2016;Em desenvolvimento;0
+237;Sul;GO;Cuiabá;Rádio AM;Entretenimento;444108;23,9;1206886,18;58;1970;Não;0
+238;Sudeste;PR;Fortaleza;Newsletter;Esportes;243853;8,7;436641,78;29;1952;Sim;47438
+239;Nordeste;SC;Cuiabá;Newsletter;Saúde;100394;8,3;1604206,14;145;2012;Não;0
+240;Sudeste;AL;Cuiabá;Jornal Impresso;Esportes;22289;14,3;495142,03;21;1978;Em desenvolvimento;0
+241;Norte;AP;João Pessoa;Portal de Notícias;Saúde;143941;19,9;221158,20;125;1970;Em desenvolvimento;0
+242;Sul;TO;João Pessoa;Rádio AM;Notícias;111296;11,0;659574,47;5;1999;Em desenvolvimento;0
+243;Nordeste;BA;São José dos Campos;Newsletter;Economia;21368;2,2;187329,86;21;1974;Sim;49179
+244;Nordeste;RR;Uberlândia;TV Local;Educação;53632;13,5;827155,84;119;1957;Em desenvolvimento;0
+245;Sudeste;PR;São Luís;YouTube Canal Local;Política;334456;3,1;835219,00;148;1968;Não;0
+246;Centro-Oeste;RN;Belém;YouTube Canal Local;Economia;217439;23,2;173249,57;6;2001;Em desenvolvimento;0
+247;Sul;RS;Londrina;YouTube Canal Local;Economia;27520;0,5;1379634,64;16;1958;Em desenvolvimento;0
+248;Nordeste;BA;Cuiabá;WhatsApp News;Saúde;390396;21,7;1090636,39;98;1962;Sim;34514
+249;Centro-Oeste;SE;Maceió;YouTube Canal Local;Notícias;3893;12,7;1659546,91;27;1950;Sim;49171
+250;Nordeste;BA;Recife;Rádio FM;Saúde;293893;20,8;1748572,64;159;1955;Não;0
+251;Norte;SC;Belo Horizonte;Rádio AM;Entretenimento;399676;22,9;1094380,39;19;1998;Em desenvolvimento;0
+252;Nordeste;SE;Natal;Newsletter;Entretenimento;3221;19,7;1832207,83;113;2016;Não;0
+253;Norte;AL;Recife;Portal de Notícias;Economia;42105;2,5;1607544,94;200;2004;Sim;11761
+254;Sul;BA;Porto Alegre;Instagram Local;Entretenimento;297991;9,8;1547154,17;153;1992;Em desenvolvimento;0
+255;Sudeste;AM;Osasco;YouTube Canal Local;Esportes;57410;2,0;1749312,32;7;1969;Não;0
+256;Centro-Oeste;MA;Porto Velho;Instagram Local;Cultura;19391;24,3;1413688,03;191;1970;Em desenvolvimento;0
+257;Norte;PE;Porto Alegre;Instagram Local;Economia;334216;13,4;666012,92;121;1994;Em desenvolvimento;0
+258;Centro-Oeste;AC;Belém;Portal de Notícias;Esportes;132532;16,4;280945,18;57;1981;Não;0
+259;Nordeste;ES;Recife;YouTube Canal Local;Cultura;151223;12,8;997986,01;33;1974;Sim;156
+260;Nordeste;AC;Niterói;Rádio AM;Política;323257;20,1;264865,58;62;1963;Em desenvolvimento;0
+261;Sudeste;PB;Osasco;YouTube Canal Local;Economia;161573;13,2;338595,45;132;2012;Em desenvolvimento;0
+262;Norte;PR;Guarulhos;Newsletter;Notícias;23514;23,1;1797477,96;158;2005;Sim;2050
+263;Sul;MG;Santos;WhatsApp News;Educação;397723;21,0;353396,24;98;1954;Em desenvolvimento;0
+264;Nordeste;SE;Osasco;Portal de Notícias;Entretenimento;475990;24,5;87918,88;184;2013;Sim;27199
+265;Centro-Oeste;TO;Florianópolis;Portal de Notícias;Cultura;334969;12,8;533054,12;79;2002;Não;0
+266;Sudeste;PB;Recife;Jornal Impresso;Educação;58832;8,9;513059,70;121;2014;Em desenvolvimento;0
+267;Sul;DF;Goiânia;Podcast Local;Educação;404072;5,8;1874880,76;200;1972;Não;0
+268;Sudeste;PA;Florianópolis;Portal de Notícias;Tecnologia;331627;7,6;1001740,69;80;1987;Não;0
+269;Centro-Oeste;MT;Natal;TV Local;Política;468286;18,4;1441559,83;41;1962;Não;0
+270;Nordeste;MG;Santos;Instagram Local;Economia;188773;22,5;406485,33;143;1972;Sim;8942
+271;Nordeste;MA;Vitória;Jornal Impresso;Política;183533;10,0;1031816,75;43;1966;Em desenvolvimento;0
+272;Sul;SC;Santos;Instagram Local;Educação;352215;9,5;1211559,75;164;1969;Em desenvolvimento;0
+273;Norte;SE;São Luís;Newsletter;Tecnologia;879;3,3;469356,93;164;2009;Em desenvolvimento;0
+274;Sudeste;AP;Fortaleza;Instagram Local;Educação;253113;24,3;203100,80;81;1961;Sim;5176
+275;Centro-Oeste;SC;São José dos Campos;Rádio AM;Saúde;439710;4,3;142921,51;64;1984;Sim;35967
+276;Norte;AM;Aracaju;Podcast Local;Educação;459411;18,2;812996,89;11;2023;Sim;24665
+277;Nordeste;RN;Londrina;Instagram Local;Notícias;194027;22,2;1641444,13;157;1967;Sim;24290
+278;Norte;AL;Juiz de Fora;Rádio AM;Notícias;16452;16,3;1710643,10;77;1978;Sim;2326
+279;Nordeste;PB;Uberlândia;Jornal Impresso;Esportes;393723;0,8;753265,28;103;2022;Não;0
+280;Nordeste;PB;Santos;Jornal Impresso;Tecnologia;4967;20,9;1054656,97;99;1975;Sim;25793
+281;Sudeste;PA;São Luís;Rádio AM;Entretenimento;162712;6,5;1494474,44;119;1993;Sim;39107
+282;Sul;PR;Brasília;Portal de Notícias;Entretenimento;140031;21,3;1929746,19;112;1987;Sim;38792
+283;Nordeste;AC;Porto Velho;Portal de Notícias;Saúde;466387;3,2;1881296,88;131;1975;Em desenvolvimento;0
+284;Sul;SC;Fortaleza;WhatsApp News;Educação;158029;17,9;273056,39;140;1990;Não;0
+285;Norte;MS;Feira de Santana;Portal de Notícias;Educação;136586;6,5;1582033,76;76;2012;Não;0
+286;Nordeste;SE;Ribeirão Preto;Newsletter;Educação;420521;20,7;1305122,76;87;2008;Em desenvolvimento;0
+287;Sul;RJ;Feira de Santana;Rádio FM;Esportes;485868;20,0;683034,48;179;1987;Sim;47715
+288;Centro-Oeste;BA;Recife;TV Local;Notícias;59621;7,9;1185144,92;104;1965;Sim;49877
+289;Sudeste;PB;São José dos Campos;Instagram Local;Economia;195411;5,6;1479123,94;168;1954;Em desenvolvimento;0
+290;Centro-Oeste;PB;Feira de Santana;WhatsApp News;Saúde;489929;3,6;1489415,01;154;1972;Sim;15526
+291;Sul;MT;Maceió;TV Local;Notícias;391648;17,0;1790083,43;169;1994;Em desenvolvimento;0
+292;Centro-Oeste;DF;Vitória;Rádio FM;Cultura;210378;17,5;911588,72;126;1977;Sim;11515
+293;Centro-Oeste;CE;Teresina;Instagram Local;Tecnologia;377668;21,1;1614370,39;33;1978;Sim;48371
+294;Norte;AP;Londrina;Instagram Local;Entretenimento;257680;6,3;416446,68;144;1975;Não;0
+295;Nordeste;MA;Aparecida de Goiânia;Rádio FM;Entretenimento;177133;2,6;860336,71;81;1989;Sim;36254
+296;Sudeste;PI;Joinville;Rádio AM;Educação;489036;2,2;650697,33;177;1977;Não;0
+297;Sul;RO;Maringá;Rádio AM;Notícias;479690;9,1;1642680,42;139;1972;Não;0
+298;Sudeste;CE;Joinville;Jornal Impresso;Saúde;412617;7,4;1348264,83;53;1965;Não;0
+299;Norte;SP;Porto Alegre;TV Local;Esportes;489836;14,0;1323569,81;171;2010;Em desenvolvimento;0
+300;Centro-Oeste;BA;Joinville;YouTube Canal Local;Cultura;54448;8,2;797049,18;114;1967;Sim;45416
+301;Sul;PB;Aracaju;TV Local;Saúde;197370;15,6;212163,92;166;1966;Em desenvolvimento;0
+302;Sul;MT;Niterói;Podcast Local;Cultura;296918;21,6;586162,35;109;1986;Em desenvolvimento;0
+303;Nordeste;DF;Curitiba;Rádio AM;Entretenimento;168189;9,8;1276247,12;140;1990;Não;0
+304;Norte;CE;Porto Velho;Rádio FM;Entretenimento;272027;1,5;1434557,36;170;1951;Em desenvolvimento;0
+305;Nordeste;SP;Santos;Jornal Impresso;Esportes;121555;17,3;1480708,21;142;1991;Sim;9477
+306;Sul;RO;Brasília;WhatsApp News;Cultura;209678;2,8;1392027,70;17;2006;Em desenvolvimento;0
+307;Nordeste;SE;Ribeirão Preto;YouTube Canal Local;Entretenimento;340230;16,9;1024781,60;176;1991;Não;0
+308;Centro-Oeste;DF;Rio de Janeiro;TV Local;Educação;339049;7,7;677166,31;174;2007;Em desenvolvimento;0
+309;Sudeste;PR;João Pessoa;Rádio AM;Economia;471676;10,8;1682443,24;90;1962;Em desenvolvimento;0
+310;Nordeste;AM;Niterói;Jornal Impresso;Política;397788;4,8;736940,51;64;2005;Sim;2605
+311;Centro-Oeste;PB;Aracaju;YouTube Canal Local;Tecnologia;427077;9,8;1750147,66;118;1957;Sim;22056
+312;Norte;PB;Porto Velho;WhatsApp News;Saúde;23888;23,4;1153280,19;174;1995;Sim;33790
+313;Centro-Oeste;RR;Porto Alegre;WhatsApp News;Entretenimento;497824;1,7;1028228,85;106;1997;Não;0
+314;Nordeste;BA;Porto Velho;Portal de Notícias;Educação;142657;21,7;1298776,17;68;1958;Sim;44072
+315;Centro-Oeste;AC;Campo Grande;Jornal Impresso;Saúde;273332;7,4;1688356,38;83;1999;Sim;466
+316;Norte;AP;Juiz de Fora;Rádio FM;Notícias;473237;13,1;215821,49;163;1977;Em desenvolvimento;0
+317;Sul;AM;Maringá;Jornal Impresso;Esportes;250456;2,5;194704,53;153;2023;Sim;36636
+318;Norte;RN;Feira de Santana;YouTube Canal Local;Esportes;51001;10,6;10441,47;136;1959;Não;0
+319;Centro-Oeste;PB;Santos;TV Local;Entretenimento;268629;1,3;1042247,57;184;2006;Em desenvolvimento;0
+320;Centro-Oeste;SC;Manaus;Rádio FM;Saúde;69269;8,0;1566439,94;87;1966;Em desenvolvimento;0
+321;Sul;RN;São Luís;Rádio FM;Tecnologia;56784;22,7;1974132,40;105;2005;Não;0
+322;Norte;PR;Uberlândia;Jornal Impresso;Entretenimento;108622;2,5;1230508,40;119;1987;Em desenvolvimento;0
+323;Nordeste;AM;Maceió;Instagram Local;Esportes;374418;24,3;1488945,34;175;2004;Sim;22585
+324;Centro-Oeste;RN;Maceió;YouTube Canal Local;Saúde;346131;9,6;190191,39;134;1966;Não;0
+325;Sudeste;SP;Osasco;Instagram Local;Entretenimento;201497;5,8;223874,95;45;2010;Sim;21608
+326;Centro-Oeste;PI;Guarulhos;WhatsApp News;Esportes;280996;2,8;1477439,09;51;1986;Sim;15353
+327;Centro-Oeste;AC;Guarulhos;Jornal Impresso;Economia;211395;0,8;949413,14;153;2003;Em desenvolvimento;0
+328;Sul;PB;Florianópolis;YouTube Canal Local;Economia;339044;18,8;858649,05;82;1988;Em desenvolvimento;0
+329;Centro-Oeste;PI;Porto Alegre;Rádio AM;Tecnologia;444752;22,3;1988085,08;57;2021;Em desenvolvimento;0
+330;Nordeste;AM;Manaus;Instagram Local;Cultura;267941;13,8;981768,52;122;1985;Sim;23026
+331;Norte;DF;Fortaleza;Instagram Local;Entretenimento;109550;8,1;1332348,61;97;1956;Em desenvolvimento;0
+332;Sudeste;MT;Santos;Newsletter;Saúde;362118;18,8;1093298,73;70;1987;Não;0
+333;Sudeste;AP;São Luís;Portal de Notícias;Entretenimento;87186;8,8;480517,20;134;1981;Não;0
+334;Norte;AC;Osasco;Instagram Local;Educação;434091;22,5;1223699,92;187;2007;Não;0
+335;Sudeste;MS;Santos;Rádio FM;Notícias;460142;10,8;1000172,40;14;1980;Em desenvolvimento;0
+336;Nordeste;DF;Porto Velho;YouTube Canal Local;Educação;238603;6,8;1694557,36;10;2021;Não;0
+337;Nordeste;RJ;Joinville;Rádio AM;Entretenimento;273010;5,1;1410705,24;5;1977;Em desenvolvimento;0
+338;Centro-Oeste;AL;Maceió;Instagram Local;Tecnologia;96537;12,2;1369932,75;126;1975;Em desenvolvimento;0
+339;Nordeste;TO;Salvador;Jornal Impresso;Entretenimento;348790;0,8;797775,95;74;2005;Em desenvolvimento;0
+340;Centro-Oeste;AM;Ribeirão Preto;Portal de Notícias;Educação;267244;19,9;999270,26;166;2009;Em desenvolvimento;0
+341;Sul;PE;Teresina;Instagram Local;Tecnologia;328560;17,8;985743,08;189;1995;Não;0
+342;Sul;PR;Brasília;Rádio AM;Economia;458622;15,2;918917,72;156;1987;Não;0
+343;Norte;RS;Salvador;WhatsApp News;Esportes;419887;6,0;1436918,30;92;1962;Sim;35317
+344;Nordeste;BA;Uberlândia;Podcast Local;Saúde;206273;13,2;854188,76;171;2023;Em desenvolvimento;0
+345;Centro-Oeste;BA;Rio de Janeiro;TV Local;Política;98691;23,6;1878942,58;86;1957;Em desenvolvimento;0
+346;Nordeste;AL;Florianópolis;Rádio FM;Economia;49668;2,9;1511037,57;12;2006;Não;0
+347;Centro-Oeste;AM;São Luís;Jornal Impresso;Cultura;93708;21,1;568054,29;97;2010;Não;0
+348;Norte;ES;Aparecida de Goiânia;WhatsApp News;Entretenimento;16373;13,7;1574183,39;163;2022;Sim;49490
+349;Sul;PR;Salvador;Portal de Notícias;Cultura;108507;13,3;851196,94;115;2000;Sim;9402
+350;Sul;PB;Santos;YouTube Canal Local;Saúde;80369;3,3;1275173,60;52;1992;Não;0
+351;Centro-Oeste;MG;Fortaleza;Portal de Notícias;Política;446536;3,5;1483368,48;172;2015;Em desenvolvimento;0
+352;Nordeste;RO;Teresina;Podcast Local;Cultura;128963;24,5;137441,60;14;1954;Em desenvolvimento;0
+353;Centro-Oeste;RJ;Belo Horizonte;Portal de Notícias;Notícias;408768;1,2;354863,24;28;2007;Sim;14085
+354;Sudeste;RR;Campo Grande;Rádio FM;Política;418996;12,5;500258,84;21;1976;Não;0
+355;Nordeste;MA;Fortaleza;Portal de Notícias;Educação;65467;20,1;1146827,36;125;2000;Sim;4905
+356;Sudeste;SE;Joinville;Newsletter;Economia;381959;4,0;1893168,49;158;1972;Sim;2297
+357;Norte;PR;Manaus;YouTube Canal Local;Economia;284654;19,3;166409,78;89;1961;Não;0
+358;Centro-Oeste;AC;Uberlândia;Newsletter;Saúde;124202;2,5;291823,67;177;1957;Em desenvolvimento;0
+359;Centro-Oeste;RJ;Porto Velho;Rádio AM;Saúde;367027;16,3;1268118,21;25;2000;Não;0
+360;Nordeste;PR;Brasília;Portal de Notícias;Cultura;254379;1,8;851104,63;178;2018;Em desenvolvimento;0
+361;Sudeste;SP;Ribeirão Preto;WhatsApp News;Esportes;438748;19,4;1696062,85;115;2015;Não;0
+362;Sudeste;PB;Curitiba;YouTube Canal Local;Entretenimento;93789;2,1;1183510,51;51;1961;Não;0
+363;Sudeste;SC;Joinville;TV Local;Educação;334436;0,8;258280,75;167;2006;Em desenvolvimento;0
+364;Sudeste;SP;Belém;Portal de Notícias;Economia;177097;5,0;1014015,01;76;1975;Sim;45835
+365;Norte;ES;Feira de Santana;YouTube Canal Local;Tecnologia;334537;19,0;842988,65;75;2004;Não;0
+366;Sul;MA;Brasília;Podcast Local;Saúde;285082;16,3;1648295,80;79;2015;Não;0
+367;Centro-Oeste;RN;Guarulhos;Rádio FM;Notícias;110348;18,2;286733,61;98;2020;Não;0
+368;Sul;PR;Rio de Janeiro;Jornal Impresso;Educação;192939;9,6;1976647,71;127;2018;Não;0
+369;Centro-Oeste;MT;Joinville;WhatsApp News;Cultura;112888;0,6;290906,97;193;2003;Não;0
+370;Nordeste;AC;Ribeirão Preto;Rádio AM;Política;68115;4,2;695293,32;119;1997;Sim;16953
+371;Norte;BA;Belém;WhatsApp News;Saúde;160884;18,9;1385967,68;97;1950;Em desenvolvimento;0
+372;Centro-Oeste;TO;Florianópolis;Instagram Local;Educação;122352;2,9;1541339,77;40;2004;Não;0
+373;Nordeste;BA;Campo Grande;YouTube Canal Local;Educação;225141;0,6;1960198,53;40;2014;Sim;31541
+374;Norte;AL;Salvador;Rádio FM;Economia;166240;13,4;1691685,97;137;2004;Não;0
+375;Norte;RS;Sorocaba;Newsletter;Política;313928;15,3;781336,80;124;1981;Em desenvolvimento;0
+376;Nordeste;SP;Guarulhos;Jornal Impresso;Tecnologia;103098;18,2;1056329,68;111;2020;Em desenvolvimento;0
+377;Nordeste;PI;Niterói;Podcast Local;Tecnologia;78960;9,0;249906,86;116;1976;Em desenvolvimento;0
+378;Sudeste;PI;Curitiba;WhatsApp News;Cultura;95153;18,7;502702,01;11;2012;Em desenvolvimento;0
+379;Sul;TO;Maceió;YouTube Canal Local;Tecnologia;257657;6,2;1265446,90;36;1964;Em desenvolvimento;0
+380;Sul;PE;Rio de Janeiro;WhatsApp News;Tecnologia;134535;23,1;1195672,99;9;1975;Sim;18960
+381;Nordeste;RN;Aracaju;TV Local;Tecnologia;207389;11,9;1995200,34;41;2002;Em desenvolvimento;0
+382;Sudeste;CE;Feira de Santana;Rádio AM;Notícias;236179;10,4;916531,28;115;2018;Não;0
+383;Sudeste;RO;São Luís;Newsletter;Educação;39945;13,6;139882,76;157;1955;Não;0
+384;Sul;PB;Campo Grande;WhatsApp News;Tecnologia;498374;19,8;1789923,77;60;1977;Sim;23694
+385;Nordeste;RR;Uberlândia;Portal de Notícias;Notícias;351056;10,9;1949260,03;37;1999;Sim;3626
+386;Nordeste;ES;Porto Alegre;Portal de Notícias;Tecnologia;363790;12,1;379672,07;91;1963;Em desenvolvimento;0
+387;Sul;GO;Recife;Newsletter;Tecnologia;432422;10,5;789941,56;56;1968;Em desenvolvimento;0
+388;Centro-Oeste;AC;Niterói;Jornal Impresso;Cultura;248253;5,0;936877,62;54;2020;Não;0
+389;Sudeste;SP;Porto Alegre;WhatsApp News;Tecnologia;169741;1,3;932823,87;143;1988;Sim;33300
+390;Centro-Oeste;PE;São Paulo;TV Local;Tecnologia;225280;11,1;1375090,59;181;2022;Sim;45696
+391;Centro-Oeste;RS;Florianópolis;TV Local;Cultura;34471;21,8;1234603,53;81;2014;Não;0
+392;Nordeste;MS;Uberlândia;Instagram Local;Economia;118821;21,0;1902864,56;84;1980;Não;0
+393;Centro-Oeste;RN;Aparecida de Goiânia;WhatsApp News;Entretenimento;375793;2,0;1001440,36;148;2006;Não;0
+394;Nordeste;BA;Belém;Rádio FM;Saúde;161705;21,8;760830,64;174;1960;Não;0
+395;Nordeste;ES;Belo Horizonte;TV Local;Esportes;260954;0,8;923127,75;95;1957;Não;0
+396;Sudeste;SE;Joinville;WhatsApp News;Política;449492;13,7;82208,52;83;1963;Não;0
+397;Centro-Oeste;ES;Juiz de Fora;WhatsApp News;Notícias;61850;23,3;1033864,78;20;1969;Sim;32634
+398;Centro-Oeste;AC;Salvador;TV Local;Saúde;321293;21,5;1810194,84;177;1960;Não;0
+399;Centro-Oeste;PE;Aracaju;Newsletter;Política;454860;14,8;1325079,74;38;1983;Não;0
+400;Centro-Oeste;MS;Osasco;Instagram Local;Esportes;111715;4,9;196353,49;192;2018;Em desenvolvimento;0

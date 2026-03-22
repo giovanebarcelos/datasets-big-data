@@ -1,0 +1,1201 @@
+﻿ID;Idade;Genero;Escolaridade;Renda_Faixa;Regiao;Plataforma_Principal;Horas_Dia_Media;Dispositivo_Principal;Freq_Uso_Noticias;Confianca_Midia_1a10;Compartilha_Noticias;Assina_Jornal_Digital;Gasto_Mensal_Midia_R$;Satisfacao_Conteudo_1a10;Cluster_Sugerido
+1;50;Não-binário;Médio;2-5 SM;Nordeste;TikTok;1,7;Tablet;Quinzenal;7;Não;Sim;150,43;10;Heavy User
+2;44;Masculino;Fundamental;Acima 20 SM;Norte;Disney+;4,3;Smart TV;Diário;4;Às vezes;Sim;111,52;6;Heavy User
+3;61;Não-binário;Médio;Até 2 SM;Centro-Oeste;Twitter/X;6,8;Notebook;Quinzenal;8;Sim;Sim;119,52;1;Heavy User
+4;71;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;YouTube;9,1;Notebook;Raramente;8;Sim;Sim;54,59;5;Engajado Crítico
+5;48;Feminino;Fundamental;Acima 20 SM;Nordeste;Globoplay;8,5;Smart TV;Semanal;1;Sim;Não;164,69;9;Heavy User
+6;31;Masculino;Pós-Graduação;10-20 SM;Nordeste;WhatsApp;7,6;Desktop;Mensal;6;Às vezes;Não;145,39;8;Heavy User
+7;73;Feminino;Fundamental;5-10 SM;Sudeste;TikTok;2,6;Notebook;Semanal;9;Sim;Não;191,47;10;Heavy User
+8;18;Masculino;Médio;Acima 20 SM;Sul;Instagram;7,9;Smartphone;Quinzenal;7;Às vezes;Não;169,76;8;Nativo Digital
+9;40;Masculino;Médio;10-20 SM;Sul;Spotify;2,0;Smartphone;Mensal;10;Às vezes;Não;38,69;9;Casual
+10;18;Não-binário;Superior;2-5 SM;Nordeste;Instagram;6,7;Desktop;Quinzenal;7;Sim;Não;179,16;8;Nativo Digital
+11;25;Masculino;Fundamental;10-20 SM;Norte;Spotify;1,6;Notebook;Quinzenal;6;Às vezes;Não;113,67;5;Heavy User
+12;46;Masculino;Superior;Até 2 SM;Norte;WhatsApp;4,8;Notebook;Quinzenal;5;Às vezes;Sim;196,37;8;Heavy User
+13;23;Não-binário;Pós-Graduação;10-20 SM;Sudeste;Disney+;9,0;Tablet;Diário;4;Sim;Sim;244,27;10;Nativo Digital
+14;70;Masculino;Médio;Até 2 SM;Norte;Disney+;2,5;Notebook;Diário;9;Não;Sim;194,85;6;Heavy User
+15;66;Não-binário;Fundamental;2-5 SM;Sul;TikTok;1,0;Smart TV;Raramente;1;Sim;Não;67,37;2;Tradicional
+16;68;Masculino;Pós-Graduação;2-5 SM;Norte;YouTube;9,4;Tablet;Quinzenal;1;Não;Sim;192,79;9;Heavy User
+17;47;Não-binário;Superior;Acima 20 SM;Sul;Globoplay;2,7;Smart TV;Raramente;3;Não;Sim;155,48;3;Heavy User
+18;74;Não-binário;Médio;Acima 20 SM;Sul;WhatsApp;2,5;Tablet;Diário;1;Não;Sim;7,81;7;Casual
+19;69;Feminino;Pós-Graduação;2-5 SM;Norte;TikTok;5,7;Desktop;Raramente;2;Às vezes;Não;136,33;8;Heavy User
+20;18;Feminino;Pós-Graduação;Acima 20 SM;Sul;WhatsApp;8,5;Notebook;Quinzenal;5;Às vezes;Sim;30,00;6;Nativo Digital
+21;21;Masculino;Fundamental;5-10 SM;Centro-Oeste;YouTube;4,7;Smart TV;Quinzenal;6;Não;Sim;3,68;2;Nativo Digital
+22;48;Não-binário;Fundamental;Acima 20 SM;Sudeste;YouTube;3,7;Notebook;Semanal;4;Sim;Sim;40,34;8;Casual
+23;75;Masculino;Pós-Graduação;5-10 SM;Nordeste;Spotify;7,0;Smart TV;Mensal;3;Sim;Sim;216,32;5;Heavy User
+24;30;Feminino;Fundamental;10-20 SM;Sudeste;TikTok;5,7;Desktop;Mensal;8;Não;Não;32,96;8;Casual
+25;45;Masculino;Superior;10-20 SM;Norte;Twitter/X;2,3;Notebook;Mensal;6;Às vezes;Não;71,61;1;Casual
+26;55;Feminino;Médio;5-10 SM;Sul;WhatsApp;7,9;Tablet;Raramente;8;Sim;Não;173,76;7;Heavy User
+27;66;Masculino;Médio;Acima 20 SM;Norte;Globoplay;5,1;Smart TV;Mensal;1;Não;Sim;189,03;10;Heavy User
+28;16;Não-binário;Fundamental;Até 2 SM;Norte;Netflix;0,8;Desktop;Raramente;4;Sim;Sim;183,11;4;Heavy User
+29;46;Não-binário;Superior;Até 2 SM;Sul;Disney+;5,1;Smartphone;Semanal;3;Sim;Não;14,14;9;Casual
+30;21;Não-binário;Médio;2-5 SM;Sul;YouTube;2,0;Notebook;Quinzenal;6;Não;Não;181,62;5;Heavy User
+31;65;Feminino;Pós-Graduação;2-5 SM;Sudeste;Disney+;9,2;Tablet;Semanal;5;Não;Não;204,11;8;Heavy User
+32;75;Masculino;Pós-Graduação;5-10 SM;Norte;WhatsApp;9,3;Tablet;Mensal;8;Às vezes;Não;31,42;1;Casual
+33;59;Feminino;Fundamental;2-5 SM;Sudeste;WhatsApp;6,3;Tablet;Semanal;4;Não;Não;21,35;9;Casual
+34;24;Feminino;Médio;Até 2 SM;Sul;Globoplay;5,4;Desktop;Raramente;1;Às vezes;Sim;44,20;2;Nativo Digital
+35;27;Masculino;Médio;10-20 SM;Nordeste;Twitter/X;8,1;Tablet;Diário;6;Não;Não;18,74;3;Casual
+36;73;Feminino;Médio;2-5 SM;Centro-Oeste;Spotify;6,3;Smart TV;Quinzenal;7;Sim;Não;72,65;8;Casual
+37;59;Masculino;Médio;Acima 20 SM;Centro-Oeste;Netflix;7,4;Smartphone;Semanal;6;Às vezes;Sim;14,59;5;Casual
+38;31;Masculino;Fundamental;Acima 20 SM;Norte;Disney+;2,0;Smartphone;Semanal;5;Não;Não;164,63;7;Heavy User
+39;74;Não-binário;Pós-Graduação;Acima 20 SM;Nordeste;Netflix;2,3;Smartphone;Mensal;3;Às vezes;Não;12,55;10;Casual
+40;29;Feminino;Superior;Até 2 SM;Nordeste;Globoplay;4,5;Tablet;Quinzenal;9;Sim;Não;184,19;2;Heavy User
+41;61;Não-binário;Pós-Graduação;10-20 SM;Sul;Amazon Prime;8,7;Smartphone;Raramente;5;Não;Sim;155,91;1;Heavy User
+42;48;Não-binário;Superior;Acima 20 SM;Sudeste;Twitter/X;2,9;Tablet;Quinzenal;2;Às vezes;Não;9,80;7;Casual
+43;50;Feminino;Superior;Acima 20 SM;Nordeste;Instagram;1,0;Smartphone;Diário;8;Não;Sim;137,20;10;Heavy User
+44;55;Feminino;Médio;2-5 SM;Centro-Oeste;Globoplay;8,0;Notebook;Diário;3;Sim;Não;154,25;2;Heavy User
+45;58;Masculino;Médio;10-20 SM;Nordeste;Twitter/X;3,1;Notebook;Raramente;6;Não;Sim;61,82;1;Casual
+46;44;Não-binário;Superior;Acima 20 SM;Nordeste;Twitter/X;2,9;Desktop;Mensal;8;Sim;Sim;154,68;8;Heavy User
+47;58;Feminino;Médio;Acima 20 SM;Norte;Globoplay;3,5;Smartphone;Mensal;4;Às vezes;Sim;100,17;3;Heavy User
+48;41;Feminino;Superior;Até 2 SM;Sul;Amazon Prime;8,4;Smartphone;Mensal;4;Não;Sim;42,46;2;Casual
+49;47;Feminino;Superior;Acima 20 SM;Norte;TikTok;4,3;Notebook;Quinzenal;5;Não;Sim;169,71;3;Heavy User
+50;54;Masculino;Superior;10-20 SM;Centro-Oeste;Netflix;6,8;Notebook;Raramente;5;Às vezes;Não;17,74;5;Casual
+51;52;Masculino;Médio;Acima 20 SM;Nordeste;Twitter/X;7,3;Smartphone;Semanal;3;Às vezes;Sim;243,89;2;Heavy User
+52;21;Não-binário;Pós-Graduação;5-10 SM;Sul;WhatsApp;2,3;Tablet;Semanal;9;Às vezes;Sim;87,53;5;Casual
+53;41;Masculino;Pós-Graduação;Até 2 SM;Centro-Oeste;TikTok;3,7;Smartphone;Mensal;6;Às vezes;Sim;20,10;3;Casual
+54;43;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Twitter/X;4,3;Smartphone;Quinzenal;8;Às vezes;Não;26,00;3;Casual
+55;42;Feminino;Fundamental;Acima 20 SM;Sul;Amazon Prime;6,3;Notebook;Quinzenal;9;Não;Sim;221,93;10;Heavy User
+56;54;Não-binário;Pós-Graduação;Acima 20 SM;Sul;Spotify;4,5;Desktop;Raramente;1;Às vezes;Não;82,51;2;Casual
+57;52;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;Globoplay;2,3;Smart TV;Diário;8;Às vezes;Não;248,53;6;Heavy User
+58;34;Feminino;Pós-Graduação;5-10 SM;Sudeste;Globoplay;0,7;Smartphone;Raramente;6;Às vezes;Não;138,03;9;Heavy User
+59;58;Masculino;Superior;Acima 20 SM;Centro-Oeste;WhatsApp;3,2;Smart TV;Semanal;8;Às vezes;Não;77,04;2;Casual
+60;62;Feminino;Pós-Graduação;5-10 SM;Nordeste;Globoplay;4,8;Smartphone;Quinzenal;7;Sim;Não;100,24;10;Heavy User
+61;52;Não-binário;Fundamental;Acima 20 SM;Norte;Twitter/X;1,7;Tablet;Semanal;1;Sim;Não;63,71;4;Tradicional
+62;68;Masculino;Pós-Graduação;5-10 SM;Sudeste;Netflix;4,3;Desktop;Quinzenal;10;Sim;Sim;59,69;6;Engajado Crítico
+63;37;Não-binário;Médio;Acima 20 SM;Sul;TikTok;7,4;Smart TV;Semanal;2;Não;Sim;162,72;6;Heavy User
+64;70;Feminino;Superior;Acima 20 SM;Nordeste;Disney+;8,1;Smart TV;Diário;7;Não;Não;80,47;5;Casual
+65;47;Não-binário;Pós-Graduação;Até 2 SM;Norte;Amazon Prime;0,7;Smart TV;Raramente;2;Sim;Sim;4,90;3;Casual
+66;63;Feminino;Pós-Graduação;10-20 SM;Norte;Globoplay;5,8;Tablet;Raramente;7;Não;Não;173,52;10;Heavy User
+67;73;Masculino;Pós-Graduação;2-5 SM;Sudeste;Globoplay;7,9;Notebook;Diário;3;Às vezes;Não;233,46;3;Heavy User
+68;38;Masculino;Fundamental;2-5 SM;Nordeste;Amazon Prime;1,6;Smart TV;Quinzenal;4;Não;Não;246,69;3;Heavy User
+69;46;Masculino;Pós-Graduação;10-20 SM;Sudeste;Spotify;4,1;Notebook;Semanal;10;Sim;Sim;132,63;2;Heavy User
+70;68;Não-binário;Fundamental;10-20 SM;Norte;Spotify;4,7;Notebook;Quinzenal;7;Sim;Sim;74,00;9;Casual
+71;74;Feminino;Superior;Acima 20 SM;Norte;Globoplay;7,6;Smartphone;Mensal;9;Sim;Sim;232,16;4;Heavy User
+72;30;Masculino;Superior;2-5 SM;Centro-Oeste;Amazon Prime;5,2;Smart TV;Diário;8;Não;Sim;159,61;4;Heavy User
+73;44;Feminino;Fundamental;5-10 SM;Norte;WhatsApp;3,2;Desktop;Mensal;9;Às vezes;Sim;229,70;4;Heavy User
+74;55;Não-binário;Pós-Graduação;2-5 SM;Nordeste;Globoplay;5,5;Smartphone;Semanal;9;Não;Não;53,86;6;Casual
+75;39;Feminino;Fundamental;Até 2 SM;Nordeste;Spotify;6,7;Tablet;Diário;5;Às vezes;Não;32,30;4;Casual
+76;72;Feminino;Superior;2-5 SM;Norte;Spotify;7,9;Desktop;Quinzenal;5;Às vezes;Não;14,52;10;Casual
+77;71;Feminino;Superior;5-10 SM;Sul;Amazon Prime;1,5;Notebook;Semanal;2;Sim;Sim;9,39;4;Tradicional
+78;48;Não-binário;Pós-Graduação;Até 2 SM;Sudeste;Spotify;2,8;Desktop;Diário;5;Sim;Sim;35,30;2;Casual
+79;67;Masculino;Fundamental;5-10 SM;Sudeste;Disney+;5,1;Desktop;Quinzenal;3;Sim;Sim;224,47;9;Heavy User
+80;34;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;YouTube;3,8;Notebook;Mensal;9;Não;Sim;45,70;10;Casual
+81;19;Não-binário;Superior;5-10 SM;Centro-Oeste;Spotify;4,9;Smartphone;Quinzenal;7;Não;Sim;150,14;3;Nativo Digital
+82;55;Masculino;Pós-Graduação;Acima 20 SM;Norte;Globoplay;9,9;Desktop;Quinzenal;9;Às vezes;Não;35,43;4;Casual
+83;37;Não-binário;Médio;Acima 20 SM;Sul;Twitter/X;1,3;Notebook;Semanal;1;Não;Não;120,78;1;Heavy User
+84;35;Não-binário;Médio;Até 2 SM;Sudeste;WhatsApp;1,7;Smart TV;Semanal;6;Não;Sim;136,54;8;Heavy User
+85;69;Não-binário;Superior;2-5 SM;Sul;TikTok;2,0;Desktop;Semanal;3;Não;Sim;106,41;4;Heavy User
+86;35;Não-binário;Médio;10-20 SM;Nordeste;YouTube;9,0;Smart TV;Diário;2;Não;Não;64,15;8;Casual
+87;39;Masculino;Médio;Acima 20 SM;Norte;Amazon Prime;9,8;Notebook;Diário;9;Não;Sim;15,42;10;Casual
+88;47;Masculino;Fundamental;Até 2 SM;Norte;Instagram;7,7;Smart TV;Semanal;1;Não;Sim;145,98;1;Heavy User
+89;68;Não-binário;Médio;5-10 SM;Norte;Amazon Prime;8,5;Smartphone;Diário;9;Não;Não;125,96;9;Heavy User
+90;41;Feminino;Superior;Acima 20 SM;Centro-Oeste;YouTube;2,0;Smart TV;Mensal;8;Não;Não;116,89;6;Heavy User
+91;60;Feminino;Superior;5-10 SM;Nordeste;Amazon Prime;2,2;Desktop;Quinzenal;1;Sim;Sim;36,61;6;Casual
+92;24;Não-binário;Pós-Graduação;10-20 SM;Centro-Oeste;Amazon Prime;3,2;Smart TV;Semanal;2;Não;Não;14,50;6;Casual
+93;27;Masculino;Fundamental;5-10 SM;Sul;Disney+;4,8;Notebook;Semanal;1;Às vezes;Sim;166,14;8;Heavy User
+94;72;Feminino;Pós-Graduação;Acima 20 SM;Nordeste;Spotify;2,2;Smartphone;Quinzenal;10;Sim;Não;177,80;4;Heavy User
+95;40;Masculino;Médio;Até 2 SM;Sudeste;Twitter/X;6,6;Smart TV;Semanal;8;Sim;Não;228,22;8;Heavy User
+96;57;Feminino;Médio;Até 2 SM;Sudeste;Twitter/X;9,8;Notebook;Raramente;3;Não;Não;247,82;5;Heavy User
+97;75;Não-binário;Pós-Graduação;Acima 20 SM;Sul;Spotify;3,8;Tablet;Raramente;8;Sim;Sim;160,06;8;Heavy User
+98;64;Não-binário;Superior;Acima 20 SM;Norte;Instagram;6,9;Notebook;Semanal;10;Às vezes;Sim;102,06;8;Heavy User
+99;42;Masculino;Fundamental;10-20 SM;Centro-Oeste;Netflix;3,5;Smartphone;Diário;6;Não;Não;200,81;1;Heavy User
+100;47;Feminino;Fundamental;Acima 20 SM;Sul;WhatsApp;8,1;Tablet;Mensal;2;Sim;Não;138,70;10;Heavy User
+101;17;Masculino;Pós-Graduação;Até 2 SM;Sul;Globoplay;8,4;Tablet;Mensal;1;Sim;Sim;220,55;9;Nativo Digital
+102;29;Não-binário;Fundamental;5-10 SM;Sudeste;YouTube;6,7;Notebook;Semanal;1;Não;Sim;93,57;2;Casual
+103;65;Masculino;Pós-Graduação;Acima 20 SM;Sudeste;WhatsApp;6,3;Notebook;Quinzenal;4;Não;Sim;213,59;9;Heavy User
+104;66;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Globoplay;1,3;Smartphone;Semanal;4;Sim;Não;176,57;1;Tradicional
+105;68;Não-binário;Pós-Graduação;2-5 SM;Nordeste;Twitter/X;9,5;Notebook;Raramente;3;Sim;Sim;60,02;1;Casual
+106;67;Masculino;Superior;Acima 20 SM;Sul;Amazon Prime;7,7;Smartphone;Quinzenal;7;Às vezes;Não;238,79;4;Heavy User
+107;72;Masculino;Pós-Graduação;2-5 SM;Norte;Netflix;6,6;Notebook;Mensal;4;Sim;Sim;131,25;7;Heavy User
+108;64;Não-binário;Pós-Graduação;Até 2 SM;Norte;Amazon Prime;5,6;Tablet;Semanal;6;Sim;Não;75,23;5;Casual
+109;39;Não-binário;Médio;Até 2 SM;Sul;Spotify;2,6;Smartphone;Semanal;6;Não;Não;0,89;10;Casual
+110;53;Feminino;Médio;5-10 SM;Norte;TikTok;3,9;Smartphone;Quinzenal;5;Às vezes;Sim;112,39;7;Heavy User
+111;32;Feminino;Fundamental;Acima 20 SM;Sudeste;YouTube;6,5;Notebook;Semanal;7;Às vezes;Sim;47,36;5;Casual
+112;72;Feminino;Médio;Acima 20 SM;Centro-Oeste;Disney+;6,7;Desktop;Semanal;1;Não;Não;182,35;6;Heavy User
+113;58;Não-binário;Superior;5-10 SM;Sul;Instagram;1,0;Smart TV;Semanal;8;Às vezes;Não;244,86;1;Tradicional
+114;24;Masculino;Fundamental;10-20 SM;Sudeste;Globoplay;1,7;Smart TV;Mensal;10;Sim;Não;63,61;5;Engajado Crítico
+115;38;Masculino;Fundamental;10-20 SM;Sudeste;Globoplay;3,3;Smart TV;Diário;1;Às vezes;Sim;3,72;4;Casual
+116;62;Feminino;Superior;2-5 SM;Sudeste;Spotify;0,7;Tablet;Quinzenal;3;Não;Não;218,84;6;Tradicional
+117;33;Masculino;Médio;10-20 SM;Nordeste;Twitter/X;2,5;Notebook;Raramente;8;Sim;Não;246,43;7;Heavy User
+118;49;Não-binário;Médio;2-5 SM;Nordeste;Twitter/X;8,6;Smart TV;Quinzenal;1;Sim;Sim;111,82;8;Heavy User
+119;32;Não-binário;Pós-Graduação;Acima 20 SM;Norte;TikTok;2,7;Notebook;Mensal;2;Sim;Não;221,72;6;Heavy User
+120;49;Feminino;Pós-Graduação;5-10 SM;Nordeste;YouTube;2,2;Smartphone;Semanal;1;Sim;Não;3,05;3;Casual
+121;29;Não-binário;Superior;2-5 SM;Norte;TikTok;2,6;Tablet;Mensal;4;Às vezes;Não;93,23;4;Casual
+122;38;Masculino;Fundamental;2-5 SM;Norte;Twitter/X;6,8;Desktop;Semanal;9;Sim;Não;94,39;10;Engajado Crítico
+123;33;Não-binário;Médio;10-20 SM;Centro-Oeste;Disney+;4,1;Tablet;Quinzenal;10;Sim;Não;135,50;6;Heavy User
+124;70;Não-binário;Fundamental;2-5 SM;Centro-Oeste;Instagram;8,1;Notebook;Semanal;3;Às vezes;Não;124,50;4;Heavy User
+125;47;Feminino;Superior;2-5 SM;Sul;TikTok;1,3;Tablet;Raramente;7;Sim;Não;237,57;7;Heavy User
+126;30;Masculino;Superior;2-5 SM;Sul;Netflix;6,2;Smartphone;Quinzenal;5;Às vezes;Sim;94,78;3;Casual
+127;34;Não-binário;Pós-Graduação;10-20 SM;Norte;Twitter/X;6,9;Notebook;Raramente;2;Sim;Não;220,96;7;Heavy User
+128;39;Não-binário;Superior;10-20 SM;Sudeste;Twitter/X;1,4;Smart TV;Mensal;8;Às vezes;Não;244,03;1;Heavy User
+129;45;Feminino;Médio;5-10 SM;Norte;TikTok;5,4;Notebook;Quinzenal;7;Sim;Sim;55,26;10;Casual
+130;36;Feminino;Superior;Até 2 SM;Centro-Oeste;Disney+;2,0;Smart TV;Diário;10;Não;Não;100,28;6;Heavy User
+131;52;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;WhatsApp;1,3;Notebook;Raramente;9;Às vezes;Sim;57,54;5;Tradicional
+132;32;Masculino;Superior;10-20 SM;Sudeste;Amazon Prime;8,5;Tablet;Semanal;9;Às vezes;Sim;92,91;3;Casual
+133;70;Não-binário;Fundamental;5-10 SM;Sul;TikTok;9,3;Smart TV;Quinzenal;3;Às vezes;Sim;129,81;4;Heavy User
+134;21;Não-binário;Fundamental;10-20 SM;Sul;WhatsApp;4,8;Notebook;Quinzenal;8;Às vezes;Não;208,44;8;Nativo Digital
+135;28;Masculino;Fundamental;10-20 SM;Norte;Disney+;1,3;Smartphone;Mensal;10;Não;Não;209,28;9;Heavy User
+136;25;Feminino;Pós-Graduação;Até 2 SM;Sul;Globoplay;7,0;Smartphone;Quinzenal;4;Às vezes;Não;67,03;1;Casual
+137;38;Feminino;Fundamental;Acima 20 SM;Norte;Amazon Prime;8,2;Tablet;Raramente;5;Às vezes;Não;164,16;2;Heavy User
+138;70;Masculino;Pós-Graduação;5-10 SM;Nordeste;WhatsApp;1,3;Smart TV;Semanal;8;Não;Sim;74,16;2;Tradicional
+139;26;Masculino;Superior;Acima 20 SM;Sul;TikTok;6,7;Smartphone;Raramente;2;Sim;Sim;86,42;5;Casual
+140;30;Masculino;Fundamental;Até 2 SM;Norte;Instagram;6,6;Tablet;Semanal;5;Não;Sim;208,53;2;Heavy User
+141;72;Masculino;Superior;5-10 SM;Sul;Amazon Prime;7,4;Desktop;Semanal;7;Sim;Sim;163,08;1;Heavy User
+142;48;Masculino;Fundamental;Acima 20 SM;Sudeste;WhatsApp;4,7;Smartphone;Quinzenal;3;Às vezes;Não;206,37;8;Heavy User
+143;54;Masculino;Médio;5-10 SM;Centro-Oeste;Netflix;8,4;Desktop;Quinzenal;3;Às vezes;Sim;55,55;6;Casual
+144;52;Não-binário;Superior;Acima 20 SM;Sul;Globoplay;4,3;Tablet;Diário;9;Às vezes;Não;70,64;9;Casual
+145;60;Feminino;Fundamental;2-5 SM;Norte;YouTube;2,8;Tablet;Mensal;1;Não;Sim;189,30;1;Heavy User
+146;61;Feminino;Médio;10-20 SM;Nordeste;TikTok;3,7;Desktop;Quinzenal;4;Não;Sim;27,72;9;Casual
+147;66;Não-binário;Pós-Graduação;Até 2 SM;Centro-Oeste;Globoplay;1,5;Desktop;Semanal;10;Às vezes;Não;124,37;6;Tradicional
+148;74;Feminino;Pós-Graduação;Até 2 SM;Norte;Amazon Prime;4,6;Desktop;Diário;5;Não;Não;128,62;9;Heavy User
+149;71;Não-binário;Superior;10-20 SM;Norte;Spotify;4,6;Desktop;Raramente;6;Às vezes;Não;113,63;8;Heavy User
+150;49;Não-binário;Superior;2-5 SM;Nordeste;Instagram;6,4;Notebook;Semanal;10;Sim;Sim;56,74;7;Engajado Crítico
+151;75;Masculino;Médio;2-5 SM;Sudeste;Netflix;2,9;Tablet;Mensal;2;Às vezes;Não;180,35;5;Heavy User
+152;24;Não-binário;Médio;10-20 SM;Sul;TikTok;4,8;Tablet;Diário;4;Não;Sim;116,83;9;Nativo Digital
+153;43;Feminino;Fundamental;10-20 SM;Centro-Oeste;WhatsApp;7,9;Smart TV;Diário;5;Não;Não;75,62;7;Casual
+154;36;Feminino;Pós-Graduação;2-5 SM;Sudeste;TikTok;4,2;Tablet;Diário;4;Às vezes;Sim;199,07;3;Heavy User
+155;72;Masculino;Médio;Até 2 SM;Centro-Oeste;YouTube;1,4;Smart TV;Mensal;10;Às vezes;Sim;225,93;5;Tradicional
+156;57;Não-binário;Pós-Graduação;Acima 20 SM;Nordeste;Globoplay;7,4;Smartphone;Semanal;4;Sim;Não;193,02;10;Heavy User
+157;67;Não-binário;Médio;10-20 SM;Sudeste;Twitter/X;6,2;Smartphone;Semanal;10;Sim;Sim;154,77;1;Heavy User
+158;20;Masculino;Médio;10-20 SM;Norte;Instagram;3,6;Desktop;Quinzenal;1;Às vezes;Não;12,34;8;Casual
+159;61;Feminino;Fundamental;Até 2 SM;Nordeste;Amazon Prime;2,0;Smart TV;Semanal;7;Às vezes;Não;187,16;10;Heavy User
+160;31;Não-binário;Médio;10-20 SM;Sul;TikTok;1,3;Tablet;Diário;1;Às vezes;Sim;234,91;9;Heavy User
+161;28;Masculino;Pós-Graduação;10-20 SM;Nordeste;WhatsApp;1,2;Smartphone;Quinzenal;8;Às vezes;Não;19,14;5;Casual
+162;72;Feminino;Pós-Graduação;Até 2 SM;Centro-Oeste;Disney+;1,5;Smartphone;Diário;1;Não;Não;165,37;3;Tradicional
+163;67;Não-binário;Médio;2-5 SM;Nordeste;Spotify;7,6;Desktop;Raramente;10;Às vezes;Não;178,46;9;Heavy User
+164;53;Masculino;Médio;Até 2 SM;Norte;Netflix;10,0;Tablet;Raramente;9;Às vezes;Sim;229,64;8;Heavy User
+165;26;Masculino;Médio;2-5 SM;Sudeste;Instagram;10,0;Desktop;Raramente;4;Sim;Sim;156,22;5;Heavy User
+166;33;Masculino;Fundamental;Acima 20 SM;Sul;TikTok;3,4;Notebook;Quinzenal;3;Não;Sim;121,44;3;Heavy User
+167;33;Não-binário;Superior;Até 2 SM;Sudeste;Disney+;3,6;Notebook;Mensal;8;Sim;Sim;53,79;3;Engajado Crítico
+168;48;Não-binário;Médio;Até 2 SM;Norte;Amazon Prime;1,1;Desktop;Diário;10;Sim;Sim;73,04;4;Engajado Crítico
+169;63;Não-binário;Pós-Graduação;Acima 20 SM;Nordeste;TikTok;9,7;Smartphone;Diário;3;Não;Sim;87,05;6;Casual
+170;54;Não-binário;Pós-Graduação;2-5 SM;Norte;Netflix;9,2;Smart TV;Mensal;9;Não;Não;223,91;9;Heavy User
+171;45;Feminino;Pós-Graduação;Acima 20 SM;Sul;WhatsApp;1,3;Desktop;Mensal;9;Não;Sim;140,75;7;Heavy User
+172;24;Não-binário;Fundamental;5-10 SM;Nordeste;Amazon Prime;5,2;Tablet;Diário;1;Sim;Não;15,84;1;Nativo Digital
+173;49;Não-binário;Médio;5-10 SM;Sul;YouTube;2,5;Desktop;Quinzenal;2;Sim;Não;103,39;3;Heavy User
+174;70;Feminino;Fundamental;5-10 SM;Nordeste;Disney+;5,4;Smartphone;Quinzenal;10;Não;Sim;206,05;5;Heavy User
+175;42;Não-binário;Fundamental;5-10 SM;Norte;Disney+;3,4;Tablet;Quinzenal;2;Não;Sim;228,59;3;Heavy User
+176;67;Masculino;Superior;10-20 SM;Nordeste;Netflix;9,0;Desktop;Raramente;9;Não;Não;232,16;7;Heavy User
+177;30;Masculino;Médio;Acima 20 SM;Centro-Oeste;Instagram;1,6;Smart TV;Semanal;6;Às vezes;Sim;215,42;2;Heavy User
+178;19;Masculino;Pós-Graduação;10-20 SM;Norte;Netflix;1,8;Smart TV;Quinzenal;9;Sim;Sim;82,66;1;Engajado Crítico
+179;43;Masculino;Pós-Graduação;5-10 SM;Norte;Twitter/X;5,0;Smartphone;Raramente;9;Sim;Sim;126,88;7;Heavy User
+180;70;Masculino;Superior;Até 2 SM;Sudeste;Spotify;3,5;Notebook;Quinzenal;4;Às vezes;Não;146,23;2;Heavy User
+181;61;Não-binário;Médio;5-10 SM;Centro-Oeste;Twitter/X;4,8;Notebook;Mensal;5;Às vezes;Sim;48,96;4;Casual
+182;19;Feminino;Fundamental;2-5 SM;Norte;Twitter/X;5,7;Smartphone;Raramente;2;Não;Não;59,05;1;Nativo Digital
+183;70;Feminino;Médio;Acima 20 SM;Nordeste;Twitter/X;9,5;Tablet;Diário;10;Às vezes;Não;153,06;10;Heavy User
+184;57;Feminino;Médio;10-20 SM;Nordeste;TikTok;2,5;Smart TV;Raramente;4;Às vezes;Não;185,28;6;Heavy User
+185;37;Feminino;Superior;Até 2 SM;Nordeste;YouTube;0,6;Tablet;Diário;6;Sim;Não;188,86;10;Heavy User
+186;72;Não-binário;Médio;10-20 SM;Sul;Twitter/X;1,1;Smart TV;Quinzenal;7;Não;Sim;136,54;6;Tradicional
+187;72;Não-binário;Fundamental;5-10 SM;Sudeste;Spotify;6,5;Smartphone;Diário;5;Sim;Não;147,40;9;Heavy User
+188;75;Masculino;Superior;Até 2 SM;Norte;Globoplay;8,3;Smartphone;Mensal;1;Sim;Sim;140,40;4;Heavy User
+189;65;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;Amazon Prime;7,4;Desktop;Semanal;3;Sim;Não;89,85;4;Casual
+190;70;Não-binário;Pós-Graduação;5-10 SM;Nordeste;Spotify;5,2;Notebook;Semanal;9;Não;Sim;198,96;3;Heavy User
+191;32;Masculino;Fundamental;Até 2 SM;Nordeste;Twitter/X;6,0;Desktop;Quinzenal;9;Sim;Sim;85,91;1;Engajado Crítico
+192;27;Masculino;Pós-Graduação;5-10 SM;Norte;Disney+;6,1;Notebook;Mensal;9;Às vezes;Não;217,44;4;Heavy User
+193;38;Masculino;Fundamental;2-5 SM;Sudeste;Instagram;2,2;Notebook;Raramente;3;Às vezes;Não;18,16;4;Casual
+194;73;Não-binário;Superior;5-10 SM;Sudeste;Globoplay;6,7;Smart TV;Mensal;10;Não;Sim;154,42;3;Heavy User
+195;16;Feminino;Superior;Até 2 SM;Centro-Oeste;Globoplay;0,6;Notebook;Quinzenal;4;Às vezes;Sim;2,78;4;Casual
+196;32;Não-binário;Superior;Acima 20 SM;Norte;Twitter/X;9,1;Tablet;Raramente;3;Às vezes;Não;129,12;5;Heavy User
+197;34;Masculino;Médio;10-20 SM;Nordeste;Spotify;9,8;Smartphone;Semanal;10;Sim;Sim;245,08;1;Heavy User
+198;50;Masculino;Fundamental;2-5 SM;Sul;Spotify;1,2;Notebook;Diário;8;Não;Não;243,58;8;Heavy User
+199;50;Feminino;Médio;Até 2 SM;Sudeste;TikTok;2,9;Notebook;Quinzenal;4;Sim;Não;53,32;5;Casual
+200;75;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;Netflix;8,0;Smart TV;Semanal;9;Sim;Sim;231,06;2;Heavy User
+201;30;Feminino;Fundamental;Acima 20 SM;Centro-Oeste;Disney+;5,6;Smartphone;Mensal;4;Sim;Não;30,51;7;Casual
+202;30;Feminino;Superior;5-10 SM;Nordeste;Disney+;3,4;Tablet;Mensal;4;Às vezes;Não;44,30;4;Casual
+203;71;Masculino;Médio;Acima 20 SM;Nordeste;YouTube;7,6;Desktop;Diário;5;Às vezes;Não;59,77;3;Casual
+204;46;Não-binário;Superior;Até 2 SM;Nordeste;WhatsApp;3,8;Tablet;Quinzenal;10;Sim;Não;91,68;1;Engajado Crítico
+205;26;Masculino;Médio;Até 2 SM;Norte;Disney+;1,4;Notebook;Quinzenal;9;Às vezes;Sim;204,44;2;Heavy User
+206;32;Masculino;Médio;10-20 SM;Nordeste;Globoplay;6,5;Notebook;Raramente;1;Às vezes;Não;164,17;8;Heavy User
+207;21;Não-binário;Fundamental;2-5 SM;Nordeste;Instagram;7,7;Desktop;Semanal;2;Às vezes;Não;242,40;2;Nativo Digital
+208;30;Masculino;Superior;5-10 SM;Sudeste;TikTok;8,1;Smart TV;Mensal;1;Sim;Não;80,52;7;Casual
+209;28;Feminino;Fundamental;5-10 SM;Norte;Twitter/X;4,9;Desktop;Diário;9;Sim;Não;228,81;10;Heavy User
+210;24;Masculino;Médio;Acima 20 SM;Sudeste;WhatsApp;3,9;Tablet;Quinzenal;2;Às vezes;Não;26,58;1;Casual
+211;48;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;Globoplay;3,1;Desktop;Quinzenal;10;Às vezes;Sim;248,94;1;Heavy User
+212;47;Feminino;Médio;2-5 SM;Sudeste;TikTok;4,4;Smart TV;Quinzenal;4;Não;Sim;45,19;5;Casual
+213;41;Masculino;Fundamental;10-20 SM;Norte;Netflix;6,3;Notebook;Raramente;4;Sim;Não;42,93;9;Casual
+214;75;Feminino;Médio;2-5 SM;Nordeste;Spotify;1,0;Desktop;Quinzenal;6;Não;Não;119,27;5;Tradicional
+215;54;Masculino;Pós-Graduação;10-20 SM;Sudeste;TikTok;3,6;Smart TV;Diário;7;Sim;Sim;74,47;3;Casual
+216;74;Não-binário;Pós-Graduação;5-10 SM;Norte;Amazon Prime;2,5;Tablet;Semanal;5;Às vezes;Não;69,91;10;Casual
+217;75;Masculino;Superior;2-5 SM;Sul;Twitter/X;8,7;Smart TV;Diário;6;Não;Sim;176,24;7;Heavy User
+218;24;Feminino;Pós-Graduação;Até 2 SM;Sul;Disney+;6,2;Smart TV;Mensal;8;Sim;Sim;52,13;2;Nativo Digital
+219;53;Masculino;Pós-Graduação;10-20 SM;Sudeste;TikTok;2,3;Smart TV;Diário;8;Às vezes;Não;247,00;10;Heavy User
+220;33;Masculino;Superior;5-10 SM;Sudeste;Globoplay;7,5;Smartphone;Quinzenal;6;Sim;Sim;243,57;8;Heavy User
+221;62;Feminino;Pós-Graduação;Acima 20 SM;Norte;WhatsApp;1,8;Desktop;Semanal;5;Sim;Não;164,63;1;Tradicional
+222;64;Feminino;Médio;Até 2 SM;Norte;Globoplay;6,1;Smart TV;Semanal;4;Às vezes;Sim;118,47;8;Heavy User
+223;64;Masculino;Superior;10-20 SM;Nordeste;Amazon Prime;2,3;Smartphone;Raramente;8;Às vezes;Sim;185,45;3;Heavy User
+224;40;Não-binário;Pós-Graduação;10-20 SM;Nordeste;Twitter/X;7,5;Smartphone;Diário;6;Às vezes;Não;53,05;5;Casual
+225;65;Feminino;Superior;Até 2 SM;Norte;Amazon Prime;3,3;Tablet;Quinzenal;8;Às vezes;Sim;146,35;7;Heavy User
+226;65;Não-binário;Fundamental;10-20 SM;Sudeste;YouTube;9,1;Tablet;Diário;9;Não;Sim;142,38;9;Heavy User
+227;72;Feminino;Médio;10-20 SM;Sudeste;Globoplay;8,4;Smart TV;Raramente;7;Não;Sim;215,90;3;Heavy User
+228;46;Masculino;Pós-Graduação;Até 2 SM;Norte;Globoplay;3,9;Smartphone;Quinzenal;1;Às vezes;Não;28,56;4;Casual
+229;48;Masculino;Fundamental;Até 2 SM;Norte;Globoplay;3,5;Smart TV;Raramente;3;Sim;Não;149,31;8;Heavy User
+230;46;Não-binário;Pós-Graduação;Até 2 SM;Sul;YouTube;4,0;Smartphone;Mensal;7;Não;Sim;221,89;9;Heavy User
+231;57;Masculino;Médio;Acima 20 SM;Norte;YouTube;2,1;Smart TV;Quinzenal;5;Não;Não;20,85;7;Casual
+232;36;Masculino;Pós-Graduação;5-10 SM;Sul;WhatsApp;4,3;Smart TV;Mensal;6;Não;Sim;74,68;4;Casual
+233;50;Não-binário;Médio;2-5 SM;Sul;YouTube;2,4;Tablet;Quinzenal;1;Às vezes;Sim;46,81;7;Casual
+234;72;Não-binário;Fundamental;10-20 SM;Sudeste;Instagram;6,0;Notebook;Mensal;8;Não;Sim;111,06;6;Heavy User
+235;52;Não-binário;Superior;Até 2 SM;Sudeste;Netflix;7,4;Notebook;Quinzenal;8;Sim;Sim;188,18;3;Heavy User
+236;43;Feminino;Pós-Graduação;5-10 SM;Nordeste;Amazon Prime;9,5;Desktop;Raramente;5;Não;Sim;125,25;2;Heavy User
+237;60;Feminino;Pós-Graduação;Acima 20 SM;Norte;Globoplay;2,7;Smartphone;Diário;1;Sim;Não;142,27;8;Heavy User
+238;41;Feminino;Fundamental;Até 2 SM;Nordeste;YouTube;0,6;Smart TV;Mensal;5;Sim;Sim;127,91;3;Heavy User
+239;31;Feminino;Superior;2-5 SM;Nordeste;Netflix;6,2;Smartphone;Semanal;5;Não;Não;46,48;2;Casual
+240;25;Não-binário;Fundamental;2-5 SM;Centro-Oeste;Instagram;10,0;Smartphone;Raramente;5;Sim;Sim;221,01;10;Heavy User
+241;66;Feminino;Superior;5-10 SM;Centro-Oeste;YouTube;3,6;Notebook;Diário;8;Não;Não;103,93;10;Heavy User
+242;51;Masculino;Pós-Graduação;5-10 SM;Sul;Twitter/X;0,7;Tablet;Semanal;7;Sim;Não;92,68;8;Tradicional
+243;25;Masculino;Médio;Até 2 SM;Centro-Oeste;TikTok;8,6;Desktop;Diário;5;Sim;Sim;127,55;6;Heavy User
+244;49;Não-binário;Superior;10-20 SM;Norte;Amazon Prime;6,8;Smartphone;Mensal;10;Às vezes;Sim;138,00;3;Heavy User
+245;30;Feminino;Fundamental;Até 2 SM;Centro-Oeste;Instagram;6,0;Desktop;Diário;2;Sim;Não;63,48;9;Casual
+246;55;Masculino;Pós-Graduação;Acima 20 SM;Sul;Globoplay;5,4;Tablet;Diário;4;Às vezes;Sim;35,56;8;Casual
+247;66;Feminino;Fundamental;5-10 SM;Nordeste;Disney+;7,6;Notebook;Diário;9;Às vezes;Não;53,07;5;Casual
+248;27;Não-binário;Pós-Graduação;Até 2 SM;Nordeste;Amazon Prime;7,6;Desktop;Mensal;4;Sim;Sim;216,79;5;Heavy User
+249;73;Masculino;Superior;2-5 SM;Nordeste;WhatsApp;7,4;Tablet;Quinzenal;5;Sim;Sim;205,61;3;Heavy User
+250;29;Masculino;Fundamental;Até 2 SM;Sul;WhatsApp;4,0;Desktop;Semanal;4;Sim;Não;140,45;9;Heavy User
+251;20;Não-binário;Médio;5-10 SM;Nordeste;Spotify;1,1;Notebook;Mensal;5;Não;Não;78,71;8;Casual
+252;30;Masculino;Superior;Até 2 SM;Centro-Oeste;Spotify;3,7;Desktop;Diário;8;Sim;Sim;44,38;4;Engajado Crítico
+253;25;Masculino;Pós-Graduação;Acima 20 SM;Nordeste;Instagram;9,8;Desktop;Diário;8;Não;Sim;57,11;4;Casual
+254;61;Masculino;Fundamental;5-10 SM;Sudeste;Disney+;9,9;Smartphone;Mensal;3;Não;Sim;67,76;7;Casual
+255;52;Feminino;Superior;5-10 SM;Norte;TikTok;9,9;Smart TV;Mensal;4;Às vezes;Sim;228,18;2;Heavy User
+256;67;Feminino;Fundamental;Acima 20 SM;Sul;YouTube;1,7;Tablet;Semanal;1;Às vezes;Sim;36,15;4;Tradicional
+257;29;Feminino;Fundamental;5-10 SM;Centro-Oeste;Netflix;2,6;Tablet;Mensal;1;Não;Sim;154,85;4;Heavy User
+258;18;Feminino;Médio;Acima 20 SM;Sudeste;TikTok;7,8;Notebook;Diário;3;Às vezes;Não;206,57;10;Nativo Digital
+259;44;Não-binário;Médio;Acima 20 SM;Centro-Oeste;Twitter/X;5,7;Desktop;Raramente;4;Sim;Não;226,04;1;Heavy User
+260;57;Masculino;Pós-Graduação;Acima 20 SM;Sudeste;TikTok;9,7;Notebook;Raramente;8;Não;Não;179,72;2;Heavy User
+261;24;Não-binário;Fundamental;10-20 SM;Sul;Twitter/X;9,3;Smart TV;Diário;2;Sim;Não;53,01;7;Nativo Digital
+262;70;Masculino;Superior;10-20 SM;Sudeste;Globoplay;7,3;Notebook;Raramente;8;Sim;Sim;67,04;2;Engajado Crítico
+263;69;Masculino;Médio;Acima 20 SM;Sul;Spotify;0,6;Smart TV;Semanal;9;Às vezes;Não;156,66;5;Tradicional
+264;44;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;Instagram;9,7;Smartphone;Raramente;6;Não;Não;135,18;6;Heavy User
+265;54;Não-binário;Fundamental;10-20 SM;Sul;Netflix;3,4;Tablet;Raramente;8;Às vezes;Não;155,39;9;Heavy User
+266;71;Feminino;Superior;Até 2 SM;Sudeste;Netflix;1,9;Desktop;Raramente;1;Às vezes;Não;149,03;1;Tradicional
+267;38;Não-binário;Médio;Até 2 SM;Sul;Disney+;6,0;Smartphone;Semanal;1;Não;Não;124,69;1;Heavy User
+268;50;Não-binário;Fundamental;5-10 SM;Nordeste;Netflix;2,0;Tablet;Semanal;4;Sim;Não;199,38;8;Heavy User
+269;44;Masculino;Superior;2-5 SM;Sul;Globoplay;6,0;Notebook;Semanal;9;Não;Sim;176,32;3;Heavy User
+270;75;Não-binário;Pós-Graduação;Acima 20 SM;Norte;TikTok;1,9;Smart TV;Semanal;3;Às vezes;Não;130,02;9;Tradicional
+271;48;Feminino;Fundamental;5-10 SM;Norte;WhatsApp;2,1;Notebook;Semanal;3;Sim;Sim;167,93;2;Heavy User
+272;21;Não-binário;Superior;5-10 SM;Centro-Oeste;Instagram;6,6;Tablet;Quinzenal;1;Sim;Não;189,12;2;Nativo Digital
+273;17;Não-binário;Fundamental;10-20 SM;Sul;Spotify;8,9;Desktop;Diário;4;Não;Não;169,59;8;Nativo Digital
+274;30;Masculino;Superior;Até 2 SM;Centro-Oeste;WhatsApp;0,6;Smart TV;Mensal;3;Sim;Não;9,93;3;Casual
+275;59;Feminino;Fundamental;5-10 SM;Centro-Oeste;Netflix;1,5;Smartphone;Mensal;9;Não;Não;240,71;4;Tradicional
+276;73;Não-binário;Superior;2-5 SM;Sudeste;Spotify;3,1;Notebook;Diário;2;Sim;Sim;62,82;2;Casual
+277;74;Masculino;Pós-Graduação;Acima 20 SM;Sudeste;WhatsApp;4,8;Notebook;Mensal;5;Não;Sim;95,70;4;Casual
+278;64;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Disney+;7,6;Desktop;Raramente;6;Sim;Sim;220,99;10;Heavy User
+279;58;Não-binário;Fundamental;Acima 20 SM;Sudeste;Netflix;1,1;Notebook;Mensal;2;Às vezes;Não;220,69;1;Tradicional
+280;66;Não-binário;Médio;10-20 SM;Nordeste;Amazon Prime;1,7;Desktop;Mensal;9;Sim;Sim;76,21;7;Tradicional
+281;33;Masculino;Superior;Até 2 SM;Sul;Disney+;7,5;Smart TV;Semanal;5;Às vezes;Sim;156,06;10;Heavy User
+282;43;Não-binário;Superior;10-20 SM;Sudeste;TikTok;9,5;Smart TV;Mensal;3;Não;Sim;151,11;2;Heavy User
+283;31;Masculino;Médio;5-10 SM;Norte;WhatsApp;1,2;Desktop;Raramente;5;Não;Sim;89,39;10;Casual
+284;68;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;Netflix;9,3;Desktop;Raramente;6;Às vezes;Sim;95,59;7;Casual
+285;63;Não-binário;Fundamental;2-5 SM;Centro-Oeste;TikTok;6,5;Tablet;Diário;3;Não;Sim;46,35;7;Casual
+286;26;Masculino;Pós-Graduação;5-10 SM;Sudeste;WhatsApp;1,0;Notebook;Diário;5;Sim;Não;27,14;3;Casual
+287;60;Não-binário;Pós-Graduação;5-10 SM;Sudeste;YouTube;4,5;Desktop;Diário;5;Não;Não;61,57;1;Casual
+288;44;Masculino;Superior;10-20 SM;Sudeste;WhatsApp;9,7;Smartphone;Quinzenal;4;Sim;Sim;154,18;8;Heavy User
+289;64;Não-binário;Médio;10-20 SM;Centro-Oeste;Globoplay;4,1;Tablet;Semanal;8;Não;Não;227,75;3;Heavy User
+290;35;Não-binário;Médio;5-10 SM;Nordeste;Globoplay;5,3;Smartphone;Semanal;9;Às vezes;Não;160,11;2;Heavy User
+291;24;Não-binário;Médio;10-20 SM;Norte;YouTube;3,2;Tablet;Raramente;9;Não;Não;152,32;10;Heavy User
+292;70;Feminino;Fundamental;Acima 20 SM;Centro-Oeste;Netflix;4,4;Tablet;Diário;3;Não;Não;100,42;2;Heavy User
+293;62;Masculino;Superior;Até 2 SM;Sul;WhatsApp;5,0;Smart TV;Semanal;6;Às vezes;Não;125,83;5;Heavy User
+294;49;Masculino;Fundamental;10-20 SM;Nordeste;Instagram;4,9;Desktop;Quinzenal;7;Às vezes;Sim;157,23;9;Heavy User
+295;63;Feminino;Superior;Até 2 SM;Nordeste;Netflix;3,7;Smartphone;Quinzenal;3;Às vezes;Sim;182,31;9;Heavy User
+296;42;Feminino;Pós-Graduação;10-20 SM;Norte;Spotify;4,5;Tablet;Mensal;3;Sim;Sim;165,85;4;Heavy User
+297;40;Masculino;Pós-Graduação;Até 2 SM;Sudeste;Twitter/X;7,8;Tablet;Diário;4;Não;Não;236,31;3;Heavy User
+298;75;Masculino;Superior;5-10 SM;Nordeste;Twitter/X;6,7;Smartphone;Semanal;10;Sim;Não;89,85;10;Engajado Crítico
+299;67;Feminino;Médio;Acima 20 SM;Centro-Oeste;Amazon Prime;9,3;Smart TV;Quinzenal;1;Não;Sim;14,29;6;Casual
+300;66;Masculino;Fundamental;10-20 SM;Sudeste;WhatsApp;0,6;Tablet;Raramente;1;Às vezes;Não;142,19;5;Tradicional
+301;29;Não-binário;Fundamental;5-10 SM;Sul;Disney+;2,8;Smart TV;Quinzenal;8;Sim;Sim;27,68;7;Engajado Crítico
+302;50;Não-binário;Pós-Graduação;10-20 SM;Norte;YouTube;8,3;Tablet;Semanal;9;Sim;Não;153,64;10;Heavy User
+303;41;Feminino;Pós-Graduação;Acima 20 SM;Norte;Globoplay;5,7;Notebook;Quinzenal;9;Às vezes;Sim;241,56;2;Heavy User
+304;63;Masculino;Superior;2-5 SM;Sul;TikTok;2,6;Desktop;Mensal;5;Não;Sim;70,69;5;Casual
+305;30;Masculino;Médio;5-10 SM;Nordeste;WhatsApp;9,5;Desktop;Raramente;5;Não;Não;108,56;2;Heavy User
+306;22;Feminino;Superior;10-20 SM;Sul;Spotify;9,0;Smartphone;Raramente;7;Não;Sim;92,52;9;Nativo Digital
+307;47;Feminino;Pós-Graduação;Até 2 SM;Norte;Globoplay;9,4;Smart TV;Raramente;7;Sim;Não;187,25;8;Heavy User
+308;30;Masculino;Pós-Graduação;5-10 SM;Sul;Netflix;1,9;Tablet;Mensal;3;Não;Sim;3,13;10;Casual
+309;73;Não-binário;Pós-Graduação;Acima 20 SM;Sul;Instagram;4,3;Notebook;Semanal;2;Não;Não;218,69;7;Heavy User
+310;36;Não-binário;Superior;2-5 SM;Sul;WhatsApp;5,8;Notebook;Semanal;9;Sim;Não;220,69;5;Heavy User
+311;22;Feminino;Superior;10-20 SM;Sul;Twitter/X;10,0;Desktop;Semanal;9;Sim;Não;158,31;8;Nativo Digital
+312;52;Não-binário;Pós-Graduação;2-5 SM;Sul;Spotify;3,8;Desktop;Diário;4;Às vezes;Sim;31,28;4;Casual
+313;70;Masculino;Pós-Graduação;10-20 SM;Nordeste;Amazon Prime;9,0;Desktop;Raramente;5;Às vezes;Não;51,54;10;Casual
+314;44;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;Amazon Prime;9,1;Notebook;Mensal;2;Às vezes;Sim;168,56;8;Heavy User
+315;38;Masculino;Superior;Até 2 SM;Sul;WhatsApp;1,5;Tablet;Raramente;8;Às vezes;Não;28,37;8;Casual
+316;36;Feminino;Médio;5-10 SM;Centro-Oeste;Netflix;4,4;Smart TV;Diário;1;Às vezes;Sim;221,59;3;Heavy User
+317;43;Não-binário;Pós-Graduação;Acima 20 SM;Sudeste;Globoplay;2,0;Desktop;Raramente;4;Sim;Sim;202,41;3;Heavy User
+318;40;Masculino;Pós-Graduação;2-5 SM;Norte;Amazon Prime;4,4;Tablet;Semanal;5;Sim;Não;145,40;2;Heavy User
+319;64;Masculino;Fundamental;Até 2 SM;Sudeste;Globoplay;5,8;Tablet;Mensal;3;Não;Não;30,15;6;Casual
+320;43;Não-binário;Fundamental;5-10 SM;Sudeste;Netflix;1,2;Tablet;Raramente;4;Às vezes;Não;171,44;5;Heavy User
+321;21;Feminino;Superior;10-20 SM;Norte;Globoplay;7,0;Notebook;Diário;1;Não;Não;86,81;3;Nativo Digital
+322;51;Feminino;Médio;Até 2 SM;Norte;Instagram;3,6;Desktop;Raramente;7;Às vezes;Não;154,64;3;Heavy User
+323;25;Masculino;Fundamental;Até 2 SM;Sudeste;Twitter/X;7,3;Tablet;Mensal;8;Não;Sim;74,23;3;Casual
+324;56;Masculino;Fundamental;Acima 20 SM;Norte;TikTok;9,2;Smart TV;Diário;7;Às vezes;Não;211,99;3;Heavy User
+325;20;Feminino;Fundamental;5-10 SM;Sudeste;WhatsApp;5,5;Desktop;Diário;9;Sim;Não;152,65;3;Nativo Digital
+326;23;Masculino;Pós-Graduação;10-20 SM;Norte;YouTube;2,7;Notebook;Mensal;6;Às vezes;Sim;244,96;7;Heavy User
+327;67;Feminino;Fundamental;Até 2 SM;Sudeste;WhatsApp;3,9;Smartphone;Semanal;7;Não;Sim;41,77;3;Casual
+328;71;Masculino;Pós-Graduação;Até 2 SM;Norte;YouTube;1,5;Smartphone;Quinzenal;1;Às vezes;Não;207,59;10;Tradicional
+329;52;Feminino;Pós-Graduação;Acima 20 SM;Nordeste;Instagram;5,5;Smartphone;Quinzenal;7;Sim;Sim;65,02;8;Casual
+330;35;Masculino;Pós-Graduação;Acima 20 SM;Centro-Oeste;TikTok;3,5;Notebook;Diário;8;Não;Não;107,31;7;Heavy User
+331;21;Não-binário;Pós-Graduação;2-5 SM;Norte;TikTok;2,1;Smart TV;Raramente;3;Às vezes;Não;2,47;10;Casual
+332;46;Feminino;Fundamental;Até 2 SM;Nordeste;YouTube;8,1;Desktop;Quinzenal;9;Às vezes;Sim;243,40;8;Heavy User
+333;25;Feminino;Pós-Graduação;Até 2 SM;Centro-Oeste;Spotify;7,4;Tablet;Semanal;9;Às vezes;Sim;232,48;1;Heavy User
+334;54;Masculino;Superior;5-10 SM;Sul;Spotify;4,2;Desktop;Semanal;10;Sim;Sim;2,45;3;Engajado Crítico
+335;65;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Amazon Prime;1,1;Notebook;Semanal;8;Sim;Sim;19,55;9;Tradicional
+336;44;Feminino;Superior;10-20 SM;Sudeste;YouTube;2,3;Smartphone;Semanal;9;Não;Não;181,89;4;Heavy User
+337;70;Não-binário;Superior;Até 2 SM;Norte;Spotify;9,4;Tablet;Quinzenal;10;Às vezes;Sim;39,90;5;Casual
+338;53;Masculino;Superior;5-10 SM;Centro-Oeste;Netflix;7,3;Desktop;Mensal;2;Não;Sim;173,36;3;Heavy User
+339;19;Não-binário;Pós-Graduação;10-20 SM;Centro-Oeste;Disney+;4,2;Tablet;Semanal;9;Sim;Não;200,91;6;Nativo Digital
+340;60;Não-binário;Fundamental;5-10 SM;Nordeste;YouTube;8,1;Smartphone;Mensal;3;Não;Não;94,36;1;Casual
+341;65;Feminino;Fundamental;Acima 20 SM;Nordeste;Netflix;5,5;Smartphone;Raramente;7;Sim;Não;234,94;1;Heavy User
+342;49;Feminino;Fundamental;2-5 SM;Centro-Oeste;TikTok;9,6;Notebook;Mensal;4;Sim;Não;38,74;1;Casual
+343;72;Não-binário;Superior;10-20 SM;Norte;TikTok;4,6;Tablet;Quinzenal;10;Sim;Não;119,54;8;Heavy User
+344;62;Masculino;Pós-Graduação;Acima 20 SM;Nordeste;Amazon Prime;0,5;Notebook;Mensal;10;Às vezes;Sim;224,18;2;Tradicional
+345;62;Feminino;Médio;Até 2 SM;Nordeste;Globoplay;1,0;Desktop;Diário;7;Não;Sim;96,56;8;Tradicional
+346;27;Feminino;Fundamental;2-5 SM;Nordeste;Instagram;1,3;Smart TV;Mensal;3;Sim;Sim;133,63;1;Heavy User
+347;51;Masculino;Médio;Até 2 SM;Sul;Spotify;3,4;Smart TV;Diário;10;Sim;Não;210,82;6;Heavy User
+348;67;Masculino;Fundamental;Até 2 SM;Sul;Amazon Prime;2,1;Smartphone;Mensal;4;Sim;Sim;147,03;3;Heavy User
+349;52;Não-binário;Pós-Graduação;2-5 SM;Sul;Globoplay;9,3;Smartphone;Semanal;1;Não;Sim;213,35;9;Heavy User
+350;46;Não-binário;Pós-Graduação;Acima 20 SM;Norte;Amazon Prime;0,6;Desktop;Mensal;10;Não;Não;39,32;8;Casual
+351;72;Feminino;Fundamental;Acima 20 SM;Sudeste;Disney+;7,9;Smart TV;Quinzenal;4;Às vezes;Sim;47,06;9;Casual
+352;36;Feminino;Fundamental;2-5 SM;Norte;Globoplay;6,5;Notebook;Quinzenal;9;Às vezes;Não;202,16;2;Heavy User
+353;66;Não-binário;Superior;5-10 SM;Centro-Oeste;YouTube;6,9;Smart TV;Quinzenal;5;Sim;Sim;93,25;9;Casual
+354;57;Não-binário;Superior;5-10 SM;Norte;Netflix;5,5;Tablet;Semanal;2;Não;Sim;249,16;9;Heavy User
+355;58;Feminino;Superior;Acima 20 SM;Centro-Oeste;TikTok;1,3;Tablet;Raramente;7;Não;Não;174,51;9;Tradicional
+356;63;Feminino;Médio;5-10 SM;Centro-Oeste;Globoplay;8,7;Desktop;Quinzenal;4;Às vezes;Sim;186,17;7;Heavy User
+357;50;Masculino;Superior;2-5 SM;Nordeste;Instagram;5,0;Smartphone;Diário;1;Às vezes;Sim;198,28;3;Heavy User
+358;23;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;WhatsApp;6,0;Smart TV;Diário;7;Às vezes;Sim;201,62;6;Nativo Digital
+359;59;Não-binário;Fundamental;10-20 SM;Centro-Oeste;Amazon Prime;1,6;Tablet;Diário;8;Sim;Não;225,96;6;Tradicional
+360;23;Não-binário;Pós-Graduação;5-10 SM;Sul;YouTube;2,8;Smartphone;Mensal;7;Sim;Sim;28,65;5;Casual
+361;66;Não-binário;Superior;2-5 SM;Centro-Oeste;YouTube;3,1;Desktop;Mensal;2;Às vezes;Sim;15,58;5;Casual
+362;68;Feminino;Médio;Acima 20 SM;Norte;Disney+;5,1;Smart TV;Quinzenal;9;Às vezes;Sim;40,47;5;Casual
+363;29;Feminino;Superior;Até 2 SM;Nordeste;TikTok;2,7;Desktop;Raramente;6;Não;Sim;33,35;3;Casual
+364;33;Feminino;Médio;5-10 SM;Centro-Oeste;Spotify;4,5;Desktop;Raramente;9;Sim;Não;203,08;8;Heavy User
+365;46;Masculino;Fundamental;5-10 SM;Nordeste;Amazon Prime;10,0;Smartphone;Raramente;9;Às vezes;Não;35,43;2;Casual
+366;63;Feminino;Pós-Graduação;5-10 SM;Sudeste;Instagram;9,3;Notebook;Semanal;10;Sim;Não;4,62;4;Engajado Crítico
+367;33;Feminino;Pós-Graduação;Acima 20 SM;Sudeste;Instagram;7,5;Notebook;Quinzenal;1;Não;Não;129,44;10;Heavy User
+368;53;Não-binário;Superior;2-5 SM;Centro-Oeste;TikTok;2,0;Smart TV;Mensal;10;Sim;Sim;217,09;9;Heavy User
+369;17;Masculino;Fundamental;Acima 20 SM;Sudeste;YouTube;1,6;Smart TV;Raramente;9;Às vezes;Sim;182,21;3;Heavy User
+370;18;Não-binário;Fundamental;5-10 SM;Sudeste;Twitter/X;4,8;Smart TV;Semanal;9;Não;Sim;102,00;1;Nativo Digital
+371;20;Não-binário;Pós-Graduação;Até 2 SM;Sul;Spotify;8,9;Smart TV;Mensal;5;Sim;Não;148,16;9;Nativo Digital
+372;18;Feminino;Fundamental;Acima 20 SM;Centro-Oeste;Netflix;3,3;Desktop;Mensal;4;Não;Sim;58,89;2;Casual
+373;48;Não-binário;Superior;Acima 20 SM;Sudeste;Instagram;1,1;Smart TV;Semanal;3;Às vezes;Não;88,66;4;Casual
+374;68;Masculino;Pós-Graduação;10-20 SM;Norte;YouTube;2,6;Smart TV;Diário;8;Às vezes;Sim;249,93;2;Heavy User
+375;23;Não-binário;Médio;Acima 20 SM;Sul;Spotify;2,9;Notebook;Diário;1;Sim;Não;21,47;1;Casual
+376;38;Não-binário;Fundamental;5-10 SM;Sudeste;Amazon Prime;4,5;Smartphone;Quinzenal;7;Sim;Sim;244,23;4;Heavy User
+377;18;Não-binário;Superior;10-20 SM;Sul;Globoplay;4,3;Tablet;Raramente;6;Às vezes;Não;49,37;7;Nativo Digital
+378;67;Feminino;Superior;Acima 20 SM;Nordeste;Amazon Prime;3,6;Desktop;Semanal;8;Sim;Sim;54,90;1;Engajado Crítico
+379;18;Masculino;Fundamental;5-10 SM;Sudeste;Spotify;4,1;Desktop;Semanal;4;Não;Sim;91,49;1;Nativo Digital
+380;23;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Netflix;7,6;Smartphone;Diário;3;Às vezes;Não;33,55;8;Nativo Digital
+381;58;Não-binário;Fundamental;Acima 20 SM;Sudeste;Instagram;1,4;Desktop;Quinzenal;7;Não;Sim;112,65;8;Tradicional
+382;18;Não-binário;Superior;2-5 SM;Sudeste;TikTok;7,8;Desktop;Quinzenal;2;Não;Sim;93,43;4;Nativo Digital
+383;71;Feminino;Superior;5-10 SM;Sudeste;YouTube;1,7;Tablet;Quinzenal;8;Não;Não;8,89;10;Tradicional
+384;47;Feminino;Fundamental;Acima 20 SM;Norte;YouTube;4,1;Tablet;Semanal;6;Às vezes;Sim;92,20;5;Casual
+385;22;Não-binário;Superior;Acima 20 SM;Centro-Oeste;Netflix;1,0;Tablet;Raramente;7;Não;Não;1,95;5;Casual
+386;40;Não-binário;Superior;5-10 SM;Centro-Oeste;Amazon Prime;8,7;Desktop;Raramente;8;Não;Não;92,14;2;Casual
+387;26;Masculino;Superior;Até 2 SM;Norte;Spotify;7,7;Notebook;Semanal;3;Às vezes;Sim;220,58;1;Heavy User
+388;56;Masculino;Superior;Até 2 SM;Sudeste;WhatsApp;2,1;Notebook;Semanal;1;Sim;Sim;186,36;8;Heavy User
+389;24;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;TikTok;2,9;Smart TV;Diário;9;Sim;Não;241,24;2;Heavy User
+390;59;Não-binário;Superior;10-20 SM;Sudeste;Disney+;5,0;Notebook;Diário;4;Não;Sim;51,98;8;Casual
+391;30;Feminino;Pós-Graduação;Até 2 SM;Nordeste;WhatsApp;7,5;Tablet;Mensal;8;Não;Não;128,50;10;Heavy User
+392;39;Masculino;Superior;2-5 SM;Centro-Oeste;Disney+;3,5;Smart TV;Quinzenal;6;Às vezes;Não;29,98;5;Casual
+393;22;Feminino;Médio;10-20 SM;Norte;Instagram;2,8;Desktop;Semanal;5;Sim;Sim;246,18;9;Heavy User
+394;34;Não-binário;Pós-Graduação;Até 2 SM;Sudeste;Instagram;6,7;Notebook;Quinzenal;3;Não;Sim;141,94;7;Heavy User
+395;53;Masculino;Médio;10-20 SM;Centro-Oeste;Globoplay;6,0;Smartphone;Diário;6;Não;Sim;132,30;1;Heavy User
+396;71;Feminino;Médio;Acima 20 SM;Centro-Oeste;Disney+;3,2;Notebook;Quinzenal;1;Às vezes;Não;224,25;3;Heavy User
+397;74;Não-binário;Pós-Graduação;5-10 SM;Nordeste;Globoplay;0,9;Notebook;Mensal;7;Às vezes;Sim;152,06;6;Tradicional
+398;71;Feminino;Médio;5-10 SM;Norte;Twitter/X;1,4;Tablet;Semanal;5;Não;Sim;45,56;6;Tradicional
+399;39;Feminino;Pós-Graduação;Até 2 SM;Norte;Instagram;2,2;Tablet;Quinzenal;1;Sim;Sim;106,95;4;Heavy User
+400;40;Não-binário;Médio;5-10 SM;Norte;YouTube;8,8;Smartphone;Diário;5;Não;Não;188,09;9;Heavy User
+401;18;Não-binário;Superior;10-20 SM;Norte;WhatsApp;3,9;Notebook;Raramente;4;Sim;Não;102,70;7;Heavy User
+402;74;Masculino;Superior;Acima 20 SM;Norte;WhatsApp;4,1;Smartphone;Quinzenal;6;Não;Não;240,84;10;Heavy User
+403;18;Feminino;Superior;5-10 SM;Centro-Oeste;TikTok;4,5;Smart TV;Semanal;4;Sim;Sim;18,46;3;Nativo Digital
+404;59;Masculino;Fundamental;Acima 20 SM;Norte;Spotify;7,0;Smartphone;Semanal;9;Não;Não;47,79;9;Casual
+405;17;Masculino;Pós-Graduação;10-20 SM;Sul;Amazon Prime;8,0;Tablet;Diário;10;Às vezes;Não;138,00;8;Nativo Digital
+406;74;Masculino;Pós-Graduação;10-20 SM;Sudeste;Disney+;6,8;Notebook;Semanal;4;Sim;Não;80,11;10;Casual
+407;50;Masculino;Médio;Acima 20 SM;Norte;YouTube;5,2;Notebook;Raramente;1;Sim;Não;13,62;5;Casual
+408;28;Não-binário;Médio;5-10 SM;Sudeste;Amazon Prime;5,4;Tablet;Quinzenal;8;Às vezes;Sim;128,81;5;Heavy User
+409;31;Não-binário;Superior;2-5 SM;Sudeste;YouTube;9,8;Tablet;Diário;2;Não;Sim;166,54;6;Heavy User
+410;49;Feminino;Pós-Graduação;2-5 SM;Norte;Netflix;2,4;Smart TV;Diário;3;Sim;Sim;228,21;10;Heavy User
+411;24;Feminino;Pós-Graduação;Até 2 SM;Norte;Globoplay;2,7;Notebook;Quinzenal;6;Não;Não;12,33;2;Casual
+412;56;Não-binário;Fundamental;10-20 SM;Sudeste;Spotify;3,4;Desktop;Mensal;3;Não;Não;56,65;8;Casual
+413;46;Não-binário;Fundamental;5-10 SM;Norte;Spotify;0,7;Smartphone;Diário;3;Às vezes;Não;223,38;10;Heavy User
+414;22;Masculino;Superior;Acima 20 SM;Sudeste;Instagram;8,5;Tablet;Raramente;6;Não;Não;34,91;3;Nativo Digital
+415;47;Feminino;Médio;Até 2 SM;Sudeste;Globoplay;7,7;Smartphone;Diário;6;Sim;Não;43,73;6;Casual
+416;42;Feminino;Pós-Graduação;2-5 SM;Nordeste;Globoplay;2,4;Notebook;Semanal;5;Às vezes;Sim;154,41;1;Heavy User
+417;64;Masculino;Fundamental;2-5 SM;Centro-Oeste;YouTube;0,7;Smartphone;Semanal;8;Não;Não;197,98;7;Tradicional
+418;41;Masculino;Superior;Acima 20 SM;Centro-Oeste;Globoplay;5,7;Notebook;Quinzenal;2;Sim;Sim;182,97;5;Heavy User
+419;48;Feminino;Médio;Até 2 SM;Sudeste;YouTube;10,0;Desktop;Quinzenal;3;Sim;Não;13,74;5;Casual
+420;71;Feminino;Fundamental;2-5 SM;Sudeste;Globoplay;1,6;Smartphone;Mensal;9;Não;Sim;158,21;7;Tradicional
+421;71;Masculino;Médio;10-20 SM;Sul;Instagram;1,3;Notebook;Quinzenal;1;Às vezes;Não;59,81;4;Tradicional
+422;28;Masculino;Pós-Graduação;Até 2 SM;Nordeste;Disney+;2,0;Notebook;Semanal;10;Às vezes;Não;187,36;8;Heavy User
+423;19;Feminino;Pós-Graduação;2-5 SM;Centro-Oeste;Instagram;9,1;Desktop;Semanal;5;Não;Não;120,24;10;Nativo Digital
+424;43;Feminino;Fundamental;2-5 SM;Norte;Spotify;0,6;Notebook;Semanal;3;Às vezes;Sim;244,67;9;Heavy User
+425;21;Feminino;Superior;Acima 20 SM;Sul;Spotify;2,1;Desktop;Raramente;9;Não;Não;8,27;9;Casual
+426;27;Masculino;Médio;2-5 SM;Centro-Oeste;Spotify;1,2;Tablet;Quinzenal;3;Sim;Não;180,02;10;Heavy User
+427;59;Feminino;Superior;10-20 SM;Norte;TikTok;1,3;Desktop;Raramente;2;Sim;Sim;248,45;4;Tradicional
+428;69;Masculino;Superior;10-20 SM;Norte;Globoplay;2,3;Tablet;Diário;5;Sim;Não;45,12;4;Casual
+429;44;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;Instagram;9,9;Notebook;Diário;8;Sim;Sim;1,27;7;Engajado Crítico
+430;37;Não-binário;Superior;Acima 20 SM;Sudeste;WhatsApp;4,0;Tablet;Diário;6;Às vezes;Sim;105,18;6;Heavy User
+431;37;Não-binário;Fundamental;10-20 SM;Nordeste;Disney+;4,2;Smart TV;Diário;4;Não;Sim;222,66;8;Heavy User
+432;71;Masculino;Superior;10-20 SM;Nordeste;YouTube;8,2;Smart TV;Raramente;5;Não;Sim;236,57;10;Heavy User
+433;41;Não-binário;Superior;Até 2 SM;Sudeste;Instagram;8,0;Smartphone;Raramente;1;Não;Não;213,93;1;Heavy User
+434;49;Feminino;Médio;Acima 20 SM;Norte;Amazon Prime;3,1;Smart TV;Diário;8;Às vezes;Não;173,31;10;Heavy User
+435;53;Masculino;Pós-Graduação;Acima 20 SM;Sul;Amazon Prime;4,5;Tablet;Diário;4;Sim;Sim;139,00;8;Heavy User
+436;17;Não-binário;Pós-Graduação;Acima 20 SM;Norte;Twitter/X;4,8;Notebook;Raramente;2;Não;Não;16,84;6;Nativo Digital
+437;43;Feminino;Fundamental;Acima 20 SM;Sul;WhatsApp;4,6;Tablet;Raramente;6;Sim;Não;137,60;1;Heavy User
+438;28;Não-binário;Superior;2-5 SM;Sul;Twitter/X;4,9;Notebook;Diário;2;Não;Não;233,39;2;Heavy User
+439;58;Feminino;Fundamental;10-20 SM;Sul;Amazon Prime;5,8;Smartphone;Diário;9;Às vezes;Sim;20,12;8;Casual
+440;70;Não-binário;Pós-Graduação;2-5 SM;Centro-Oeste;Disney+;9,9;Tablet;Quinzenal;2;Às vezes;Não;153,70;7;Heavy User
+441;71;Feminino;Pós-Graduação;5-10 SM;Sudeste;Spotify;7,1;Desktop;Raramente;6;Não;Sim;35,15;2;Casual
+442;66;Masculino;Superior;2-5 SM;Sudeste;Disney+;2,4;Desktop;Raramente;10;Não;Não;23,77;4;Casual
+443;68;Não-binário;Superior;10-20 SM;Norte;Netflix;1,5;Tablet;Quinzenal;6;Sim;Sim;42,09;5;Tradicional
+444;72;Não-binário;Fundamental;2-5 SM;Nordeste;Disney+;7,7;Tablet;Raramente;4;Sim;Sim;134,31;5;Heavy User
+445;62;Feminino;Pós-Graduação;Até 2 SM;Centro-Oeste;Netflix;6,0;Smart TV;Mensal;3;Às vezes;Sim;37,66;10;Casual
+446;66;Não-binário;Superior;2-5 SM;Sudeste;WhatsApp;2,1;Smartphone;Raramente;9;Não;Sim;45,31;8;Casual
+447;24;Feminino;Médio;Até 2 SM;Sudeste;WhatsApp;4,9;Notebook;Raramente;1;Não;Não;53,47;1;Nativo Digital
+448;31;Feminino;Superior;2-5 SM;Sudeste;Instagram;4,1;Smartphone;Raramente;9;Sim;Sim;179,51;9;Heavy User
+449;68;Masculino;Superior;Acima 20 SM;Norte;Globoplay;9,3;Smartphone;Quinzenal;10;Às vezes;Não;122,03;10;Heavy User
+450;35;Masculino;Pós-Graduação;Acima 20 SM;Norte;Amazon Prime;9,4;Desktop;Semanal;8;Às vezes;Sim;8,93;8;Casual
+451;25;Masculino;Médio;Acima 20 SM;Sul;Disney+;7,2;Smart TV;Raramente;8;Às vezes;Não;0,68;9;Casual
+452;72;Feminino;Pós-Graduação;Até 2 SM;Norte;Twitter/X;6,8;Notebook;Semanal;5;Não;Sim;21,82;3;Casual
+453;55;Não-binário;Médio;2-5 SM;Norte;Netflix;9,0;Desktop;Mensal;5;Sim;Sim;147,17;6;Heavy User
+454;68;Não-binário;Superior;2-5 SM;Sudeste;Netflix;8,0;Tablet;Semanal;2;Às vezes;Sim;236,01;1;Heavy User
+455;31;Feminino;Médio;Até 2 SM;Sudeste;Spotify;3,4;Tablet;Raramente;4;Sim;Não;186,68;5;Heavy User
+456;38;Masculino;Médio;10-20 SM;Centro-Oeste;Amazon Prime;5,7;Desktop;Raramente;6;Às vezes;Sim;148,73;8;Heavy User
+457;33;Não-binário;Superior;10-20 SM;Sudeste;Instagram;5,7;Smart TV;Semanal;4;Sim;Não;242,62;5;Heavy User
+458;26;Feminino;Fundamental;5-10 SM;Sudeste;Instagram;9,6;Smartphone;Mensal;5;Sim;Não;90,45;9;Casual
+459;50;Feminino;Fundamental;10-20 SM;Sudeste;Spotify;9,2;Notebook;Quinzenal;1;Sim;Sim;108,24;1;Heavy User
+460;67;Masculino;Médio;5-10 SM;Norte;Disney+;1,5;Desktop;Diário;8;Não;Sim;185,04;1;Tradicional
+461;53;Feminino;Médio;10-20 SM;Nordeste;Spotify;4,1;Notebook;Mensal;3;Às vezes;Sim;39,12;7;Casual
+462;28;Masculino;Superior;Até 2 SM;Norte;Amazon Prime;1,7;Notebook;Semanal;3;Às vezes;Não;186,76;5;Heavy User
+463;16;Não-binário;Superior;10-20 SM;Sul;WhatsApp;3,2;Tablet;Mensal;2;Às vezes;Não;43,22;5;Casual
+464;66;Feminino;Médio;10-20 SM;Nordeste;Spotify;5,5;Tablet;Raramente;8;Sim;Não;228,61;5;Heavy User
+465;33;Feminino;Médio;Até 2 SM;Nordeste;Globoplay;3,2;Notebook;Quinzenal;8;Sim;Sim;166,75;8;Heavy User
+466;28;Feminino;Médio;Até 2 SM;Centro-Oeste;YouTube;9,5;Smartphone;Quinzenal;1;Não;Sim;215,86;7;Heavy User
+467;58;Feminino;Superior;Acima 20 SM;Nordeste;Amazon Prime;0,6;Smartphone;Semanal;9;Sim;Não;43,24;2;Tradicional
+468;70;Não-binário;Médio;5-10 SM;Nordeste;Instagram;5,1;Desktop;Quinzenal;10;Sim;Sim;207,76;6;Heavy User
+469;60;Feminino;Fundamental;10-20 SM;Centro-Oeste;Netflix;8,0;Notebook;Raramente;10;Não;Sim;65,90;5;Casual
+470;30;Não-binário;Superior;5-10 SM;Sudeste;Instagram;4,4;Desktop;Semanal;10;Não;Sim;203,46;1;Heavy User
+471;69;Masculino;Médio;Até 2 SM;Sudeste;TikTok;2,8;Desktop;Quinzenal;10;Às vezes;Não;154,90;10;Heavy User
+472;45;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;WhatsApp;3,2;Desktop;Mensal;7;Não;Não;201,10;10;Heavy User
+473;61;Masculino;Médio;5-10 SM;Sul;Spotify;4,2;Tablet;Quinzenal;1;Sim;Sim;75,44;3;Casual
+474;26;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;TikTok;7,2;Notebook;Quinzenal;3;Sim;Não;99,78;1;Casual
+475;17;Feminino;Médio;5-10 SM;Sul;Netflix;8,4;Notebook;Raramente;2;Às vezes;Sim;105,62;2;Nativo Digital
+476;64;Feminino;Pós-Graduação;Acima 20 SM;Norte;Twitter/X;6,2;Smartphone;Raramente;4;Não;Não;88,36;10;Casual
+477;45;Não-binário;Fundamental;Até 2 SM;Centro-Oeste;Globoplay;9,9;Smart TV;Quinzenal;2;Sim;Sim;124,48;1;Heavy User
+478;73;Não-binário;Superior;Até 2 SM;Nordeste;Twitter/X;3,1;Notebook;Diário;4;Não;Não;9,34;10;Casual
+479;72;Feminino;Médio;2-5 SM;Norte;Disney+;3,7;Notebook;Diário;4;Sim;Sim;198,02;2;Heavy User
+480;39;Feminino;Superior;Acima 20 SM;Sul;Twitter/X;5,9;Smart TV;Quinzenal;2;Às vezes;Não;27,80;7;Casual
+481;37;Feminino;Médio;10-20 SM;Norte;Spotify;5,7;Smartphone;Mensal;1;Sim;Sim;136,98;4;Heavy User
+482;25;Não-binário;Superior;2-5 SM;Sul;TikTok;4,3;Notebook;Quinzenal;10;Sim;Não;144,89;2;Heavy User
+483;57;Feminino;Superior;Até 2 SM;Centro-Oeste;Disney+;1,6;Smartphone;Diário;5;Não;Não;237,59;7;Tradicional
+484;23;Masculino;Pós-Graduação;2-5 SM;Sudeste;Netflix;2,1;Notebook;Semanal;9;Não;Não;10,39;4;Casual
+485;39;Feminino;Pós-Graduação;10-20 SM;Nordeste;Spotify;2,4;Smartphone;Semanal;2;Sim;Sim;242,56;3;Heavy User
+486;35;Masculino;Superior;10-20 SM;Sudeste;WhatsApp;1,7;Tablet;Diário;4;Às vezes;Não;243,23;2;Heavy User
+487;37;Masculino;Superior;5-10 SM;Norte;WhatsApp;0,5;Notebook;Mensal;2;Às vezes;Sim;2,34;9;Casual
+488;33;Não-binário;Superior;5-10 SM;Sudeste;Twitter/X;2,6;Smart TV;Mensal;1;Sim;Não;74,06;2;Casual
+489;74;Masculino;Médio;5-10 SM;Nordeste;TikTok;9,6;Smart TV;Mensal;10;Não;Sim;217,76;6;Heavy User
+490;23;Não-binário;Fundamental;Até 2 SM;Sudeste;Twitter/X;4,2;Tablet;Semanal;6;Não;Não;127,67;4;Nativo Digital
+491;48;Feminino;Pós-Graduação;Até 2 SM;Nordeste;TikTok;9,0;Notebook;Raramente;8;Às vezes;Sim;230,63;1;Heavy User
+492;46;Masculino;Fundamental;Acima 20 SM;Norte;Globoplay;8,7;Tablet;Quinzenal;9;Não;Não;244,57;4;Heavy User
+493;40;Feminino;Pós-Graduação;10-20 SM;Nordeste;Spotify;9,2;Smart TV;Raramente;7;Às vezes;Sim;172,46;7;Heavy User
+494;31;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;Globoplay;0,7;Smartphone;Semanal;2;Não;Sim;211,93;6;Heavy User
+495;54;Não-binário;Médio;Acima 20 SM;Nordeste;Amazon Prime;3,0;Desktop;Semanal;9;Às vezes;Sim;227,70;9;Heavy User
+496;72;Não-binário;Fundamental;5-10 SM;Sudeste;Twitter/X;7,6;Desktop;Diário;5;Sim;Sim;138,82;8;Heavy User
+497;34;Feminino;Pós-Graduação;10-20 SM;Norte;WhatsApp;3,2;Smartphone;Semanal;4;Não;Não;130,63;3;Heavy User
+498;55;Não-binário;Médio;5-10 SM;Centro-Oeste;YouTube;2,7;Notebook;Diário;7;Às vezes;Não;53,82;10;Casual
+499;31;Não-binário;Médio;Acima 20 SM;Sudeste;Netflix;4,2;Smart TV;Mensal;4;Às vezes;Sim;57,53;2;Casual
+500;54;Masculino;Superior;10-20 SM;Sul;Globoplay;3,1;Notebook;Quinzenal;7;Às vezes;Sim;214,99;2;Heavy User
+501;57;Não-binário;Pós-Graduação;Acima 20 SM;Sudeste;Twitter/X;6,0;Desktop;Raramente;10;Não;Sim;204,93;3;Heavy User
+502;54;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;Instagram;5,4;Smart TV;Mensal;8;Sim;Não;151,07;2;Heavy User
+503;55;Não-binário;Superior;Até 2 SM;Nordeste;WhatsApp;3,3;Desktop;Mensal;3;Às vezes;Sim;29,84;9;Casual
+504;34;Feminino;Fundamental;Até 2 SM;Centro-Oeste;Globoplay;7,9;Smartphone;Raramente;3;Sim;Sim;170,96;7;Heavy User
+505;23;Feminino;Médio;5-10 SM;Sul;Disney+;1,8;Tablet;Quinzenal;5;Às vezes;Sim;238,19;2;Heavy User
+506;56;Não-binário;Fundamental;5-10 SM;Centro-Oeste;Twitter/X;6,3;Smartphone;Semanal;9;Às vezes;Não;28,97;2;Casual
+507;56;Não-binário;Pós-Graduação;5-10 SM;Centro-Oeste;Globoplay;9,3;Desktop;Semanal;7;Não;Sim;213,07;4;Heavy User
+508;66;Feminino;Fundamental;5-10 SM;Sudeste;Netflix;7,2;Smart TV;Mensal;2;Às vezes;Sim;90,69;7;Casual
+509;66;Não-binário;Médio;Até 2 SM;Nordeste;Netflix;9,3;Smart TV;Quinzenal;9;Sim;Sim;243,33;10;Heavy User
+510;56;Não-binário;Pós-Graduação;Acima 20 SM;Centro-Oeste;Spotify;6,4;Desktop;Semanal;5;Não;Sim;66,16;6;Casual
+511;39;Não-binário;Pós-Graduação;2-5 SM;Nordeste;Twitter/X;6,2;Tablet;Raramente;9;Às vezes;Não;193,87;6;Heavy User
+512;26;Masculino;Médio;Acima 20 SM;Sudeste;Globoplay;8,0;Smart TV;Quinzenal;10;Às vezes;Não;88,78;6;Casual
+513;74;Feminino;Superior;2-5 SM;Nordeste;Netflix;3,6;Tablet;Mensal;3;Às vezes;Sim;46,45;9;Casual
+514;58;Não-binário;Pós-Graduação;10-20 SM;Nordeste;TikTok;6,7;Smart TV;Mensal;1;Às vezes;Não;186,59;3;Heavy User
+515;29;Masculino;Fundamental;Até 2 SM;Sudeste;Spotify;6,3;Notebook;Quinzenal;8;Não;Sim;33,14;6;Casual
+516;57;Masculino;Pós-Graduação;10-20 SM;Nordeste;Spotify;8,8;Desktop;Mensal;5;Às vezes;Não;51,28;5;Casual
+517;68;Feminino;Fundamental;2-5 SM;Norte;TikTok;4,4;Smart TV;Raramente;7;Às vezes;Sim;31,87;9;Casual
+518;45;Masculino;Pós-Graduação;5-10 SM;Sul;Instagram;9,1;Smartphone;Quinzenal;4;Sim;Não;83,00;6;Casual
+519;27;Masculino;Pós-Graduação;10-20 SM;Norte;Globoplay;2,0;Notebook;Mensal;1;Sim;Sim;219,40;2;Heavy User
+520;16;Feminino;Médio;Acima 20 SM;Sudeste;Netflix;8,5;Notebook;Diário;8;Sim;Não;167,88;10;Nativo Digital
+521;44;Feminino;Superior;Até 2 SM;Norte;Amazon Prime;5,0;Desktop;Quinzenal;5;Sim;Não;165,00;2;Heavy User
+522;56;Masculino;Superior;2-5 SM;Centro-Oeste;WhatsApp;1,5;Notebook;Quinzenal;6;Sim;Não;157,37;3;Tradicional
+523;44;Não-binário;Médio;Até 2 SM;Norte;Twitter/X;5,7;Smartphone;Semanal;1;Às vezes;Sim;148,63;4;Heavy User
+524;23;Masculino;Pós-Graduação;Acima 20 SM;Centro-Oeste;Spotify;3,8;Smart TV;Semanal;4;Não;Não;198,03;1;Heavy User
+525;69;Não-binário;Pós-Graduação;Até 2 SM;Sudeste;Spotify;9,1;Smart TV;Mensal;7;Não;Não;3,03;9;Casual
+526;72;Masculino;Pós-Graduação;Até 2 SM;Sudeste;Netflix;9,3;Smartphone;Mensal;5;Sim;Não;23,87;9;Casual
+527;30;Masculino;Superior;Até 2 SM;Norte;Instagram;7,4;Smartphone;Mensal;10;Sim;Não;50,54;9;Engajado Crítico
+528;52;Masculino;Superior;2-5 SM;Norte;Globoplay;2,3;Smart TV;Quinzenal;7;Sim;Não;225,56;6;Heavy User
+529;26;Masculino;Superior;Até 2 SM;Norte;TikTok;9,3;Smartphone;Quinzenal;9;Sim;Sim;103,70;9;Heavy User
+530;52;Masculino;Pós-Graduação;5-10 SM;Sul;TikTok;3,6;Smart TV;Mensal;4;Às vezes;Sim;212,39;10;Heavy User
+531;42;Não-binário;Superior;10-20 SM;Norte;WhatsApp;9,7;Tablet;Quinzenal;6;Não;Não;109,77;10;Heavy User
+532;70;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Globoplay;5,9;Tablet;Mensal;6;Às vezes;Sim;45,11;4;Casual
+533;54;Não-binário;Superior;5-10 SM;Sul;Instagram;6,4;Smartphone;Mensal;9;Não;Não;113,64;9;Heavy User
+534;32;Feminino;Fundamental;2-5 SM;Nordeste;Netflix;5,1;Desktop;Diário;5;Às vezes;Não;206,04;1;Heavy User
+535;57;Não-binário;Médio;Acima 20 SM;Sudeste;Netflix;8,5;Smartphone;Raramente;4;Não;Não;208,77;2;Heavy User
+536;18;Não-binário;Fundamental;Acima 20 SM;Sul;Disney+;1,4;Smart TV;Mensal;9;Sim;Sim;27,70;5;Engajado Crítico
+537;45;Masculino;Superior;5-10 SM;Centro-Oeste;Instagram;3,5;Smart TV;Semanal;6;Não;Não;33,47;2;Casual
+538;52;Não-binário;Superior;Até 2 SM;Norte;Netflix;5,9;Notebook;Semanal;7;Não;Sim;17,71;6;Casual
+539;38;Masculino;Superior;10-20 SM;Nordeste;Netflix;8,6;Smartphone;Raramente;9;Às vezes;Não;160,54;5;Heavy User
+540;63;Masculino;Superior;2-5 SM;Sudeste;Globoplay;2,1;Smart TV;Raramente;6;Não;Não;197,26;4;Heavy User
+541;21;Feminino;Médio;5-10 SM;Centro-Oeste;Disney+;5,8;Smartphone;Mensal;4;Sim;Não;104,05;2;Nativo Digital
+542;53;Não-binário;Fundamental;2-5 SM;Sudeste;Globoplay;4,8;Smartphone;Diário;1;Sim;Não;172,59;4;Heavy User
+543;66;Feminino;Superior;Acima 20 SM;Nordeste;TikTok;3,6;Tablet;Quinzenal;2;Às vezes;Não;166,80;5;Heavy User
+544;52;Feminino;Fundamental;Até 2 SM;Sudeste;Instagram;9,3;Desktop;Mensal;3;Sim;Não;193,15;9;Heavy User
+545;50;Masculino;Fundamental;Acima 20 SM;Sul;YouTube;1,4;Smartphone;Mensal;7;Às vezes;Sim;81,04;10;Casual
+546;74;Feminino;Superior;Acima 20 SM;Sudeste;Netflix;2,9;Notebook;Semanal;8;Não;Não;148,30;7;Heavy User
+547;46;Não-binário;Médio;2-5 SM;Centro-Oeste;Instagram;6,1;Desktop;Diário;8;Sim;Sim;136,96;8;Heavy User
+548;29;Feminino;Médio;2-5 SM;Sul;Netflix;3,9;Smartphone;Semanal;2;Não;Não;44,97;7;Casual
+549;59;Feminino;Médio;10-20 SM;Nordeste;Instagram;2,1;Tablet;Diário;5;Sim;Não;135,54;5;Heavy User
+550;34;Feminino;Fundamental;10-20 SM;Sul;Disney+;6,0;Tablet;Raramente;10;Sim;Sim;17,58;2;Engajado Crítico
+551;58;Não-binário;Médio;2-5 SM;Norte;Instagram;3,3;Smartphone;Mensal;10;Não;Sim;74,91;9;Casual
+552;65;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;Netflix;3,2;Desktop;Semanal;5;Sim;Não;171,25;5;Heavy User
+553;73;Masculino;Pós-Graduação;2-5 SM;Norte;WhatsApp;7,4;Desktop;Quinzenal;2;Não;Sim;13,29;4;Casual
+554;30;Feminino;Fundamental;5-10 SM;Sudeste;Instagram;8,1;Smartphone;Semanal;1;Não;Não;5,37;9;Casual
+555;17;Não-binário;Superior;10-20 SM;Sul;Netflix;7,7;Tablet;Raramente;2;Às vezes;Não;13,03;9;Nativo Digital
+556;48;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;YouTube;9,5;Desktop;Quinzenal;4;Sim;Não;217,81;3;Heavy User
+557;25;Feminino;Pós-Graduação;10-20 SM;Sudeste;TikTok;3,1;Notebook;Raramente;7;Sim;Sim;184,20;1;Heavy User
+558;18;Não-binário;Superior;Acima 20 SM;Centro-Oeste;Instagram;6,0;Notebook;Mensal;6;Sim;Não;224,13;10;Nativo Digital
+559;26;Masculino;Médio;10-20 SM;Norte;Amazon Prime;9,6;Notebook;Semanal;7;Sim;Não;30,65;7;Casual
+560;46;Masculino;Pós-Graduação;Acima 20 SM;Nordeste;Globoplay;1,8;Smartphone;Diário;7;Não;Não;235,21;8;Heavy User
+561;21;Masculino;Médio;2-5 SM;Centro-Oeste;Disney+;1,4;Tablet;Mensal;4;Não;Sim;57,03;1;Casual
+562;35;Não-binário;Médio;10-20 SM;Nordeste;Twitter/X;6,6;Desktop;Raramente;2;Às vezes;Não;61,44;10;Casual
+563;71;Não-binário;Médio;Até 2 SM;Centro-Oeste;Disney+;8,0;Smartphone;Raramente;8;Às vezes;Não;41,32;5;Casual
+564;16;Feminino;Pós-Graduação;10-20 SM;Norte;Netflix;8,5;Smartphone;Mensal;2;Às vezes;Não;185,83;2;Nativo Digital
+565;66;Feminino;Fundamental;Acima 20 SM;Sul;TikTok;7,3;Tablet;Raramente;7;Não;Sim;249,36;7;Heavy User
+566;65;Masculino;Superior;5-10 SM;Norte;Spotify;5,8;Tablet;Mensal;9;Não;Sim;240,18;8;Heavy User
+567;35;Não-binário;Médio;10-20 SM;Norte;YouTube;3,7;Notebook;Semanal;7;Sim;Sim;32,61;2;Casual
+568;36;Não-binário;Médio;Até 2 SM;Nordeste;Spotify;8,0;Tablet;Semanal;4;Às vezes;Não;51,70;1;Casual
+569;59;Feminino;Fundamental;2-5 SM;Nordeste;Disney+;6,1;Tablet;Quinzenal;8;Sim;Não;185,65;8;Heavy User
+570;39;Feminino;Superior;Até 2 SM;Norte;Disney+;6,1;Notebook;Quinzenal;3;Sim;Não;31,60;6;Casual
+571;54;Feminino;Fundamental;2-5 SM;Sudeste;WhatsApp;3,0;Notebook;Diário;4;Sim;Sim;233,65;9;Heavy User
+572;71;Feminino;Superior;5-10 SM;Nordeste;YouTube;8,3;Notebook;Quinzenal;10;Às vezes;Não;202,31;3;Heavy User
+573;48;Feminino;Fundamental;5-10 SM;Norte;TikTok;7,6;Smart TV;Semanal;6;Não;Não;214,19;4;Heavy User
+574;29;Não-binário;Médio;2-5 SM;Norte;Twitter/X;4,6;Smart TV;Diário;2;Sim;Sim;123,16;4;Heavy User
+575;60;Feminino;Pós-Graduação;Acima 20 SM;Norte;Disney+;2,2;Smartphone;Semanal;6;Às vezes;Sim;185,01;3;Heavy User
+576;20;Masculino;Fundamental;Até 2 SM;Sul;Amazon Prime;0,8;Tablet;Raramente;4;Às vezes;Sim;126,84;10;Heavy User
+577;52;Masculino;Médio;2-5 SM;Norte;Amazon Prime;6,7;Smartphone;Semanal;9;Às vezes;Sim;157,57;10;Heavy User
+578;51;Feminino;Fundamental;2-5 SM;Norte;Disney+;2,0;Tablet;Mensal;9;Às vezes;Sim;136,40;5;Heavy User
+579;31;Masculino;Superior;Acima 20 SM;Sudeste;YouTube;9,9;Smart TV;Quinzenal;9;Às vezes;Sim;90,59;9;Casual
+580;49;Feminino;Pós-Graduação;Acima 20 SM;Sudeste;Disney+;0,8;Desktop;Raramente;8;Às vezes;Sim;44,60;5;Casual
+581;42;Feminino;Superior;2-5 SM;Nordeste;Twitter/X;9,4;Tablet;Mensal;5;Às vezes;Não;7,06;10;Casual
+582;27;Não-binário;Pós-Graduação;Até 2 SM;Nordeste;Amazon Prime;0,9;Desktop;Quinzenal;5;Sim;Sim;231,63;5;Heavy User
+583;51;Não-binário;Fundamental;Até 2 SM;Centro-Oeste;Globoplay;4,2;Tablet;Raramente;4;Não;Sim;161,86;10;Heavy User
+584;64;Masculino;Superior;Acima 20 SM;Sudeste;Twitter/X;7,8;Desktop;Mensal;9;Às vezes;Sim;68,29;4;Casual
+585;69;Feminino;Superior;5-10 SM;Centro-Oeste;Twitter/X;2,8;Desktop;Raramente;4;Às vezes;Sim;226,77;4;Heavy User
+586;29;Feminino;Superior;10-20 SM;Norte;Disney+;6,9;Smartphone;Mensal;6;Às vezes;Não;102,00;2;Heavy User
+587;61;Feminino;Superior;10-20 SM;Sudeste;Twitter/X;5,4;Notebook;Raramente;1;Às vezes;Não;117,65;1;Heavy User
+588;46;Masculino;Pós-Graduação;Até 2 SM;Norte;Instagram;8,8;Smart TV;Semanal;4;Às vezes;Não;223,58;10;Heavy User
+589;42;Masculino;Pós-Graduação;5-10 SM;Sul;Twitter/X;8,6;Smart TV;Semanal;10;Não;Sim;148,89;5;Heavy User
+590;34;Masculino;Pós-Graduação;Até 2 SM;Centro-Oeste;Disney+;5,4;Notebook;Raramente;7;Às vezes;Sim;133,28;8;Heavy User
+591;34;Feminino;Pós-Graduação;5-10 SM;Sudeste;WhatsApp;5,5;Smart TV;Mensal;4;Não;Sim;158,83;9;Heavy User
+592;53;Não-binário;Pós-Graduação;2-5 SM;Norte;TikTok;4,5;Tablet;Diário;8;Não;Não;105,94;5;Heavy User
+593;29;Masculino;Superior;Até 2 SM;Sul;Globoplay;1,0;Notebook;Quinzenal;1;Sim;Sim;51,65;5;Casual
+594;71;Masculino;Fundamental;10-20 SM;Nordeste;Globoplay;7,1;Tablet;Mensal;4;Sim;Não;58,60;5;Casual
+595;17;Masculino;Pós-Graduação;Até 2 SM;Norte;Spotify;3,7;Tablet;Quinzenal;3;Não;Sim;225,71;4;Heavy User
+596;74;Masculino;Fundamental;10-20 SM;Sul;Twitter/X;5,0;Tablet;Raramente;5;Não;Sim;241,58;6;Heavy User
+597;69;Feminino;Médio;Até 2 SM;Norte;Spotify;5,4;Desktop;Raramente;3;Não;Sim;99,82;5;Casual
+598;18;Masculino;Fundamental;5-10 SM;Sul;Globoplay;8,2;Desktop;Quinzenal;2;Às vezes;Sim;205,41;3;Nativo Digital
+599;45;Masculino;Superior;Até 2 SM;Nordeste;Spotify;6,1;Tablet;Semanal;9;Às vezes;Sim;116,72;4;Heavy User
+600;33;Masculino;Superior;10-20 SM;Nordeste;Twitter/X;4,7;Smartphone;Raramente;9;Não;Sim;79,34;5;Casual
+601;46;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;Globoplay;1,6;Desktop;Semanal;8;Não;Não;148,87;4;Heavy User
+602;23;Não-binário;Fundamental;10-20 SM;Norte;YouTube;2,9;Desktop;Mensal;9;Sim;Sim;181,01;6;Heavy User
+603;38;Feminino;Médio;2-5 SM;Sudeste;TikTok;6,1;Tablet;Mensal;8;Às vezes;Sim;67,77;2;Casual
+604;32;Não-binário;Superior;Acima 20 SM;Sul;WhatsApp;1,3;Desktop;Quinzenal;4;Sim;Sim;91,97;1;Casual
+605;41;Masculino;Médio;Acima 20 SM;Sudeste;Globoplay;3,5;Notebook;Quinzenal;9;Não;Sim;210,72;5;Heavy User
+606;25;Masculino;Fundamental;Acima 20 SM;Sul;Globoplay;6,1;Tablet;Raramente;6;Não;Não;177,50;2;Heavy User
+607;59;Não-binário;Pós-Graduação;10-20 SM;Sudeste;Globoplay;5,9;Tablet;Raramente;3;Não;Sim;97,15;1;Casual
+608;71;Não-binário;Pós-Graduação;Acima 20 SM;Sul;Amazon Prime;0,9;Tablet;Mensal;9;Às vezes;Sim;203,29;8;Tradicional
+609;58;Não-binário;Médio;2-5 SM;Sul;Spotify;8,9;Smartphone;Semanal;7;Sim;Não;1,37;4;Casual
+610;21;Não-binário;Superior;2-5 SM;Sudeste;Instagram;7,9;Desktop;Quinzenal;5;Não;Não;172,77;4;Nativo Digital
+611;62;Não-binário;Médio;2-5 SM;Centro-Oeste;Netflix;4,0;Desktop;Mensal;9;Às vezes;Não;125,21;9;Heavy User
+612;69;Masculino;Superior;Acima 20 SM;Centro-Oeste;Instagram;5,1;Smart TV;Diário;1;Sim;Sim;56,12;4;Casual
+613;58;Feminino;Fundamental;5-10 SM;Nordeste;Instagram;2,3;Tablet;Raramente;1;Sim;Sim;227,59;8;Heavy User
+614;71;Masculino;Superior;Acima 20 SM;Nordeste;Disney+;5,7;Notebook;Diário;10;Não;Não;79,13;4;Casual
+615;49;Não-binário;Superior;2-5 SM;Sudeste;Twitter/X;8,5;Smartphone;Semanal;3;Sim;Não;34,29;6;Casual
+616;66;Não-binário;Fundamental;5-10 SM;Sudeste;Netflix;2,2;Smart TV;Semanal;5;Não;Sim;57,73;2;Casual
+617;31;Não-binário;Médio;10-20 SM;Sul;Netflix;1,1;Tablet;Quinzenal;1;Às vezes;Não;69,44;3;Casual
+618;52;Masculino;Superior;5-10 SM;Centro-Oeste;Netflix;4,7;Tablet;Semanal;3;Sim;Sim;172,21;9;Heavy User
+619;24;Não-binário;Médio;5-10 SM;Centro-Oeste;Amazon Prime;1,7;Smartphone;Mensal;2;Sim;Não;79,44;8;Casual
+620;19;Feminino;Fundamental;Acima 20 SM;Nordeste;WhatsApp;2,9;Desktop;Quinzenal;2;Não;Sim;242,08;2;Heavy User
+621;48;Masculino;Médio;2-5 SM;Centro-Oeste;Spotify;2,6;Smart TV;Raramente;6;Sim;Sim;6,38;4;Casual
+622;27;Masculino;Médio;Até 2 SM;Nordeste;Amazon Prime;6,0;Smart TV;Raramente;6;Às vezes;Sim;70,78;3;Casual
+623;47;Masculino;Superior;Até 2 SM;Nordeste;YouTube;1,4;Notebook;Raramente;2;Não;Sim;13,10;2;Casual
+624;54;Não-binário;Superior;2-5 SM;Nordeste;Spotify;0,5;Tablet;Mensal;9;Às vezes;Não;249,99;3;Tradicional
+625;68;Não-binário;Fundamental;5-10 SM;Nordeste;Twitter/X;8,5;Tablet;Quinzenal;2;Às vezes;Não;235,97;9;Heavy User
+626;71;Masculino;Pós-Graduação;10-20 SM;Nordeste;Netflix;6,8;Tablet;Diário;2;Não;Não;200,46;4;Heavy User
+627;62;Masculino;Pós-Graduação;10-20 SM;Norte;Spotify;6,8;Smartphone;Diário;5;Às vezes;Sim;203,78;7;Heavy User
+628;32;Não-binário;Superior;10-20 SM;Nordeste;Netflix;6,5;Tablet;Raramente;4;Às vezes;Sim;176,38;4;Heavy User
+629;43;Feminino;Médio;Acima 20 SM;Nordeste;Amazon Prime;4,8;Notebook;Semanal;1;Às vezes;Não;94,68;7;Casual
+630;60;Não-binário;Pós-Graduação;Acima 20 SM;Norte;WhatsApp;4,7;Smartphone;Semanal;8;Às vezes;Não;200,98;1;Heavy User
+631;22;Masculino;Fundamental;5-10 SM;Sul;Globoplay;1,7;Smart TV;Semanal;3;Não;Não;201,46;8;Heavy User
+632;58;Masculino;Fundamental;10-20 SM;Sul;WhatsApp;8,7;Tablet;Mensal;9;Não;Sim;143,59;1;Heavy User
+633;61;Não-binário;Médio;2-5 SM;Sul;Twitter/X;3,2;Notebook;Diário;3;Não;Sim;107,14;7;Heavy User
+634;66;Não-binário;Superior;5-10 SM;Norte;Spotify;3,5;Desktop;Semanal;3;Não;Não;129,59;10;Heavy User
+635;64;Masculino;Pós-Graduação;Até 2 SM;Centro-Oeste;Twitter/X;8,4;Tablet;Raramente;3;Às vezes;Não;137,32;5;Heavy User
+636;73;Feminino;Fundamental;5-10 SM;Sudeste;Instagram;6,3;Desktop;Diário;8;Sim;Sim;42,56;10;Engajado Crítico
+637;48;Masculino;Superior;2-5 SM;Nordeste;Instagram;9,6;Notebook;Semanal;4;Às vezes;Não;204,54;1;Heavy User
+638;55;Não-binário;Médio;10-20 SM;Sul;Globoplay;5,3;Smart TV;Semanal;2;Sim;Sim;227,40;1;Heavy User
+639;48;Feminino;Médio;Até 2 SM;Centro-Oeste;WhatsApp;3,0;Tablet;Raramente;1;Sim;Não;63,86;6;Casual
+640;50;Feminino;Pós-Graduação;5-10 SM;Sul;Twitter/X;1,3;Desktop;Quinzenal;4;Às vezes;Não;235,78;5;Heavy User
+641;72;Feminino;Superior;Acima 20 SM;Nordeste;Netflix;6,1;Notebook;Quinzenal;6;Não;Sim;45,64;9;Casual
+642;29;Masculino;Fundamental;10-20 SM;Sul;Instagram;9,3;Tablet;Quinzenal;5;Sim;Sim;209,92;4;Heavy User
+643;25;Não-binário;Superior;Acima 20 SM;Sudeste;Instagram;2,0;Tablet;Mensal;4;Sim;Não;153,78;6;Heavy User
+644;68;Não-binário;Superior;Até 2 SM;Sul;Instagram;9,7;Tablet;Mensal;5;Sim;Não;49,31;9;Casual
+645;69;Masculino;Fundamental;Até 2 SM;Centro-Oeste;Amazon Prime;7,7;Notebook;Diário;3;Sim;Sim;217,76;9;Heavy User
+646;53;Não-binário;Superior;10-20 SM;Nordeste;TikTok;9,8;Smartphone;Mensal;7;Não;Não;97,55;7;Casual
+647;71;Masculino;Fundamental;Até 2 SM;Centro-Oeste;TikTok;2,4;Tablet;Diário;2;Não;Não;205,50;1;Heavy User
+648;45;Não-binário;Superior;5-10 SM;Sudeste;Amazon Prime;3,2;Smartphone;Quinzenal;7;Às vezes;Não;249,38;6;Heavy User
+649;55;Masculino;Médio;Acima 20 SM;Sudeste;YouTube;4,0;Desktop;Mensal;5;Às vezes;Sim;164,18;2;Heavy User
+650;67;Feminino;Superior;10-20 SM;Sudeste;Twitter/X;9,1;Desktop;Quinzenal;1;Não;Sim;60,90;6;Casual
+651;37;Não-binário;Pós-Graduação;Até 2 SM;Sudeste;Spotify;1,3;Desktop;Raramente;7;Não;Não;149,79;10;Heavy User
+652;72;Masculino;Superior;Acima 20 SM;Sudeste;YouTube;2,7;Notebook;Semanal;7;Às vezes;Sim;125,81;6;Heavy User
+653;21;Feminino;Pós-Graduação;2-5 SM;Sul;TikTok;10,0;Tablet;Quinzenal;8;Não;Não;17,30;4;Nativo Digital
+654;30;Não-binário;Médio;10-20 SM;Norte;Spotify;1,0;Desktop;Raramente;7;Não;Não;193,13;1;Heavy User
+655;39;Masculino;Superior;5-10 SM;Norte;TikTok;3,6;Tablet;Diário;7;Às vezes;Não;230,15;10;Heavy User
+656;62;Não-binário;Fundamental;10-20 SM;Norte;Disney+;8,5;Desktop;Quinzenal;9;Não;Não;1,55;9;Casual
+657;58;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;WhatsApp;8,1;Smartphone;Semanal;7;Sim;Sim;220,35;3;Heavy User
+658;50;Feminino;Pós-Graduação;2-5 SM;Nordeste;Globoplay;1,4;Tablet;Semanal;2;Não;Sim;102,53;6;Heavy User
+659;43;Feminino;Pós-Graduação;2-5 SM;Sul;Netflix;4,1;Smartphone;Mensal;3;Não;Não;189,44;4;Heavy User
+660;42;Feminino;Pós-Graduação;10-20 SM;Norte;Instagram;4,9;Desktop;Mensal;6;Às vezes;Não;157,18;7;Heavy User
+661;32;Masculino;Médio;2-5 SM;Sudeste;Spotify;9,5;Smart TV;Semanal;5;Às vezes;Não;203,62;6;Heavy User
+662;62;Feminino;Médio;5-10 SM;Centro-Oeste;Amazon Prime;9,9;Desktop;Mensal;5;Às vezes;Sim;105,67;5;Heavy User
+663;67;Não-binário;Fundamental;Até 2 SM;Sul;Amazon Prime;9,1;Notebook;Mensal;9;Sim;Sim;50,91;1;Engajado Crítico
+664;47;Masculino;Médio;2-5 SM;Norte;Twitter/X;4,2;Desktop;Mensal;1;Não;Sim;206,18;1;Heavy User
+665;50;Feminino;Fundamental;Acima 20 SM;Sul;TikTok;5,7;Desktop;Diário;7;Às vezes;Não;172,43;5;Heavy User
+666;55;Não-binário;Superior;10-20 SM;Sul;Spotify;1,1;Smart TV;Diário;9;Às vezes;Não;218,68;9;Tradicional
+667;40;Masculino;Fundamental;5-10 SM;Norte;Instagram;7,8;Smartphone;Mensal;2;Não;Não;158,98;2;Heavy User
+668;28;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;Instagram;5,5;Smart TV;Raramente;7;Sim;Sim;72,69;9;Casual
+669;66;Masculino;Fundamental;5-10 SM;Sudeste;Instagram;10,0;Tablet;Raramente;8;Não;Não;195,51;1;Heavy User
+670;26;Feminino;Médio;Acima 20 SM;Sudeste;Spotify;8,4;Tablet;Raramente;10;Sim;Não;142,02;4;Heavy User
+671;37;Não-binário;Superior;5-10 SM;Centro-Oeste;Twitter/X;8,0;Tablet;Raramente;1;Não;Não;226,71;4;Heavy User
+672;57;Masculino;Fundamental;Acima 20 SM;Sul;Twitter/X;1,8;Smartphone;Quinzenal;6;Às vezes;Não;160,02;3;Tradicional
+673;69;Feminino;Superior;10-20 SM;Sudeste;TikTok;4,6;Smartphone;Quinzenal;2;Sim;Sim;102,80;8;Heavy User
+674;55;Não-binário;Pós-Graduação;2-5 SM;Norte;Globoplay;2,8;Smart TV;Raramente;6;Não;Sim;98,62;6;Casual
+675;44;Masculino;Fundamental;Até 2 SM;Centro-Oeste;Netflix;8,5;Smart TV;Quinzenal;4;Sim;Não;38,39;3;Casual
+676;28;Não-binário;Superior;10-20 SM;Nordeste;Spotify;8,6;Notebook;Semanal;4;Não;Não;22,11;3;Casual
+677;17;Feminino;Pós-Graduação;5-10 SM;Sul;YouTube;8,3;Smart TV;Raramente;7;Sim;Não;126,05;9;Nativo Digital
+678;55;Feminino;Médio;Acima 20 SM;Sudeste;Netflix;1,8;Notebook;Quinzenal;7;Não;Não;220,18;4;Tradicional
+679;73;Masculino;Fundamental;10-20 SM;Sudeste;Amazon Prime;7,2;Desktop;Diário;1;Às vezes;Não;10,17;10;Casual
+680;43;Feminino;Superior;5-10 SM;Nordeste;Twitter/X;9,8;Tablet;Semanal;5;Não;Não;230,02;7;Heavy User
+681;60;Não-binário;Fundamental;5-10 SM;Sudeste;TikTok;2,8;Smartphone;Mensal;2;Sim;Sim;211,00;3;Heavy User
+682;29;Masculino;Médio;2-5 SM;Norte;TikTok;9,0;Desktop;Semanal;7;Às vezes;Não;110,29;1;Heavy User
+683;50;Masculino;Pós-Graduação;Acima 20 SM;Norte;TikTok;3,8;Smart TV;Quinzenal;3;Sim;Não;36,45;10;Casual
+684;37;Não-binário;Fundamental;5-10 SM;Nordeste;Instagram;9,0;Tablet;Quinzenal;2;Às vezes;Sim;164,80;9;Heavy User
+685;62;Não-binário;Médio;Acima 20 SM;Nordeste;Spotify;8,2;Notebook;Semanal;7;Não;Não;132,02;4;Heavy User
+686;28;Não-binário;Superior;10-20 SM;Sudeste;Globoplay;4,6;Desktop;Raramente;3;Às vezes;Sim;13,61;1;Casual
+687;63;Feminino;Médio;10-20 SM;Norte;TikTok;9,1;Desktop;Mensal;5;Não;Não;58,05;6;Casual
+688;17;Não-binário;Médio;5-10 SM;Sudeste;Netflix;3,2;Notebook;Quinzenal;5;Sim;Sim;91,81;9;Casual
+689;50;Feminino;Superior;2-5 SM;Norte;Netflix;6,0;Smart TV;Raramente;1;Não;Não;171,51;8;Heavy User
+690;69;Não-binário;Superior;Acima 20 SM;Sul;Disney+;2,7;Smartphone;Raramente;7;Sim;Sim;192,88;8;Heavy User
+691;39;Não-binário;Médio;Acima 20 SM;Nordeste;Amazon Prime;5,7;Notebook;Mensal;8;Não;Sim;239,22;5;Heavy User
+692;27;Feminino;Fundamental;Acima 20 SM;Sul;TikTok;6,2;Desktop;Quinzenal;5;Às vezes;Não;157,98;4;Heavy User
+693;66;Não-binário;Fundamental;5-10 SM;Nordeste;WhatsApp;2,7;Desktop;Diário;7;Não;Sim;64,42;8;Casual
+694;57;Não-binário;Fundamental;5-10 SM;Centro-Oeste;Instagram;3,8;Smart TV;Raramente;3;Não;Sim;236,09;10;Heavy User
+695;22;Feminino;Fundamental;Acima 20 SM;Sudeste;Instagram;3,6;Smart TV;Diário;9;Às vezes;Sim;24,44;1;Casual
+696;38;Não-binário;Pós-Graduação;10-20 SM;Sul;WhatsApp;8,2;Notebook;Mensal;2;Às vezes;Não;211,40;7;Heavy User
+697;36;Não-binário;Pós-Graduação;Até 2 SM;Centro-Oeste;Spotify;6,8;Tablet;Mensal;5;Às vezes;Sim;7,48;7;Casual
+698;42;Masculino;Médio;10-20 SM;Nordeste;Instagram;4,5;Smartphone;Semanal;6;Às vezes;Não;135,71;7;Heavy User
+699;37;Masculino;Superior;10-20 SM;Sul;WhatsApp;4,5;Desktop;Semanal;7;Sim;Sim;230,23;2;Heavy User
+700;23;Não-binário;Médio;5-10 SM;Centro-Oeste;Disney+;4,6;Notebook;Quinzenal;8;Às vezes;Não;224,74;2;Nativo Digital
+701;50;Não-binário;Superior;Até 2 SM;Sul;Amazon Prime;4,4;Smart TV;Semanal;8;Às vezes;Não;235,43;9;Heavy User
+702;53;Não-binário;Fundamental;Acima 20 SM;Nordeste;TikTok;5,1;Smartphone;Quinzenal;10;Não;Sim;243,64;4;Heavy User
+703;30;Não-binário;Fundamental;5-10 SM;Sudeste;TikTok;1,9;Desktop;Semanal;3;Não;Sim;174,69;8;Heavy User
+704;75;Feminino;Fundamental;Até 2 SM;Sudeste;YouTube;3,8;Desktop;Raramente;8;Sim;Não;17,63;5;Engajado Crítico
+705;58;Feminino;Pós-Graduação;10-20 SM;Norte;WhatsApp;2,4;Notebook;Raramente;4;Às vezes;Sim;148,48;7;Heavy User
+706;25;Não-binário;Pós-Graduação;Acima 20 SM;Sudeste;Spotify;1,4;Tablet;Diário;10;Sim;Sim;171,57;5;Heavy User
+707;65;Não-binário;Superior;Até 2 SM;Nordeste;WhatsApp;6,6;Smartphone;Raramente;4;Não;Não;70,52;4;Casual
+708;39;Não-binário;Superior;Até 2 SM;Sul;Twitter/X;7,9;Tablet;Quinzenal;3;Sim;Não;152,75;6;Heavy User
+709;56;Feminino;Médio;Acima 20 SM;Sudeste;WhatsApp;9,3;Notebook;Mensal;8;Não;Sim;187,51;7;Heavy User
+710;42;Não-binário;Fundamental;5-10 SM;Centro-Oeste;TikTok;7,7;Smart TV;Quinzenal;2;Sim;Sim;122,11;4;Heavy User
+711;67;Masculino;Pós-Graduação;5-10 SM;Norte;Disney+;1,4;Notebook;Quinzenal;5;Às vezes;Sim;191,98;3;Tradicional
+712;17;Não-binário;Superior;2-5 SM;Sudeste;TikTok;3,9;Tablet;Diário;10;Sim;Sim;78,92;9;Engajado Crítico
+713;43;Feminino;Superior;Acima 20 SM;Nordeste;Amazon Prime;9,5;Smartphone;Semanal;1;Não;Sim;168,75;9;Heavy User
+714;44;Masculino;Fundamental;Até 2 SM;Sul;Netflix;4,1;Notebook;Mensal;6;Sim;Sim;157,08;3;Heavy User
+715;71;Masculino;Superior;10-20 SM;Nordeste;Instagram;3,3;Desktop;Mensal;3;Às vezes;Sim;180,79;1;Heavy User
+716;43;Feminino;Superior;5-10 SM;Centro-Oeste;WhatsApp;8,9;Desktop;Mensal;1;Sim;Não;242,81;8;Heavy User
+717;19;Masculino;Fundamental;Acima 20 SM;Centro-Oeste;Twitter/X;5,1;Notebook;Semanal;9;Às vezes;Sim;245,83;8;Nativo Digital
+718;51;Feminino;Médio;10-20 SM;Norte;Spotify;5,0;Smartphone;Raramente;6;Às vezes;Não;154,44;2;Heavy User
+719;61;Não-binário;Pós-Graduação;Acima 20 SM;Norte;Disney+;5,8;Notebook;Raramente;2;Não;Sim;132,12;7;Heavy User
+720;24;Masculino;Médio;10-20 SM;Sul;Instagram;1,0;Desktop;Diário;10;Não;Não;19,76;7;Casual
+721;69;Masculino;Fundamental;Até 2 SM;Norte;Netflix;3,0;Desktop;Diário;10;Não;Sim;108,55;6;Heavy User
+722;73;Feminino;Superior;Acima 20 SM;Norte;Netflix;2,3;Desktop;Diário;9;Não;Sim;231,56;5;Heavy User
+723;43;Masculino;Fundamental;Até 2 SM;Nordeste;Globoplay;6,5;Smart TV;Semanal;8;Às vezes;Sim;111,53;7;Heavy User
+724;24;Masculino;Fundamental;5-10 SM;Sudeste;Netflix;10,0;Smart TV;Mensal;1;Às vezes;Não;220,80;3;Nativo Digital
+725;55;Masculino;Pós-Graduação;10-20 SM;Sul;YouTube;9,0;Desktop;Semanal;1;Sim;Sim;72,28;2;Casual
+726;32;Não-binário;Pós-Graduação;10-20 SM;Nordeste;Netflix;1,9;Tablet;Raramente;7;Sim;Sim;20,27;1;Casual
+727;28;Masculino;Pós-Graduação;Acima 20 SM;Sul;Twitter/X;2,3;Tablet;Diário;4;Às vezes;Não;231,54;3;Heavy User
+728;59;Feminino;Médio;10-20 SM;Centro-Oeste;Globoplay;5,5;Tablet;Raramente;3;Não;Não;171,38;2;Heavy User
+729;54;Não-binário;Pós-Graduação;Acima 20 SM;Norte;TikTok;2,5;Smartphone;Mensal;3;Sim;Sim;138,41;3;Heavy User
+730;57;Masculino;Médio;10-20 SM;Centro-Oeste;Instagram;1,4;Smart TV;Raramente;8;Sim;Não;230,69;5;Tradicional
+731;67;Feminino;Fundamental;5-10 SM;Centro-Oeste;Globoplay;3,6;Smart TV;Semanal;5;Sim;Sim;105,25;10;Heavy User
+732;18;Feminino;Fundamental;2-5 SM;Centro-Oeste;Amazon Prime;6,3;Smartphone;Quinzenal;2;Sim;Não;216,24;8;Nativo Digital
+733;68;Não-binário;Pós-Graduação;Acima 20 SM;Sul;WhatsApp;5,2;Notebook;Semanal;7;Sim;Sim;68,99;6;Casual
+734;64;Feminino;Superior;10-20 SM;Sul;Instagram;1,8;Notebook;Semanal;8;Sim;Não;51,91;7;Tradicional
+735;70;Não-binário;Superior;2-5 SM;Sudeste;YouTube;2,9;Notebook;Raramente;8;Às vezes;Sim;40,86;3;Casual
+736;40;Não-binário;Superior;Até 2 SM;Centro-Oeste;TikTok;4,5;Smart TV;Diário;1;Às vezes;Sim;194,13;6;Heavy User
+737;61;Não-binário;Superior;2-5 SM;Centro-Oeste;Netflix;1,8;Desktop;Diário;9;Às vezes;Não;59,02;10;Tradicional
+738;46;Masculino;Pós-Graduação;5-10 SM;Norte;Spotify;2,5;Desktop;Quinzenal;9;Às vezes;Não;208,33;9;Heavy User
+739;67;Masculino;Pós-Graduação;2-5 SM;Sudeste;WhatsApp;6,3;Notebook;Mensal;2;Sim;Não;180,04;10;Heavy User
+740;56;Não-binário;Médio;Até 2 SM;Sul;Netflix;3,3;Notebook;Mensal;10;Não;Sim;81,90;6;Casual
+741;66;Masculino;Superior;Acima 20 SM;Centro-Oeste;Amazon Prime;0,6;Smartphone;Semanal;6;Não;Sim;115,33;1;Tradicional
+742;73;Feminino;Fundamental;Até 2 SM;Centro-Oeste;Netflix;1,1;Tablet;Diário;8;Sim;Não;61,16;3;Tradicional
+743;51;Masculino;Pós-Graduação;10-20 SM;Centro-Oeste;Netflix;5,8;Tablet;Raramente;5;Não;Não;90,88;4;Casual
+744;20;Não-binário;Fundamental;5-10 SM;Centro-Oeste;Twitter/X;9,5;Smartphone;Mensal;5;Sim;Sim;172,42;10;Nativo Digital
+745;49;Masculino;Médio;10-20 SM;Sudeste;Netflix;0,9;Desktop;Quinzenal;2;Às vezes;Não;137,86;3;Heavy User
+746;65;Não-binário;Pós-Graduação;5-10 SM;Sudeste;Spotify;6,1;Tablet;Raramente;8;Sim;Sim;13,00;8;Engajado Crítico
+747;37;Não-binário;Superior;10-20 SM;Sul;WhatsApp;8,4;Smartphone;Mensal;6;Às vezes;Não;25,07;4;Casual
+748;69;Masculino;Fundamental;Acima 20 SM;Nordeste;YouTube;2,1;Desktop;Quinzenal;7;Sim;Sim;105,01;7;Heavy User
+749;47;Masculino;Médio;10-20 SM;Norte;Amazon Prime;6,5;Smartphone;Diário;3;Às vezes;Sim;149,18;4;Heavy User
+750;62;Não-binário;Fundamental;2-5 SM;Sudeste;Instagram;7,7;Smart TV;Raramente;1;Sim;Sim;86,62;3;Casual
+751;26;Não-binário;Pós-Graduação;5-10 SM;Sul;Spotify;7,2;Desktop;Mensal;3;Às vezes;Sim;86,24;9;Casual
+752;28;Feminino;Médio;10-20 SM;Sul;Spotify;1,7;Smartphone;Quinzenal;4;Sim;Não;34,60;1;Casual
+753;18;Masculino;Fundamental;Acima 20 SM;Norte;YouTube;9,2;Smart TV;Diário;8;Sim;Sim;233,59;2;Nativo Digital
+754;56;Masculino;Médio;Até 2 SM;Nordeste;Instagram;6,4;Desktop;Quinzenal;3;Sim;Sim;19,36;8;Casual
+755;67;Não-binário;Superior;5-10 SM;Nordeste;Netflix;7,4;Smartphone;Diário;10;Às vezes;Sim;16,71;8;Casual
+756;23;Feminino;Fundamental;Acima 20 SM;Centro-Oeste;Spotify;1,3;Smartphone;Quinzenal;1;Às vezes;Não;26,82;3;Casual
+757;62;Feminino;Fundamental;Até 2 SM;Norte;YouTube;9,1;Desktop;Quinzenal;1;Às vezes;Sim;98,82;1;Casual
+758;28;Não-binário;Fundamental;Acima 20 SM;Sudeste;TikTok;5,8;Desktop;Raramente;10;Sim;Não;151,29;4;Heavy User
+759;47;Masculino;Fundamental;Até 2 SM;Centro-Oeste;Twitter/X;1,6;Smartphone;Quinzenal;7;Às vezes;Sim;196,92;6;Heavy User
+760;64;Feminino;Fundamental;Até 2 SM;Sul;Twitter/X;5,8;Notebook;Raramente;4;Não;Sim;204,14;8;Heavy User
+761;37;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;Globoplay;6,3;Tablet;Diário;6;Sim;Sim;170,70;5;Heavy User
+762;46;Feminino;Fundamental;Acima 20 SM;Norte;Globoplay;5,7;Notebook;Mensal;4;Às vezes;Não;232,51;5;Heavy User
+763;69;Masculino;Superior;Acima 20 SM;Centro-Oeste;Disney+;5,7;Smartphone;Raramente;6;Não;Não;118,79;8;Heavy User
+764;17;Feminino;Pós-Graduação;5-10 SM;Sudeste;WhatsApp;10,0;Desktop;Semanal;8;Sim;Sim;212,73;7;Nativo Digital
+765;22;Masculino;Superior;2-5 SM;Norte;TikTok;0,7;Smart TV;Quinzenal;4;Às vezes;Não;132,23;9;Heavy User
+766;20;Feminino;Pós-Graduação;Acima 20 SM;Norte;Netflix;7,4;Tablet;Mensal;2;Não;Sim;15,52;9;Nativo Digital
+767;36;Masculino;Superior;10-20 SM;Centro-Oeste;Twitter/X;1,1;Desktop;Quinzenal;9;Sim;Não;74,79;5;Engajado Crítico
+768;31;Não-binário;Superior;5-10 SM;Sudeste;Amazon Prime;2,1;Desktop;Semanal;7;Sim;Não;23,94;9;Casual
+769;22;Não-binário;Médio;Acima 20 SM;Nordeste;TikTok;3,2;Tablet;Quinzenal;2;Não;Não;225,44;10;Heavy User
+770;63;Não-binário;Médio;10-20 SM;Sudeste;Globoplay;9,9;Desktop;Diário;4;Não;Não;29,34;7;Casual
+771;17;Masculino;Fundamental;2-5 SM;Norte;Spotify;2,8;Desktop;Raramente;8;Sim;Não;164,61;8;Heavy User
+772;58;Não-binário;Médio;Acima 20 SM;Nordeste;Netflix;6,0;Desktop;Mensal;3;Não;Não;12,16;1;Casual
+773;54;Não-binário;Fundamental;10-20 SM;Nordeste;Twitter/X;0,7;Notebook;Mensal;7;Às vezes;Não;0,94;1;Tradicional
+774;42;Não-binário;Fundamental;2-5 SM;Centro-Oeste;Twitter/X;7,5;Tablet;Raramente;10;Não;Sim;115,02;9;Heavy User
+775;32;Masculino;Pós-Graduação;Até 2 SM;Centro-Oeste;Spotify;6,0;Smart TV;Quinzenal;2;Não;Sim;123,95;3;Heavy User
+776;28;Feminino;Pós-Graduação;2-5 SM;Norte;Amazon Prime;8,5;Notebook;Semanal;4;Sim;Sim;168,80;3;Heavy User
+777;37;Masculino;Pós-Graduação;5-10 SM;Sudeste;Netflix;3,0;Notebook;Quinzenal;1;Sim;Sim;20,60;8;Casual
+778;74;Não-binário;Superior;5-10 SM;Sudeste;Spotify;8,6;Desktop;Quinzenal;1;Sim;Não;24,77;1;Casual
+779;16;Feminino;Superior;Acima 20 SM;Sul;TikTok;9,0;Smart TV;Mensal;9;Sim;Sim;20,47;1;Nativo Digital
+780;25;Não-binário;Fundamental;5-10 SM;Nordeste;WhatsApp;9,4;Smart TV;Diário;8;Às vezes;Não;171,31;10;Heavy User
+781;39;Não-binário;Pós-Graduação;5-10 SM;Sudeste;Spotify;7,4;Tablet;Mensal;10;Não;Sim;91,85;1;Casual
+782;43;Não-binário;Pós-Graduação;2-5 SM;Sudeste;Twitter/X;9,4;Tablet;Mensal;10;Não;Sim;212,90;4;Heavy User
+783;23;Não-binário;Superior;Até 2 SM;Norte;Netflix;8,8;Tablet;Diário;8;Às vezes;Sim;19,58;4;Nativo Digital
+784;37;Feminino;Fundamental;Acima 20 SM;Norte;Amazon Prime;7,0;Desktop;Mensal;2;Não;Não;90,12;9;Casual
+785;21;Não-binário;Médio;10-20 SM;Sudeste;Netflix;4,5;Desktop;Diário;3;Não;Não;172,23;8;Nativo Digital
+786;38;Não-binário;Superior;Acima 20 SM;Nordeste;Amazon Prime;1,6;Desktop;Raramente;3;Não;Não;237,58;9;Heavy User
+787;28;Feminino;Superior;5-10 SM;Nordeste;Instagram;1,1;Tablet;Raramente;6;Às vezes;Não;148,40;2;Heavy User
+788;19;Não-binário;Pós-Graduação;10-20 SM;Norte;Globoplay;3,5;Desktop;Mensal;4;Não;Não;145,46;4;Heavy User
+789;69;Não-binário;Fundamental;Acima 20 SM;Sudeste;Disney+;2,4;Smartphone;Diário;8;Às vezes;Sim;138,39;7;Heavy User
+790;37;Feminino;Médio;10-20 SM;Norte;Spotify;1,7;Desktop;Raramente;10;Sim;Não;162,04;3;Heavy User
+791;32;Não-binário;Pós-Graduação;10-20 SM;Norte;Amazon Prime;7,9;Smart TV;Quinzenal;9;Não;Não;160,90;7;Heavy User
+792;18;Masculino;Médio;Até 2 SM;Norte;Amazon Prime;5,6;Desktop;Semanal;5;Não;Sim;19,83;2;Nativo Digital
+793;74;Feminino;Pós-Graduação;Até 2 SM;Sul;YouTube;7,8;Notebook;Semanal;3;Não;Sim;172,96;7;Heavy User
+794;49;Feminino;Pós-Graduação;10-20 SM;Sudeste;Twitter/X;8,7;Notebook;Raramente;5;Sim;Não;45,91;10;Casual
+795;21;Não-binário;Fundamental;2-5 SM;Sudeste;Instagram;6,0;Desktop;Semanal;7;Não;Não;103,75;2;Nativo Digital
+796;26;Masculino;Médio;5-10 SM;Sul;Disney+;7,4;Desktop;Mensal;5;Sim;Não;87,94;3;Casual
+797;23;Não-binário;Médio;Até 2 SM;Sul;Spotify;2,9;Desktop;Raramente;4;Às vezes;Sim;42,21;9;Casual
+798;26;Não-binário;Pós-Graduação;10-20 SM;Sudeste;YouTube;2,2;Smartphone;Mensal;2;Às vezes;Sim;53,84;6;Casual
+799;17;Não-binário;Médio;2-5 SM;Sudeste;WhatsApp;5,4;Tablet;Quinzenal;10;Não;Sim;123,64;4;Nativo Digital
+800;43;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;Globoplay;2,3;Notebook;Quinzenal;8;Sim;Não;238,06;6;Heavy User
+801;33;Não-binário;Pós-Graduação;Acima 20 SM;Centro-Oeste;Globoplay;2,0;Desktop;Mensal;1;Não;Sim;229,94;3;Heavy User
+802;73;Não-binário;Fundamental;10-20 SM;Sudeste;Spotify;5,1;Desktop;Raramente;10;Não;Não;77,49;9;Casual
+803;28;Não-binário;Pós-Graduação;2-5 SM;Nordeste;Instagram;5,2;Smartphone;Quinzenal;3;Às vezes;Não;242,16;5;Heavy User
+804;46;Masculino;Médio;Até 2 SM;Norte;Globoplay;2,7;Smartphone;Mensal;9;Sim;Sim;95,16;9;Engajado Crítico
+805;27;Feminino;Médio;2-5 SM;Sul;Amazon Prime;5,0;Desktop;Mensal;8;Não;Sim;31,79;10;Casual
+806;52;Não-binário;Médio;Acima 20 SM;Norte;Disney+;5,1;Notebook;Raramente;10;Sim;Não;125,52;5;Heavy User
+807;23;Não-binário;Superior;Acima 20 SM;Nordeste;Instagram;4,5;Notebook;Diário;2;Às vezes;Sim;210,26;5;Nativo Digital
+808;41;Feminino;Fundamental;Até 2 SM;Sudeste;Spotify;7,6;Tablet;Semanal;9;Não;Não;59,63;2;Casual
+809;17;Não-binário;Pós-Graduação;2-5 SM;Sudeste;Netflix;9,3;Desktop;Semanal;2;Às vezes;Não;9,15;3;Nativo Digital
+810;24;Feminino;Fundamental;10-20 SM;Nordeste;Instagram;0,9;Notebook;Mensal;5;Às vezes;Não;247,54;10;Heavy User
+811;17;Masculino;Pós-Graduação;5-10 SM;Nordeste;Instagram;1,1;Smartphone;Diário;8;Não;Não;6,14;10;Casual
+812;58;Masculino;Superior;10-20 SM;Sul;Spotify;3,2;Smart TV;Mensal;8;Sim;Sim;209,84;6;Heavy User
+813;31;Masculino;Pós-Graduação;Acima 20 SM;Nordeste;Disney+;2,8;Tablet;Semanal;10;Sim;Sim;205,89;9;Heavy User
+814;59;Masculino;Fundamental;Acima 20 SM;Sudeste;Instagram;9,0;Smartphone;Diário;8;Não;Sim;188,44;7;Heavy User
+815;26;Não-binário;Superior;2-5 SM;Nordeste;TikTok;6,8;Desktop;Diário;4;Não;Não;118,47;3;Heavy User
+816;53;Feminino;Superior;2-5 SM;Centro-Oeste;Globoplay;2,1;Smart TV;Semanal;7;Não;Não;37,31;4;Casual
+817;57;Masculino;Médio;5-10 SM;Nordeste;YouTube;6,5;Smartphone;Semanal;3;Sim;Sim;164,63;6;Heavy User
+818;40;Masculino;Pós-Graduação;5-10 SM;Sul;TikTok;3,4;Notebook;Diário;8;Sim;Sim;155,79;9;Heavy User
+819;67;Não-binário;Fundamental;Acima 20 SM;Norte;Amazon Prime;7,2;Smart TV;Quinzenal;3;Não;Sim;203,12;3;Heavy User
+820;54;Feminino;Médio;5-10 SM;Sul;Globoplay;4,0;Smart TV;Raramente;9;Sim;Sim;7,79;10;Engajado Crítico
+821;30;Não-binário;Pós-Graduação;5-10 SM;Sul;Disney+;0,8;Smartphone;Raramente;3;Às vezes;Sim;101,88;8;Heavy User
+822;50;Feminino;Fundamental;5-10 SM;Centro-Oeste;Twitter/X;3,1;Tablet;Quinzenal;5;Não;Não;35,22;10;Casual
+823;73;Não-binário;Pós-Graduação;2-5 SM;Sudeste;YouTube;4,6;Smart TV;Semanal;4;Sim;Não;133,25;4;Heavy User
+824;47;Não-binário;Superior;5-10 SM;Sudeste;TikTok;5,2;Notebook;Diário;4;Às vezes;Sim;244,58;2;Heavy User
+825;22;Feminino;Superior;2-5 SM;Norte;YouTube;8,7;Desktop;Quinzenal;6;Não;Não;111,20;6;Nativo Digital
+826;69;Feminino;Fundamental;5-10 SM;Sudeste;Spotify;8,3;Desktop;Diário;6;Às vezes;Sim;163,06;4;Heavy User
+827;74;Masculino;Médio;2-5 SM;Centro-Oeste;WhatsApp;2,1;Notebook;Quinzenal;1;Sim;Sim;83,81;9;Casual
+828;35;Masculino;Fundamental;2-5 SM;Centro-Oeste;Spotify;1,2;Smart TV;Mensal;4;Às vezes;Sim;5,91;3;Casual
+829;24;Masculino;Fundamental;10-20 SM;Nordeste;Disney+;10,0;Smart TV;Mensal;1;Não;Não;157,37;9;Nativo Digital
+830;60;Não-binário;Pós-Graduação;10-20 SM;Nordeste;Netflix;7,6;Smartphone;Raramente;10;Não;Não;135,98;9;Heavy User
+831;42;Masculino;Pós-Graduação;5-10 SM;Sudeste;Disney+;9,5;Tablet;Semanal;10;Às vezes;Não;143,54;2;Heavy User
+832;21;Masculino;Médio;Acima 20 SM;Sul;Instagram;6,0;Smart TV;Raramente;4;Não;Sim;203,88;4;Nativo Digital
+833;25;Feminino;Superior;2-5 SM;Nordeste;Amazon Prime;7,3;Tablet;Quinzenal;9;Às vezes;Não;47,78;3;Casual
+834;19;Não-binário;Fundamental;2-5 SM;Norte;WhatsApp;8,5;Smart TV;Semanal;3;Sim;Não;228,39;10;Nativo Digital
+835;20;Masculino;Pós-Graduação;10-20 SM;Centro-Oeste;Spotify;9,8;Notebook;Diário;7;Não;Não;231,09;6;Nativo Digital
+836;54;Masculino;Médio;Acima 20 SM;Sudeste;Twitter/X;9,3;Tablet;Mensal;9;Sim;Não;146,17;1;Heavy User
+837;49;Masculino;Fundamental;5-10 SM;Sudeste;Netflix;2,4;Smart TV;Mensal;1;Às vezes;Sim;206,79;9;Heavy User
+838;65;Não-binário;Superior;2-5 SM;Sul;Spotify;2,4;Notebook;Raramente;8;Sim;Sim;220,26;1;Heavy User
+839;39;Masculino;Médio;Até 2 SM;Nordeste;Amazon Prime;7,2;Notebook;Quinzenal;3;Às vezes;Sim;59,55;7;Casual
+840;23;Feminino;Fundamental;Até 2 SM;Norte;Amazon Prime;9,1;Smart TV;Raramente;10;Às vezes;Sim;178,10;3;Nativo Digital
+841;20;Masculino;Fundamental;Até 2 SM;Norte;Twitter/X;7,7;Smartphone;Mensal;1;Às vezes;Não;201,96;5;Nativo Digital
+842;52;Feminino;Fundamental;5-10 SM;Nordeste;Netflix;6,0;Desktop;Mensal;7;Às vezes;Sim;25,64;1;Casual
+843;19;Não-binário;Superior;5-10 SM;Nordeste;Spotify;6,2;Notebook;Semanal;3;Sim;Não;81,76;4;Nativo Digital
+844;26;Feminino;Fundamental;5-10 SM;Sudeste;YouTube;6,6;Notebook;Diário;8;Não;Sim;49,01;3;Casual
+845;65;Feminino;Superior;Até 2 SM;Sul;Instagram;9,1;Notebook;Raramente;4;Sim;Não;233,49;5;Heavy User
+846;63;Não-binário;Médio;10-20 SM;Norte;Spotify;4,3;Desktop;Raramente;8;Às vezes;Não;55,87;1;Casual
+847;75;Feminino;Médio;10-20 SM;Nordeste;YouTube;8,5;Notebook;Mensal;6;Às vezes;Não;132,66;7;Heavy User
+848;29;Não-binário;Fundamental;10-20 SM;Norte;Spotify;8,3;Tablet;Raramente;9;Às vezes;Sim;1,48;10;Casual
+849;36;Feminino;Médio;2-5 SM;Nordeste;TikTok;6,9;Notebook;Raramente;7;Sim;Sim;68,39;3;Casual
+850;58;Masculino;Médio;5-10 SM;Nordeste;YouTube;4,5;Smartphone;Diário;2;Não;Não;238,26;3;Heavy User
+851;28;Masculino;Superior;10-20 SM;Sudeste;Twitter/X;7,7;Desktop;Mensal;1;Às vezes;Não;27,01;3;Casual
+852;38;Masculino;Pós-Graduação;5-10 SM;Nordeste;Instagram;2,1;Smartphone;Raramente;5;Sim;Sim;174,52;10;Heavy User
+853;17;Masculino;Fundamental;10-20 SM;Sul;WhatsApp;3,0;Desktop;Raramente;1;Sim;Não;166,22;9;Heavy User
+854;46;Feminino;Superior;Até 2 SM;Norte;Globoplay;8,4;Desktop;Mensal;2;Sim;Não;122,91;7;Heavy User
+855;74;Não-binário;Superior;Acima 20 SM;Sudeste;WhatsApp;4,5;Desktop;Raramente;3;Não;Não;149,51;1;Heavy User
+856;27;Não-binário;Médio;10-20 SM;Sudeste;Instagram;4,4;Notebook;Raramente;3;Não;Não;200,85;8;Heavy User
+857;40;Masculino;Superior;5-10 SM;Sudeste;Disney+;10,0;Smartphone;Diário;2;Sim;Não;165,73;9;Heavy User
+858;31;Feminino;Médio;Acima 20 SM;Norte;TikTok;5,1;Notebook;Semanal;1;Não;Não;186,94;4;Heavy User
+859;72;Feminino;Médio;Até 2 SM;Sudeste;Netflix;9,8;Desktop;Semanal;7;Não;Não;143,08;4;Heavy User
+860;72;Masculino;Fundamental;2-5 SM;Norte;TikTok;0,9;Smart TV;Semanal;1;Não;Não;141,14;1;Tradicional
+861;62;Masculino;Fundamental;2-5 SM;Norte;Twitter/X;8,9;Smart TV;Semanal;9;Às vezes;Não;15,58;10;Casual
+862;55;Feminino;Superior;5-10 SM;Norte;WhatsApp;8,4;Desktop;Diário;9;Sim;Sim;96,05;2;Engajado Crítico
+863;54;Não-binário;Superior;5-10 SM;Centro-Oeste;Disney+;1,0;Desktop;Mensal;7;Não;Não;35,05;10;Tradicional
+864;66;Não-binário;Fundamental;10-20 SM;Centro-Oeste;Spotify;4,3;Smartphone;Semanal;7;Não;Não;228,53;4;Heavy User
+865;46;Masculino;Superior;2-5 SM;Norte;Instagram;1,6;Smart TV;Semanal;9;Não;Não;235,58;9;Heavy User
+866;47;Masculino;Fundamental;Até 2 SM;Sul;Disney+;3,7;Notebook;Diário;7;Às vezes;Sim;201,42;8;Heavy User
+867;41;Masculino;Médio;Acima 20 SM;Norte;YouTube;2,3;Notebook;Quinzenal;4;Às vezes;Sim;107,54;7;Heavy User
+868;25;Masculino;Médio;10-20 SM;Sudeste;Netflix;1,7;Smartphone;Mensal;1;Não;Sim;117,46;7;Heavy User
+869;42;Não-binário;Fundamental;2-5 SM;Norte;WhatsApp;8,4;Desktop;Mensal;1;Não;Sim;67,14;7;Casual
+870;57;Feminino;Fundamental;Até 2 SM;Centro-Oeste;Twitter/X;6,1;Smart TV;Diário;10;Às vezes;Não;143,42;4;Heavy User
+871;33;Feminino;Fundamental;10-20 SM;Norte;Twitter/X;6,4;Smart TV;Raramente;8;Às vezes;Sim;104,13;3;Heavy User
+872;24;Feminino;Superior;5-10 SM;Sudeste;Instagram;8,9;Smartphone;Raramente;5;Às vezes;Não;249,31;1;Nativo Digital
+873;49;Não-binário;Fundamental;10-20 SM;Sudeste;Netflix;2,7;Smart TV;Quinzenal;1;Às vezes;Sim;177,38;7;Heavy User
+874;72;Masculino;Pós-Graduação;Acima 20 SM;Nordeste;Spotify;2,8;Smart TV;Semanal;7;Sim;Não;80,72;3;Casual
+875;50;Masculino;Superior;2-5 SM;Nordeste;YouTube;7,5;Desktop;Quinzenal;5;Não;Não;195,91;2;Heavy User
+876;41;Feminino;Superior;10-20 SM;Norte;Twitter/X;8,8;Tablet;Mensal;9;Sim;Não;244,09;10;Heavy User
+877;22;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;Netflix;6,5;Tablet;Quinzenal;10;Sim;Não;163,46;10;Nativo Digital
+878;60;Masculino;Pós-Graduação;Até 2 SM;Sul;Spotify;1,8;Desktop;Diário;7;Sim;Sim;174,02;9;Tradicional
+879;62;Masculino;Médio;5-10 SM;Sul;Amazon Prime;9,0;Desktop;Diário;5;Não;Sim;247,84;8;Heavy User
+880;38;Não-binário;Pós-Graduação;5-10 SM;Norte;Netflix;7,9;Smartphone;Semanal;2;Às vezes;Não;155,13;7;Heavy User
+881;35;Não-binário;Pós-Graduação;Até 2 SM;Centro-Oeste;Disney+;4,4;Smartphone;Diário;7;Não;Não;17,34;5;Casual
+882;43;Feminino;Médio;5-10 SM;Sudeste;Amazon Prime;3,8;Smart TV;Quinzenal;2;Não;Sim;125,48;1;Heavy User
+883;27;Feminino;Fundamental;5-10 SM;Nordeste;YouTube;8,2;Notebook;Mensal;5;Não;Não;130,37;2;Heavy User
+884;29;Feminino;Fundamental;Acima 20 SM;Centro-Oeste;Disney+;0,7;Notebook;Quinzenal;7;Sim;Não;171,44;1;Heavy User
+885;68;Masculino;Médio;10-20 SM;Nordeste;Amazon Prime;1,4;Smartphone;Quinzenal;2;Sim;Sim;27,31;3;Tradicional
+886;55;Masculino;Superior;Acima 20 SM;Sul;Disney+;3,3;Tablet;Semanal;7;Às vezes;Sim;93,77;4;Casual
+887;21;Masculino;Superior;Acima 20 SM;Centro-Oeste;WhatsApp;0,8;Tablet;Diário;9;Sim;Não;236,03;3;Heavy User
+888;22;Não-binário;Médio;Acima 20 SM;Centro-Oeste;YouTube;1,8;Tablet;Semanal;2;Sim;Não;233,75;4;Heavy User
+889;21;Masculino;Superior;5-10 SM;Sudeste;Amazon Prime;7,1;Smartphone;Quinzenal;10;Às vezes;Sim;19,54;3;Nativo Digital
+890;17;Feminino;Fundamental;5-10 SM;Nordeste;Amazon Prime;3,7;Notebook;Semanal;3;Às vezes;Não;86,71;2;Casual
+891;75;Masculino;Médio;Acima 20 SM;Sudeste;Disney+;9,2;Notebook;Semanal;2;Sim;Não;73,15;2;Casual
+892;32;Não-binário;Pós-Graduação;10-20 SM;Centro-Oeste;YouTube;4,7;Smartphone;Diário;10;Sim;Sim;208,29;2;Heavy User
+893;50;Não-binário;Pós-Graduação;Até 2 SM;Sudeste;Amazon Prime;7,6;Tablet;Semanal;3;Às vezes;Sim;203,44;1;Heavy User
+894;21;Masculino;Pós-Graduação;2-5 SM;Sul;Netflix;1,3;Desktop;Raramente;1;Não;Sim;240,69;9;Heavy User
+895;22;Não-binário;Pós-Graduação;5-10 SM;Norte;Globoplay;5,2;Smartphone;Raramente;9;Às vezes;Sim;107,71;6;Nativo Digital
+896;57;Masculino;Superior;10-20 SM;Centro-Oeste;Twitter/X;2,7;Smartphone;Diário;3;Não;Não;20,65;2;Casual
+897;45;Masculino;Pós-Graduação;10-20 SM;Centro-Oeste;TikTok;6,9;Tablet;Quinzenal;5;Sim;Sim;174,65;7;Heavy User
+898;22;Masculino;Pós-Graduação;Acima 20 SM;Sul;Spotify;8,9;Smart TV;Diário;9;Não;Sim;141,65;4;Nativo Digital
+899;19;Masculino;Superior;5-10 SM;Sul;YouTube;2,0;Tablet;Quinzenal;7;Às vezes;Não;100,25;2;Heavy User
+900;42;Feminino;Fundamental;Até 2 SM;Sul;Twitter/X;4,9;Smartphone;Diário;1;Às vezes;Sim;14,97;8;Casual
+901;30;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;Twitter/X;6,9;Desktop;Diário;10;Não;Não;120,63;10;Heavy User
+902;18;Masculino;Superior;Até 2 SM;Nordeste;Disney+;4,5;Notebook;Diário;8;Não;Não;244,19;4;Nativo Digital
+903;57;Feminino;Médio;10-20 SM;Nordeste;Twitter/X;8,4;Smartphone;Mensal;4;Não;Sim;30,24;2;Casual
+904;60;Feminino;Fundamental;Até 2 SM;Norte;Amazon Prime;6,2;Tablet;Diário;3;Às vezes;Sim;245,92;5;Heavy User
+905;49;Feminino;Fundamental;2-5 SM;Norte;Spotify;0,5;Notebook;Raramente;1;Não;Não;216,94;2;Heavy User
+906;19;Não-binário;Fundamental;2-5 SM;Norte;Instagram;7,3;Tablet;Semanal;9;Não;Não;152,33;7;Nativo Digital
+907;30;Não-binário;Superior;5-10 SM;Nordeste;Twitter/X;7,4;Desktop;Raramente;2;Às vezes;Não;96,07;4;Casual
+908;73;Não-binário;Fundamental;Até 2 SM;Nordeste;Globoplay;2,7;Smart TV;Mensal;6;Não;Sim;129,53;6;Heavy User
+909;20;Não-binário;Fundamental;10-20 SM;Sudeste;Disney+;2,7;Desktop;Raramente;3;Não;Sim;72,67;5;Casual
+910;41;Feminino;Superior;5-10 SM;Sudeste;Twitter/X;9,0;Smartphone;Diário;1;Sim;Não;216,54;9;Heavy User
+911;54;Não-binário;Pós-Graduação;5-10 SM;Nordeste;Globoplay;3,5;Smartphone;Quinzenal;9;Às vezes;Sim;43,98;6;Casual
+912;38;Masculino;Fundamental;10-20 SM;Centro-Oeste;TikTok;7,9;Desktop;Raramente;5;Não;Não;62,88;2;Casual
+913;58;Não-binário;Superior;Acima 20 SM;Sudeste;WhatsApp;5,5;Notebook;Raramente;3;Não;Sim;90,17;6;Casual
+914;70;Masculino;Médio;2-5 SM;Centro-Oeste;Netflix;8,2;Smart TV;Semanal;1;Às vezes;Sim;34,09;10;Casual
+915;34;Masculino;Pós-Graduação;Até 2 SM;Centro-Oeste;Netflix;1,5;Smart TV;Semanal;10;Não;Sim;77,15;3;Casual
+916;59;Não-binário;Fundamental;Até 2 SM;Sul;Instagram;0,9;Desktop;Mensal;5;Às vezes;Sim;141,82;9;Tradicional
+917;28;Masculino;Superior;Acima 20 SM;Centro-Oeste;Spotify;1,6;Tablet;Mensal;8;Sim;Sim;221,78;10;Heavy User
+918;20;Masculino;Pós-Graduação;Acima 20 SM;Sul;TikTok;8,0;Desktop;Raramente;8;Não;Não;35,76;8;Nativo Digital
+919;33;Não-binário;Pós-Graduação;10-20 SM;Sul;TikTok;9,2;Desktop;Semanal;2;Às vezes;Não;210,80;3;Heavy User
+920;20;Não-binário;Médio;10-20 SM;Sul;Netflix;7,3;Smartphone;Mensal;9;Às vezes;Não;237,41;7;Nativo Digital
+921;34;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;Twitter/X;6,8;Desktop;Semanal;6;Às vezes;Não;48,22;2;Casual
+922;21;Masculino;Superior;5-10 SM;Sul;YouTube;3,5;Desktop;Mensal;5;Não;Não;198,34;5;Heavy User
+923;35;Masculino;Fundamental;2-5 SM;Nordeste;Disney+;1,5;Notebook;Mensal;2;Sim;Não;125,02;4;Heavy User
+924;72;Masculino;Médio;Acima 20 SM;Norte;Instagram;9,8;Smartphone;Raramente;5;Não;Não;243,71;1;Heavy User
+925;46;Masculino;Superior;Acima 20 SM;Norte;Spotify;5,4;Tablet;Raramente;10;Não;Sim;195,32;8;Heavy User
+926;75;Não-binário;Fundamental;Acima 20 SM;Centro-Oeste;Disney+;1,3;Smart TV;Mensal;8;Às vezes;Sim;18,08;3;Tradicional
+927;47;Feminino;Fundamental;10-20 SM;Nordeste;WhatsApp;1,3;Smart TV;Semanal;1;Não;Sim;200,08;7;Heavy User
+928;69;Masculino;Médio;2-5 SM;Nordeste;WhatsApp;2,1;Tablet;Diário;10;Não;Sim;199,91;2;Heavy User
+929;29;Masculino;Pós-Graduação;2-5 SM;Sudeste;WhatsApp;1,4;Tablet;Mensal;8;Sim;Não;147,46;7;Heavy User
+930;66;Não-binário;Pós-Graduação;Acima 20 SM;Norte;WhatsApp;2,1;Desktop;Mensal;2;Não;Sim;108,39;9;Heavy User
+931;27;Feminino;Superior;Acima 20 SM;Sudeste;Netflix;1,0;Smart TV;Semanal;2;Sim;Não;18,30;3;Casual
+932;21;Feminino;Fundamental;Acima 20 SM;Sudeste;Netflix;6,3;Desktop;Semanal;8;Sim;Sim;198,87;8;Nativo Digital
+933;29;Feminino;Médio;Acima 20 SM;Centro-Oeste;YouTube;4,6;Tablet;Mensal;2;Não;Não;2,34;5;Casual
+934;50;Feminino;Fundamental;2-5 SM;Norte;WhatsApp;1,5;Desktop;Raramente;8;Sim;Não;3,16;5;Engajado Crítico
+935;33;Não-binário;Pós-Graduação;10-20 SM;Norte;Twitter/X;5,5;Tablet;Semanal;8;Às vezes;Sim;243,15;3;Heavy User
+936;59;Feminino;Médio;2-5 SM;Sul;Amazon Prime;1,2;Desktop;Raramente;4;Não;Não;226,51;5;Tradicional
+937;26;Masculino;Superior;Até 2 SM;Norte;YouTube;7,2;Desktop;Diário;1;Às vezes;Sim;180,96;9;Heavy User
+938;61;Masculino;Pós-Graduação;10-20 SM;Centro-Oeste;WhatsApp;6,8;Notebook;Semanal;10;Às vezes;Sim;244,14;7;Heavy User
+939;61;Não-binário;Pós-Graduação;2-5 SM;Nordeste;WhatsApp;7,7;Notebook;Semanal;7;Às vezes;Não;192,83;8;Heavy User
+940;29;Masculino;Fundamental;5-10 SM;Nordeste;TikTok;3,7;Smart TV;Mensal;10;Às vezes;Não;59,84;1;Casual
+941;75;Feminino;Fundamental;10-20 SM;Nordeste;Globoplay;4,3;Notebook;Mensal;9;Às vezes;Não;130,43;1;Heavy User
+942;57;Feminino;Pós-Graduação;5-10 SM;Norte;TikTok;1,3;Smartphone;Mensal;7;Não;Sim;181,05;10;Tradicional
+943;60;Feminino;Médio;Acima 20 SM;Centro-Oeste;Twitter/X;1,6;Notebook;Mensal;1;Às vezes;Sim;19,04;5;Tradicional
+944;66;Não-binário;Fundamental;10-20 SM;Sul;Spotify;1,1;Desktop;Quinzenal;10;Às vezes;Não;171,65;4;Tradicional
+945;57;Feminino;Médio;2-5 SM;Sudeste;YouTube;9,8;Desktop;Quinzenal;1;Não;Não;52,39;3;Casual
+946;62;Feminino;Fundamental;2-5 SM;Sudeste;Disney+;3,1;Desktop;Semanal;5;Sim;Não;225,24;9;Heavy User
+947;29;Feminino;Superior;Acima 20 SM;Centro-Oeste;Twitter/X;5,5;Smartphone;Semanal;4;Sim;Não;159,57;2;Heavy User
+948;18;Não-binário;Superior;10-20 SM;Centro-Oeste;Netflix;7,5;Desktop;Mensal;5;Sim;Não;131,19;8;Nativo Digital
+949;55;Feminino;Médio;5-10 SM;Norte;Disney+;5,2;Notebook;Diário;6;Às vezes;Não;247,23;1;Heavy User
+950;45;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;Instagram;6,0;Smart TV;Raramente;3;Sim;Não;138,73;2;Heavy User
+951;52;Feminino;Superior;2-5 SM;Centro-Oeste;Netflix;8,6;Smart TV;Mensal;6;Não;Não;19,81;2;Casual
+952;61;Feminino;Fundamental;Até 2 SM;Nordeste;YouTube;1,9;Notebook;Mensal;8;Às vezes;Sim;104,99;3;Tradicional
+953;35;Masculino;Superior;Até 2 SM;Sudeste;Disney+;9,9;Smartphone;Quinzenal;9;Às vezes;Sim;134,30;7;Heavy User
+954;39;Não-binário;Pós-Graduação;Até 2 SM;Centro-Oeste;WhatsApp;6,3;Smartphone;Diário;10;Sim;Não;134,58;6;Heavy User
+955;46;Feminino;Fundamental;2-5 SM;Nordeste;Disney+;5,0;Desktop;Diário;5;Não;Não;231,72;2;Heavy User
+956;50;Feminino;Superior;Até 2 SM;Nordeste;Amazon Prime;1,0;Smartphone;Raramente;1;Às vezes;Não;35,14;9;Casual
+957;64;Não-binário;Médio;5-10 SM;Centro-Oeste;Globoplay;1,5;Smart TV;Mensal;1;Às vezes;Sim;230,99;10;Tradicional
+958;21;Não-binário;Médio;Até 2 SM;Nordeste;Twitter/X;8,0;Tablet;Quinzenal;4;Não;Sim;157,21;5;Nativo Digital
+959;23;Masculino;Pós-Graduação;10-20 SM;Sudeste;YouTube;9,6;Smartphone;Mensal;9;Não;Não;103,10;1;Nativo Digital
+960;69;Não-binário;Fundamental;2-5 SM;Sul;Disney+;3,6;Notebook;Diário;2;Sim;Sim;159,09;1;Heavy User
+961;21;Feminino;Fundamental;2-5 SM;Sudeste;Spotify;8,7;Notebook;Quinzenal;5;Às vezes;Sim;115,93;8;Nativo Digital
+962;58;Masculino;Superior;Até 2 SM;Norte;Instagram;9,2;Smart TV;Raramente;9;Não;Não;72,56;7;Casual
+963;48;Não-binário;Fundamental;Acima 20 SM;Norte;Instagram;9,3;Notebook;Semanal;7;Sim;Não;175,90;2;Heavy User
+964;63;Não-binário;Superior;5-10 SM;Sudeste;Instagram;9,9;Smart TV;Mensal;3;Às vezes;Sim;26,37;3;Casual
+965;29;Masculino;Superior;5-10 SM;Sul;Disney+;4,4;Smart TV;Mensal;7;Às vezes;Sim;43,81;6;Casual
+966;39;Feminino;Superior;Acima 20 SM;Sul;Globoplay;3,6;Smart TV;Mensal;6;Não;Sim;205,82;6;Heavy User
+967;42;Masculino;Superior;5-10 SM;Nordeste;YouTube;6,4;Smartphone;Raramente;2;Às vezes;Sim;106,52;10;Heavy User
+968;42;Masculino;Médio;Acima 20 SM;Centro-Oeste;WhatsApp;1,4;Desktop;Diário;6;Sim;Sim;225,67;1;Heavy User
+969;29;Feminino;Superior;Acima 20 SM;Nordeste;Spotify;8,1;Smartphone;Raramente;7;Às vezes;Não;9,10;8;Casual
+970;45;Não-binário;Superior;10-20 SM;Norte;Twitter/X;3,9;Notebook;Mensal;3;Às vezes;Sim;143,80;5;Heavy User
+971;47;Feminino;Superior;10-20 SM;Sul;Spotify;7,5;Notebook;Mensal;9;Não;Sim;144,89;2;Heavy User
+972;54;Não-binário;Fundamental;Acima 20 SM;Centro-Oeste;Amazon Prime;6,4;Smartphone;Quinzenal;7;Sim;Sim;205,36;7;Heavy User
+973;69;Feminino;Médio;5-10 SM;Norte;Netflix;2,7;Notebook;Semanal;1;Às vezes;Não;203,12;4;Heavy User
+974;30;Masculino;Médio;5-10 SM;Sudeste;Globoplay;9,3;Desktop;Raramente;7;Às vezes;Não;182,95;7;Heavy User
+975;34;Masculino;Fundamental;Acima 20 SM;Norte;Amazon Prime;6,8;Smartphone;Diário;8;Às vezes;Sim;224,22;10;Heavy User
+976;62;Feminino;Pós-Graduação;2-5 SM;Nordeste;Instagram;7,8;Tablet;Quinzenal;6;Sim;Não;211,05;8;Heavy User
+977;18;Masculino;Superior;2-5 SM;Centro-Oeste;Amazon Prime;1,4;Smartphone;Diário;1;Sim;Não;204,17;1;Heavy User
+978;37;Não-binário;Médio;2-5 SM;Centro-Oeste;Amazon Prime;9,8;Smart TV;Mensal;5;Não;Não;14,72;4;Casual
+979;41;Não-binário;Superior;2-5 SM;Sul;Amazon Prime;8,7;Smart TV;Raramente;7;Às vezes;Sim;93,96;10;Casual
+980;57;Não-binário;Médio;5-10 SM;Norte;Spotify;8,2;Smart TV;Quinzenal;7;Não;Sim;162,46;6;Heavy User
+981;19;Feminino;Superior;2-5 SM;Nordeste;Netflix;3,8;Smartphone;Mensal;10;Não;Não;24,98;9;Casual
+982;25;Feminino;Médio;10-20 SM;Nordeste;Twitter/X;4,4;Smart TV;Raramente;4;Sim;Sim;145,32;3;Heavy User
+983;73;Não-binário;Médio;5-10 SM;Norte;Spotify;5,0;Smartphone;Quinzenal;6;Às vezes;Sim;107,26;8;Heavy User
+984;31;Masculino;Pós-Graduação;5-10 SM;Nordeste;Spotify;1,5;Smart TV;Diário;10;Às vezes;Sim;204,82;10;Heavy User
+985;72;Masculino;Pós-Graduação;Até 2 SM;Sul;Amazon Prime;5,2;Desktop;Semanal;10;Às vezes;Não;90,99;4;Casual
+986;21;Masculino;Médio;Acima 20 SM;Sul;WhatsApp;7,8;Tablet;Mensal;4;Não;Não;25,10;4;Nativo Digital
+987;16;Não-binário;Pós-Graduação;5-10 SM;Sudeste;Globoplay;3,4;Smart TV;Mensal;8;Sim;Não;63,39;3;Engajado Crítico
+988;24;Feminino;Pós-Graduação;2-5 SM;Sul;Twitter/X;1,1;Smartphone;Semanal;2;Sim;Sim;193,97;2;Heavy User
+989;35;Feminino;Médio;2-5 SM;Sul;Spotify;3,5;Notebook;Diário;4;Sim;Não;178,64;2;Heavy User
+990;37;Feminino;Pós-Graduação;5-10 SM;Nordeste;YouTube;4,0;Tablet;Semanal;3;Não;Sim;225,19;3;Heavy User
+991;56;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;Spotify;6,9;Notebook;Raramente;7;Sim;Não;127,06;4;Heavy User
+992;24;Não-binário;Superior;5-10 SM;Nordeste;Disney+;1,6;Smart TV;Raramente;2;Às vezes;Não;108,47;1;Heavy User
+993;70;Feminino;Fundamental;Até 2 SM;Sul;Disney+;6,1;Smart TV;Mensal;9;Às vezes;Não;10,48;8;Casual
+994;25;Masculino;Superior;Até 2 SM;Sul;Instagram;6,6;Desktop;Quinzenal;5;Sim;Sim;15,11;5;Casual
+995;59;Masculino;Fundamental;2-5 SM;Nordeste;YouTube;7,3;Desktop;Quinzenal;10;Sim;Sim;38,88;3;Engajado Crítico
+996;35;Não-binário;Superior;5-10 SM;Norte;TikTok;5,3;Smart TV;Quinzenal;8;Não;Não;239,57;10;Heavy User
+997;36;Masculino;Médio;2-5 SM;Centro-Oeste;TikTok;7,4;Desktop;Quinzenal;3;Sim;Não;189,69;2;Heavy User
+998;40;Feminino;Superior;2-5 SM;Centro-Oeste;Spotify;3,2;Notebook;Mensal;3;Não;Sim;80,71;4;Casual
+999;48;Feminino;Superior;5-10 SM;Sul;Disney+;3,7;Tablet;Raramente;2;Às vezes;Sim;54,93;5;Casual
+1000;46;Feminino;Superior;5-10 SM;Sul;Amazon Prime;3,8;Tablet;Quinzenal;4;Às vezes;Sim;30,92;2;Casual
+1001;30;Masculino;Médio;2-5 SM;Norte;YouTube;1,5;Desktop;Diário;8;Não;Sim;89,12;2;Casual
+1002;64;Não-binário;Pós-Graduação;2-5 SM;Norte;Netflix;1,9;Tablet;Raramente;4;Sim;Sim;35,87;6;Tradicional
+1003;75;Masculino;Fundamental;Até 2 SM;Norte;Globoplay;3,2;Tablet;Raramente;9;Às vezes;Não;18,88;1;Casual
+1004;38;Feminino;Superior;Até 2 SM;Centro-Oeste;TikTok;8,8;Tablet;Diário;1;Às vezes;Não;102,27;6;Heavy User
+1005;49;Não-binário;Fundamental;5-10 SM;Nordeste;Amazon Prime;2,9;Desktop;Semanal;3;Sim;Sim;233,86;4;Heavy User
+1006;40;Feminino;Pós-Graduação;Acima 20 SM;Centro-Oeste;Instagram;5,9;Notebook;Mensal;6;Às vezes;Sim;3,78;5;Casual
+1007;49;Não-binário;Superior;Até 2 SM;Sudeste;TikTok;1,9;Desktop;Raramente;2;Não;Sim;165,30;10;Heavy User
+1008;59;Masculino;Pós-Graduação;10-20 SM;Nordeste;WhatsApp;6,3;Notebook;Semanal;4;Sim;Sim;150,51;7;Heavy User
+1009;42;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;Netflix;5,1;Smartphone;Semanal;1;Sim;Não;11,44;6;Casual
+1010;75;Não-binário;Médio;2-5 SM;Nordeste;Globoplay;1,7;Notebook;Raramente;6;Às vezes;Sim;220,53;8;Tradicional
+1011;48;Feminino;Pós-Graduação;Acima 20 SM;Sudeste;TikTok;3,1;Notebook;Semanal;9;Não;Não;247,53;7;Heavy User
+1012;44;Feminino;Fundamental;2-5 SM;Sudeste;TikTok;4,7;Desktop;Mensal;3;Às vezes;Sim;50,72;8;Casual
+1013;72;Masculino;Superior;10-20 SM;Centro-Oeste;Netflix;1,3;Smart TV;Quinzenal;8;Às vezes;Sim;239,34;4;Tradicional
+1014;56;Não-binário;Superior;Acima 20 SM;Sudeste;Netflix;9,3;Smart TV;Quinzenal;1;Não;Sim;94,01;10;Casual
+1015;39;Não-binário;Médio;10-20 SM;Centro-Oeste;Instagram;1,2;Tablet;Mensal;8;Não;Não;84,69;10;Casual
+1016;33;Masculino;Médio;10-20 SM;Sul;Netflix;5,6;Tablet;Raramente;1;Às vezes;Sim;41,55;8;Casual
+1017;54;Feminino;Superior;5-10 SM;Sul;Spotify;5,0;Notebook;Quinzenal;3;Não;Sim;150,18;2;Heavy User
+1018;56;Masculino;Superior;5-10 SM;Nordeste;Twitter/X;0,8;Smartphone;Semanal;1;Às vezes;Não;230,63;8;Tradicional
+1019;71;Feminino;Fundamental;2-5 SM;Sudeste;Disney+;5,0;Smart TV;Semanal;3;Sim;Não;218,72;9;Heavy User
+1020;65;Masculino;Pós-Graduação;2-5 SM;Norte;TikTok;7,2;Tablet;Semanal;9;Não;Não;116,36;5;Heavy User
+1021;30;Não-binário;Pós-Graduação;Até 2 SM;Centro-Oeste;Disney+;7,0;Tablet;Raramente;4;Sim;Não;34,36;9;Casual
+1022;59;Não-binário;Fundamental;10-20 SM;Centro-Oeste;Netflix;4,6;Smartphone;Raramente;5;Às vezes;Não;244,20;2;Heavy User
+1023;50;Não-binário;Fundamental;10-20 SM;Sul;Twitter/X;1,2;Smart TV;Diário;10;Sim;Não;40,84;7;Engajado Crítico
+1024;44;Masculino;Fundamental;10-20 SM;Centro-Oeste;WhatsApp;8,1;Tablet;Mensal;4;Às vezes;Não;74,12;2;Casual
+1025;19;Não-binário;Pós-Graduação;Acima 20 SM;Norte;YouTube;4,8;Tablet;Quinzenal;10;Sim;Não;106,14;6;Nativo Digital
+1026;48;Não-binário;Médio;2-5 SM;Sul;Spotify;4,4;Smart TV;Mensal;1;Não;Sim;71,18;2;Casual
+1027;49;Feminino;Pós-Graduação;2-5 SM;Nordeste;TikTok;9,1;Tablet;Semanal;2;Não;Não;44,90;1;Casual
+1028;18;Masculino;Pós-Graduação;2-5 SM;Centro-Oeste;Globoplay;8,7;Tablet;Quinzenal;2;Às vezes;Não;243,38;4;Nativo Digital
+1029;19;Feminino;Superior;5-10 SM;Centro-Oeste;YouTube;9,4;Smartphone;Diário;4;Não;Sim;160,03;6;Nativo Digital
+1030;74;Feminino;Fundamental;Acima 20 SM;Nordeste;Amazon Prime;7,0;Smart TV;Mensal;4;Às vezes;Sim;235,01;4;Heavy User
+1031;19;Feminino;Médio;10-20 SM;Norte;WhatsApp;8,0;Smart TV;Raramente;5;Às vezes;Não;25,25;6;Nativo Digital
+1032;57;Feminino;Fundamental;2-5 SM;Nordeste;TikTok;7,9;Smartphone;Mensal;1;Sim;Sim;134,84;10;Heavy User
+1033;54;Masculino;Superior;10-20 SM;Nordeste;Spotify;9,9;Notebook;Diário;3;Às vezes;Sim;87,43;1;Casual
+1034;48;Masculino;Superior;Até 2 SM;Nordeste;Globoplay;8,5;Smartphone;Mensal;8;Às vezes;Sim;42,18;9;Casual
+1035;53;Masculino;Médio;2-5 SM;Nordeste;Instagram;9,4;Notebook;Semanal;3;Às vezes;Sim;167,33;2;Heavy User
+1036;63;Feminino;Pós-Graduação;Acima 20 SM;Norte;WhatsApp;2,2;Smartphone;Quinzenal;3;Não;Não;90,77;7;Casual
+1037;37;Feminino;Fundamental;10-20 SM;Sudeste;YouTube;1,1;Notebook;Diário;7;Sim;Não;13,75;3;Casual
+1038;20;Feminino;Médio;Até 2 SM;Norte;WhatsApp;6,7;Smartphone;Quinzenal;2;Sim;Não;239,58;6;Nativo Digital
+1039;37;Não-binário;Médio;Até 2 SM;Norte;Amazon Prime;2,9;Smartphone;Semanal;5;Não;Não;31,11;2;Casual
+1040;54;Feminino;Pós-Graduação;5-10 SM;Nordeste;Globoplay;0,5;Smart TV;Semanal;9;Às vezes;Não;152,01;9;Tradicional
+1041;68;Masculino;Médio;2-5 SM;Nordeste;TikTok;7,3;Desktop;Mensal;1;Às vezes;Não;50,92;5;Casual
+1042;25;Feminino;Fundamental;10-20 SM;Norte;Spotify;2,3;Notebook;Raramente;9;Sim;Sim;30,19;6;Engajado Crítico
+1043;74;Feminino;Médio;5-10 SM;Sul;Amazon Prime;6,4;Smartphone;Raramente;8;Sim;Sim;3,28;2;Engajado Crítico
+1044;41;Masculino;Fundamental;5-10 SM;Norte;Spotify;7,2;Smart TV;Diário;3;Não;Sim;12,48;1;Casual
+1045;43;Não-binário;Fundamental;Até 2 SM;Nordeste;Amazon Prime;7,9;Desktop;Mensal;5;Não;Não;109,73;1;Heavy User
+1046;28;Feminino;Médio;Até 2 SM;Sudeste;TikTok;7,4;Smart TV;Quinzenal;9;Sim;Não;90,82;5;Engajado Crítico
+1047;52;Masculino;Superior;10-20 SM;Centro-Oeste;Globoplay;1,3;Desktop;Diário;6;Não;Não;72,95;10;Tradicional
+1048;60;Feminino;Superior;2-5 SM;Nordeste;YouTube;7,3;Desktop;Raramente;7;Sim;Sim;202,50;2;Heavy User
+1049;36;Não-binário;Pós-Graduação;Até 2 SM;Sul;Amazon Prime;2,4;Smart TV;Mensal;4;Não;Sim;13,01;3;Casual
+1050;43;Masculino;Fundamental;5-10 SM;Sul;YouTube;2,9;Smartphone;Quinzenal;3;Sim;Não;191,79;9;Heavy User
+1051;23;Masculino;Fundamental;Acima 20 SM;Sul;Globoplay;2,8;Smart TV;Semanal;5;Não;Sim;85,57;3;Casual
+1052;37;Não-binário;Pós-Graduação;10-20 SM;Nordeste;Amazon Prime;1,1;Smartphone;Mensal;10;Não;Sim;209,73;2;Heavy User
+1053;50;Não-binário;Superior;Acima 20 SM;Centro-Oeste;Netflix;4,8;Notebook;Semanal;2;Às vezes;Sim;227,78;9;Heavy User
+1054;38;Não-binário;Pós-Graduação;2-5 SM;Centro-Oeste;WhatsApp;6,4;Tablet;Mensal;8;Não;Não;15,19;6;Casual
+1055;61;Não-binário;Superior;2-5 SM;Nordeste;Globoplay;0,9;Notebook;Quinzenal;8;Não;Sim;8,70;1;Tradicional
+1056;62;Feminino;Médio;10-20 SM;Sul;Disney+;7,3;Tablet;Diário;9;Às vezes;Não;68,35;6;Casual
+1057;74;Não-binário;Médio;Acima 20 SM;Nordeste;Netflix;1,5;Desktop;Mensal;7;Não;Sim;40,93;10;Tradicional
+1058;33;Não-binário;Superior;Até 2 SM;Norte;Twitter/X;2,6;Smartphone;Raramente;2;Sim;Não;181,26;8;Heavy User
+1059;28;Feminino;Pós-Graduação;2-5 SM;Norte;WhatsApp;6,6;Smart TV;Mensal;3;Não;Não;113,56;1;Heavy User
+1060;68;Não-binário;Pós-Graduação;10-20 SM;Centro-Oeste;Twitter/X;0,6;Smartphone;Mensal;3;Sim;Sim;223,56;6;Tradicional
+1061;24;Feminino;Superior;5-10 SM;Centro-Oeste;Globoplay;9,5;Desktop;Mensal;9;Sim;Sim;40,67;1;Nativo Digital
+1062;18;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;Twitter/X;9,4;Smartphone;Quinzenal;1;Não;Não;49,80;10;Nativo Digital
+1063;29;Não-binário;Pós-Graduação;2-5 SM;Sudeste;Netflix;5,0;Notebook;Raramente;4;Sim;Não;154,80;3;Heavy User
+1064;34;Masculino;Médio;Acima 20 SM;Centro-Oeste;Instagram;5,8;Smart TV;Semanal;3;Às vezes;Sim;24,24;8;Casual
+1065;20;Masculino;Pós-Graduação;2-5 SM;Sudeste;Disney+;9,4;Smartphone;Raramente;7;Às vezes;Sim;135,89;10;Nativo Digital
+1066;59;Não-binário;Superior;5-10 SM;Nordeste;Instagram;6,5;Desktop;Diário;3;Às vezes;Não;13,85;4;Casual
+1067;64;Não-binário;Superior;Até 2 SM;Centro-Oeste;Disney+;8,8;Desktop;Diário;5;Às vezes;Sim;141,85;2;Heavy User
+1068;51;Não-binário;Pós-Graduação;2-5 SM;Nordeste;TikTok;7,5;Notebook;Diário;10;Não;Sim;153,85;3;Heavy User
+1069;28;Masculino;Superior;5-10 SM;Norte;Twitter/X;9,7;Tablet;Semanal;9;Às vezes;Sim;60,76;4;Casual
+1070;29;Feminino;Pós-Graduação;2-5 SM;Nordeste;Twitter/X;7,6;Smartphone;Quinzenal;9;Sim;Não;142,12;9;Heavy User
+1071;20;Feminino;Fundamental;5-10 SM;Sul;Twitter/X;1,1;Notebook;Mensal;8;Não;Não;75,25;3;Casual
+1072;45;Masculino;Fundamental;Até 2 SM;Sudeste;TikTok;4,2;Desktop;Diário;5;Às vezes;Não;14,97;3;Casual
+1073;49;Não-binário;Fundamental;5-10 SM;Sul;Amazon Prime;1,5;Smart TV;Raramente;5;Às vezes;Não;110,73;4;Heavy User
+1074;28;Não-binário;Pós-Graduação;10-20 SM;Sul;Amazon Prime;8,9;Tablet;Diário;5;Não;Sim;28,37;1;Casual
+1075;28;Feminino;Pós-Graduação;Até 2 SM;Centro-Oeste;Amazon Prime;1,5;Smartphone;Mensal;10;Às vezes;Não;5,34;6;Casual
+1076;45;Não-binário;Pós-Graduação;2-5 SM;Norte;Netflix;5,3;Smart TV;Mensal;2;Sim;Não;41,53;3;Casual
+1077;74;Feminino;Superior;10-20 SM;Sul;Instagram;1,2;Tablet;Diário;4;Sim;Sim;33,46;2;Tradicional
+1078;30;Não-binário;Pós-Graduação;Acima 20 SM;Norte;Disney+;4,3;Smartphone;Mensal;1;Às vezes;Não;19,95;10;Casual
+1079;36;Feminino;Médio;5-10 SM;Norte;WhatsApp;5,8;Tablet;Quinzenal;6;Às vezes;Sim;181,50;10;Heavy User
+1080;48;Não-binário;Fundamental;Até 2 SM;Centro-Oeste;TikTok;7,4;Notebook;Diário;6;Sim;Não;124,22;5;Heavy User
+1081;52;Masculino;Médio;Até 2 SM;Sul;Spotify;7,8;Desktop;Raramente;10;Sim;Não;88,52;6;Engajado Crítico
+1082;20;Masculino;Fundamental;10-20 SM;Nordeste;WhatsApp;4,8;Notebook;Quinzenal;4;Às vezes;Sim;153,71;3;Nativo Digital
+1083;36;Não-binário;Fundamental;10-20 SM;Sul;Netflix;6,7;Smart TV;Mensal;2;Não;Sim;218,06;8;Heavy User
+1084;31;Feminino;Médio;2-5 SM;Sudeste;TikTok;9,1;Tablet;Mensal;2;Não;Sim;95,08;2;Casual
+1085;28;Não-binário;Médio;5-10 SM;Sul;Spotify;8,0;Tablet;Diário;1;Não;Sim;74,52;6;Casual
+1086;16;Masculino;Superior;10-20 SM;Sul;TikTok;4,0;Smart TV;Diário;2;Às vezes;Sim;220,21;6;Heavy User
+1087;46;Não-binário;Pós-Graduação;Até 2 SM;Centro-Oeste;Instagram;3,3;Smartphone;Quinzenal;8;Às vezes;Não;151,14;5;Heavy User
+1088;30;Masculino;Superior;2-5 SM;Nordeste;Globoplay;7,3;Tablet;Diário;2;Sim;Não;76,25;6;Casual
+1089;37;Masculino;Pós-Graduação;5-10 SM;Nordeste;Netflix;2,2;Smartphone;Diário;7;Às vezes;Não;197,68;3;Heavy User
+1090;28;Masculino;Fundamental;5-10 SM;Nordeste;Netflix;6,6;Smart TV;Semanal;5;Não;Sim;65,40;9;Casual
+1091;34;Não-binário;Superior;Até 2 SM;Norte;TikTok;4,3;Smart TV;Quinzenal;6;Sim;Sim;35,20;1;Casual
+1092;70;Masculino;Superior;Acima 20 SM;Sudeste;Twitter/X;1,9;Tablet;Semanal;3;Não;Não;69,18;7;Tradicional
+1093;35;Masculino;Fundamental;Até 2 SM;Nordeste;Amazon Prime;1,6;Smart TV;Diário;10;Não;Não;163,23;9;Heavy User
+1094;29;Não-binário;Superior;10-20 SM;Norte;Globoplay;9,0;Desktop;Semanal;1;Às vezes;Sim;114,27;10;Heavy User
+1095;47;Não-binário;Médio;5-10 SM;Sul;TikTok;2,2;Notebook;Raramente;1;Não;Não;35,16;9;Casual
+1096;55;Masculino;Fundamental;10-20 SM;Centro-Oeste;Netflix;1,4;Desktop;Quinzenal;5;Não;Não;8,10;2;Tradicional
+1097;42;Não-binário;Fundamental;5-10 SM;Sudeste;TikTok;4,6;Notebook;Diário;10;Às vezes;Não;140,02;2;Heavy User
+1098;27;Masculino;Fundamental;2-5 SM;Sul;Netflix;9,6;Tablet;Diário;10;Não;Sim;167,75;8;Heavy User
+1099;41;Feminino;Superior;5-10 SM;Centro-Oeste;Netflix;5,8;Tablet;Raramente;6;Sim;Sim;200,66;3;Heavy User
+1100;20;Não-binário;Médio;Até 2 SM;Centro-Oeste;Spotify;5,8;Smartphone;Raramente;5;Às vezes;Sim;146,54;7;Nativo Digital
+1101;17;Não-binário;Superior;10-20 SM;Nordeste;Netflix;8,2;Tablet;Mensal;4;Às vezes;Não;55,14;3;Nativo Digital
+1102;22;Feminino;Pós-Graduação;2-5 SM;Centro-Oeste;TikTok;9,8;Desktop;Mensal;9;Sim;Não;32,09;4;Nativo Digital
+1103;48;Masculino;Superior;5-10 SM;Sudeste;Instagram;9,2;Smart TV;Raramente;10;Não;Não;201,90;6;Heavy User
+1104;36;Masculino;Médio;5-10 SM;Norte;WhatsApp;9,1;Notebook;Diário;4;Às vezes;Sim;249,23;8;Heavy User
+1105;56;Feminino;Superior;2-5 SM;Nordeste;Amazon Prime;5,1;Smart TV;Diário;3;Sim;Sim;30,86;3;Casual
+1106;31;Não-binário;Pós-Graduação;Até 2 SM;Nordeste;YouTube;6,5;Smart TV;Raramente;9;Às vezes;Não;198,85;3;Heavy User
+1107;59;Não-binário;Pós-Graduação;Até 2 SM;Norte;Twitter/X;1,8;Desktop;Diário;1;Às vezes;Não;27,31;1;Tradicional
+1108;67;Feminino;Pós-Graduação;10-20 SM;Sudeste;Twitter/X;2,3;Smart TV;Semanal;9;Não;Sim;166,15;8;Heavy User
+1109;46;Masculino;Pós-Graduação;5-10 SM;Nordeste;Spotify;4,7;Notebook;Mensal;3;Sim;Sim;203,35;5;Heavy User
+1110;61;Não-binário;Médio;10-20 SM;Sul;Spotify;4,7;Notebook;Semanal;4;Às vezes;Sim;189,60;9;Heavy User
+1111;43;Não-binário;Fundamental;Acima 20 SM;Norte;Disney+;1,0;Tablet;Diário;8;Não;Não;82,28;3;Casual
+1112;61;Feminino;Superior;2-5 SM;Sudeste;Netflix;8,9;Notebook;Diário;1;Sim;Sim;54,80;7;Casual
+1113;65;Masculino;Pós-Graduação;5-10 SM;Norte;Spotify;4,2;Tablet;Semanal;8;Não;Sim;60,99;9;Casual
+1114;54;Masculino;Fundamental;2-5 SM;Sudeste;Instagram;6,0;Smart TV;Mensal;6;Não;Sim;105,86;9;Heavy User
+1115;54;Feminino;Médio;Acima 20 SM;Nordeste;Spotify;6,2;Smartphone;Diário;2;Às vezes;Não;240,00;5;Heavy User
+1116;16;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;Disney+;5,1;Smartphone;Semanal;9;Sim;Não;24,38;5;Nativo Digital
+1117;46;Feminino;Fundamental;10-20 SM;Sul;YouTube;2,8;Tablet;Quinzenal;4;Sim;Não;62,11;3;Casual
+1118;28;Masculino;Superior;10-20 SM;Sudeste;YouTube;9,3;Smartphone;Mensal;3;Não;Não;204,59;10;Heavy User
+1119;31;Masculino;Superior;Acima 20 SM;Centro-Oeste;YouTube;9,5;Smartphone;Raramente;7;Sim;Não;55,43;6;Casual
+1120;75;Feminino;Médio;Acima 20 SM;Centro-Oeste;Disney+;5,2;Smart TV;Semanal;5;Sim;Não;146,38;10;Heavy User
+1121;69;Masculino;Superior;2-5 SM;Sudeste;Amazon Prime;7,9;Desktop;Semanal;5;Não;Não;140,25;1;Heavy User
+1122;32;Masculino;Fundamental;5-10 SM;Centro-Oeste;Twitter/X;6,7;Tablet;Raramente;7;Sim;Sim;148,90;8;Heavy User
+1123;47;Masculino;Pós-Graduação;10-20 SM;Centro-Oeste;WhatsApp;4,3;Tablet;Diário;8;Sim;Não;84,61;8;Engajado Crítico
+1124;69;Masculino;Fundamental;10-20 SM;Norte;Globoplay;5,4;Desktop;Quinzenal;6;Sim;Sim;106,85;8;Heavy User
+1125;24;Masculino;Médio;Até 2 SM;Centro-Oeste;WhatsApp;7,0;Smart TV;Diário;3;Sim;Não;98,63;8;Nativo Digital
+1126;52;Feminino;Pós-Graduação;10-20 SM;Centro-Oeste;Disney+;1,3;Smart TV;Quinzenal;4;Não;Não;115,89;8;Tradicional
+1127;69;Não-binário;Pós-Graduação;2-5 SM;Nordeste;WhatsApp;7,2;Tablet;Mensal;7;Às vezes;Sim;111,61;7;Heavy User
+1128;23;Masculino;Fundamental;5-10 SM;Centro-Oeste;Amazon Prime;5,2;Desktop;Mensal;5;Sim;Não;154,88;1;Nativo Digital
+1129;41;Não-binário;Médio;5-10 SM;Norte;Amazon Prime;9,4;Smartphone;Diário;6;Às vezes;Não;107,20;3;Heavy User
+1130;55;Masculino;Pós-Graduação;Acima 20 SM;Norte;TikTok;4,3;Notebook;Raramente;1;Às vezes;Não;108,37;8;Heavy User
+1131;74;Não-binário;Médio;2-5 SM;Sul;TikTok;6,0;Smartphone;Semanal;8;Às vezes;Não;240,24;3;Heavy User
+1132;59;Feminino;Médio;Até 2 SM;Centro-Oeste;Spotify;2,7;Smartphone;Semanal;10;Não;Não;20,35;2;Casual
+1133;27;Masculino;Fundamental;Até 2 SM;Sul;Netflix;4,2;Desktop;Semanal;7;Às vezes;Não;43,73;4;Casual
+1134;45;Não-binário;Superior;10-20 SM;Sudeste;Spotify;1,6;Notebook;Raramente;5;Às vezes;Não;192,06;9;Heavy User
+1135;71;Feminino;Fundamental;Até 2 SM;Sul;Spotify;1,2;Smartphone;Quinzenal;3;Sim;Sim;66,13;8;Tradicional
+1136;43;Não-binário;Pós-Graduação;10-20 SM;Sul;WhatsApp;7,2;Smartphone;Raramente;9;Não;Não;72,41;4;Casual
+1137;31;Não-binário;Médio;10-20 SM;Nordeste;TikTok;1,7;Desktop;Quinzenal;8;Não;Sim;246,38;2;Heavy User
+1138;18;Feminino;Pós-Graduação;10-20 SM;Nordeste;Twitter/X;2,8;Tablet;Mensal;5;Sim;Não;225,94;2;Heavy User
+1139;26;Feminino;Superior;10-20 SM;Sul;Disney+;5,7;Smart TV;Mensal;3;Sim;Sim;82,77;6;Casual
+1140;20;Masculino;Fundamental;Acima 20 SM;Sul;Globoplay;9,9;Notebook;Quinzenal;5;Às vezes;Não;124,65;1;Nativo Digital
+1141;16;Feminino;Pós-Graduação;5-10 SM;Sul;Globoplay;0,9;Smartphone;Semanal;9;Sim;Não;8,13;5;Engajado Crítico
+1142;22;Masculino;Pós-Graduação;2-5 SM;Sul;WhatsApp;1,2;Smartphone;Diário;9;Sim;Sim;25,83;4;Engajado Crítico
+1143;37;Não-binário;Médio;10-20 SM;Sul;Netflix;0,9;Notebook;Mensal;1;Às vezes;Não;48,18;9;Casual
+1144;58;Feminino;Fundamental;Acima 20 SM;Sudeste;YouTube;8,8;Notebook;Diário;10;Não;Não;109,64;7;Heavy User
+1145;55;Masculino;Superior;10-20 SM;Sul;YouTube;2,9;Smartphone;Raramente;4;Às vezes;Não;120,22;9;Heavy User
+1146;72;Feminino;Médio;Acima 20 SM;Sul;TikTok;2,3;Desktop;Semanal;5;Sim;Não;20,68;9;Casual
+1147;41;Masculino;Fundamental;Acima 20 SM;Sul;YouTube;4,9;Desktop;Raramente;9;Às vezes;Não;103,10;8;Heavy User
+1148;62;Não-binário;Pós-Graduação;10-20 SM;Nordeste;Globoplay;7,0;Tablet;Quinzenal;7;Às vezes;Sim;182,66;9;Heavy User
+1149;36;Não-binário;Pós-Graduação;10-20 SM;Centro-Oeste;YouTube;1,6;Desktop;Semanal;5;Às vezes;Não;138,12;7;Heavy User
+1150;63;Feminino;Fundamental;Até 2 SM;Norte;Twitter/X;9,3;Smartphone;Raramente;5;Sim;Não;230,76;2;Heavy User
+1151;63;Masculino;Médio;2-5 SM;Norte;Twitter/X;5,6;Notebook;Raramente;6;Às vezes;Não;192,95;9;Heavy User
+1152;17;Não-binário;Médio;5-10 SM;Nordeste;WhatsApp;8,6;Desktop;Semanal;9;Sim;Não;99,11;1;Nativo Digital
+1153;43;Não-binário;Pós-Graduação;Até 2 SM;Sudeste;YouTube;4,0;Smartphone;Raramente;2;Às vezes;Não;182,43;10;Heavy User
+1154;26;Feminino;Fundamental;Até 2 SM;Sul;Disney+;7,2;Smartphone;Raramente;6;Não;Sim;196,78;10;Heavy User
+1155;55;Masculino;Médio;2-5 SM;Nordeste;TikTok;4,6;Smart TV;Mensal;6;Às vezes;Não;180,35;1;Heavy User
+1156;21;Não-binário;Pós-Graduação;2-5 SM;Norte;Spotify;1,4;Smart TV;Diário;3;Não;Sim;44,46;7;Casual
+1157;31;Masculino;Pós-Graduação;5-10 SM;Norte;Amazon Prime;6,1;Smart TV;Raramente;10;Sim;Não;60,64;5;Engajado Crítico
+1158;74;Masculino;Superior;Acima 20 SM;Sudeste;TikTok;3,5;Desktop;Raramente;3;Sim;Sim;95,84;7;Casual
+1159;24;Feminino;Médio;Acima 20 SM;Sul;WhatsApp;9,8;Desktop;Semanal;10;Sim;Não;69,31;7;Nativo Digital
+1160;43;Masculino;Médio;Acima 20 SM;Sul;Spotify;2,2;Tablet;Diário;1;Sim;Sim;160,62;1;Heavy User
+1161;56;Não-binário;Pós-Graduação;Até 2 SM;Sul;TikTok;1,2;Smartphone;Mensal;4;Às vezes;Sim;97,39;3;Tradicional
+1162;30;Não-binário;Médio;2-5 SM;Sul;Spotify;5,7;Notebook;Quinzenal;5;Às vezes;Não;87,82;2;Casual
+1163;60;Não-binário;Superior;2-5 SM;Nordeste;Disney+;7,0;Tablet;Raramente;8;Sim;Não;5,26;7;Engajado Crítico
+1164;45;Não-binário;Fundamental;2-5 SM;Nordeste;YouTube;8,7;Smart TV;Mensal;1;Às vezes;Sim;220,98;2;Heavy User
+1165;31;Feminino;Pós-Graduação;5-10 SM;Centro-Oeste;TikTok;6,2;Smartphone;Quinzenal;4;Sim;Não;140,13;4;Heavy User
+1166;60;Masculino;Pós-Graduação;5-10 SM;Norte;Amazon Prime;0,6;Smart TV;Raramente;2;Às vezes;Não;163,03;9;Tradicional
+1167;55;Masculino;Pós-Graduação;5-10 SM;Centro-Oeste;Amazon Prime;8,8;Smartphone;Semanal;1;Sim;Não;116,44;10;Heavy User
+1168;53;Masculino;Médio;5-10 SM;Sudeste;Disney+;7,5;Desktop;Diário;7;Não;Não;16,14;2;Casual
+1169;59;Feminino;Superior;10-20 SM;Nordeste;WhatsApp;5,1;Smart TV;Quinzenal;1;Não;Não;124,04;8;Heavy User
+1170;65;Feminino;Médio;Acima 20 SM;Sudeste;WhatsApp;5,7;Desktop;Diário;8;Sim;Não;161,69;3;Heavy User
+1171;22;Não-binário;Fundamental;Acima 20 SM;Sul;TikTok;1,5;Tablet;Raramente;3;Sim;Não;144,12;10;Heavy User
+1172;63;Feminino;Médio;5-10 SM;Nordeste;Netflix;3,6;Desktop;Raramente;1;Não;Sim;228,16;3;Heavy User
+1173;41;Feminino;Superior;10-20 SM;Centro-Oeste;YouTube;6,4;Tablet;Diário;6;Sim;Sim;199,73;7;Heavy User
+1174;23;Masculino;Fundamental;5-10 SM;Sudeste;Netflix;8,3;Notebook;Diário;1;Sim;Sim;224,71;10;Nativo Digital
+1175;37;Masculino;Fundamental;Acima 20 SM;Sul;Globoplay;2,1;Notebook;Mensal;3;Não;Sim;104,42;8;Heavy User
+1176;38;Masculino;Fundamental;5-10 SM;Sul;TikTok;9,3;Notebook;Quinzenal;2;Não;Não;182,79;4;Heavy User
+1177;53;Feminino;Superior;2-5 SM;Centro-Oeste;Globoplay;9,9;Smart TV;Quinzenal;9;Às vezes;Sim;156,07;10;Heavy User
+1178;61;Feminino;Pós-Graduação;5-10 SM;Sudeste;Twitter/X;1,4;Tablet;Quinzenal;7;Às vezes;Não;94,67;2;Tradicional
+1179;66;Feminino;Fundamental;2-5 SM;Nordeste;Disney+;6,8;Tablet;Raramente;5;Às vezes;Não;139,51;10;Heavy User
+1180;35;Masculino;Pós-Graduação;2-5 SM;Sudeste;TikTok;7,1;Notebook;Semanal;9;Às vezes;Sim;219,08;9;Heavy User
+1181;16;Não-binário;Médio;2-5 SM;Norte;Instagram;2,3;Smartphone;Semanal;6;Sim;Sim;2,90;3;Casual
+1182;65;Não-binário;Fundamental;5-10 SM;Nordeste;WhatsApp;6,0;Tablet;Diário;9;Não;Sim;221,29;4;Heavy User
+1183;32;Feminino;Pós-Graduação;Até 2 SM;Sul;Amazon Prime;9,6;Tablet;Quinzenal;1;Não;Sim;95,78;4;Casual
+1184;23;Não-binário;Médio;Até 2 SM;Sudeste;Disney+;5,6;Tablet;Raramente;2;Não;Sim;98,08;7;Nativo Digital
+1185;55;Não-binário;Pós-Graduação;5-10 SM;Nordeste;YouTube;8,9;Smart TV;Raramente;5;Não;Não;99,94;2;Casual
+1186;45;Não-binário;Superior;5-10 SM;Sul;Twitter/X;9,3;Desktop;Diário;2;Não;Sim;73,64;5;Casual
+1187;57;Não-binário;Superior;Até 2 SM;Centro-Oeste;TikTok;4,2;Smartphone;Quinzenal;6;Sim;Sim;18,52;4;Casual
+1188;25;Masculino;Fundamental;10-20 SM;Sudeste;Netflix;3,4;Tablet;Diário;6;Não;Sim;2,79;1;Casual
+1189;75;Feminino;Médio;10-20 SM;Norte;Globoplay;9,4;Tablet;Quinzenal;2;Não;Não;248,96;1;Heavy User
+1190;57;Feminino;Superior;Até 2 SM;Norte;Twitter/X;5,7;Notebook;Quinzenal;6;Sim;Sim;125,66;3;Heavy User
+1191;46;Masculino;Superior;2-5 SM;Sul;Amazon Prime;5,7;Smartphone;Mensal;7;Não;Não;40,57;5;Casual
+1192;49;Não-binário;Médio;2-5 SM;Centro-Oeste;Amazon Prime;3,6;Notebook;Raramente;6;Às vezes;Sim;188,30;4;Heavy User
+1193;29;Feminino;Superior;Acima 20 SM;Sul;TikTok;2,6;Notebook;Raramente;3;Sim;Sim;125,53;2;Heavy User
+1194;41;Não-binário;Superior;10-20 SM;Sudeste;Twitter/X;4,6;Tablet;Semanal;10;Às vezes;Sim;77,49;8;Casual
+1195;42;Não-binário;Fundamental;10-20 SM;Nordeste;Twitter/X;5,0;Tablet;Mensal;6;Às vezes;Sim;47,44;6;Casual
+1196;63;Feminino;Pós-Graduação;2-5 SM;Sudeste;Globoplay;6,7;Smart TV;Diário;4;Às vezes;Não;204,14;7;Heavy User
+1197;25;Não-binário;Superior;Acima 20 SM;Centro-Oeste;Instagram;4,9;Smart TV;Mensal;3;Não;Não;80,62;8;Casual
+1198;40;Não-binário;Pós-Graduação;5-10 SM;Norte;Spotify;6,4;Tablet;Raramente;4;Às vezes;Sim;179,39;7;Heavy User
+1199;64;Masculino;Pós-Graduação;Até 2 SM;Norte;Instagram;9,4;Desktop;Diário;6;Às vezes;Não;123,93;2;Heavy User
+1200;52;Feminino;Superior;5-10 SM;Sul;Twitter/X;10,0;Tablet;Mensal;2;Não;Sim;219,19;8;Heavy User
