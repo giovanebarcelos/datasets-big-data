@@ -1,16 +1,16 @@
-﻿ID;Nome_Fonte;URL;Tipo_Dados;Formato_Disponivel;Atualizacao;Tema_Principal;Dificuldade_Uso;Observacao
-1;Portal Dados Abertos Brasil;https://dados.gov.br;Governo;CSV, JSON, XML;Variável;Governo/Políticas Públicas;Fácil;Principal portal de dados abertos do governo federal
-2;IBGE - Sidra;https://sidra.ibge.gov.br;Censo/Estatísticas;CSV, XLS, JSON;Anual/Mensal;Demografia/Economia;Médio;Sistema IBGE de Recuperação Automática
-3;TSE - Dados Abertos;https://dadosabertos.tse.jus.br;Eleições;CSV;Por eleição;Eleições/Política;Médio;Resultados eleitorais, candidaturas, prestação de contas
-4;DATASUS - TabNet;https://datasus.saude.gov.br;Saúde;CSV, DBF;Mensal;Saúde Pública;Difícil;Sistema de informações do SUS
-5;INEP - Microdados;https://www.gov.br/inep;Educação;CSV;Anual;Educação/ENEM/Censo Escolar;Difícil;Microdados do ENEM, Censo Escolar, IDEB
-6;Google Trends;https://trends.google.com.br;Buscas;CSV;Tempo real;Tendências/Interesse Público;Fácil;Tendências de busca no Google
-7;Meta Ad Library;https://www.facebook.com/ads/library;Publicidade;Online;Tempo real;Publicidade/Comunicação Política;Médio;Biblioteca de anúncios do Facebook/Instagram
-8;Kaggle Datasets;https://www.kaggle.com/datasets;Variado;CSV, JSON, SQL;Variável;Diversos;Fácil;Comunidade global de ciência de dados
-9;Portal da Transparência;https://portaldatransparencia.gov.br;Governo;CSV, JSON;Diário;Gastos Públicos;Médio;Gastos federais, servidores, programas sociais
-10;IPEA Data;http://www.ipeadata.gov.br;Economia;CSV, XLS;Mensal;Economia/Indicadores Sociais;Médio;Dados macroeconômicos e sociais
-11;Brasil.IO;https://brasil.io;Governo/Saúde;CSV, API;Variável;Dados públicos tratados;Fácil;Dados públicos acessíveis e tratados pela comunidade
-12;Our World in Data;https://ourworldindata.org;Global;CSV, JSON;Contínua;Indicadores Globais;Fácil;Dados globais com visualizações prontas
-13;Data.World;https://data.world;Variado;CSV, JSON;Variável;Diversos;Fácil;Plataforma colaborativa de dados
-14;Reclame Aqui - Ranking;https://www.reclameaqui.com.br;Consumo;Online;Tempo real;Reclamações/Consumo;Fácil;Rankings e dados de reclamações de consumidores
-15;Base dos Dados;https://basedosdados.org;Variado;CSV, BigQuery;Variável;Dados públicos integrados;Médio;Plataforma brasileira que integra bases de dados públicas
+ID;Nome_Fonte;URL;Tipo_Dados;Formato_Disponivel;Atualizacao;Tema_Principal;Dificuldade_Uso;Observacao
+1;Portal da Transparência;https://portaldatransparencia.gov.br;Gastos públicos federais;CSV, API REST;Diária;Finanças Públicas;Intermediária;API requer cadastro gratuito. Dados desde 2004.
+2;IBGE Sidra;https://sidra.ibge.gov.br;Censos, PNAD, indicadores demográficos;CSV, API REST, JSON;Variável;Demografia e Economia;Fácil;API pública sem autenticação. Tabelas pré-formatadas.
+3;TSE Dados Abertos;https://dadosabertos.tse.jus.br;Resultados eleitorais, candidaturas, partidos;CSV, ZIP;Após eleições;Política;Intermediária;Microdados completos desde 1998. Arquivos grandes.
+4;INEP Microdados;https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados;Censo Escolar, ENEM, SAEB, IDEB;CSV em ZIP;Anual;Educação;Avançada;Arquivos muito grandes. Requer pré-processamento.
+5;DATASUS TabNet;https://datasus.saude.gov.br/informacoes-de-saude-tabnet;Mortalidade, nascimentos, internações, vacinação;CSV, DBF;Mensal/Anual;Saúde Pública;Intermediária;Interface TabNet para consultas. Dados desde 1996.
+6;consumidor.gov.br;https://www.consumidor.gov.br/pages/dadosabertos/externo;Reclamações de consumidores;CSV;Mensal;Consumo e Cidadania;Fácil;Download direto. Dados anonimizados. Excelente para análise de texto.
+7;Brasil.IO;https://brasil.io;Dados públicos estruturados (COVID, CNPJ, diários oficiais);CSV, API REST;Variável;Diversos;Fácil;Projeto voluntário. Dados já limpos e padronizados.
+8;Base dos Dados;https://basedosdados.org;Agregador de dados públicos brasileiros;BigQuery, CSV, Python;Variável;Diversos;Fácil;Acesso via SQL no BigQuery (gratuito). Dados padronizados.
+9;Google Trends;https://trends.google.com.br;Tendências de busca por termo, região e período;CSV (export manual);Tempo real;Comportamento Digital;Fácil;Dados relativos (0-100). Exportação manual ou via pytrends.
+10;ANATEL Dados Abertos;https://informacoes.anatel.gov.br/paineis/acessos;Acessos internet, telefonia, TV paga;CSV, XLSX;Mensal;Telecomunicações;Intermediária;Painéis interativos + download. Dados por município.
+11;Kaggle;https://www.kaggle.com/datasets;Datasets diversos (global);CSV, JSON, Parquet;Contínua;Diversos (Global);Fácil;Comunidade global. Requer conta gratuita. Notebooks integrados.
+12;Atlas do Desenvolvimento Humano;http://www.atlasbrasil.org.br;IDHM, indicadores sociais por município;CSV, XLSX;Decenal (Censo);Desenvolvimento Social;Fácil;Dados combinados IBGE/PNUD. Mapas interativos.
+13;IPEA Data;http://www.ipeadata.gov.br;Séries econômicas, sociais e regionais;CSV, API;Variável;Economia e Políticas Públicas;Intermediária;Séries históricas longas. Boa documentação.
+14;Sistema IBGE de Recuperação Automática (SIDRA);https://apisidra.ibge.gov.br;API para todas as pesquisas do IBGE;JSON (API);Variável;Demografia e Economia;Avançada;API REST sem autenticação. Documentação detalhada.
+15;CVM Dados Abertos;https://dados.cvm.gov.br;Fundos de investimento, empresas listadas;CSV, ZIP;Diária/Mensal;Mercado Financeiro;Avançada;Dados regulatórios. Útil para análise financeira e comunicação corporativa.

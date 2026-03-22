@@ -1,401 +1,401 @@
-﻿ID;Municipio;UF;Nome_Escola;Rede;Nivel_Ensino;Matriculas_2023;Aprovacao_%;Reprovacao_%;Abandono_%;IDEB_2023;Docentes_Total;Infraestrutura_Score
-1;São Luís;PE;E.M. Oliveira;Federal;Ensino Fundamental I;2105;93,4;19,3;0,0;4,9;86;2
-2;Natal;TO;EEEF Castro;Federal;Ensino Fundamental II;2160;76,2;13,5;10,3;4,1;50;2
-3;São Paulo;AM;EEEF Santos Dumont;Privada;Ensino Fundamental I;2479;81,8;12,0;6,2;6,0;18;8
-4;Juiz de Fora;RN;EMEF Ribeiro;Privada;Ensino Fundamental I;521;85,1;16,0;0,0;7,3;78;2
-5;Recife;SP;E.E. Costa;Privada;Ensino Fundamental II;243;76,8;15,9;7,3;6,8;78;9
-6;Belo Horizonte;MG;EEEF Castro;Privada;Ensino Médio;185;72,3;4,0;23,7;5,8;47;2
-7;João Pessoa;PA;E.M. Castro;Privada;Ensino Fundamental II;1548;92,8;7,2;0,0;7,4;36;5
-8;Londrina;SE;E.M. Gomes;Privada;Ensino Médio;1157;91,1;3,6;5,3;5,5;115;9
-9;Florianópolis;SC;Inst. Monteiro Lobato;Federal;Ensino Fundamental I;2127;94,1;7,0;0,0;5,8;99;4
-10;Florianópolis;TO;Col. Souza;Municipal;Ensino Médio;1743;75,6;10,2;14,2;3,8;53;4
-11;Campo Grande;RR;Inst. Costa;Federal;Ensino Fundamental II;1560;90,7;19,2;0,0;4,5;19;4
-12;Maringá;MA;EMEF Monteiro;Federal;Ensino Médio;2284;71,0;12,6;16,4;3,3;16;2
-13;Niterói;GO;E.E. Monteiro;Federal;Ensino Médio;1529;78,5;18,5;3,0;3,5;99;5
-14;Aparecida de Goiânia;AP;Col. Pereira;Privada;Ensino Fundamental I;1087;83,6;13,5;2,9;4,2;68;4
-15;São Luís;ES;E.E. Rocha;Estadual;Ensino Fundamental I;130;75,1;19,3;5,6;6,9;66;8
-16;Santos;PI;EMEF Moreira;Estadual;Ensino Fundamental II;842;93,8;11,8;0,0;5,8;118;7
-17;Campo Grande;RR;Col. Santos Dumont;Federal;Ensino Fundamental II;1596;77,4;18,5;4,1;4,1;74;6
-18;Fortaleza;RR;E.E. Gomes;Estadual;Ensino Médio;2451;69,4;19,6;11,0;6,5;69;8
-19;Feira de Santana;MT;E.M. Santos Dumont;Estadual;Ensino Médio;1506;89,4;13,1;0,0;5,5;33;8
-20;Natal;RJ;E.M. Rocha;Privada;Ensino Fundamental II;2500;79,8;19,1;1,1;3,8;76;8
-21;Juiz de Fora;RS;E.M. Darcy Ribeiro;Federal;Ensino Fundamental II;685;67,2;7,4;25,4;7,3;40;10
-22;Campo Grande;SC;E.M. Monteiro;Privada;Ensino Fundamental II;626;98,5;4,7;0,0;5,0;73;5
-23;Vitória;ES;EMEF Santos Dumont;Privada;Ensino Fundamental I;2290;98,3;11,9;0,0;6,9;83;1
-24;Aracaju;RJ;E.M. Monteiro Lobato;Municipal;Ensino Médio;340;83,0;14,7;2,3;6,3;36;10
-25;Goiânia;TO;E.E. Silva;Privada;Ensino Médio;569;76,3;2,3;21,4;4,8;94;7
-26;Santos;MG;EEEF Araújo;Estadual;Ensino Fundamental II;829;68,3;7,4;24,3;6,2;117;5
-27;Uberlândia;AP;E.E. Lima;Privada;Ensino Fundamental I;1008;76,9;13,1;10,0;3,4;62;2
-28;São José dos Campos;GO;E.M. Darcy Ribeiro;Municipal;Ensino Médio;322;88,2;2,4;9,4;3,0;72;1
-29;São Paulo;MT;Inst. Carvalho;Municipal;Ensino Médio;2387;77,7;1,9;20,4;3,8;86;10
-30;Uberlândia;CE;EMEF Almeida;Federal;Ensino Fundamental I;713;85,4;11,7;2,9;7,0;95;3
-31;Ribeirão Preto;BA;Inst. Silva;Municipal;Ensino Médio;572;92,4;6,6;1,0;4,3;49;3
-32;Maringá;PE;E.E. Darcy Ribeiro;Municipal;Ensino Fundamental II;871;85,5;19,9;0,0;7,1;63;9
-33;Porto Velho;SE;Inst. Souza;Municipal;Ensino Fundamental II;1088;77,4;5,2;17,4;6,7;29;7
-34;Belo Horizonte;MS;E.M. Araújo;Municipal;Ensino Médio;452;87,6;6,8;5,6;5,4;78;9
-35;São José dos Campos;MG;EMEF Teixeira;Estadual;Ensino Fundamental II;1392;69,6;15,4;15,0;4,3;85;7
-36;Niterói;PA;Inst. Oliveira;Privada;Ensino Fundamental I;2092;68,5;11,4;20,1;5,7;44;8
-37;João Pessoa;SP;EEEF Monteiro;Municipal;Ensino Médio;250;71,4;2,2;26,4;7,0;100;10
-38;Feira de Santana;CE;EEEF Gomes;Municipal;Ensino Médio;194;66,6;6,4;27,0;3,8;73;1
-39;Osasco;SC;EMEF Barbosa;Estadual;Ensino Médio;1598;88,2;1,4;10,4;4,0;63;3
-40;São Luís;RR;Col. Oliveira;Estadual;Ensino Fundamental II;926;84,4;12,5;3,1;3,2;53;4
-41;Recife;MA;E.M. Darcy Ribeiro;Estadual;Ensino Médio;1434;98,5;19,7;0,0;6,7;52;7
-42;Belo Horizonte;BA;E.E. Mendes;Estadual;Ensino Médio;1137;95,0;8,7;0,0;5,6;115;5
-43;Campinas;RS;EEEF Lima;Privada;Ensino Médio;121;79,1;8,6;12,3;4,3;120;4
-44;Uberlândia;GO;EMEF Silva;Privada;Ensino Fundamental I;1919;69,4;13,9;16,7;3,3;19;2
-45;Belém;SE;Inst. Oliveira;Estadual;Ensino Médio;1420;70,7;14,9;14,4;7,3;96;7
-46;João Pessoa;PI;Col. Carvalho;Federal;Ensino Fundamental I;569;78,4;17,8;3,8;3,9;16;9
-47;Uberlândia;DF;E.E. Barbosa;Municipal;Ensino Fundamental II;2041;68,7;5,0;26,3;6,7;28;2
-48;Fortaleza;ES;Inst. Mendes;Federal;Ensino Fundamental II;664;80,0;15,5;4,5;6,0;69;4
-49;Campinas;SC;Col. Santos;Municipal;Ensino Fundamental I;1478;94,2;5,4;0,4;3,8;64;4
-50;Salvador;MG;Inst. Rodrigues;Federal;Ensino Médio;340;72,7;12,7;14,6;4,5;97;8
-51;Rio de Janeiro;PB;E.M. Anísio Teixeira;Estadual;Ensino Médio;2244;74,8;3,6;21,6;5,5;45;1
-52;Recife;RO;E.M. Martins;Municipal;Ensino Médio;775;89,6;6,8;3,6;3,2;120;2
-53;São Luís;AC;Inst. Silva;Municipal;Ensino Fundamental II;2402;69,1;4,9;26,0;5,8;77;9
-54;Fortaleza;AC;EEEF Anísio Teixeira;Privada;Ensino Médio;1661;74,6;12,5;12,9;5,0;100;4
-55;Uberlândia;RN;Col. Costa;Privada;Ensino Fundamental II;707;80,4;17,6;2,0;4,0;41;3
-56;Porto Velho;GO;E.E. Costa;Municipal;Ensino Fundamental II;1308;69,9;9,5;20,6;6,2;74;4
-57;Niterói;BA;EEEF Costa;Estadual;Ensino Fundamental II;1804;95,0;9,5;0,0;5,0;54;8
-58;Cuiabá;MT;Col. Vieira;Privada;Ensino Fundamental I;2250;72,0;4,7;23,3;3,9;29;10
-59;Cuiabá;PB;EMEF Paulo Freire;Privada;Ensino Fundamental II;1337;72,3;3,3;24,4;3,5;88;8
-60;Teresina;TO;EMEF Martins;Municipal;Ensino Fundamental I;969;76,5;17,9;5,6;6,0;71;7
-61;Goiânia;PB;E.M. Monteiro;Estadual;Ensino Fundamental II;2404;87,7;5,8;6,5;6,4;77;3
-62;Niterói;RJ;E.E. Rodrigues;Privada;Ensino Fundamental II;1999;73,4;14,9;11,7;6,4;67;6
-63;São José dos Campos;SC;EEEF Darcy Ribeiro;Municipal;Ensino Médio;477;91,8;2,2;6,0;3,0;115;1
-64;Vitória;AP;Col. Darcy Ribeiro;Federal;Ensino Fundamental I;696;97,6;6,5;0,0;3,3;84;6
-65;Maringá;TO;Inst. Araújo;Federal;Ensino Médio;797;74,9;2,5;22,6;5,5;120;3
-66;Belém;PA;E.M. Nascimento;Privada;Ensino Fundamental I;2380;83,8;9,7;6,5;7,4;93;4
-67;Recife;RO;E.E. Rocha;Municipal;Ensino Fundamental I;635;94,9;9,7;0,0;5,1;103;1
-68;Maringá;RR;Col. Rocha;Estadual;Ensino Fundamental II;161;98,0;19,0;0,0;5,6;118;6
-69;Brasília;MS;E.M. Ferreira;Estadual;Ensino Médio;1309;88,0;18,4;0,0;3,5;106;4
-70;Florianópolis;MA;EEEF Santos Dumont;Municipal;Ensino Fundamental II;2106;65,5;17,9;16,6;4,9;26;6
-71;Campo Grande;DF;EMEF Lima;Municipal;Ensino Fundamental II;1384;95,8;1,5;2,7;4,1;44;5
-72;Londrina;PA;Col. Santos;Federal;Ensino Médio;1956;87,4;7,0;5,6;3,1;116;10
-73;São Paulo;SC;EMEF Silva;Federal;Ensino Fundamental II;897;95,8;7,9;0,0;3,2;91;5
-74;Porto Velho;MT;Col. Santos Dumont;Privada;Ensino Fundamental II;1481;69,5;7,3;23,2;4,2;29;8
-75;João Pessoa;GO;E.M. Rocha;Municipal;Ensino Médio;1385;94,3;18,0;0,0;3,1;21;2
-76;Maceió;AP;E.E. Costa;Municipal;Ensino Fundamental I;2422;92,2;15,7;0,0;6,9;6;1
-77;Vitória;RN;E.M. Rodrigues;Privada;Ensino Médio;1435;91,7;2,6;5,7;3,5;95;3
-78;Guarulhos;SC;E.M. Ferreira;Municipal;Ensino Médio;455;65,1;15,9;19,0;4,0;11;2
-79;Porto Velho;MT;EEEF Barbosa;Estadual;Ensino Fundamental II;888;89,1;10,2;0,7;6,2;65;5
-80;Maringá;AL;Inst. Ferreira;Municipal;Ensino Fundamental I;800;98,1;5,6;0,0;7,0;78;4
-81;Recife;RR;E.M. Almeida;Estadual;Ensino Fundamental II;1012;70,5;12,9;16,6;5,7;81;7
-82;Ribeirão Preto;RS;Col. Almeida;Privada;Ensino Fundamental II;1492;90,0;10,8;0,0;5,9;92;5
-83;João Pessoa;SP;E.E. Oliveira;Municipal;Ensino Fundamental I;2103;76,7;14,8;8,5;5,8;109;7
-84;Brasília;RO;EEEF Rocha;Municipal;Ensino Médio;441;75,8;15,5;8,7;7,1;94;10
-85;Fortaleza;RJ;Col. Castro;Federal;Ensino Fundamental II;1546;90,2;9,9;0,0;5,2;102;8
-86;Florianópolis;PI;EEEF Almeida;Estadual;Ensino Médio;778;66,5;7,4;26,1;5,1;64;6
-87;Niterói;PB;Inst. Rocha;Estadual;Ensino Fundamental I;1659;79,3;1,0;19,7;3,6;45;7
-88;Porto Alegre;MG;Col. Silva;Privada;Ensino Médio;787;70,1;18,9;11,0;4,0;7;7
-89;Joinville;BA;Col. Gomes;Estadual;Ensino Fundamental I;2117;78,3;6,4;15,3;7,3;75;5
-90;São Luís;DF;Inst. Mendes;Privada;Ensino Fundamental II;1862;97,2;3,6;0,0;7,4;12;6
-91;Curitiba;AP;Col. Monteiro;Privada;Ensino Médio;1265;69,8;10,6;19,6;5,2;32;7
-92;Uberlândia;AC;Col. Teixeira;Estadual;Ensino Fundamental II;1352;88,3;8,9;2,8;3,5;21;9
-93;João Pessoa;MT;EEEF Costa;Estadual;Ensino Fundamental II;2395;98,0;1,7;0,3;5,0;58;4
-94;Campinas;MT;EEEF Pereira;Federal;Ensino Médio;2030;91,8;11,3;0,0;5,6;47;4
-95;Manaus;MT;EEEF Moreira;Estadual;Ensino Médio;1050;92,7;5,4;1,9;5,5;118;1
-96;Florianópolis;PE;E.M. Ribeiro;Estadual;Ensino Médio;1397;67,8;10,1;22,1;5,7;119;5
-97;Fortaleza;PB;Inst. Monteiro Lobato;Estadual;Ensino Fundamental II;666;77,4;15,7;6,9;5,1;33;1
-98;Florianópolis;MS;EMEF Araújo;Estadual;Ensino Fundamental II;1390;81,5;6,6;11,9;7,0;30;4
-99;Recife;MA;EEEF Santos;Estadual;Ensino Médio;2144;74,6;15,9;9,5;4,9;109;1
-100;Teresina;GO;E.E. Rodrigues;Federal;Ensino Fundamental I;198;87,2;15,4;0,0;3,4;64;3
-101;Londrina;RS;Inst. Nascimento;Estadual;Ensino Médio;1899;90,8;2,6;6,6;4,2;40;4
-102;Sorocaba;MA;E.E. Moreira;Estadual;Ensino Fundamental II;149;69,2;17,4;13,4;5,5;52;3
-103;Florianópolis;TO;EEEF Ribeiro;Municipal;Ensino Médio;1858;87,0;8,2;4,8;4,5;112;1
-104;João Pessoa;MT;EMEF Monteiro Lobato;Municipal;Ensino Médio;308;89,6;14,4;0,0;5,2;13;3
-105;Porto Alegre;AM;EMEF Ferreira;Estadual;Ensino Fundamental I;1555;98,1;7,1;0,0;4,9;101;2
-106;Uberlândia;MG;EMEF Santos;Privada;Ensino Médio;1701;88,6;11,2;0,2;3,4;31;8
-107;Belém;AM;Col. Pereira;Estadual;Ensino Fundamental I;2364;65,8;13,0;21,2;6,1;66;1
-108;Belo Horizonte;ES;E.E. Rodrigues;Estadual;Ensino Médio;1388;76,0;15,2;8,8;6,0;7;9
-109;João Pessoa;PR;E.M. Vieira;Privada;Ensino Médio;358;66,4;12,0;21,6;3,9;79;8
-110;São Paulo;MS;EEEF Oliveira;Federal;Ensino Médio;752;78,5;3,5;18,0;3,0;85;10
-111;João Pessoa;GO;EMEF Costa;Privada;Ensino Fundamental I;905;90,6;5,5;3,9;3,9;119;5
-112;Niterói;AM;EEEF Carvalho;Privada;Ensino Fundamental I;1904;85,5;13,2;1,3;5,3;56;4
-113;Goiânia;AM;E.M. Ribeiro;Municipal;Ensino Médio;922;71,8;11,6;16,6;6,4;111;4
-114;Maringá;TO;Col. Costa;Privada;Ensino Fundamental I;1021;84,3;17,7;0,0;4,1;70;1
-115;Teresina;AC;E.E. Anísio Teixeira;Estadual;Ensino Fundamental II;925;82,0;14,5;3,5;6,2;63;7
-116;Belém;PR;Inst. Nascimento;Federal;Ensino Médio;1097;67,6;2,6;29,8;3,0;8;10
-117;Salvador;AC;Col. Silva;Federal;Ensino Fundamental II;1642;89,8;19,2;0,0;3,4;52;4
-118;Guarulhos;PA;EEEF Darcy Ribeiro;Federal;Ensino Fundamental I;1226;79,2;0,9;19,9;6,5;120;2
-119;Teresina;BA;Col. Rocha;Estadual;Ensino Fundamental I;204;94,9;18,7;0,0;3,8;19;2
-120;Maceió;PB;EMEF Monteiro;Federal;Ensino Fundamental II;172;88,9;9,9;1,2;6,3;24;4
-121;Fortaleza;MG;EEEF Ribeiro;Municipal;Ensino Fundamental I;2117;79,7;9,6;10,7;3,8;6;10
-122;Belo Horizonte;RO;E.M. Monteiro Lobato;Federal;Ensino Médio;1233;89,4;4,5;6,1;4,2;90;5
-123;Guarulhos;ES;EEEF Rocha;Municipal;Ensino Médio;260;94,7;16,8;0,0;5,0;94;8
-124;São Luís;RR;EEEF Santos;Federal;Ensino Fundamental II;442;85,3;9,4;5,3;5,1;25;6
-125;Cuiabá;SC;EMEF Nascimento;Estadual;Ensino Fundamental II;1500;78,8;11,8;9,4;4,7;49;5
-126;Porto Alegre;TO;EEEF Monteiro Lobato;Privada;Ensino Médio;2301;78,9;19,2;1,9;3,4;37;3
-127;Vitória;MS;EEEF Rocha;Privada;Ensino Médio;752;95,3;7,2;0,0;7,1;85;3
-128;Vitória;PI;EEEF Anísio Teixeira;Estadual;Ensino Médio;651;98,2;15,9;0,0;6,7;55;2
-129;Santos;AM;EMEF Nascimento;Municipal;Ensino Médio;505;84,6;5,5;9,9;5,5;26;4
-130;Vitória;PR;E.M. Gomes;Federal;Ensino Médio;1697;82,8;16,5;0,7;4,0;49;7
-131;Curitiba;ES;EEEF Teixeira;Privada;Ensino Fundamental I;851;89,4;17,9;0,0;7,4;107;2
-132;Uberlândia;BA;E.M. Monteiro;Federal;Ensino Fundamental I;1743;75,3;4,6;20,1;5,9;109;4
-133;Rio de Janeiro;AC;E.M. Carvalho;Municipal;Ensino Fundamental I;840;93,1;13,8;0,0;3,3;62;2
-134;Osasco;MS;EEEF Ribeiro;Municipal;Ensino Médio;1309;76,7;7,8;15,5;4,4;84;10
-135;Joinville;RS;EMEF Moreira;Municipal;Ensino Médio;2092;98,2;10,2;0,0;4,6;37;8
-136;Porto Velho;SP;EMEF Monteiro Lobato;Municipal;Ensino Fundamental II;2484;86,1;7,3;6,6;7,4;67;1
-137;Porto Velho;AL;Inst. Monteiro Lobato;Municipal;Ensino Fundamental II;1112;83,5;2,1;14,4;6,3;96;2
-138;Sorocaba;MG;EEEF Gomes;Estadual;Ensino Médio;2002;66,2;6,5;27,3;6,5;114;8
-139;Campinas;RN;Inst. Souza;Municipal;Ensino Médio;605;85,2;13,7;1,1;3,1;69;8
-140;Fortaleza;PE;E.E. Rocha;Federal;Ensino Médio;2394;78,2;18,5;3,3;5,9;11;5
-141;Maringá;AM;EEEF Barbosa;Privada;Ensino Fundamental I;1930;75,0;3,7;21,3;4,3;47;7
-142;Recife;RO;E.E. Anísio Teixeira;Municipal;Ensino Fundamental I;2054;81,5;0,6;17,9;6,5;108;3
-143;Porto Velho;AL;Col. Ferreira;Estadual;Ensino Fundamental II;2470;93,7;5,0;1,3;5,0;94;2
-144;Curitiba;CE;E.E. Rodrigues;Municipal;Ensino Fundamental II;2112;77,5;14,1;8,4;3,1;72;6
-145;Feira de Santana;AM;Inst. Araújo;Municipal;Ensino Fundamental II;1867;83,9;8,7;7,4;3,3;38;6
-146;Joinville;MG;EMEF Pereira;Estadual;Ensino Fundamental I;178;70,5;11,6;17,9;6,0;62;9
-147;Cuiabá;PI;Col. Araújo;Municipal;Ensino Médio;839;84,8;2,8;12,4;3,2;30;3
-148;Teresina;BA;EEEF Monteiro;Privada;Ensino Fundamental I;1603;67,0;15,9;17,1;3,5;90;5
-149;Maringá;PE;E.M. Carvalho;Estadual;Ensino Fundamental II;1078;94,3;16,1;0,0;3,8;65;8
-150;Joinville;DF;E.M. Ferreira;Privada;Ensino Médio;2297;94,2;1,9;3,9;6,0;114;9
-151;Porto Alegre;SP;E.M. Araújo;Municipal;Ensino Médio;754;73,4;15,2;11,4;6,8;51;4
-152;Campo Grande;PA;E.M. Monteiro Lobato;Privada;Ensino Fundamental I;1392;91,5;1,0;7,5;6,0;52;7
-153;Londrina;RN;E.E. Castro;Estadual;Ensino Fundamental II;2167;95,2;13,1;0,0;6,4;25;4
-154;São José dos Campos;MA;Inst. Monteiro Lobato;Municipal;Ensino Fundamental II;206;79,2;11,5;9,3;6,2;104;3
-155;Belo Horizonte;MS;Col. Ribeiro;Federal;Ensino Fundamental II;1478;75,3;10,9;13,8;4,5;44;8
-156;Ribeirão Preto;PR;Inst. Monteiro Lobato;Estadual;Ensino Fundamental II;1460;68,1;10,0;21,9;4,5;71;10
-157;Fortaleza;GO;EEEF Lima;Federal;Ensino Fundamental II;2183;72,7;18,6;8,7;4,5;35;10
-158;Guarulhos;MS;Col. Almeida;Federal;Ensino Médio;1765;74,5;12,2;13,3;6,0;29;10
-159;Manaus;SE;EEEF Carvalho;Estadual;Ensino Médio;1560;89,2;11,3;0,0;3,9;64;10
-160;São José dos Campos;CE;E.M. Castro;Federal;Ensino Médio;1091;72,0;15,9;12,1;6,7;28;8
-161;Cuiabá;ES;Inst. Araújo;Federal;Ensino Médio;1960;83,3;3,4;13,3;5,7;37;2
-162;Porto Velho;TO;EMEF Ribeiro;Municipal;Ensino Fundamental I;853;92,6;5,5;1,9;5,2;75;10
-163;Natal;PE;EMEF Martins;Estadual;Ensino Fundamental II;288;98,4;12,7;0,0;5,2;18;8
-164;Osasco;MG;Col. Souza;Estadual;Ensino Fundamental I;583;77,3;16,1;6,6;3,2;113;2
-165;Natal;AM;EMEF Nascimento;Federal;Ensino Fundamental I;472;96,5;13,9;0,0;3,9;119;10
-166;Salvador;AC;E.M. Gomes;Federal;Ensino Fundamental II;1840;73,2;4,8;22,0;5,7;101;5
-167;Juiz de Fora;MS;E.E. Rodrigues;Municipal;Ensino Médio;2472;75,8;4,8;19,4;6,6;110;7
-168;Campinas;PI;EMEF Silva;Estadual;Ensino Fundamental I;2419;90,2;19,6;0,0;4,2;67;2
-169;Curitiba;ES;Inst. Pereira;Estadual;Ensino Fundamental II;758;95,3;18,4;0,0;4,3;5;4
-170;Teresina;PA;EMEF Paulo Freire;Privada;Ensino Fundamental II;954;72,9;17,0;10,1;4,8;61;8
-171;Porto Alegre;SC;Inst. Paulo Freire;Privada;Ensino Fundamental I;2297;91,0;4,5;4,5;6,0;60;9
-172;Vitória;MT;E.M. Araújo;Privada;Ensino Fundamental II;921;77,7;14,2;8,1;5,7;94;7
-173;Belém;SE;Inst. Almeida;Estadual;Ensino Fundamental II;1526;78,8;5,4;15,8;4,3;34;7
-174;Joinville;AC;EEEF Moreira;Estadual;Ensino Médio;344;80,4;16,1;3,5;4,7;49;6
-175;Porto Velho;AC;Inst. Martins;Privada;Ensino Fundamental II;446;79,9;7,3;12,8;4,2;38;8
-176;Belém;CE;E.E. Paulo Freire;Estadual;Ensino Fundamental I;1642;77,4;15,3;7,3;3,4;25;2
-177;Juiz de Fora;AL;Col. Oliveira;Federal;Ensino Fundamental II;690;75,0;17,2;7,8;4,3;28;4
-178;Santos;MA;E.E. Barbosa;Municipal;Ensino Fundamental I;457;86,1;11,7;2,2;6,5;116;3
-179;João Pessoa;PI;Inst. Martins;Estadual;Ensino Fundamental I;150;92,5;4,3;3,2;6,2;13;2
-180;Natal;TO;E.E. Nascimento;Municipal;Ensino Fundamental II;2346;90,9;14,6;0,0;3,7;28;4
-181;São Paulo;MT;E.E. Monteiro Lobato;Federal;Ensino Médio;164;82,0;17,9;0,1;4,8;26;1
-182;Joinville;BA;E.E. Pereira;Federal;Ensino Médio;1223;80,7;9,4;9,9;6,2;96;4
-183;Belém;RS;EMEF Monteiro Lobato;Municipal;Ensino Fundamental I;1625;69,6;6,1;24,3;5,4;67;7
-184;Juiz de Fora;PI;EEEF Ribeiro;Privada;Ensino Médio;2208;77,0;12,3;10,7;6,2;100;7
-185;Campo Grande;PE;Inst. Ferreira;Privada;Ensino Fundamental I;229;72,0;12,2;15,8;4,7;43;2
-186;Santos;MG;Inst. Carvalho;Federal;Ensino Fundamental I;1368;81,6;15,1;3,3;4,0;104;3
-187;Londrina;RJ;EEEF Rodrigues;Federal;Ensino Fundamental II;1081;69,8;18,1;12,1;7,1;37;8
-188;Niterói;PB;EEEF Rocha;Federal;Ensino Fundamental I;1977;69,4;19,2;11,4;4,1;23;2
-189;João Pessoa;MS;E.M. Costa;Privada;Ensino Fundamental II;1855;67,7;6,2;26,1;6,7;75;8
-190;Belo Horizonte;PR;E.M. Costa;Federal;Ensino Fundamental I;1351;96,3;3,7;0,0;7,5;23;9
-191;Natal;AL;E.M. Barbosa;Estadual;Ensino Médio;2214;77,6;9,2;13,2;4,5;83;8
-192;Aracaju;RN;Col. Carvalho;Federal;Ensino Fundamental I;2197;84,9;17,7;0,0;6,4;60;9
-193;Belo Horizonte;RO;EMEF Castro;Municipal;Ensino Fundamental I;1627;76,2;14,4;9,4;6,3;86;5
-194;Porto Alegre;BA;E.E. Oliveira;Privada;Ensino Fundamental II;1695;72,5;1,4;26,1;3,1;22;4
-195;Santos;RJ;E.E. Martins;Estadual;Ensino Fundamental II;2320;84,3;19,8;0,0;3,9;13;3
-196;Belo Horizonte;GO;EEEF Araújo;Municipal;Ensino Fundamental I;1998;96,1;3,7;0,2;6,0;19;2
-197;Sorocaba;SE;Col. Mendes;Federal;Ensino Fundamental II;1137;84,6;11,2;4,2;7,1;99;6
-198;Florianópolis;PE;E.E. Vieira;Federal;Ensino Médio;1084;72,7;0,9;26,4;5,2;47;9
-199;Teresina;PR;EEEF Ribeiro;Municipal;Ensino Médio;1310;92,3;5,5;2,2;6,7;76;4
-200;São Luís;ES;Inst. Darcy Ribeiro;Estadual;Ensino Fundamental I;2300;82,2;8,5;9,3;4,8;77;6
-201;Teresina;AP;E.E. Ferreira;Privada;Ensino Médio;351;91,3;18,6;0,0;3,3;56;7
-202;Porto Alegre;PA;Inst. Silva;Federal;Ensino Fundamental II;564;75,5;10,0;14,5;7,5;55;10
-203;Campinas;MG;Inst. Paulo Freire;Estadual;Ensino Fundamental II;1076;85,8;3,7;10,5;3,7;46;10
-204;Porto Velho;AP;E.M. Oliveira;Municipal;Ensino Médio;114;70,1;8,9;21,0;7,0;106;3
-205;Salvador;AC;Inst. Ferreira;Municipal;Ensino Fundamental I;1273;98,4;7,7;0,0;6,1;110;6
-206;Aparecida de Goiânia;AP;E.M. Ferreira;Federal;Ensino Fundamental II;489;66,3;11,9;21,8;7,4;83;1
-207;Guarulhos;SE;E.E. Darcy Ribeiro;Privada;Ensino Fundamental II;520;74,1;6,2;19,7;6,8;14;10
-208;João Pessoa;BA;E.M. Rocha;Federal;Ensino Fundamental I;2188;68,3;12,3;19,4;6,1;9;7
-209;Vitória;RO;E.E. Monteiro;Privada;Ensino Fundamental II;1549;97,4;6,5;0,0;5,9;109;7
-210;Santos;SE;E.E. Santos Dumont;Federal;Ensino Médio;1417;72,2;9,5;18,3;6,2;9;2
-211;Salvador;RJ;E.M. Rodrigues;Municipal;Ensino Fundamental II;596;70,1;1,9;28,0;6,5;93;6
-212;Maringá;ES;EEEF Araújo;Privada;Ensino Fundamental II;582;96,6;13,5;0,0;6,0;98;10
-213;Teresina;RR;E.E. Darcy Ribeiro;Privada;Ensino Médio;218;77,4;8,1;14,5;4,6;11;1
-214;Campo Grande;MG;E.E. Anísio Teixeira;Privada;Ensino Fundamental II;1708;91,6;17,3;0,0;5,0;109;6
-215;Osasco;RO;Col. Monteiro Lobato;Estadual;Ensino Fundamental I;752;97,4;8,6;0,0;5,2;47;3
-216;Belo Horizonte;BA;E.E. Barbosa;Privada;Ensino Fundamental II;908;89,5;8,6;1,9;6,5;85;6
-217;Vitória;SE;EMEF Costa;Federal;Ensino Fundamental I;508;81,4;16,6;2,0;5,3;32;3
-218;Vitória;RO;EEEF Paulo Freire;Federal;Ensino Médio;1680;95,2;19,9;0,0;5,8;83;4
-219;Osasco;SP;EEEF Santos Dumont;Municipal;Ensino Fundamental II;2500;83,6;11,0;5,4;6,4;10;5
-220;Vitória;AC;Inst. Moreira;Municipal;Ensino Fundamental II;1789;96,6;18,3;0,0;5,7;34;6
-221;Maringá;ES;Inst. Lima;Federal;Ensino Médio;238;92,8;13,5;0,0;5,6;55;5
-222;São Paulo;PE;E.E. Santos;Estadual;Ensino Fundamental II;1058;78,5;8,9;12,6;7,3;107;5
-223;Feira de Santana;TO;EMEF Martins;Municipal;Ensino Médio;1334;91,1;13,4;0,0;5,2;79;4
-224;Feira de Santana;RO;EMEF Carvalho;Municipal;Ensino Fundamental I;1673;84,1;6,9;9,0;5,5;30;1
-225;Osasco;AP;Col. Teixeira;Estadual;Ensino Fundamental II;164;68,4;18,7;12,9;6,3;26;5
-226;Campo Grande;PA;E.E. Darcy Ribeiro;Privada;Ensino Fundamental I;751;77,3;15,4;7,3;4,3;74;9
-227;Fortaleza;AP;E.E. Paulo Freire;Municipal;Ensino Fundamental I;1061;67,2;15,5;17,3;6,4;39;3
-228;Recife;SP;Inst. Gomes;Municipal;Ensino Médio;2269;80,8;2,9;16,3;6,0;40;2
-229;Aracaju;SE;E.M. Costa;Estadual;Ensino Fundamental II;855;83,5;5,4;11,1;3,1;84;2
-230;Fortaleza;CE;E.E. Gomes;Estadual;Ensino Médio;2270;71,6;19,8;8,6;6,4;49;1
-231;Vitória;MG;Inst. Souza;Privada;Ensino Fundamental I;766;71,5;12,9;15,6;6,5;100;2
-232;São Luís;TO;EEEF Monteiro Lobato;Privada;Ensino Médio;1955;78,2;13,0;8,8;3,9;10;1
-233;Londrina;DF;E.M. Moreira;Federal;Ensino Fundamental I;1605;87,1;8,6;4,3;6,8;45;8
-234;Brasília;BA;E.M. Mendes;Municipal;Ensino Médio;636;81,1;11,3;7,6;5,5;102;6
-235;Recife;RN;E.M. Santos Dumont;Federal;Ensino Fundamental I;1358;83,3;8,8;7,9;3,2;18;1
-236;Teresina;RO;E.E. Monteiro;Federal;Ensino Fundamental II;706;74,5;17,1;8,4;7,4;72;6
-237;Fortaleza;PR;Col. Castro;Federal;Ensino Fundamental II;173;65,9;6,1;28,0;3,8;16;3
-238;São José dos Campos;RN;EMEF Paulo Freire;Municipal;Ensino Fundamental II;544;68,2;5,7;26,1;4,5;118;2
-239;Goiânia;RJ;E.E. Moreira;Municipal;Ensino Fundamental I;281;74,4;16,9;8,7;5,5;74;2
-240;Juiz de Fora;RJ;EEEF Nascimento;Federal;Ensino Médio;1298;68,4;8,4;23,2;7,2;44;7
-241;Brasília;RO;Col. Lima;Municipal;Ensino Fundamental I;361;68,2;18,9;12,9;3,0;119;8
-242;Belo Horizonte;PR;Col. Ribeiro;Municipal;Ensino Fundamental II;730;85,1;11,4;3,5;6,6;15;6
-243;Belém;CE;EEEF Moreira;Municipal;Ensino Médio;148;81,0;14,7;4,3;3,6;99;9
-244;Maceió;PA;E.M. Vieira;Federal;Ensino Médio;848;81,8;5,1;13,1;4,9;83;7
-245;Guarulhos;TO;EMEF Carvalho;Federal;Ensino Fundamental I;1736;98,1;8,5;0,0;5,6;39;4
-246;Recife;RR;Inst. Lima;Privada;Ensino Fundamental I;549;78,8;4,2;17,0;4,1;21;10
-247;Goiânia;TO;EEEF Moreira;Municipal;Ensino Médio;1099;69,5;1,3;29,2;7,5;100;1
-248;Fortaleza;RO;Inst. Rodrigues;Estadual;Ensino Fundamental II;541;84,5;13,2;2,3;6,2;111;1
-249;Santos;AM;Col. Almeida;Privada;Ensino Fundamental I;682;89,6;15,8;0,0;6,9;46;7
-250;Porto Velho;RO;EMEF Vieira;Federal;Ensino Fundamental II;905;94,2;3,3;2,5;4,8;29;4
-251;Uberlândia;PR;Col. Martins;Municipal;Ensino Fundamental II;92;79,7;3,6;16,7;6,5;111;1
-252;Sorocaba;PE;Col. Almeida;Privada;Ensino Fundamental I;1256;69,8;5,9;24,3;4,9;6;8
-253;São José dos Campos;AP;EMEF Rocha;Federal;Ensino Fundamental II;998;80,3;13,9;5,8;4,2;66;7
-254;Natal;CE;Inst. Pereira;Privada;Ensino Fundamental I;150;91,6;13,1;0,0;4,7;75;9
-255;Porto Alegre;AM;Col. Castro;Federal;Ensino Médio;1123;88,5;5,8;5,7;6,0;107;5
-256;Niterói;AC;E.M. Moreira;Municipal;Ensino Fundamental I;1238;73,6;5,3;21,1;7,3;76;10
-257;Aparecida de Goiânia;SE;EMEF Ferreira;Privada;Ensino Médio;93;70,1;0,9;29,0;6,5;103;9
-258;Santos;RJ;Col. Silva;Privada;Ensino Fundamental I;847;68,7;6,5;24,8;6,4;37;5
-259;Maringá;DF;EEEF Ribeiro;Federal;Ensino Fundamental I;1636;81,0;4,3;14,7;4,1;10;6
-260;Aracaju;PR;E.E. Nascimento;Federal;Ensino Fundamental II;1012;79,6;11,5;8,9;6,1;18;10
-261;Manaus;ES;Inst. Paulo Freire;Municipal;Ensino Fundamental I;1993;79,0;19,9;1,1;3,3;92;9
-262;Londrina;RR;E.E. Pereira;Estadual;Ensino Fundamental I;1599;68,3;5,5;26,2;7,1;57;2
-263;Natal;RS;EMEF Darcy Ribeiro;Privada;Ensino Fundamental I;462;76,6;5,1;18,3;3,5;108;5
-264;Feira de Santana;SC;EEEF Monteiro Lobato;Estadual;Ensino Fundamental I;2029;88,4;11,1;0,5;6,0;94;1
-265;Uberlândia;TO;E.E. Santos Dumont;Privada;Ensino Fundamental II;489;68,0;11,9;20,1;7,2;40;1
-266;Osasco;RR;Col. Costa;Privada;Ensino Médio;752;65,9;2,4;31,7;5,8;7;5
-267;Guarulhos;CE;E.E. Pereira;Municipal;Ensino Médio;814;71,7;4,6;23,7;3,6;63;1
-268;Londrina;ES;EMEF Rodrigues;Municipal;Ensino Fundamental I;916;77,5;15,3;7,2;6,4;111;7
-269;Porto Alegre;RR;E.M. Anísio Teixeira;Estadual;Ensino Fundamental II;1628;65,3;7,8;26,9;5,4;92;7
-270;Curitiba;AP;E.E. Almeida;Municipal;Ensino Fundamental I;1780;68,7;5,0;26,3;6,7;39;9
-271;Juiz de Fora;RO;EMEF Darcy Ribeiro;Federal;Ensino Fundamental II;724;93,2;12,1;0,0;6,0;32;8
-272;Osasco;CE;EMEF Anísio Teixeira;Privada;Ensino Fundamental II;1373;73,8;4,7;21,5;6,3;103;1
-273;Guarulhos;MG;Col. Ribeiro;Privada;Ensino Fundamental I;2461;68,9;14,0;17,1;7,1;34;9
-274;Recife;PI;Inst. Ribeiro;Estadual;Ensino Fundamental I;2201;71,1;17,6;11,3;6,6;35;1
-275;Ribeirão Preto;RN;EMEF Darcy Ribeiro;Municipal;Ensino Fundamental I;2287;83,8;7,1;9,1;5,4;38;5
-276;Vitória;PI;E.E. Anísio Teixeira;Estadual;Ensino Fundamental I;1831;81,7;16,8;1,5;3,6;106;4
-277;Brasília;PE;E.E. Mendes;Privada;Ensino Fundamental I;1809;89,5;11,2;0,0;6,3;46;8
-278;Belém;RO;Col. Paulo Freire;Federal;Ensino Fundamental I;215;91,0;15,7;0,0;6,5;93;1
-279;Rio de Janeiro;AP;Col. Ferreira;Municipal;Ensino Fundamental I;859;81,3;16,2;2,5;5,0;119;9
-280;Cuiabá;AL;EEEF Castro;Municipal;Ensino Médio;693;98,6;6,6;0,0;6,0;106;9
-281;João Pessoa;SP;Col. Lima;Estadual;Ensino Fundamental I;2315;92,6;12,2;0,0;5,6;66;5
-282;Uberlândia;PE;E.M. Rodrigues;Estadual;Ensino Fundamental II;2133;86,1;1,3;12,6;4,7;10;9
-283;Osasco;PB;E.M. Santos;Municipal;Ensino Fundamental I;1150;95,1;7,9;0,0;5,9;16;6
-284;São José dos Campos;GO;EMEF Rodrigues;Privada;Ensino Fundamental II;2386;69,2;8,6;22,2;6,6;70;4
-285;Florianópolis;MS;EEEF Santos;Federal;Ensino Fundamental II;777;91,7;7,8;0,5;3,2;96;1
-286;Joinville;AL;Inst. Almeida;Estadual;Ensino Fundamental II;2366;80,6;7,4;12,0;7,5;103;10
-287;São José dos Campos;CE;E.E. Oliveira;Municipal;Ensino Fundamental II;272;96,6;17,4;0,0;4,1;72;2
-288;Juiz de Fora;PE;EEEF Silva;Federal;Ensino Médio;1139;97,7;13,1;0,0;5,5;65;8
-289;Maceió;PE;E.E. Ribeiro;Estadual;Ensino Médio;342;78,6;5,2;16,2;6,0;23;7
-290;João Pessoa;SC;E.E. Barbosa;Federal;Ensino Fundamental II;1298;70,4;5,2;24,4;4,9;96;3
-291;Cuiabá;SC;EEEF Paulo Freire;Privada;Ensino Fundamental I;506;75,5;15,7;8,8;3,4;116;1
-292;Porto Velho;MA;EEEF Ribeiro;Estadual;Ensino Fundamental II;1610;90,8;17,4;0,0;3,2;56;4
-293;Cuiabá;MT;EMEF Vieira;Estadual;Ensino Fundamental II;865;97,6;18,3;0,0;3,1;15;8
-294;Porto Velho;MA;Inst. Santos Dumont;Federal;Ensino Fundamental II;2181;84,6;16,4;0,0;5,3;7;4
-295;Curitiba;MS;E.E. Nascimento;Estadual;Ensino Fundamental II;1438;89,7;3,1;7,2;5,7;94;1
-296;Vitória;AL;Col. Vieira;Municipal;Ensino Fundamental II;1058;72,0;4,7;23,3;7,4;110;6
-297;Guarulhos;TO;EMEF Lima;Federal;Ensino Médio;580;78,4;4,8;16,8;3,6;18;2
-298;Curitiba;RR;EMEF Rocha;Privada;Ensino Médio;586;83,5;12,3;4,2;3,9;80;2
-299;Guarulhos;PR;E.E. Rodrigues;Privada;Ensino Médio;1403;99,0;1,3;0,0;4,8;9;2
-300;Brasília;SP;EMEF Monteiro Lobato;Privada;Ensino Fundamental II;1674;68,2;19,2;12,6;6,9;104;9
-301;São José dos Campos;AC;E.M. Ferreira;Estadual;Ensino Fundamental I;200;84,9;7,0;8,1;4,9;75;3
-302;São José dos Campos;AC;E.E. Monteiro;Privada;Ensino Fundamental II;2014;86,7;10,2;3,1;6,3;110;10
-303;Recife;SC;Inst. Silva;Estadual;Ensino Fundamental II;1586;85,7;7,2;7,1;7,0;14;5
-304;Fortaleza;SE;E.M. Paulo Freire;Federal;Ensino Fundamental I;2288;74,9;5,0;20,1;5,4;48;1
-305;Maringá;BA;Inst. Almeida;Estadual;Ensino Médio;725;97,0;12,3;0,0;5,3;14;4
-306;Londrina;GO;Col. Gomes;Privada;Ensino Fundamental I;457;73,7;1,2;25,1;6,4;98;5
-307;Manaus;PE;EMEF Martins;Municipal;Ensino Fundamental II;167;91,5;7,1;1,4;5,2;55;7
-308;Osasco;SE;EEEF Santos;Municipal;Ensino Fundamental I;607;79,5;17,0;3,5;7,2;29;1
-309;São José dos Campos;DF;Col. Ribeiro;Privada;Ensino Médio;442;92,8;15,4;0,0;4,7;92;8
-310;Fortaleza;MT;EEEF Almeida;Municipal;Ensino Fundamental I;975;73,6;7,1;19,3;3,2;60;9
-311;Juiz de Fora;CE;Inst. Moreira;Municipal;Ensino Fundamental II;2067;79,4;11,4;9,2;7,1;84;4
-312;São José dos Campos;TO;Col. Carvalho;Municipal;Ensino Fundamental I;1071;75,3;11,3;13,4;6,6;62;4
-313;Vitória;MA;E.E. Araújo;Estadual;Ensino Fundamental II;268;72,2;13,1;14,7;5,8;20;1
-314;Curitiba;RO;Col. Rocha;Municipal;Ensino Médio;274;82,3;19,9;0,0;5,6;13;5
-315;João Pessoa;RJ;E.E. Silva;Privada;Ensino Fundamental II;2467;92,4;8,4;0,0;5,7;78;10
-316;Santos;SP;EMEF Moreira;Privada;Ensino Médio;1294;93,2;13,0;0,0;6,4;100;8
-317;Brasília;PE;Col. Rodrigues;Federal;Ensino Médio;1653;86,7;11,6;1,7;3,7;77;2
-318;João Pessoa;AC;EMEF Darcy Ribeiro;Federal;Ensino Médio;876;97,4;17,9;0,0;3,5;112;4
-319;João Pessoa;SP;E.E. Monteiro Lobato;Privada;Ensino Fundamental II;2389;84,0;18,8;0,0;4,8;94;1
-320;Juiz de Fora;PR;E.E. Ribeiro;Municipal;Ensino Fundamental II;1790;98,1;1,1;0,8;5,0;100;4
-321;Teresina;PI;EEEF Pereira;Estadual;Ensino Fundamental II;1561;87,1;18,0;0,0;5,3;89;9
-322;Rio de Janeiro;TO;Col. Anísio Teixeira;Municipal;Ensino Fundamental II;1749;95,2;2,8;2,0;3,6;93;10
-323;Osasco;MT;E.M. Nascimento;Estadual;Ensino Fundamental II;2498;90,9;11,1;0,0;3,7;89;5
-324;Brasília;SE;EMEF Ribeiro;Privada;Ensino Fundamental II;1746;86,4;18,5;0,0;4,0;76;8
-325;Osasco;AM;EEEF Anísio Teixeira;Estadual;Ensino Fundamental I;2244;75,7;7,1;17,2;7,2;20;5
-326;Guarulhos;SP;Col. Ribeiro;Estadual;Ensino Fundamental I;2486;92,1;6,6;1,3;5,3;85;1
-327;Rio de Janeiro;TO;E.E. Araújo;Estadual;Ensino Fundamental I;106;87,7;10,5;1,8;5,7;118;7
-328;Fortaleza;AL;E.M. Anísio Teixeira;Privada;Ensino Médio;907;67,6;13,5;18,9;6,7;47;1
-329;Salvador;AP;Inst. Barbosa;Municipal;Ensino Médio;1223;67,7;12,8;19,5;3,3;99;6
-330;Salvador;PB;Inst. Monteiro Lobato;Estadual;Ensino Médio;2217;71,7;11,9;16,4;5,0;57;3
-331;Salvador;SC;Col. Pereira;Federal;Ensino Fundamental II;148;95,5;9,1;0,0;5,7;55;3
-332;Salvador;RR;Inst. Darcy Ribeiro;Estadual;Ensino Médio;1731;90,9;8,5;0,6;3,6;22;6
-333;Rio de Janeiro;PI;E.M. Castro;Privada;Ensino Médio;2022;96,4;18,5;0,0;7,4;77;10
-334;Fortaleza;SP;Col. Silva;Privada;Ensino Médio;2265;73,9;19,4;6,7;3,9;63;4
-335;Brasília;BA;Col. Costa;Estadual;Ensino Fundamental I;1492;96,1;8,3;0,0;5,1;15;8
-336;São Paulo;DF;E.E. Vieira;Municipal;Ensino Fundamental I;749;65,0;2,7;32,3;6,4;35;9
-337;Florianópolis;BA;Inst. Araújo;Federal;Ensino Fundamental II;576;71,5;9,2;19,3;7,0;74;5
-338;Teresina;GO;EMEF Santos;Estadual;Ensino Médio;1403;66,6;17,4;16,0;4,3;10;2
-339;Osasco;GO;Col. Santos;Estadual;Ensino Fundamental II;919;88,2;16,7;0,0;4,8;73;2
-340;Porto Alegre;PB;EEEF Santos Dumont;Privada;Ensino Médio;2182;70,8;4,1;25,1;3,1;25;2
-341;Uberlândia;TO;EMEF Nascimento;Estadual;Ensino Fundamental I;872;73,9;18,6;7,5;4,9;78;9
-342;Vitória;SC;Inst. Santos Dumont;Privada;Ensino Fundamental I;1824;94,5;5,0;0,5;6,7;36;2
-343;Ribeirão Preto;CE;EMEF Vieira;Federal;Ensino Fundamental II;199;76,5;11,7;11,8;5,0;99;1
-344;Uberlândia;SE;EEEF Moreira;Privada;Ensino Fundamental II;567;80,4;14,2;5,4;4,8;68;4
-345;Niterói;PE;E.E. Paulo Freire;Municipal;Ensino Fundamental II;89;77,8;3,3;18,9;6,0;26;3
-346;São Luís;RS;Col. Gomes;Estadual;Ensino Fundamental I;1691;88,1;13,4;0,0;3,1;47;9
-347;Londrina;AM;EEEF Lima;Privada;Ensino Médio;695;89,9;10,7;0,0;6,5;27;2
-348;Aparecida de Goiânia;BA;Col. Moreira;Privada;Ensino Fundamental II;241;84,0;10,9;5,1;6,1;35;7
-349;Feira de Santana;MA;EMEF Paulo Freire;Municipal;Ensino Fundamental I;599;95,3;1,2;3,5;4,5;9;10
-350;São Luís;RO;EMEF Martins;Federal;Ensino Médio;1275;87,0;6,3;6,7;5,7;113;10
-351;Ribeirão Preto;PI;EEEF Oliveira;Municipal;Ensino Fundamental II;1500;80,4;11,1;8,5;5,1;108;1
-352;Londrina;AP;Col. Ferreira;Estadual;Ensino Médio;1725;80,2;9,8;10,0;5,4;89;3
-353;Rio de Janeiro;RN;Inst. Lima;Privada;Ensino Fundamental I;340;89,5;13,4;0,0;5,1;83;9
-354;Uberlândia;MG;EMEF Rodrigues;Privada;Ensino Médio;2116;89,4;3,5;7,1;6,8;45;9
-355;Aparecida de Goiânia;DF;Inst. Castro;Municipal;Ensino Médio;2259;75,8;10,7;13,5;4,8;28;4
-356;Cuiabá;AL;EEEF Lima;Municipal;Ensino Médio;1556;90,7;8,1;1,2;6,3;47;8
-357;Aparecida de Goiânia;AL;E.M. Vieira;Municipal;Ensino Fundamental I;1225;95,6;3,9;0,5;6,4;114;6
-358;Natal;GO;E.E. Barbosa;Privada;Ensino Fundamental II;1694;71,7;7,4;20,9;6,7;42;3
-359;Maceió;RS;E.E. Vieira;Federal;Ensino Fundamental II;990;94,5;4,3;1,2;7,3;78;2
-360;Vitória;MG;E.E. Lima;Municipal;Ensino Médio;1422;71,3;15,3;13,4;6,3;66;3
-361;Vitória;MG;E.E. Moreira;Estadual;Ensino Fundamental II;2493;72,5;14,0;13,5;4,5;82;6
-362;Curitiba;ES;EMEF Souza;Privada;Ensino Fundamental II;1578;65,9;13,1;21,0;5,3;54;9
-363;Florianópolis;AC;EMEF Gomes;Privada;Ensino Médio;1256;93,0;4,9;2,1;3,9;85;10
-364;Recife;RO;EMEF Anísio Teixeira;Municipal;Ensino Fundamental I;2051;85,4;3,7;10,9;3,9;111;6
-365;Maringá;ES;Col. Santos Dumont;Municipal;Ensino Fundamental I;1571;72,1;6,5;21,4;4,5;63;2
-366;Florianópolis;TO;Col. Almeida;Municipal;Ensino Fundamental I;790;77,4;17,8;4,8;6,7;65;9
-367;Curitiba;ES;Inst. Rocha;Federal;Ensino Fundamental I;145;97,6;5,7;0,0;6,8;94;2
-368;João Pessoa;SP;E.M. Santos;Federal;Ensino Fundamental I;1950;78,0;10,8;11,2;7,5;94;10
-369;São José dos Campos;PR;EMEF Santos;Estadual;Ensino Fundamental II;107;74,2;3,0;22,8;6,8;72;9
-370;Aracaju;MG;E.E. Darcy Ribeiro;Estadual;Ensino Fundamental II;2363;92,5;16,3;0,0;4,9;12;6
-371;Maringá;PE;Inst. Santos Dumont;Privada;Ensino Médio;1891;74,5;17,3;8,2;3,6;95;6
-372;Ribeirão Preto;MT;EEEF Darcy Ribeiro;Federal;Ensino Médio;1470;89,9;8,7;1,4;4,6;115;6
-373;João Pessoa;CE;EMEF Rodrigues;Federal;Ensino Médio;566;97,9;16,3;0,0;4,9;47;1
-374;Manaus;AC;E.M. Santos;Estadual;Ensino Fundamental II;1605;86,7;11,9;1,4;7,0;14;4
-375;Manaus;RS;E.M. Santos Dumont;Federal;Ensino Fundamental II;363;72,1;6,8;21,1;5,2;71;4
-376;Osasco;PI;EEEF Ferreira;Municipal;Ensino Fundamental II;1322;74,7;10,6;14,7;5,8;54;10
-377;Uberlândia;BA;Inst. Paulo Freire;Estadual;Ensino Fundamental II;1919;95,6;15,9;0,0;6,2;42;7
-378;Porto Alegre;SC;E.M. Rodrigues;Federal;Ensino Médio;766;96,3;6,1;0,0;7,3;13;9
-379;Campinas;SE;E.E. Monteiro;Municipal;Ensino Médio;627;71,5;1,7;26,8;3,9;23;1
-380;Teresina;RN;E.M. Santos;Privada;Ensino Médio;113;95,1;10,6;0,0;4,9;67;3
-381;Campinas;RR;EMEF Rocha;Federal;Ensino Fundamental I;2261;70,6;9,7;19,7;5,3;16;8
-382;Goiânia;SE;E.E. Darcy Ribeiro;Federal;Ensino Fundamental II;1981;75,9;15,1;9,0;4,6;85;5
-383;Joinville;BA;Inst. Rodrigues;Municipal;Ensino Fundamental II;663;86,0;10,5;3,5;6,5;90;8
-384;Porto Velho;RO;EMEF Pereira;Municipal;Ensino Fundamental II;297;83,7;4,0;12,3;5,0;20;8
-385;Goiânia;AP;Inst. Vieira;Estadual;Ensino Fundamental I;1894;91,8;14,7;0,0;7,2;88;10
-386;Goiânia;TO;E.M. Gomes;Estadual;Ensino Fundamental I;715;84,6;11,6;3,8;5,8;99;7
-387;Belém;AM;EEEF Martins;Federal;Ensino Médio;2476;67,6;6,4;26,0;5,5;23;4
-388;Belém;MT;EEEF Costa;Estadual;Ensino Médio;2292;71,9;11,3;16,8;4,4;58;2
-389;Uberlândia;SC;EEEF Rocha;Privada;Ensino Fundamental I;741;92,5;6,2;1,3;7,2;78;6
-390;Campo Grande;GO;EMEF Santos Dumont;Privada;Ensino Médio;557;71,1;9,2;19,7;6,7;115;10
-391;Londrina;AC;E.E. Moreira;Estadual;Ensino Fundamental II;366;70,5;7,0;22,5;6,0;81;8
-392;São José dos Campos;PR;EEEF Souza;Estadual;Ensino Fundamental II;1418;69,7;19,0;11,3;7,3;71;4
-393;Manaus;BA;E.M. Santos Dumont;Municipal;Ensino Fundamental I;1572;78,5;15,9;5,6;6,9;75;4
-394;Goiânia;AL;E.M. Lima;Privada;Ensino Médio;1987;82,6;10,4;7,0;5,6;49;4
-395;Cuiabá;RO;EMEF Costa;Estadual;Ensino Fundamental I;2271;78,4;1,7;19,9;6,8;101;1
-396;Guarulhos;AC;Col. Carvalho;Estadual;Ensino Fundamental II;415;92,7;17,2;0,0;5,6;19;8
-397;Fortaleza;MS;E.E. Almeida;Municipal;Ensino Fundamental I;691;86,9;3,8;9,3;7,2;80;6
-398;Rio de Janeiro;AP;Col. Almeida;Privada;Ensino Fundamental II;2174;71,6;12,4;16,0;3,9;5;10
-399;Santos;PR;E.M. Almeida;Privada;Ensino Fundamental I;551;69,9;1,4;28,7;3,7;24;2
-400;Campinas;CE;E.M. Paulo Freire;Privada;Ensino Fundamental II;1991;90,6;3,2;6,2;3,5;103;2
+ID;Municipio;UF;Nome_Escola;Rede;Nivel_Ensino;Matriculas_2023;Aprovacao_%;Reprovacao_%;Abandono_%;IDEB_2023;Docentes_Total;Infraestrutura_Score
+1;Cabo de Santo Agostinho;PE;CEF Monteiro Lobato;Municipal;Ensino Médio;413;77.0;17.0;6.0;3.0;32;4
+2;Boa Vista;RR;CIEP Zumbi dos Palmares;Municipal;Ensino Médio;436;84.1;9.5;6.4;4.9;30;3
+3;Coari;AM;EMEF Tiradentes;Municipal;Fundamental II;1298;72.5;18.5;9.0;4.7;126;5
+4;Tarauacá;AC;Centro Educacional Monteiro Lobato;Municipal;Ensino Médio;987;76.1;11.3;12.6;5.6;81;3
+5;Taguatinga;DF;EMEF Paulo Freire;Estadual;Fundamental I;2515;81.5;8.3;10.2;4.2;137;7
+6;Maracanaú;CE;EEF Guimarães Rosa;Municipal;Fundamental I;728;91.2;4.1;4.7;5.7;71;3
+7;Rio Branco;AC;CE Graciliano Ramos;Municipal;Fundamental II;839;67.1;28.3;4.6;4.3;60;4
+8;Porto Alegre;RS;EMEF Santos Dumont;Municipal;Ensino Médio;865;89.8;4.0;6.2;5.2;71;2
+9;Piripiri;PI;EE Cora Coralina;Municipal;Fundamental I;587;87.7;8.4;3.9;4.7;36;2
+10;Caracaraí;RR;CEF Paulo Freire;Estadual;Fundamental I;1233;72.4;12.7;14.9;5.4;101;3
+11;Nossa Senhora do Socorro;SE;Escola Estadual Cecília Meireles;Privada;Fundamental II;777;97.1;1.2;1.7;7.4;32;10
+12;Vitória da Conquista;BA;CEMEI Carlos Drummond de Andrade;Municipal;Fundamental I;792;86.4;2.8;10.8;3.9;61;7
+13;Paulista;PE;Escola Estadual Érico Veríssimo;Municipal;Fundamental I;1473;68.9;8.5;22.6;4.8;79;5
+14;Plano Piloto;DF;EMEI José Bonifácio;Estadual;Fundamental II;2233;88.6;5.5;5.9;6.5;209;6
+15;Dourados;MS;CE José Bonifácio;Municipal;Fundamental II;824;91.0;7.1;1.9;4.5;56;3
+16;Caruaru;PE;CEMEI Anísio Teixeira;Federal;EJA;833;87.7;7.7;4.6;5.8;51;7
+17;Bayeux;PB;Centro Educacional Rachel de Queiroz;Privada;EJA;1832;97.4;1.4;1.2;7.6;113;7
+18;Palmeira dos Índios;AL;CE Rui Barbosa;Municipal;EJA;605;81.6;9.8;8.6;4.6;27;7
+19;São Paulo;SP;EM Darcy Ribeiro;Municipal;Fundamental II;424;85.7;3.8;10.5;5.0;35;3
+20;Fortaleza;CE;EMEI Rui Barbosa;Privada;Fundamental I;1621;91.7;6.7;1.6;7.7;77;6
+21;São Luís;MA;Colégio Estadual Carlos Drummond de Andrade;Estadual;Fundamental I;2104;81.6;6.2;12.2;5.1;164;3
+22;Samambaia;DF;EM Castro Alves;Estadual;Fundamental I;2371;84.7;8.6;6.7;5.3;177;5
+23;Oiapoque;AP;Colégio Estadual Clarice Lispector;Privada;Fundamental I;1358;96.8;1.9;1.3;8.0;103;8
+24;Paulista;PE;CE Santos Dumont;Estadual;Fundamental II;2793;77.5;8.0;14.5;6.1;225;4
+25;Picos;PI;Colégio Estadual Monteiro Lobato;Municipal;Fundamental I;1048;65.2;16.4;18.4;5.7;52;6
+26;Manacapuru;AM;Centro Educacional Cecília Meireles;Municipal;Fundamental I;751;84.1;3.7;12.2;4.6;34;3
+27;Vila Velha;ES;Colégio Estadual Cândido Portinari;Estadual;Fundamental II;2082;72.6;6.3;21.1;4.4;167;7
+28;Contagem;MG;EE Cora Coralina;Estadual;Fundamental II;796;85.3;13.5;1.2;4.0;63;7
+29;Sorocaba;SP;EMEI Graciliano Ramos;Privada;Fundamental I;1853;97.5;1.2;1.3;6.7;113;8
+30;Criciúma;SC;CIEP Jorge Amado;Municipal;Fundamental II;904;65.2;32.8;2.0;5.8;55;2
+31;Campinas;SP;EMEF Guimarães Rosa;Privada;Ensino Médio;1542;91.8;2.8;5.4;7.3;96;8
+32;Ribeirão das Neves;MG;CE Rachel de Queiroz;Privada;Fundamental II;508;97.2;1.7;1.1;7.2;23;9
+33;Vila Velha;ES;Escola Estadual Carlos Drummond de Andrade;Estadual;Fundamental II;2074;93.8;2.6;3.6;6.3;202;8
+34;Novo Hamburgo;RS;EEF Princesa Isabel;Estadual;EJA;392;72.5;14.7;12.8;5.4;25;5
+35;São Luís;MA;EEEF Tiradentes;Municipal;Ensino Médio;897;89.7;3.5;6.8;5.6;46;6
+36;Manacapuru;AM;Colégio Estadual Mário de Andrade;Estadual;Fundamental II;1217;83.9;1.3;14.8;6.0;105;8
+37;Tefé;AM;Centro Educacional José Bonifácio;Municipal;Fundamental II;963;87.4;6.0;6.6;3.6;65;4
+38;Juiz de Fora;MG;EMEI Manuel Bandeira;Municipal;Ensino Médio;97;69.2;12.4;18.4;4.9;6;5
+39;Penedo;AL;CEMEI Presidente Vargas;Estadual;EJA;2467;80.9;15.9;3.2;3.6;147;7
+40;São José dos Pinhais;PR;EEEF Rachel de Queiroz;Estadual;Fundamental II;459;84.1;8.4;7.5;6.4;40;3
+41;Coari;AM;EM Jorge Amado;Privada;Ensino Médio;249;96.9;1.5;1.6;6.9;23;8
+42;Blumenau;SC;Escola Municipal Carlos Drummond de Andrade;Municipal;Fundamental I;745;78.6;16.9;4.5;5.3;49;7
+43;Tarauacá;AC;Centro Educacional Princesa Isabel;Municipal;Fundamental I;88;65.3;9.5;25.2;4.0;5;3
+44;Caracaraí;RR;EM Jorge Amado;Municipal;Ensino Médio;1226;92.8;5.5;1.7;5.7;60;7
+45;Nossa Senhora do Socorro;SE;EMEF Villa-Lobos;Estadual;Fundamental I;2615;93.6;3.4;3.0;3.6;254;4
+46;Montes Claros;MG;EM Santos Dumont;Privada;Ensino Médio;434;93.8;4.2;2.0;6.5;18;7
+47;João Pessoa;PB;CEF Cora Coralina;Privada;Fundamental II;1623;97.7;1.1;1.2;6.4;103;6
+48;Samambaia;DF;EE Cândido Portinari;Municipal;Fundamental I;1234;86.7;2.4;10.9;3.4;85;3
+49;Parnamirim;RN;EM Paulo Freire;Municipal;Fundamental II;235;89.0;5.6;5.4;4.1;22;4
+50;Rio Branco;AC;Centro Educacional Castro Alves;Municipal;Fundamental II;776;75.8;10.6;13.6;3.9;70;2
+51;Imperatriz;MA;Escola Municipal Érico Veríssimo;Privada;Fundamental I;898;97.9;1.1;1.0;6.0;84;8
+52;Arapiraca;AL;EMEF Machado de Assis;Privada;Fundamental I;1162;91.4;1.4;7.2;7.4;102;6
+53;São José;SC;EE Zumbi dos Palmares;Municipal;Fundamental II;403;70.2;21.6;8.2;4.6;35;3
+54;Juazeiro do Norte;CE;EE Presidente Vargas;Privada;Fundamental I;1118;91.8;6.6;1.6;6.8;62;8
+55;Belo Horizonte;MG;CEF Dom Pedro I;Privada;Fundamental II;1605;97.8;1.1;1.1;7.8;137;6
+56;Blumenau;SC;EM Rui Barbosa;Estadual;Fundamental I;1869;94.7;2.5;2.8;3.8;121;6
+57;São José dos Pinhais;PR;Escola Municipal Presidente Vargas;Estadual;Ensino Médio;1425;81.9;3.1;15.0;6.2;113;5
+58;Ponta Porã;MS;CEF Rachel de Queiroz;Municipal;Fundamental I;1219;70.9;22.8;6.3;3.7;59;3
+59;Boa Vista;RR;EMEI Manuel Bandeira;Municipal;Ensino Médio;265;72.5;17.8;9.7;3.8;15;7
+60;Cabedelo;PB;EMEI Jorge Amado;Municipal;Fundamental II;319;74.8;14.4;10.8;4.1;30;3
+61;Palmeira dos Índios;AL;EE Presidente Vargas;Municipal;Ensino Médio;342;84.0;3.3;12.7;5.5;20;3
+62;Petrópolis;RJ;Escola Municipal Cora Coralina;Municipal;Fundamental II;1232;77.2;13.9;8.9;6.0;89;5
+63;Laranjal do Jari;AP;CEMEI Tiradentes;Municipal;Fundamental II;431;72.7;20.5;6.8;5.4;29;5
+64;Laranjal do Jari;AP;Colégio Estadual José Bonifácio;Privada;Fundamental I;973;95.8;1.2;3.0;7.9;95;7
+65;Palmas;TO;EE Cora Coralina;Estadual;Ensino Médio;1573;77.7;20.6;1.7;4.8;154;3
+66;Maracanaú;CE;CE Paulo Freire;Privada;Ensino Médio;390;97.6;1.1;1.3;6.4;33;6
+67;Floriano;PI;CE Cândido Portinari;Privada;Fundamental II;196;97.2;1.6;1.2;6.7;19;7
+68;Juazeiro do Norte;CE;Escola Municipal Clarice Lispector;Estadual;Ensino Médio;2682;75.7;4.4;19.9;6.3;258;8
+69;São Gonçalo do Amarante;RN;CIEP Santos Dumont;Privada;Fundamental I;898;98.1;1.0;0.9;7.9;43;9
+70;São Luís;MA;Escola Municipal Santos Dumont;Estadual;Ensino Médio;1005;93.1;1.3;5.6;5.3;64;3
+71;Ilhéus;BA;Colégio Estadual Anísio Teixeira;Privada;Ensino Médio;901;97.1;1.5;1.4;7.3;49;9
+72;Campo Grande;MS;EE Princesa Isabel;Estadual;EJA;655;88.1;2.5;9.4;5.3;43;8
+73;Caracaraí;RR;EEEF Cândido Portinari;Privada;Fundamental I;737;94.7;2.6;2.7;7.5;58;10
+74;Paço do Lumiar;MA;CEF Machado de Assis;Estadual;Ensino Médio;438;92.0;3.0;5.0;5.8;24;8
+75;Palmeira dos Índios;AL;Escola Municipal Cecília Meireles;Privada;Fundamental I;972;95.3;3.0;1.7;7.8;51;9
+76;Macapá;AP;EEF Cora Coralina;Privada;Ensino Médio;842;92.2;5.9;1.9;7.7;82;9
+77;Belém;PA;EMEI Guimarães Rosa;Municipal;Ensino Médio;614;92.1;3.5;4.4;4.9;55;4
+78;Campo Grande;MS;CEF Anísio Teixeira;Federal;Ensino Médio;1399;91.4;1.7;6.9;6.7;121;9
+79;Novo Hamburgo;RS;CIEP Manuel Bandeira;Municipal;Ensino Médio;1112;91.1;5.2;3.7;5.0;83;2
+80;Guarulhos;SP;Colégio Estadual Anísio Teixeira;Municipal;Fundamental I;788;82.4;7.6;10.0;5.1;50;6
+81;Florianópolis;SC;Centro Educacional Cecília Meireles;Estadual;Ensino Médio;2498;91.6;6.2;2.2;3.6;194;6
+82;Itabaiana;SE;EEF Monteiro Lobato;Municipal;Fundamental I;99;83.9;14.0;2.1;4.0;8;4
+83;Jaraguá do Sul;SC;Centro Educacional Mário de Andrade;Privada;Fundamental I;804;93.2;3.1;3.7;7.9;34;8
+84;Cabedelo;PB;Colégio Estadual Monteiro Lobato;Privada;Fundamental I;528;95.0;3.2;1.8;7.7;44;8
+85;Nossa Senhora do Socorro;SE;CEMEI José Bonifácio;Privada;Ensino Médio;1362;94.8;2.0;3.2;7.6;79;7
+86;Joinville;SC;CEF Clarice Lispector;Municipal;Fundamental II;431;87.7;6.0;6.3;3.6;25;7
+87;Santa Rita;PB;CEMEI Presidente Vargas;Privada;EJA;328;91.7;5.4;2.9;6.6;24;10
+88;São Cristóvão;SE;Escola Estadual Rui Barbosa;Municipal;Fundamental II;456;67.8;13.2;19.0;5.1;25;7
+89;Gravataí;RS;CIEP Castro Alves;Municipal;Fundamental II;651;83.4;15.6;1.0;5.9;43;4
+90;Arapiraca;AL;EMEI Presidente Vargas;Municipal;Ensino Médio;1062;71.7;7.5;20.8;5.1;56;3
+91;Ji-Paraná;RO;EMEF Cora Coralina;Estadual;Fundamental I;2657;82.1;9.8;8.1;4.8;196;7
+92;Ananindeua;PA;Escola Municipal Carlos Drummond de Andrade;Privada;Fundamental II;1919;98.1;0.9;1.0;6.8;189;8
+93;Santo André;SP;EM Tiradentes;Municipal;Fundamental II;1156;75.7;8.2;16.1;5.9;103;3
+94;Canoas;RS;EEEF Érico Veríssimo;Privada;Fundamental II;1139;96.4;2.3;1.3;7.1;86;6
+95;Criciúma;SC;CE Guimarães Rosa;Municipal;Ensino Médio;508;79.0;9.7;11.3;4.7;33;2
+96;Campos dos Goytacazes;RJ;EMEF Villa-Lobos;Estadual;EJA;1986;84.0;7.7;8.3;3.7;163;5
+97;Tefé;AM;EMEI Carlos Drummond de Andrade;Municipal;EJA;566;93.4;3.7;2.9;5.2;37;7
+98;Nossa Senhora do Socorro;SE;CEF Santos Dumont;Privada;Fundamental I;1202;96.3;2.0;1.7;6.6;111;7
+99;Ananindeua;PA;EEF Tiradentes;Privada;EJA;1866;90.1;5.6;4.3;7.2;161;8
+100;Coari;AM;EE Rachel de Queiroz;Estadual;Fundamental II;947;76.2;19.2;4.6;5.3;39;4
+101;Paulista;PE;CIEP Carlos Drummond de Andrade;Estadual;Fundamental I;2957;79.7;9.7;10.6;4.7;268;8
+102;Fortaleza;CE;CIEP Darcy Ribeiro;Estadual;Fundamental I;2196;72.3;6.8;20.9;4.3;217;4
+103;Porto Velho;RO;CE Darcy Ribeiro;Estadual;Ensino Médio;233;92.0;1.4;6.6;3.7;14;7
+104;Fortaleza;CE;EMEF Tiradentes;Privada;Fundamental II;887;92.8;3.9;3.3;7.6;81;10
+105;Caucaia;CE;CE Paulo Freire;Municipal;Fundamental II;757;67.9;19.1;13.0;5.0;56;3
+106;Cabedelo;PB;CE Machado de Assis;Privada;Ensino Médio;1767;97.4;1.6;1.0;6.1;164;6
+107;Guarulhos;SP;EMEI Castro Alves;Privada;Fundamental II;814;96.1;2.7;1.2;7.2;56;7
+108;Mossoró;RN;CEF Mário de Andrade;Privada;EJA;1222;97.5;1.3;1.2;7.6;53;6
+109;Serra;ES;CEF Paulo Freire;Estadual;EJA;1805;71.0;22.9;6.1;3.7;170;6
+110;Caxias do Sul;RS;Escola Municipal Tiradentes;Privada;Fundamental I;1967;94.7;2.7;2.6;7.2;168;10
+111;Ji-Paraná;RO;Colégio Estadual Paulo Freire;Estadual;Fundamental I;1349;93.6;2.7;3.7;4.8;93;6
+112;Recife;PE;CIEP Santos Dumont;Estadual;Fundamental II;2188;94.8;3.2;2.0;5.8;156;8
+113;Arapiraca;AL;EEF Rachel de Queiroz;Privada;Fundamental II;1943;95.1;3.1;1.8;6.3;140;8
+114;Rio Largo;AL;CE Dom Pedro I;Municipal;Fundamental II;1451;91.2;6.8;2.0;5.2;102;6
+115;Boa Vista;RR;EE Anísio Teixeira;Privada;Fundamental I;1559;92.9;2.1;5.0;7.4;122;9
+116;Rio Branco;AC;Escola Estadual Castro Alves;Privada;Fundamental I;1992;92.6;6.3;1.1;7.8;197;8
+117;Araguaína;TO;EMEF Machado de Assis;Municipal;Ensino Médio;340;83.0;14.2;2.8;4.9;22;4
+118;Niterói;RJ;Escola Estadual Darcy Ribeiro;Estadual;Ensino Médio;1826;87.3;5.0;7.7;4.7;165;6
+119;Samambaia;DF;Escola Estadual Princesa Isabel;Estadual;Fundamental I;321;87.4;8.3;4.3;4.8;14;8
+120;Macapá;AP;EEEF Monteiro Lobato;Estadual;Ensino Médio;2349;78.2;19.9;1.9;6.3;194;5
+121;Viamão;RS;Centro Educacional Carlos Drummond de Andrade;Estadual;Fundamental I;1221;72.7;25.0;2.3;3.9;89;4
+122;Jaboatão dos Guararapes;PE;CEF Graciliano Ramos;Estadual;EJA;597;72.8;5.6;21.6;3.6;51;6
+123;Guarulhos;SP;CEF Rachel de Queiroz;Estadual;Ensino Médio;734;81.1;16.8;2.1;5.8;63;8
+124;Ceilândia;DF;EMEF Machado de Assis;Municipal;Fundamental I;749;90.8;3.5;5.7;3.8;38;3
+125;Porto Velho;RO;EMEI Cândido Portinari;Municipal;Fundamental I;180;71.8;18.2;10.0;4.9;11;4
+126;João Pessoa;PB;EMEI Villa-Lobos;Privada;Ensino Médio;429;91.3;1.7;7.0;7.9;18;6
+127;Floriano;PI;Escola Estadual Tiradentes;Federal;Ensino Médio;958;85.5;1.1;13.4;7.3;38;8
+128;Palmeira dos Índios;AL;EM Jorge Amado;Privada;Fundamental I;1386;90.3;6.0;3.7;7.1;131;6
+129;Campos dos Goytacazes;RJ;CEF Rachel de Queiroz;Estadual;Ensino Médio;1123;87.1;11.7;1.2;5.3;87;5
+130;Jaboatão dos Guararapes;PE;EM Machado de Assis;Municipal;Ensino Médio;637;84.1;14.9;1.0;3.5;59;5
+131;Campo Grande;MS;EMEF Cecília Meireles;Municipal;Fundamental I;890;86.3;12.6;1.1;4.6;42;3
+132;Ariquemes;RO;CIEP Cecília Meireles;Estadual;Fundamental II;2002;81.1;6.7;12.2;4.7;160;5
+133;Camaçari;BA;EEF Paulo Freire;Estadual;Ensino Médio;2850;89.6;5.6;4.8;4.6;244;6
+134;Santarém;PA;EE Graciliano Ramos;Municipal;Fundamental I;272;81.3;7.9;10.8;4.4;14;6
+135;Contagem;MG;CIEP Monteiro Lobato;Municipal;EJA;957;65.7;22.5;11.8;3.6;53;6
+136;Blumenau;SC;Colégio Estadual Paulo Freire;Municipal;Fundamental II;358;77.3;3.7;19.0;4.4;34;7
+137;Belo Horizonte;MG;EEEF Presidente Vargas;Municipal;Ensino Médio;67;92.6;5.6;1.8;5.6;5;4
+138;Dourados;MS;EMEI Guimarães Rosa;Municipal;EJA;185;75.9;21.0;3.1;5.7;12;6
+139;Contagem;MG;CE Monteiro Lobato;Estadual;Fundamental I;772;74.1;10.8;15.1;3.9;56;7
+140;Vilhena;RO;Centro Educacional Anísio Teixeira;Municipal;Fundamental I;282;84.9;2.3;12.8;3.4;11;5
+141;Sinop;MT;EMEF Carlos Drummond de Andrade;Municipal;Fundamental I;1459;94.6;3.0;2.4;4.1;74;5
+142;Tarauacá;AC;CEMEI Rui Barbosa;Privada;Fundamental II;1915;93.3;2.4;4.3;6.4;121;10
+143;Feira de Santana;BA;Escola Municipal Paulo Freire;Privada;Ensino Médio;1398;92.9;2.8;4.3;7.4;138;6
+144;Recife;PE;EE José Bonifácio;Municipal;Fundamental II;567;70.8;25.6;3.6;3.8;23;6
+145;Contagem;MG;EMEI Darcy Ribeiro;Estadual;Fundamental I;1988;94.9;3.3;1.8;4.5;170;5
+146;Cabedelo;PB;EE Cora Coralina;Estadual;Fundamental II;2706;70.3;11.5;18.2;5.2;255;5
+147;Sinop;MT;Escola Estadual Princesa Isabel;Federal;Ensino Médio;887;89.8;4.3;5.9;6.5;53;10
+148;Três Lagoas;MS;EMEI Rui Barbosa;Municipal;Fundamental II;971;92.6;5.9;1.5;3.3;89;7
+149;Macapá;AP;EEEF Anísio Teixeira;Privada;Ensino Médio;252;91.6;6.1;2.3;6.1;21;10
+150;Manaus;AM;CEMEI Cora Coralina;Municipal;Ensino Médio;1314;67.1;20.5;12.4;4.7;78;5
+151;Boa Vista;RR;EE Paulo Freire;Municipal;Fundamental I;216;70.6;1.1;28.3;5.2;18;2
+152;Vila Velha;ES;CEMEI Clarice Lispector;Federal;Fundamental I;1284;87.5;7.4;5.1;7.1;65;10
+153;Codó;MA;EMEF Cecília Meireles;Municipal;Ensino Médio;428;80.2;5.7;14.1;3.2;39;3
+154;Nova Iguaçu;RJ;EEEF Paulo Freire;Municipal;Ensino Médio;433;90.5;2.2;7.3;5.3;33;3
+155;Niterói;RJ;EMEI Paulo Freire;Municipal;Fundamental II;923;72.5;14.5;13.0;4.0;73;3
+156;Caracaraí;RR;EMEF Rui Barbosa;Estadual;Fundamental I;2173;78.6;15.7;5.7;5.7;142;7
+157;Pacaraima;RR;EEEF Tiradentes;Federal;Ensino Médio;1404;95.0;2.7;2.3;7.3;117;7
+158;Uberaba;MG;CEMEI Graciliano Ramos;Municipal;Ensino Médio;664;87.9;2.9;9.2;3.9;49;7
+159;Rio Largo;AL;CEMEI Érico Veríssimo;Municipal;Ensino Médio;875;78.9;3.9;17.2;5.7;73;5
+160;Sinop;MT;Colégio Estadual Tiradentes;Privada;Ensino Médio;881;98.9;0.7;0.4;7.3;58;9
+161;Araguaína;TO;EM Castro Alves;Estadual;EJA;217;79.8;4.6;15.6;3.9;15;5
+162;Juazeiro do Norte;CE;EMEI Anísio Teixeira;Privada;Ensino Médio;489;94.4;2.6;3.0;7.4;44;9
+163;Paulista;PE;EEEF Tiradentes;Estadual;EJA;2102;85.2;13.1;1.7;3.9;185;7
+164;Marabá;PA;EE Tiradentes;Federal;Fundamental II;1491;89.0;6.4;4.6;6.7;107;7
+165;Montes Claros;MG;CEMEI Carlos Drummond de Andrade;Privada;Ensino Médio;1069;90.6;2.8;6.6;6.9;103;9
+166;Canoas;RS;Escola Municipal Graciliano Ramos;Privada;EJA;1711;92.5;4.8;2.7;6.7;161;8
+167;Juiz de Fora;MG;Centro Educacional Guimarães Rosa;Municipal;Ensino Médio;560;79.7;6.7;13.6;4.4;51;2
+168;Várzea Grande;MT;CEF Cecília Meireles;Municipal;Fundamental I;1284;92.0;2.6;5.4;5.8;85;7
+169;Nossa Senhora do Socorro;SE;EE José Bonifácio;Privada;Fundamental I;1836;97.0;1.6;1.4;6.9;109;7
+170;Paraíso do Tocantins;TO;EMEI Tiradentes;Municipal;Fundamental I;1042;94.6;1.7;3.7;4.8;92;6
+171;Plano Piloto;DF;EMEF Rachel de Queiroz;Municipal;Fundamental I;449;80.7;14.7;4.6;4.5;29;3
+172;Palmas;TO;EMEI Presidente Vargas;Estadual;Fundamental I;268;86.3;5.3;8.4;5.8;23;3
+173;Ilhéus;BA;EEF Cecília Meireles;Municipal;Fundamental II;693;68.2;6.9;24.9;3.8;52;4
+174;Imperatriz;MA;EMEF Castro Alves;Municipal;Fundamental II;157;91.0;2.0;7.0;4.7;14;4
+175;Tangará da Serra;MT;CEMEI Princesa Isabel;Federal;Fundamental II;564;89.2;6.7;4.1;7.2;33;7
+176;São Cristóvão;SE;Escola Estadual Oswald de Andrade;Federal;Fundamental II;470;91.5;2.0;6.5;7.4;33;8
+177;Canoas;RS;CEMEI Tiradentes;Estadual;Fundamental II;482;80.3;8.1;11.6;5.8;21;6
+178;Parauapebas;PA;CE Guimarães Rosa;Privada;Ensino Médio;283;97.3;1.5;1.2;6.9;26;6
+179;Vila Velha;ES;EMEF Dom Pedro I;Estadual;Ensino Médio;2783;91.1;1.3;7.6;4.2;237;3
+180;Vitória da Conquista;BA;Colégio Estadual Clarice Lispector;Municipal;Fundamental II;1422;76.9;11.4;11.7;4.5;114;4
+181;Viamão;RS;EEF Dom Pedro I;Municipal;Fundamental I;477;71.9;19.3;8.8;4.5;35;4
+182;Ponta Porã;MS;EM Machado de Assis;Privada;Fundamental I;1198;90.1;3.2;6.7;7.3;87;10
+183;Piripiri;PI;EEF Darcy Ribeiro;Estadual;Fundamental I;1520;74.9;3.8;21.3;6.2;86;6
+184;Tarauacá;AC;CE Jorge Amado;Municipal;Ensino Médio;880;71.1;22.6;6.3;3.3;74;5
+185;Ceilândia;DF;EMEI Guimarães Rosa;Privada;Ensino Médio;1512;96.1;1.7;2.2;7.8;65;8
+186;Ji-Paraná;RO;EMEI Paulo Freire;Municipal;Ensino Médio;1096;65.7;28.8;5.5;3.0;57;3
+187;Itajaí;SC;CIEP Manuel Bandeira;Municipal;Fundamental II;388;92.6;2.5;4.9;4.4;38;6
+188;Vitória;ES;Centro Educacional Presidente Vargas;Municipal;Ensino Médio;1318;66.5;30.3;3.2;3.0;76;4
+189;Sorriso;MT;EMEF José Bonifácio;Municipal;Fundamental I;490;84.4;12.9;2.7;5.9;21;7
+190;Parauapebas;PA;EEEF Santos Dumont;Federal;Ensino Médio;490;88.4;2.2;9.4;7.4;38;8
+191;Boa Vista;RR;EE Presidente Vargas;Privada;EJA;330;90.8;6.0;3.2;6.5;18;10
+192;Tarauacá;AC;EM Rui Barbosa;Estadual;Ensino Médio;1778;87.0;5.8;7.2;3.6;120;6
+193;Fortaleza;CE;EEEF Jorge Amado;Municipal;Fundamental I;625;86.3;10.4;3.3;5.2;25;3
+194;Aparecida de Goiânia;GO;EMEF Clarice Lispector;Estadual;Fundamental II;330;91.8;4.5;3.7;6.0;27;6
+195;São Bernardo do Campo;SP;EMEI José Bonifácio;Municipal;Ensino Médio;231;82.9;9.2;7.9;4.4;14;5
+196;Ponta Porã;MS;Escola Municipal José Bonifácio;Municipal;Fundamental II;883;70.2;28.3;1.5;4.2;75;5
+197;Ilhéus;BA;CIEP Rui Barbosa;Municipal;Fundamental II;1283;72.6;17.4;10.0;3.4;86;4
+198;Maringá;PR;Centro Educacional Clarice Lispector;Privada;Fundamental II;397;95.4;3.2;1.4;7.1;29;7
+199;Araguaína;TO;Centro Educacional Zumbi dos Palmares;Privada;Fundamental II;1903;91.0;4.6;4.4;7.0;141;6
+200;Luziânia;GO;EM Mário de Andrade;Municipal;Fundamental I;735;79.7;11.0;9.3;4.0;46;4
+201;Pacaraima;RR;CIEP Oswald de Andrade;Estadual;Fundamental II;585;75.6;19.7;4.7;5.4;54;4
+202;Brasília;DF;Colégio Estadual Castro Alves;Privada;EJA;1114;91.3;2.6;6.1;6.1;71;8
+203;Araguaína;TO;Centro Educacional Paulo Freire;Municipal;Fundamental I;98;65.5;7.0;27.5;3.9;8;3
+204;Manaus;AM;CIEP José Bonifácio;Estadual;EJA;2859;80.1;7.1;12.8;5.6;178;5
+205;Timon;MA;Escola Municipal Manuel Bandeira;Municipal;EJA;1265;66.3;16.8;16.9;4.5;77;2
+206;Águas Lindas de Goiás;GO;Colégio Estadual Villa-Lobos;Municipal;Ensino Médio;250;77.7;20.3;2.0;4.8;20;4
+207;Tarauacá;AC;EEEF Graciliano Ramos;Federal;Fundamental II;716;92.1;3.7;4.2;5.7;60;7
+208;Cachoeiro de Itapemirim;ES;EMEI Villa-Lobos;Privada;Fundamental I;1691;96.3;1.7;2.0;6.9;68;10
+209;Salvador;BA;CE Monteiro Lobato;Privada;Fundamental II;1048;92.5;4.6;2.9;7.1;44;10
+210;São Gonçalo;RJ;CEF Santos Dumont;Municipal;Fundamental II;383;66.2;4.5;29.3;4.8;18;5
+211;Palmas;TO;EMEF Princesa Isabel;Estadual;Fundamental II;2828;92.6;2.6;4.8;5.8;151;3
+212;Pacaraima;RR;Escola Estadual Castro Alves;Estadual;Fundamental II;565;74.1;14.5;11.4;3.9;37;7
+213;Corumbá;MS;Escola Estadual José Bonifácio;Federal;Fundamental II;1500;92.1;2.6;5.3;6.3;110;7
+214;Belém;PA;Escola Municipal José Bonifácio;Estadual;Fundamental I;2094;80.0;3.2;16.8;6.3;104;4
+215;Duque de Caxias;RJ;CE José Bonifácio;Municipal;Fundamental II;1191;72.9;5.7;21.4;3.2;77;7
+216;Curitiba;PR;EE Rachel de Queiroz;Estadual;Fundamental I;1750;70.3;4.1;25.6;3.7;139;3
+217;Rio de Janeiro;RJ;CEMEI Anísio Teixeira;Estadual;Ensino Médio;2117;90.0;4.8;5.2;4.1;111;6
+218;Maracanaú;CE;Centro Educacional Érico Veríssimo;Municipal;Ensino Médio;195;69.4;5.2;25.4;3.4;16;6
+219;Petrolina;PE;EE Anísio Teixeira;Privada;Fundamental I;1383;96.8;2.1;1.1;7.7;124;8
+220;Belém;PA;CEMEI Jorge Amado;Privada;Fundamental I;908;90.2;4.0;5.8;7.3;69;8
+221;Linhares;ES;Colégio Estadual Cândido Portinari;Privada;Fundamental II;1920;93.7;2.0;4.3;7.7;136;7
+222;Cabo de Santo Agostinho;PE;CIEP Rui Barbosa;Estadual;Fundamental II;2450;72.1;21.0;6.9;6.2;103;4
+223;Rio Verde;GO;CEMEI Santos Dumont;Estadual;Ensino Médio;2342;85.1;7.6;7.3;6.3;147;6
+224;Paraíso do Tocantins;TO;EEF Manuel Bandeira;Municipal;EJA;1403;88.6;1.9;9.5;3.4;97;4
+225;Uberlândia;MG;EMEI Cora Coralina;Estadual;Fundamental I;1333;84.9;12.9;2.2;4.2;98;5
+226;Três Lagoas;MS;Escola Municipal Zumbi dos Palmares;Estadual;Fundamental II;1290;76.6;5.0;18.4;4.8;99;8
+227;Campinas;SP;EM Mário de Andrade;Privada;Ensino Médio;1504;93.3;2.0;4.7;7.1;101;8
+228;Parnaíba;PI;EMEI Clarice Lispector;Estadual;Ensino Médio;1161;75.1;5.2;19.7;5.9;91;5
+229;Olinda;PE;EMEI Carlos Drummond de Andrade;Estadual;Fundamental II;2030;83.4;2.1;14.5;3.9;96;7
+230;Tangará da Serra;MT;EM Érico Veríssimo;Privada;Fundamental I;621;98.4;0.8;0.8;6.9;35;10
+231;Campos dos Goytacazes;RJ;CIEP Clarice Lispector;Estadual;Fundamental I;2155;84.9;5.1;10.0;4.9;104;6
+232;Laranjal do Jari;AP;EMEF Cora Coralina;Privada;EJA;243;92.5;1.7;5.8;7.1;11;8
+233;Itajaí;SC;EEF Dom Pedro I;Estadual;Ensino Médio;190;72.8;8.0;19.2;6.4;12;8
+234;Vila Velha;ES;EMEI Villa-Lobos;Municipal;Fundamental II;774;90.2;5.6;4.2;3.5;66;6
+235;Itapipoca;CE;CE Manuel Bandeira;Privada;Fundamental II;135;98.6;0.4;1.0;6.2;7;10
+236;Recife;PE;EM Anísio Teixeira;Estadual;Ensino Médio;2032;85.2;4.6;10.2;6.2;81;4
+237;Caracaraí;RR;Centro Educacional Princesa Isabel;Municipal;Ensino Médio;963;71.4;11.9;16.7;3.3;64;2
+238;Lauro de Freitas;BA;EMEF Villa-Lobos;Privada;Ensino Médio;1666;92.4;3.4;4.2;7.8;154;9
+239;Montes Claros;MG;CIEP Guimarães Rosa;Federal;Fundamental II;1105;92.9;4.1;3.0;6.2;90;7
+240;Várzea Grande;MT;CEMEI José Bonifácio;Privada;Fundamental I;929;92.5;3.1;4.4;7.4;86;7
+241;Cruzeiro do Sul;AC;Escola Estadual Érico Veríssimo;Municipal;Fundamental I;94;76.7;1.4;21.9;4.0;6;5
+242;Patos;PB;EM Darcy Ribeiro;Estadual;Fundamental I;1651;92.8;1.9;5.3;4.3;150;4
+243;Cacoal;RO;Centro Educacional Dom Pedro I;Municipal;Ensino Médio;831;75.9;16.6;7.5;5.3;41;2
+244;Ceará-Mirim;RN;CE Darcy Ribeiro;Municipal;Fundamental I;977;69.5;8.9;21.6;3.4;92;5
+245;Cariacica;ES;EM Cora Coralina;Estadual;Fundamental II;527;85.5;3.2;11.3;5.2;38;8
+246;Ananindeua;PA;EM Manuel Bandeira;Estadual;Ensino Médio;465;71.7;15.0;13.3;3.8;40;4
+247;Foz do Iguaçu;PR;EE Anísio Teixeira;Municipal;Fundamental I;67;74.8;12.9;12.3;3.5;5;4
+248;Teresina;PI;CEF Machado de Assis;Municipal;Fundamental I;320;72.3;15.7;12.0;4.8;18;4
+249;Cariacica;ES;EM Monteiro Lobato;Estadual;Fundamental I;2771;85.2;2.7;12.1;3.6;158;6
+250;Piripiri;PI;CE Rachel de Queiroz;Municipal;Fundamental II;877;91.7;6.9;1.4;4.4;53;7
+251;Macaíba;RN;Colégio Estadual Darcy Ribeiro;Municipal;Ensino Médio;1122;93.1;1.6;5.3;3.5;47;5
+252;Coari;AM;EEEF Manuel Bandeira;Privada;Ensino Médio;1951;93.7;1.1;5.2;6.8;135;8
+253;Aracaju;SE;Colégio Estadual Machado de Assis;Estadual;Ensino Médio;1992;91.6;1.9;6.5;5.9;174;8
+254;Várzea Grande;MT;CEF Darcy Ribeiro;Estadual;EJA;2143;80.0;16.9;3.1;5.6;145;5
+255;Belém;PA;Escola Municipal Castro Alves;Estadual;Fundamental I;1360;79.4;17.5;3.1;4.6;125;6
+256;Coari;AM;CE Graciliano Ramos;Estadual;Ensino Médio;315;93.3;1.3;5.4;6.1;18;6
+257;Caxias;MA;EE Rachel de Queiroz;Estadual;EJA;2450;76.7;14.4;8.9;3.6;152;4
+258;Patos;PB;CEMEI Manuel Bandeira;Estadual;Ensino Médio;1487;77.1;13.2;9.7;3.7;138;7
+259;Itabaiana;SE;Escola Municipal Jorge Amado;Municipal;Fundamental II;1172;86.9;12.1;1.0;4.7;57;2
+260;Porto Nacional;TO;Escola Estadual Rachel de Queiroz;Estadual;Ensino Médio;2751;76.7;3.0;20.3;3.9;173;4
+261;Várzea Grande;MT;EE Paulo Freire;Federal;Fundamental II;1056;92.4;3.4;4.2;6.3;78;8
+262;Brasília;DF;EMEF Darcy Ribeiro;Privada;Fundamental I;1589;94.3;4.4;1.3;6.1;79;9
+263;Pacaraima;RR;Colégio Estadual Tiradentes;Estadual;Ensino Médio;2676;88.2;10.4;1.4;4.6;148;6
+264;Foz do Iguaçu;PR;EE Mário de Andrade;Municipal;Fundamental II;1446;90.1;3.2;6.7;4.8;109;7
+265;Vila Velha;ES;EMEI Tiradentes;Privada;Fundamental II;1142;92.7;1.3;6.0;7.9;86;9
+266;Santo André;SP;EM Cora Coralina;Estadual;Fundamental I;1046;92.0;6.6;1.4;4.2;85;4
+267;Picos;PI;EEF Tiradentes;Municipal;Fundamental II;662;67.4;30.0;2.6;3.5;52;5
+268;Lagarto;SE;CIEP Guimarães Rosa;Privada;Fundamental I;985;91.4;3.2;5.4;6.9;61;6
+269;Imperatriz;MA;CIEP Carlos Drummond de Andrade;Municipal;EJA;488;77.2;6.1;16.7;5.5;43;4
+270;Contagem;MG;Centro Educacional Rui Barbosa;Municipal;Fundamental II;256;67.5;5.6;26.9;5.4;16;2
+271;Tefé;AM;EMEF Graciliano Ramos;Municipal;EJA;413;66.0;22.7;11.3;3.9;39;4
+272;Gravataí;RS;EE Santos Dumont;Municipal;Fundamental I;726;68.0;30.6;1.4;6.0;55;2
+273;Araguaína;TO;Centro Educacional Graciliano Ramos;Privada;Ensino Médio;320;92.4;1.4;6.2;6.6;24;10
+274;Feira de Santana;BA;EE Clarice Lispector;Municipal;Ensino Médio;1483;80.4;13.1;6.5;4.5;62;3
+275;Contagem;MG;CEMEI Cândido Portinari;Municipal;Ensino Médio;677;73.8;11.1;15.1;5.1;64;5
+276;Santo André;SP;CEF Machado de Assis;Municipal;Fundamental I;1490;69.7;25.8;4.5;3.2;72;6
+277;Campina Grande;PB;Colégio Estadual Tiradentes;Estadual;Fundamental I;2966;78.0;9.7;12.3;4.2;140;6
+278;Cacoal;RO;Escola Estadual Paulo Freire;Municipal;Fundamental II;1019;84.7;3.5;11.8;4.1;44;5
+279;Rio Largo;AL;CEF Mário de Andrade;Municipal;Ensino Médio;864;88.5;2.3;9.2;5.6;51;5
+280;Viamão;RS;Colégio Estadual Carlos Drummond de Andrade;Municipal;EJA;1483;70.5;27.2;2.3;5.6;96;3
+281;Olinda;PE;EM Cândido Portinari;Estadual;Ensino Médio;2623;82.4;12.2;5.4;4.3;170;4
+282;Aracaju;SE;Colégio Estadual Manuel Bandeira;Municipal;Ensino Médio;813;75.1;5.6;19.3;3.3;39;6
+283;Caracaraí;RR;EEF Manuel Bandeira;Municipal;Ensino Médio;1303;70.9;22.7;6.4;5.3;87;7
+284;São José;SC;EMEF Santos Dumont;Municipal;Ensino Médio;731;65.5;16.4;18.1;4.8;67;2
+285;Bayeux;PB;Centro Educacional Carlos Drummond de Andrade;Municipal;EJA;506;78.5;17.6;3.9;3.9;45;7
+286;Caracaraí;RR;EM Dom Pedro I;Municipal;Fundamental I;504;93.6;1.0;5.4;4.3;21;5
+287;Itacoatiara;AM;CIEP Presidente Vargas;Municipal;Ensino Médio;1077;91.1;6.4;2.5;5.2;92;7
+288;Boa Vista;RR;CE Mário de Andrade;Municipal;Fundamental II;1181;73.6;23.6;2.8;3.3;74;3
+289;Criciúma;SC;EMEF Mário de Andrade;Estadual;Ensino Médio;1909;72.0;1.5;26.5;5.4;91;6
+290;São José;SC;EMEI Zumbi dos Palmares;Estadual;Fundamental I;812;92.6;3.0;4.4;4.1;69;4
+291;São José de Ribamar;MA;Escola Municipal Rui Barbosa;Privada;Ensino Médio;256;98.8;0.2;1.0;7.7;11;6
+292;Lagarto;SE;CEF Tiradentes;Privada;Fundamental I;348;94.5;2.6;2.9;7.7;16;10
+293;Caracaraí;RR;EEEF José Bonifácio;Privada;Fundamental II;461;93.5;4.3;2.2;6.4;43;8
+294;Natal;RN;CEMEI Monteiro Lobato;Privada;Fundamental I;1169;97.3;1.7;1.0;7.1;99;9
+295;Campo Grande;MS;Colégio Estadual Zumbi dos Palmares;Estadual;Fundamental II;574;90.2;2.7;7.1;5.8;29;6
+296;Vilhena;RO;EEEF Rachel de Queiroz;Privada;Ensino Médio;564;97.5;1.3;1.2;7.9;38;9
+297;Montes Claros;MG;CEF Paulo Freire;Estadual;Fundamental I;165;84.3;13.8;1.9;3.6;13;8
+298;Parauapebas;PA;Centro Educacional Cecília Meireles;Privada;EJA;274;91.2;4.8;4.0;6.2;12;10
+299;Ilhéus;BA;Escola Estadual Jorge Amado;Municipal;EJA;747;68.6;10.3;21.1;5.4;43;7
+300;Porto Nacional;TO;EMEF Santos Dumont;Estadual;Ensino Médio;2873;94.1;4.2;1.7;3.9;287;5
+301;Anápolis;GO;CE José Bonifácio;Privada;EJA;253;94.5;1.1;4.4;7.5;25;9
+302;Contagem;MG;CE Manuel Bandeira;Municipal;Ensino Médio;1277;90.5;8.3;1.2;4.1;109;2
+303;Uberlândia;MG;Colégio Estadual Rui Barbosa;Estadual;Fundamental I;1098;71.2;21.2;7.6;4.4;104;7
+304;Tefé;AM;Escola Estadual Villa-Lobos;Municipal;Fundamental II;658;92.2;6.2;1.6;5.0;56;2
+305;Rio Largo;AL;Escola Municipal Tiradentes;Privada;Fundamental II;651;96.7;2.2;1.1;6.3;49;6
+306;Oiapoque;AP;CIEP Villa-Lobos;Federal;Ensino Médio;418;88.4;1.8;9.8;6.7;20;8
+307;Cacoal;RO;Colégio Estadual Presidente Vargas;Municipal;Fundamental I;1013;71.6;20.5;7.9;5.1;90;3
+308;Rorainópolis;RR;CE Darcy Ribeiro;Privada;Fundamental I;1281;97.2;1.4;1.4;7.6;69;7
+309;Ananindeua;PA;Centro Educacional Cândido Portinari;Municipal;Fundamental II;649;75.3;10.3;14.4;4.2;48;6
+310;Aparecida de Goiânia;GO;Escola Estadual Zumbi dos Palmares;Municipal;Ensino Médio;572;84.5;6.5;9.0;4.5;29;2
+311;Águas Lindas de Goiás;GO;Escola Municipal Carlos Drummond de Andrade;Estadual;Fundamental I;641;94.2;1.2;4.6;4.2;64;8
+312;Florianópolis;SC;EE Paulo Freire;Municipal;Ensino Médio;616;93.8;1.9;4.3;4.7;28;7
+313;Porto Alegre;RS;CEF Machado de Assis;Municipal;Fundamental II;351;86.7;4.7;8.6;5.4;22;4
+314;Caracaraí;RR;Escola Municipal Machado de Assis;Municipal;Fundamental I;473;76.7;19.3;4.0;3.6;37;7
+315;Caruaru;PE;EMEI Presidente Vargas;Privada;Fundamental II;987;94.2;3.8;2.0;6.1;70;6
+316;Samambaia;DF;EMEI Darcy Ribeiro;Estadual;Fundamental I;875;80.7;2.1;17.2;3.5;58;7
+317;Codó;MA;Centro Educacional Darcy Ribeiro;Estadual;Fundamental I;2103;94.1;1.9;4.0;4.3;198;6
+318;Cruzeiro do Sul;AC;CE Cândido Portinari;Municipal;Fundamental II;1364;93.0;2.9;4.1;3.3;75;7
+319;Laranjal do Jari;AP;EMEI Rachel de Queiroz;Privada;Fundamental II;926;90.2;2.9;6.9;7.1;52;6
+320;São Bernardo do Campo;SP;CE Cora Coralina;Privada;Ensino Médio;1356;95.2;2.8;2.0;7.8;133;7
+321;Cruzeiro do Sul;AC;Escola Estadual Jorge Amado;Privada;Fundamental II;1234;93.8;1.8;4.4;6.7;57;9
+322;Codó;MA;Colégio Estadual Darcy Ribeiro;Privada;Fundamental I;1300;91.8;4.5;3.7;6.8;79;10
+323;Sinop;MT;CEMEI Dom Pedro I;Municipal;Ensino Médio;738;75.7;8.4;15.9;5.3;39;6
+324;Curitiba;PR;EE Anísio Teixeira;Municipal;Fundamental I;891;91.0;4.7;4.3;3.6;75;5
+325;Oiapoque;AP;EM Paulo Freire;Municipal;Fundamental I;809;67.9;13.3;18.8;3.8;80;6
+326;Cacoal;RO;EEEF Tiradentes;Privada;Ensino Médio;1991;92.1;5.7;2.2;6.2;143;8
+327;Ji-Paraná;RO;CE Monteiro Lobato;Federal;Ensino Médio;213;97.0;1.8;1.2;6.5;19;8
+328;Macapá;AP;EEF Darcy Ribeiro;Municipal;Fundamental I;50;77.8;16.2;6.0;4.0;5;4
+329;Fortaleza;CE;EEF Presidente Vargas;Municipal;EJA;1416;73.3;6.8;19.9;3.5;60;3
+330;Caucaia;CE;EMEI Cecília Meireles;Privada;Fundamental I;225;96.0;1.1;2.9;6.5;18;7
+331;Chapecó;SC;Colégio Estadual Santos Dumont;Municipal;Ensino Médio;1456;78.0;10.5;11.5;5.1;58;3
+332;Campo Grande;MS;CIEP Castro Alves;Municipal;Ensino Médio;223;87.9;5.2;6.9;3.6;14;3
+333;Pelotas;RS;CE Mário de Andrade;Estadual;Fundamental II;2324;93.7;5.2;1.1;6.3;216;7
+334;Itapipoca;CE;EEF Paulo Freire;Privada;Fundamental II;1019;93.8;2.2;4.0;7.2;56;9
+335;Brasília;DF;Colégio Estadual Villa-Lobos;Estadual;Fundamental I;2054;93.2;4.8;2.0;6.1;97;3
+336;Arapiraca;AL;Centro Educacional Castro Alves;Municipal;Fundamental II;1197;79.4;14.3;6.3;5.7;106;6
+337;Penedo;AL;Colégio Estadual Machado de Assis;Estadual;Ensino Médio;1135;92.7;3.9;3.4;5.0;50;7
+338;Londrina;PR;EMEI Darcy Ribeiro;Estadual;Fundamental II;1510;83.7;7.1;9.2;6.0;137;3
+339;Ceilândia;DF;Escola Municipal Rui Barbosa;Privada;Fundamental I;1160;91.3;5.8;2.9;6.9;84;9
+340;Criciúma;SC;Centro Educacional Tiradentes;Municipal;Ensino Médio;111;66.0;25.8;8.2;3.0;9;2
+341;São Paulo;SP;Escola Estadual Érico Veríssimo;Estadual;Fundamental I;2759;84.6;7.4;8.0;3.7;243;4
+342;Bayeux;PB;Escola Municipal Rachel de Queiroz;Municipal;Fundamental I;1288;65.8;11.1;23.1;3.4;103;4
+343;Santos;SP;EMEI Monteiro Lobato;Municipal;Ensino Médio;224;81.4;10.6;8.0;3.4;15;7
+344;Petrolina;PE;EE Guimarães Rosa;Privada;Fundamental I;1663;92.6;2.7;4.7;7.2;113;6
+345;Piripiri;PI;EMEF Presidente Vargas;Municipal;Fundamental I;1405;72.8;17.0;10.2;3.7;63;4
+346;São José;SC;EEF Castro Alves;Municipal;Fundamental II;532;77.4;5.7;16.9;5.4;31;6
+347;Boa Vista;RR;Colégio Estadual Carlos Drummond de Andrade;Municipal;Ensino Médio;818;86.9;7.9;5.2;4.7;35;2
+348;Ceilândia;DF;CE Cecília Meireles;Municipal;Ensino Médio;1315;75.7;18.4;5.9;6.0;127;6
+349;Parnaíba;PI;Colégio Estadual Dom Pedro I;Estadual;Fundamental I;651;91.6;1.8;6.6;4.3;47;7
+350;Teresina;PI;Centro Educacional Clarice Lispector;Estadual;Ensino Médio;876;83.7;8.4;7.9;4.9;54;4
+351;Nossa Senhora do Socorro;SE;EMEI Anísio Teixeira;Municipal;Fundamental I;367;85.2;8.9;5.9;3.4;21;5
+352;Sobral;CE;Escola Estadual Santos Dumont;Municipal;Ensino Médio;884;73.9;19.2;6.9;3.1;42;5
+353;Itajaí;SC;Colégio Estadual Darcy Ribeiro;Estadual;Fundamental II;486;81.5;5.8;12.7;3.6;48;6
+354;Várzea Grande;MT;Colégio Estadual Santos Dumont;Municipal;Ensino Médio;136;70.6;19.5;9.9;5.4;8;7
+355;Rorainópolis;RR;Escola Estadual Presidente Vargas;Estadual;EJA;2888;72.1;21.5;6.4;4.6;265;6
+356;Floriano;PI;EMEF Jorge Amado;Privada;Fundamental II;562;96.6;2.0;1.4;6.7;39;10
+357;Gurupi;TO;CEF Manuel Bandeira;Estadual;EJA;402;86.8;8.7;4.5;4.5;17;5
+358;Imperatriz;MA;Colégio Estadual Guimarães Rosa;Estadual;Fundamental I;1604;74.9;8.3;16.8;5.1;132;7
+359;Sorriso;MT;EEEF Rui Barbosa;Estadual;Fundamental I;537;87.8;8.4;3.8;4.9;46;6
+360;Curitiba;PR;EEF Rui Barbosa;Municipal;Fundamental I;1342;85.4;6.1;8.5;4.5;79;3
+361;Vitória;ES;Escola Estadual Rui Barbosa;Privada;Ensino Médio;271;98.3;0.9;0.8;7.2;26;10
+362;Cuiabá;MT;CIEP Jorge Amado;Municipal;Fundamental II;1181;86.6;1.1;12.3;4.6;60;2
+363;Palmas;TO;EEEF Tiradentes;Privada;Fundamental I;1694;93.7;3.3;3.0;7.1;69;10
+364;Viamão;RS;CEF Darcy Ribeiro;Estadual;Ensino Médio;1311;90.6;7.7;1.7;5.3;124;8
+365;Ceará-Mirim;RN;Colégio Estadual José Bonifácio;Estadual;Fundamental II;698;92.1;1.4;6.5;3.7;33;7
+366;Floriano;PI;EM Anísio Teixeira;Estadual;Fundamental II;1776;83.2;9.7;7.1;4.5;151;3
+367;Ananindeua;PA;EM Manuel Bandeira;Estadual;Ensino Médio;2615;82.6;5.2;12.2;3.7;157;6
+368;Manaus;AM;Escola Estadual Cora Coralina;Estadual;Fundamental I;1354;73.3;2.1;24.6;5.1;83;8
+369;Sena Madureira;AC;CIEP Zumbi dos Palmares;Estadual;EJA;339;83.0;2.9;14.1;3.8;29;8
+370;Rio Branco;AC;EMEF Cândido Portinari;Privada;Ensino Médio;1912;91.8;1.5;6.7;6.8;176;10
+371;Tarauacá;AC;CEMEI Rachel de Queiroz;Estadual;Fundamental II;1021;72.5;7.5;20.0;4.0;61;4
+372;Palmeira dos Índios;AL;EEF Castro Alves;Municipal;Fundamental I;1044;83.8;10.1;6.1;4.5;50;6
+373;Plano Piloto;DF;EMEF Castro Alves;Privada;Fundamental I;595;92.7;6.2;1.1;7.1;51;10
+374;Betim;MG;CE Rachel de Queiroz;Estadual;Ensino Médio;2315;73.4;16.9;9.7;3.6;177;4
+375;Macapá;AP;Escola Estadual Oswald de Andrade;Estadual;Fundamental II;223;85.1;13.8;1.1;3.6;16;5
+376;Itacoatiara;AM;EMEF Oswald de Andrade;Estadual;Fundamental I;2005;94.8;2.3;2.9;5.2;152;4
+377;Campos dos Goytacazes;RJ;CIEP Cora Coralina;Privada;Fundamental II;1698;95.9;2.6;1.5;7.7;143;10
+378;Pacaraima;RR;EE Villa-Lobos;Estadual;Fundamental II;1649;84.5;4.4;11.1;5.4;98;7
+379;Laranjal do Jari;AP;EMEI Carlos Drummond de Andrade;Federal;Fundamental II;1467;95.3;3.4;1.3;7.2;68;8
+380;Araguaína;TO;CIEP Princesa Isabel;Estadual;Fundamental I;2459;84.0;9.7;6.3;6.3;101;6
+381;São José dos Pinhais;PR;CEF Jorge Amado;Estadual;Ensino Médio;1860;94.3;1.6;4.1;3.6;98;6
+382;Ponta Grossa;PR;Escola Municipal Mário de Andrade;Municipal;Fundamental I;1283;92.2;1.8;6.0;5.0;120;6
+383;Aracaju;SE;Centro Educacional Presidente Vargas;Privada;EJA;1937;93.1;5.8;1.1;6.8;182;6
+384;Campos dos Goytacazes;RJ;Centro Educacional Érico Veríssimo;Estadual;Fundamental II;753;80.2;13.0;6.8;5.8;49;7
+385;Goiânia;GO;CIEP José Bonifácio;Privada;Fundamental II;933;95.7;1.0;3.3;7.8;64;7
+386;Belém;PA;EE Jorge Amado;Municipal;Ensino Médio;439;89.2;9.6;1.2;3.9;37;4
+387;Aparecida de Goiânia;GO;EE Anísio Teixeira;Privada;Fundamental II;1303;97.2;1.2;1.6;6.6;122;10
+388;Cruzeiro do Sul;AC;EMEF Mário de Andrade;Municipal;Fundamental I;1102;78.0;2.3;19.7;4.2;47;5
+389;Porto Nacional;TO;Escola Municipal Paulo Freire;Municipal;Fundamental I;1303;75.0;2.1;22.9;5.9;57;2
+390;Teresina;PI;EMEI Clarice Lispector;Municipal;Fundamental I;1292;67.2;15.0;17.8;5.2;111;2
+391;Cacoal;RO;CEF Clarice Lispector;Estadual;Fundamental II;1834;85.7;3.7;10.6;3.7;104;5
+392;Tarauacá;AC;CIEP Monteiro Lobato;Municipal;Fundamental II;169;86.4;9.4;4.2;4.3;14;3
+393;Parauapebas;PA;EMEF Villa-Lobos;Estadual;Fundamental I;527;88.6;8.8;2.6;5.0;50;8
+394;Arapiraca;AL;EEEF Jorge Amado;Municipal;EJA;589;65.7;18.2;16.1;5.8;25;7
+395;Ceilândia;DF;EE Tiradentes;Estadual;Fundamental I;1615;87.9;10.2;1.9;4.0;103;5
+396;Bayeux;PB;EM Cora Coralina;Privada;Fundamental II;1941;98.2;0.9;0.9;7.4;77;6
+397;Santana;AP;CE Mário de Andrade;Privada;Fundamental I;750;91.2;7.6;1.2;7.0;46;10
+398;Ceilândia;DF;CE Santos Dumont;Municipal;Ensino Médio;678;72.9;22.7;4.4;3.1;40;3
+399;Lauro de Freitas;BA;Centro Educacional Castro Alves;Estadual;Fundamental I;1916;76.9;10.5;12.6;6.5;155;4
+400;Palmas;TO;EE Cecília Meireles;Municipal;Fundamental II;1073;85.0;2.0;13.0;3.5;96;3

@@ -1,601 +1,601 @@
-﻿ID;Municipio;UF;Categoria;Orgao;Valor_R$;Data;Tipo_Despesa;Fonte_Recurso
-1;Porto Alegre;RS;Saneamento;Secretaria de Obras;616005,18;13/10/2022;Custeio;Federal
-2;Rio de Janeiro;RJ;Educação;Secretaria de Segurança;585488,93;24/02/2022;Investimento;Convênio
-3;Natal;ES;Habitação;Prefeitura Municipal;1898224,38;23/11/2022;Transferência;Municipal
-4;Goiânia;GO;Habitação;Fundo Municipal;260014,64;18/02/2024;Custeio;Municipal
-5;Belo Horizonte;MS;Saneamento;Instituto de Previdência;1342889,09;15/02/2024;Custeio;Municipal
-6;Cuiabá;TO;Transporte;Secretaria de Segurança;1762906,73;04/04/2022;Investimento;Municipal
-7;Curitiba;AP;Esporte e Lazer;Secretaria de Obras;1136258,70;18/01/2024;Investimento;Municipal
-8;Campo Grande;MS;Assistência Social;Secretaria de Saúde;1524781,86;17/12/2022;Investimento;Estadual
-9;Juiz de Fora;PB;Infraestrutura;Fundo Municipal;2107915,54;25/04/2022;Investimento;Federal
-10;Natal;SE;Educação;Secretaria de Segurança;2283274,63;07/10/2023;Investimento;Convênio
-11;Sorocaba;MG;Segurança Pública;Secretaria de Obras;353377,65;23/06/2023;Transferência;Convênio
-12;Campo Grande;MS;Segurança Pública;Câmara Municipal;1236322,01;07/04/2022;Custeio;Estadual
-13;Porto Alegre;RS;Comunicação;Autarquia de Trânsito;1493040,53;28/02/2024;Transferência;Convênio
-14;Recife;PE;Meio Ambiente;Prefeitura Municipal;1702307,11;23/08/2022;Pessoal;Municipal
-15;Manaus;AM;Segurança Pública;Instituto de Previdência;13097,06;24/06/2023;Investimento;Federal
-16;Porto Alegre;RS;Comunicação;Câmara Municipal;1524380,68;10/11/2022;Pessoal;Estadual
-17;São José dos Campos;PI;Saúde;Fundo Municipal;1224071,24;18/08/2022;Pessoal;Municipal
-18;Vitória;ES;Transporte;Secretaria de Saúde;218705,36;22/09/2024;Custeio;Estadual
-19;Juiz de Fora;BA;Segurança Pública;Secretaria de Obras;1321546,10;16/05/2024;Investimento;Estadual
-20;Cuiabá;RR;Ciência e Tecnologia;Câmara Municipal;1131457,92;23/05/2023;Investimento;Federal
-21;Cuiabá;MT;Meio Ambiente;Secretaria de Segurança;1473158,09;15/01/2022;Custeio;Federal
-22;Vitória;ES;Saúde;Fundo Municipal;181789,09;03/05/2023;Pessoal;Convênio
-23;Aparecida de Goiânia;DF;Transporte;Instituto de Previdência;611278,12;26/08/2024;Transferência;Estadual
-24;Manaus;AM;Esporte e Lazer;Fundo Municipal;1061828,66;14/08/2024;Custeio;Federal
-25;Vitória;AL;Habitação;Secretaria de Saúde;625397,55;25/01/2023;Transferência;Estadual
-26;Belém;PA;Ciência e Tecnologia;Secretaria de Segurança;2186842,46;04/06/2022;Transferência;Federal
-27;Feira de Santana;AL;Administração;Prefeitura Municipal;2422645,66;30/04/2023;Investimento;Convênio
-28;Niterói;PR;Saúde;Secretaria de Educação;950537,93;10/03/2024;Pessoal;Convênio
-29;Juiz de Fora;MA;Comunicação;Instituto de Previdência;391218,08;31/08/2023;Investimento;Federal
-30;Salvador;RJ;Saneamento;Fundo Municipal;147627,36;03/09/2024;Investimento;Federal
-31;Recife;PE;Segurança Pública;Secretaria de Saúde;1489612,59;27/04/2023;Transferência;Federal
-32;Rio de Janeiro;RJ;Transporte;Prefeitura Municipal;1550356,87;08/05/2024;Pessoal;Municipal
-33;Florianópolis;DF;Infraestrutura;Secretaria de Obras;992485,69;07/09/2023;Transferência;Municipal
-34;São Paulo;SP;Ciência e Tecnologia;Secretaria de Saúde;187785,50;13/03/2023;Pessoal;Estadual
-35;Maceió;MS;Cultura;Secretaria de Obras;398578,35;12/09/2023;Custeio;Municipal
-36;Porto Velho;RO;Segurança Pública;Secretaria de Obras;292994,53;08/08/2022;Investimento;Municipal
-37;Vitória;MA;Infraestrutura;Secretaria de Obras;1265995,60;30/05/2023;Custeio;Federal
-38;Natal;RS;Saúde;Prefeitura Municipal;837223,56;25/09/2022;Pessoal;Estadual
-39;Osasco;SC;Meio Ambiente;Prefeitura Municipal;284125,33;02/11/2022;Custeio;Municipal
-40;Osasco;RJ;Segurança Pública;Prefeitura Municipal;774104,58;23/03/2022;Pessoal;Estadual
-41;Porto Velho;RO;Educação;Fundo Municipal;1951390,02;12/04/2024;Investimento;Estadual
-42;Goiânia;CE;Esporte e Lazer;Prefeitura Municipal;452504,86;12/11/2023;Transferência;Estadual
-43;Goiânia;GO;Saneamento;Secretaria de Saúde;959441,60;21/03/2022;Transferência;Estadual
-44;Sorocaba;DF;Cultura;Secretaria de Obras;2052238,27;12/04/2023;Investimento;Federal
-45;Porto Velho;RO;Cultura;Secretaria de Obras;2161560,59;26/07/2023;Pessoal;Convênio
-46;Feira de Santana;RO;Cultura;Prefeitura Municipal;292777,67;19/06/2023;Investimento;Municipal
-47;Maceió;AL;Esporte e Lazer;Fundo Municipal;1822719,93;05/10/2023;Transferência;Federal
-48;Guarulhos;MG;Assistência Social;Prefeitura Municipal;1773419,28;04/01/2022;Investimento;Municipal
-49;Belém;PA;Comunicação;Fundo Municipal;1559772,75;13/09/2022;Pessoal;Municipal
-50;Niterói;RO;Saneamento;Secretaria de Obras;1388259,13;28/01/2023;Transferência;Convênio
-51;Goiânia;RO;Transporte;Secretaria de Obras;1018157,55;01/01/2022;Pessoal;Municipal
-52;Maringá;DF;Transporte;Fundo Municipal;1165145,53;24/06/2024;Investimento;Convênio
-53;Belém;SE;Comunicação;Secretaria de Saúde;713047,08;18/11/2023;Custeio;Estadual
-54;Guarulhos;RO;Segurança Pública;Prefeitura Municipal;120303,23;31/08/2024;Custeio;Convênio
-55;Aparecida de Goiânia;PA;Infraestrutura;Autarquia de Trânsito;1238471,04;15/05/2023;Investimento;Federal
-56;Curitiba;SP;Habitação;Autarquia de Trânsito;551008,64;26/11/2024;Transferência;Federal
-57;Teresina;PI;Administração;Secretaria de Saúde;1143872,25;09/08/2024;Pessoal;Convênio
-58;Ribeirão Preto;RN;Esporte e Lazer;Câmara Municipal;1117554,46;22/11/2022;Transferência;Convênio
-59;Natal;GO;Habitação;Câmara Municipal;1214069,56;05/05/2023;Pessoal;Convênio
-60;Maceió;AP;Assistência Social;Fundo Municipal;802675,37;15/06/2022;Investimento;Estadual
-61;Porto Alegre;ES;Saneamento;Secretaria de Segurança;165250,98;14/04/2024;Pessoal;Convênio
-62;Belém;PA;Administração;Autarquia de Trânsito;976744,65;10/02/2022;Transferência;Convênio
-63;Teresina;AC;Habitação;Autarquia de Trânsito;2134352,64;08/05/2024;Investimento;Convênio
-64;Vitória;ES;Ciência e Tecnologia;Prefeitura Municipal;975198,72;08/04/2024;Investimento;Convênio
-65;Feira de Santana;BA;Saúde;Autarquia de Trânsito;1481772,48;25/02/2022;Custeio;Convênio
-66;Goiânia;BA;Saúde;Secretaria de Obras;950864,14;10/03/2023;Transferência;Municipal
-67;Porto Velho;MT;Assistência Social;Autarquia de Trânsito;634417,47;17/06/2022;Transferência;Federal
-68;Aracaju;SC;Infraestrutura;Secretaria de Saúde;1954176,46;24/03/2022;Custeio;Estadual
-69;Porto Alegre;DF;Infraestrutura;Secretaria de Educação;1186534,85;23/08/2022;Investimento;Convênio
-70;Boa Vista;RR;Cultura;Secretaria de Educação;1516702,27;23/08/2022;Investimento;Municipal
-71;Teresina;AM;Transporte;Autarquia de Trânsito;994652,83;11/02/2023;Custeio;Estadual
-72;Teresina;AM;Administração;Secretaria de Saúde;1991586,91;26/03/2022;Pessoal;Convênio
-73;Ribeirão Preto;RO;Comunicação;Fundo Municipal;36567,11;10/05/2024;Transferência;Federal
-74;Sorocaba;PA;Saneamento;Secretaria de Educação;1091540,43;04/12/2024;Pessoal;Convênio
-75;Maringá;PB;Assistência Social;Fundo Municipal;2130024,33;27/06/2022;Pessoal;Convênio
-76;Aparecida de Goiânia;ES;Transporte;Autarquia de Trânsito;844309,57;09/10/2024;Pessoal;Estadual
-77;Curitiba;PR;Habitação;Secretaria de Obras;854145,41;20/07/2023;Custeio;Estadual
-78;Macapá;AP;Esporte e Lazer;Instituto de Previdência;1390164,65;08/05/2023;Transferência;Convênio
-79;Brasília;PB;Assistência Social;Secretaria de Segurança;1013980,82;14/05/2023;Pessoal;Municipal
-80;Aracaju;PR;Esporte e Lazer;Câmara Municipal;830324,29;18/07/2024;Pessoal;Municipal
-81;Goiânia;GO;Saneamento;Secretaria de Segurança;792292,12;15/01/2023;Investimento;Estadual
-82;Maringá;SC;Habitação;Câmara Municipal;1493992,90;25/07/2022;Investimento;Municipal
-83;Teresina;ES;Saúde;Câmara Municipal;320824,48;04/04/2022;Custeio;Municipal
-84;Uberlândia;RR;Educação;Prefeitura Municipal;1437290,23;19/08/2024;Transferência;Convênio
-85;Cuiabá;MT;Saúde;Secretaria de Obras;2352953,67;05/09/2024;Custeio;Federal
-86;Aparecida de Goiânia;MG;Comunicação;Prefeitura Municipal;383558,88;15/09/2023;Custeio;Estadual
-87;Santos;AM;Transporte;Secretaria de Segurança;1940355,38;19/02/2024;Transferência;Convênio
-88;Osasco;MA;Assistência Social;Prefeitura Municipal;1526029,13;23/07/2022;Investimento;Estadual
-89;Belém;GO;Infraestrutura;Secretaria de Educação;1382220,65;17/11/2022;Custeio;Convênio
-90;Joinville;PB;Assistência Social;Prefeitura Municipal;582533,21;03/08/2023;Transferência;Federal
-91;Porto Velho;RO;Assistência Social;Secretaria de Segurança;1065721,72;06/04/2023;Investimento;Municipal
-92;Palmas;TO;Saúde;Secretaria de Educação;1982608,27;15/08/2023;Transferência;Federal
-93;Niterói;PB;Assistência Social;Câmara Municipal;1352254,00;15/06/2024;Custeio;Federal
-94;Campo Grande;PA;Saúde;Secretaria de Saúde;576166,42;12/02/2022;Pessoal;Federal
-95;Joinville;SP;Meio Ambiente;Instituto de Previdência;2290601,61;07/01/2023;Transferência;Convênio
-96;Santos;AP;Cultura;Fundo Municipal;1676983,11;26/11/2022;Pessoal;Convênio
-97;Niterói;RR;Administração;Câmara Municipal;96559,34;30/06/2022;Pessoal;Municipal
-98;Cuiabá;MT;Habitação;Autarquia de Trânsito;2162951,91;03/01/2022;Transferência;Convênio
-99;Maceió;AL;Cultura;Instituto de Previdência;1565394,81;16/04/2022;Investimento;Municipal
-100;Teresina;PI;Assistência Social;Instituto de Previdência;2202712,31;19/09/2024;Custeio;Federal
-101;Maceió;RS;Saneamento;Secretaria de Educação;780321,60;29/01/2022;Transferência;Federal
-102;Recife;ES;Ciência e Tecnologia;Secretaria de Saúde;1621035,67;12/11/2022;Transferência;Municipal
-103;Santos;PE;Administração;Instituto de Previdência;2450710,36;15/05/2023;Transferência;Estadual
-104;Belo Horizonte;MG;Transporte;Câmara Municipal;1866999,90;07/10/2022;Custeio;Municipal
-105;Santos;SP;Cultura;Câmara Municipal;671595,79;06/01/2022;Pessoal;Municipal
-106;Uberlândia;TO;Administração;Secretaria de Educação;1119135,75;18/09/2024;Pessoal;Municipal
-107;Porto Velho;PI;Ciência e Tecnologia;Fundo Municipal;2174656,20;05/05/2023;Transferência;Estadual
-108;Florianópolis;SP;Saneamento;Instituto de Previdência;1764543,56;20/02/2024;Transferência;Estadual
-109;Manaus;PR;Meio Ambiente;Fundo Municipal;2174902,28;20/06/2024;Custeio;Convênio
-110;Santos;AC;Administração;Secretaria de Educação;191696,48;27/06/2023;Pessoal;Convênio
-111;Porto Alegre;RS;Cultura;Câmara Municipal;953123,45;11/10/2023;Transferência;Federal
-112;Natal;RN;Comunicação;Secretaria de Obras;2493577,68;05/07/2022;Transferência;Federal
-113;Curitiba;SP;Ciência e Tecnologia;Secretaria de Educação;1736532,90;01/03/2022;Custeio;Municipal
-114;Aracaju;SE;Cultura;Fundo Municipal;1079563,54;16/05/2023;Transferência;Estadual
-115;Fortaleza;CE;Transporte;Autarquia de Trânsito;1551177,37;09/05/2023;Transferência;Estadual
-116;Campo Grande;ES;Ciência e Tecnologia;Secretaria de Obras;1668767,59;10/08/2024;Pessoal;Estadual
-117;Aracaju;AP;Transporte;Secretaria de Obras;1599152,06;18/05/2024;Pessoal;Convênio
-118;São Luís;MA;Esporte e Lazer;Instituto de Previdência;271099,90;21/02/2024;Pessoal;Municipal
-119;Boa Vista;RR;Administração;Autarquia de Trânsito;689828,55;11/04/2022;Transferência;Municipal
-120;Aracaju;SP;Infraestrutura;Secretaria de Segurança;1554123,45;08/10/2022;Custeio;Federal
-121;Belo Horizonte;MA;Transporte;Fundo Municipal;1832237,62;04/07/2022;Pessoal;Municipal
-122;Guarulhos;SC;Segurança Pública;Câmara Municipal;2191769,19;20/01/2024;Pessoal;Estadual
-123;Joinville;GO;Habitação;Secretaria de Obras;1867665,58;25/11/2023;Custeio;Convênio
-124;Macapá;AP;Infraestrutura;Autarquia de Trânsito;2418338,02;20/01/2024;Custeio;Convênio
-125;Rio Branco;AC;Educação;Instituto de Previdência;924621,22;21/06/2023;Transferência;Municipal
-126;Joinville;AM;Saúde;Câmara Municipal;823375,67;30/03/2023;Custeio;Convênio
-127;Santos;RR;Educação;Secretaria de Educação;118140,29;18/03/2022;Pessoal;Convênio
-128;Manaus;AM;Meio Ambiente;Secretaria de Educação;974671,35;30/01/2024;Transferência;Estadual
-129;Uberlândia;PA;Transporte;Autarquia de Trânsito;2347937,40;27/07/2023;Custeio;Municipal
-130;Maceió;DF;Administração;Fundo Municipal;252889,79;23/01/2024;Pessoal;Federal
-131;Belo Horizonte;MG;Educação;Instituto de Previdência;233725,19;11/03/2023;Custeio;Federal
-132;Manaus;SE;Habitação;Secretaria de Segurança;176182,33;01/03/2023;Investimento;Estadual
-133;São Paulo;MT;Assistência Social;Secretaria de Educação;2468880,62;29/05/2023;Investimento;Federal
-134;Manaus;RO;Saúde;Fundo Municipal;1976011,74;03/05/2023;Pessoal;Federal
-135;Fortaleza;CE;Segurança Pública;Autarquia de Trânsito;1317583,39;11/05/2022;Transferência;Convênio
-136;Maringá;SP;Educação;Instituto de Previdência;1262077,53;30/03/2022;Pessoal;Convênio
-137;Salvador;RS;Ciência e Tecnologia;Autarquia de Trânsito;1068552,68;10/08/2022;Transferência;Convênio
-138;Florianópolis;AP;Transporte;Secretaria de Educação;168877,17;18/07/2023;Pessoal;Convênio
-139;Sorocaba;RN;Meio Ambiente;Autarquia de Trânsito;252450,26;23/08/2022;Investimento;Convênio
-140;Santos;PB;Cultura;Instituto de Previdência;999831,81;14/07/2022;Pessoal;Convênio
-141;Cuiabá;MT;Segurança Pública;Instituto de Previdência;172497,60;24/06/2022;Custeio;Convênio
-142;Cuiabá;AM;Habitação;Secretaria de Educação;1393144,99;07/11/2023;Custeio;Convênio
-143;Osasco;MS;Administração;Prefeitura Municipal;2421154,57;02/10/2023;Pessoal;Federal
-144;Porto Alegre;RJ;Comunicação;Instituto de Previdência;564490,95;10/08/2022;Pessoal;Municipal
-145;Aparecida de Goiânia;AM;Infraestrutura;Autarquia de Trânsito;2113662,13;23/02/2022;Pessoal;Federal
-146;Fortaleza;CE;Habitação;Secretaria de Obras;2304236,11;20/12/2023;Custeio;Estadual
-147;Niterói;BA;Educação;Secretaria de Educação;1853717,80;04/03/2022;Custeio;Estadual
-148;Vitória;MG;Segurança Pública;Fundo Municipal;782535,24;27/10/2023;Custeio;Federal
-149;Salvador;BA;Transporte;Prefeitura Municipal;1686551,93;12/07/2023;Transferência;Convênio
-150;Santos;PR;Assistência Social;Secretaria de Segurança;1888583,14;22/08/2022;Pessoal;Convênio
-151;Manaus;AM;Comunicação;Instituto de Previdência;1319700,60;24/09/2023;Custeio;Estadual
-152;Salvador;MG;Saúde;Secretaria de Segurança;757041,31;09/03/2023;Investimento;Municipal
-153;São Paulo;MA;Ciência e Tecnologia;Autarquia de Trânsito;443358,53;18/02/2024;Investimento;Municipal
-154;Belo Horizonte;AP;Esporte e Lazer;Prefeitura Municipal;1152086,85;09/06/2022;Pessoal;Convênio
-155;Santos;RJ;Assistência Social;Secretaria de Saúde;1015555,61;28/10/2023;Investimento;Convênio
-156;Cuiabá;TO;Educação;Autarquia de Trânsito;2111988,48;14/05/2023;Transferência;Convênio
-157;Recife;PE;Administração;Secretaria de Obras;1865783,04;30/03/2023;Pessoal;Estadual
-158;Recife;AP;Meio Ambiente;Câmara Municipal;488789,75;17/12/2023;Pessoal;Estadual
-159;Vitória;ES;Assistência Social;Secretaria de Segurança;437880,06;10/11/2022;Custeio;Estadual
-160;Sorocaba;SP;Habitação;Instituto de Previdência;1704428,03;24/10/2023;Pessoal;Estadual
-161;João Pessoa;PB;Ciência e Tecnologia;Secretaria de Obras;1991842,55;26/04/2022;Pessoal;Federal
-162;Belo Horizonte;MA;Saúde;Fundo Municipal;2080083,10;07/06/2022;Custeio;Convênio
-163;Belo Horizonte;PB;Ciência e Tecnologia;Secretaria de Segurança;807209,27;01/09/2024;Investimento;Federal
-164;João Pessoa;PB;Administração;Fundo Municipal;2456052,02;22/06/2022;Investimento;Federal
-165;Londrina;ES;Meio Ambiente;Câmara Municipal;1526464,49;16/01/2024;Pessoal;Municipal
-166;Vitória;MG;Comunicação;Prefeitura Municipal;1974121,19;17/11/2023;Custeio;Municipal
-167;Porto Velho;AM;Assistência Social;Secretaria de Obras;1810715,47;04/11/2022;Pessoal;Federal
-168;Aracaju;RJ;Assistência Social;Autarquia de Trânsito;326734,39;23/06/2022;Pessoal;Convênio
-169;Manaus;RS;Comunicação;Câmara Municipal;238165,15;17/05/2024;Pessoal;Federal
-170;Campinas;MS;Cultura;Instituto de Previdência;484053,06;09/10/2022;Investimento;Federal
-171;Curitiba;MA;Meio Ambiente;Câmara Municipal;2088623,97;14/12/2024;Custeio;Municipal
-172;Porto Velho;SP;Segurança Pública;Secretaria de Educação;456210,69;06/12/2022;Transferência;Federal
-173;Maceió;PA;Ciência e Tecnologia;Secretaria de Obras;1882215,96;08/07/2024;Investimento;Estadual
-174;Joinville;MA;Administração;Secretaria de Segurança;922763,19;21/06/2024;Transferência;Municipal
-175;São José dos Campos;SP;Esporte e Lazer;Secretaria de Educação;2043143,64;11/10/2022;Pessoal;Federal
-176;Cuiabá;RS;Meio Ambiente;Secretaria de Saúde;1779945,44;22/11/2024;Custeio;Municipal
-177;Natal;AP;Ciência e Tecnologia;Câmara Municipal;372634,90;14/06/2024;Custeio;Estadual
-178;Aracaju;TO;Saúde;Autarquia de Trânsito;137875,93;25/10/2024;Pessoal;Estadual
-179;Cuiabá;MG;Infraestrutura;Prefeitura Municipal;800118,76;22/07/2022;Pessoal;Estadual
-180;Salvador;BA;Administração;Instituto de Previdência;1741699,61;12/10/2022;Transferência;Convênio
-181;Natal;RN;Educação;Prefeitura Municipal;643530,20;03/11/2022;Transferência;Federal
-182;São Paulo;SP;Assistência Social;Secretaria de Saúde;124134,87;09/05/2024;Transferência;Federal
-183;Uberlândia;AM;Transporte;Câmara Municipal;46006,20;21/11/2024;Investimento;Estadual
-184;Aracaju;MA;Infraestrutura;Autarquia de Trânsito;472348,21;25/06/2022;Pessoal;Federal
-185;Ribeirão Preto;PE;Meio Ambiente;Prefeitura Municipal;979182,06;20/08/2024;Custeio;Convênio
-186;Campo Grande;MS;Saúde;Fundo Municipal;1972357,44;08/12/2023;Investimento;Federal
-187;Vitória;SP;Segurança Pública;Prefeitura Municipal;883986,12;25/11/2023;Investimento;Convênio
-188;Goiânia;RR;Habitação;Secretaria de Educação;162435,84;26/07/2024;Custeio;Municipal
-189;Brasília;DF;Infraestrutura;Prefeitura Municipal;792411,57;28/09/2023;Transferência;Convênio
-190;Goiânia;GO;Comunicação;Secretaria de Segurança;718846,68;08/04/2022;Pessoal;Municipal
-191;Osasco;AM;Esporte e Lazer;Instituto de Previdência;2237120,55;02/03/2024;Pessoal;Estadual
-192;Cuiabá;PR;Habitação;Câmara Municipal;670468,14;19/06/2022;Transferência;Federal
-193;Goiânia;PA;Meio Ambiente;Secretaria de Obras;806422,51;13/06/2022;Pessoal;Municipal
-194;Osasco;MA;Segurança Pública;Instituto de Previdência;882109,72;28/03/2022;Pessoal;Convênio
-195;Salvador;GO;Educação;Autarquia de Trânsito;911461,27;24/11/2022;Custeio;Estadual
-196;Londrina;RN;Saúde;Secretaria de Educação;172747,24;21/01/2024;Pessoal;Convênio
-197;Rio de Janeiro;RJ;Segurança Pública;Instituto de Previdência;2372314,71;01/02/2024;Transferência;Federal
-198;Rio de Janeiro;RJ;Cultura;Autarquia de Trânsito;789391,68;25/07/2023;Investimento;Federal
-199;Uberlândia;AC;Meio Ambiente;Autarquia de Trânsito;2284288,55;30/08/2022;Pessoal;Municipal
-200;João Pessoa;RR;Saneamento;Instituto de Previdência;504444,96;05/10/2022;Custeio;Convênio
-201;Londrina;CE;Educação;Fundo Municipal;1671260,28;13/05/2022;Pessoal;Municipal
-202;Goiânia;CE;Habitação;Fundo Municipal;1274345,58;06/09/2022;Investimento;Estadual
-203;Rio de Janeiro;ES;Cultura;Câmara Municipal;1432832,13;15/08/2024;Investimento;Federal
-204;Joinville;AP;Meio Ambiente;Autarquia de Trânsito;1924065,55;01/06/2022;Investimento;Municipal
-205;Porto Alegre;RS;Ciência e Tecnologia;Câmara Municipal;864564,38;08/01/2023;Investimento;Convênio
-206;Salvador;PE;Administração;Secretaria de Saúde;1297664,82;15/09/2023;Investimento;Estadual
-207;São Luís;MT;Cultura;Câmara Municipal;2237840,16;11/06/2022;Pessoal;Estadual
-208;Natal;RS;Segurança Pública;Secretaria de Obras;1537998,55;11/07/2022;Investimento;Estadual
-209;Vitória;CE;Administração;Prefeitura Municipal;2063964,49;28/02/2022;Custeio;Federal
-210;Campo Grande;RS;Comunicação;Secretaria de Segurança;1918562,71;03/05/2024;Custeio;Convênio
-211;Teresina;RS;Ciência e Tecnologia;Secretaria de Segurança;2012696,94;11/04/2024;Pessoal;Convênio
-212;Belém;AP;Ciência e Tecnologia;Autarquia de Trânsito;1213206,57;22/02/2023;Pessoal;Estadual
-213;Florianópolis;MT;Saneamento;Fundo Municipal;2438558,45;25/09/2022;Pessoal;Federal
-214;Cuiabá;MT;Educação;Secretaria de Obras;1126742,05;16/10/2022;Custeio;Federal
-215;Santos;MA;Infraestrutura;Secretaria de Educação;2034627,23;03/10/2023;Investimento;Estadual
-216;Sorocaba;PR;Ciência e Tecnologia;Secretaria de Obras;1245938,83;04/07/2022;Transferência;Convênio
-217;Vitória;ES;Cultura;Prefeitura Municipal;131098,31;10/10/2024;Transferência;Municipal
-218;Teresina;PI;Educação;Autarquia de Trânsito;339167,69;26/06/2023;Pessoal;Convênio
-219;Campo Grande;MS;Saúde;Câmara Municipal;490664,98;15/08/2023;Custeio;Convênio
-220;Juiz de Fora;PE;Assistência Social;Secretaria de Saúde;326015,16;18/07/2022;Transferência;Municipal
-221;Juiz de Fora;SE;Cultura;Secretaria de Educação;501649,41;08/11/2024;Transferência;Federal
-222;Maceió;AL;Saneamento;Fundo Municipal;2010894,81;29/11/2024;Transferência;Estadual
-223;Manaus;RN;Cultura;Fundo Municipal;410442,60;05/09/2023;Pessoal;Convênio
-224;Joinville;RR;Administração;Prefeitura Municipal;924052,74;13/08/2022;Transferência;Municipal
-225;Rio de Janeiro;SE;Transporte;Instituto de Previdência;667498,44;12/04/2023;Custeio;Convênio
-226;Porto Velho;CE;Segurança Pública;Secretaria de Segurança;83768,43;14/08/2022;Investimento;Federal
-227;Porto Alegre;PB;Esporte e Lazer;Secretaria de Segurança;1028891,64;23/08/2024;Custeio;Estadual
-228;Recife;PE;Cultura;Instituto de Previdência;1316065,49;05/10/2023;Investimento;Convênio
-229;Aracaju;PI;Comunicação;Secretaria de Obras;1527141,07;29/01/2023;Investimento;Municipal
-230;Teresina;PI;Assistência Social;Secretaria de Obras;1763727,84;28/09/2024;Pessoal;Convênio
-231;Natal;MS;Assistência Social;Secretaria de Saúde;1435824,63;17/02/2024;Transferência;Municipal
-232;João Pessoa;SP;Saúde;Secretaria de Obras;2388507,73;11/06/2022;Pessoal;Convênio
-233;Porto Alegre;RS;Ciência e Tecnologia;Secretaria de Segurança;509159,68;10/07/2023;Pessoal;Estadual
-234;Maringá;AM;Infraestrutura;Secretaria de Segurança;131659,75;23/12/2024;Investimento;Estadual
-235;Maceió;AL;Cultura;Instituto de Previdência;255859,54;09/10/2022;Custeio;Estadual
-236;Joinville;PA;Ciência e Tecnologia;Secretaria de Segurança;1890998,09;12/08/2023;Pessoal;Municipal
-237;Porto Alegre;RS;Habitação;Secretaria de Saúde;1632485,33;21/04/2023;Custeio;Estadual
-238;Goiânia;PA;Saúde;Autarquia de Trânsito;1970961,77;17/01/2023;Pessoal;Federal
-239;Rio Branco;AC;Transporte;Secretaria de Saúde;2321494,84;18/11/2023;Pessoal;Convênio
-240;Uberlândia;RS;Segurança Pública;Câmara Municipal;1172711,82;30/01/2023;Custeio;Municipal
-241;Campo Grande;CE;Saneamento;Secretaria de Educação;40140,07;22/11/2023;Pessoal;Estadual
-242;Niterói;CE;Administração;Autarquia de Trânsito;1290625,24;27/06/2022;Transferência;Federal
-243;Joinville;CE;Cultura;Secretaria de Segurança;22041,15;25/02/2024;Investimento;Convênio
-244;São Paulo;SP;Cultura;Secretaria de Obras;1458239,58;24/01/2022;Pessoal;Municipal
-245;Boa Vista;RR;Comunicação;Secretaria de Saúde;1166160,50;24/11/2022;Transferência;Municipal
-246;Boa Vista;RR;Assistência Social;Fundo Municipal;1538490,49;25/03/2023;Investimento;Convênio
-247;Cuiabá;BA;Esporte e Lazer;Câmara Municipal;2282428,24;24/03/2023;Investimento;Federal
-248;Cuiabá;PE;Educação;Secretaria de Saúde;159086,33;01/11/2024;Investimento;Estadual
-249;São José dos Campos;CE;Ciência e Tecnologia;Secretaria de Saúde;1702336,62;28/09/2024;Custeio;Convênio
-250;Aracaju;SE;Segurança Pública;Câmara Municipal;1041484,31;29/04/2022;Transferência;Municipal
-251;Florianópolis;SC;Assistência Social;Prefeitura Municipal;1865782,18;30/05/2022;Custeio;Convênio
-252;Feira de Santana;MS;Saúde;Secretaria de Saúde;2465412,43;24/08/2024;Custeio;Municipal
-253;Belém;PA;Segurança Pública;Autarquia de Trânsito;939280,00;23/02/2024;Transferência;Convênio
-254;Belo Horizonte;MG;Comunicação;Câmara Municipal;336809,57;14/12/2023;Custeio;Estadual
-255;Manaus;PI;Saneamento;Secretaria de Segurança;2087879,92;16/02/2022;Pessoal;Convênio
-256;Osasco;RO;Meio Ambiente;Autarquia de Trânsito;2059284,29;22/05/2023;Transferência;Municipal
-257;Salvador;BA;Saneamento;Secretaria de Saúde;85382,20;08/05/2024;Custeio;Estadual
-258;Brasília;DF;Transporte;Prefeitura Municipal;1118870,46;10/04/2022;Investimento;Federal
-259;Feira de Santana;MG;Infraestrutura;Prefeitura Municipal;354638,26;16/08/2023;Investimento;Municipal
-260;Florianópolis;RJ;Infraestrutura;Secretaria de Obras;2191264,51;03/12/2024;Investimento;Convênio
-261;São Luís;MA;Meio Ambiente;Secretaria de Educação;1566852,88;24/05/2024;Transferência;Federal
-262;Porto Velho;MS;Habitação;Câmara Municipal;800242,47;02/05/2024;Transferência;Estadual
-263;Feira de Santana;MA;Ciência e Tecnologia;Secretaria de Segurança;2124105,63;08/09/2023;Investimento;Convênio
-264;Santos;AL;Meio Ambiente;Câmara Municipal;339561,41;13/05/2023;Pessoal;Estadual
-265;Londrina;MT;Administração;Fundo Municipal;235697,67;26/01/2023;Custeio;Municipal
-266;Belo Horizonte;MG;Administração;Secretaria de Saúde;474467,42;21/03/2023;Transferência;Estadual
-267;São Paulo;MT;Infraestrutura;Secretaria de Segurança;2405383,50;29/08/2022;Transferência;Estadual
-268;Campinas;RR;Esporte e Lazer;Secretaria de Segurança;1382437,83;03/08/2023;Transferência;Convênio
-269;Teresina;PI;Assistência Social;Fundo Municipal;1284477,27;15/10/2024;Transferência;Federal
-270;Joinville;SE;Habitação;Fundo Municipal;2286254,59;30/01/2024;Pessoal;Convênio
-271;São Luís;AL;Saneamento;Secretaria de Educação;45468,65;05/05/2024;Pessoal;Estadual
-272;Porto Velho;DF;Transporte;Secretaria de Segurança;1250757,20;23/11/2023;Pessoal;Convênio
-273;Uberlândia;SC;Ciência e Tecnologia;Secretaria de Educação;1833266,73;23/12/2023;Investimento;Estadual
-274;Goiânia;SC;Meio Ambiente;Prefeitura Municipal;1312241,32;02/06/2022;Custeio;Federal
-275;Belém;PA;Comunicação;Secretaria de Segurança;174580,01;06/11/2022;Custeio;Estadual
-276;Salvador;PE;Transporte;Instituto de Previdência;1649914,43;02/02/2022;Custeio;Convênio
-277;Rio Branco;AC;Saneamento;Secretaria de Obras;1341666,57;11/08/2023;Custeio;Convênio
-278;Goiânia;SE;Educação;Secretaria de Saúde;1313341,58;09/05/2023;Investimento;Municipal
-279;Niterói;TO;Educação;Fundo Municipal;2398448,00;29/07/2024;Investimento;Estadual
-280;Brasília;MA;Comunicação;Prefeitura Municipal;238283,76;16/02/2024;Transferência;Convênio
-281;Belém;AL;Educação;Instituto de Previdência;2114097,84;10/11/2023;Custeio;Federal
-282;Vitória;ES;Administração;Instituto de Previdência;681382,16;02/06/2022;Pessoal;Federal
-283;Florianópolis;CE;Saúde;Secretaria de Segurança;1469655,08;26/03/2024;Custeio;Municipal
-284;Aparecida de Goiânia;CE;Administração;Autarquia de Trânsito;1694202,24;11/11/2023;Transferência;Estadual
-285;Brasília;SE;Meio Ambiente;Fundo Municipal;138972,60;14/06/2024;Investimento;Federal
-286;Niterói;MT;Habitação;Fundo Municipal;78916,02;14/07/2023;Transferência;Convênio
-287;Porto Velho;ES;Esporte e Lazer;Secretaria de Educação;1700838,67;18/02/2024;Custeio;Municipal
-288;Aracaju;SE;Educação;Secretaria de Saúde;673590,22;18/02/2024;Investimento;Convênio
-289;Brasília;MT;Saúde;Secretaria de Obras;1114615,98;07/07/2023;Custeio;Estadual
-290;Macapá;AP;Ciência e Tecnologia;Câmara Municipal;1389076,30;15/04/2024;Custeio;Federal
-291;Brasília;AP;Transporte;Fundo Municipal;2159976,85;26/01/2022;Pessoal;Convênio
-292;Juiz de Fora;MG;Infraestrutura;Câmara Municipal;428109,39;19/02/2024;Investimento;Estadual
-293;Uberlândia;GO;Segurança Pública;Secretaria de Saúde;422182,46;20/07/2023;Transferência;Municipal
-294;Cuiabá;PR;Assistência Social;Secretaria de Segurança;1803644,13;12/10/2024;Investimento;Convênio
-295;Manaus;AM;Saúde;Autarquia de Trânsito;833881,95;18/02/2024;Pessoal;Convênio
-296;Manaus;MT;Assistência Social;Fundo Municipal;1510012,11;16/02/2023;Transferência;Municipal
-297;Florianópolis;CE;Assistência Social;Instituto de Previdência;2419568,90;12/05/2023;Pessoal;Convênio
-298;Niterói;GO;Cultura;Secretaria de Saúde;2330507,55;14/02/2023;Investimento;Federal
-299;Campinas;SC;Ciência e Tecnologia;Secretaria de Obras;2079048,11;22/05/2022;Transferência;Convênio
-300;Maceió;BA;Assistência Social;Secretaria de Educação;1789514,80;12/02/2024;Custeio;Convênio
-301;Niterói;RN;Meio Ambiente;Câmara Municipal;2309121,91;06/05/2024;Custeio;Municipal
-302;Feira de Santana;RR;Transporte;Secretaria de Saúde;277876,72;24/05/2023;Pessoal;Estadual
-303;Aparecida de Goiânia;RS;Comunicação;Autarquia de Trânsito;2417193,78;11/11/2023;Transferência;Federal
-304;Rio Branco;AC;Infraestrutura;Câmara Municipal;1868398,30;29/03/2023;Transferência;Municipal
-305;Maringá;MG;Saneamento;Câmara Municipal;381108,61;20/02/2022;Transferência;Federal
-306;Brasília;MA;Educação;Secretaria de Educação;874079,99;04/12/2023;Transferência;Estadual
-307;Joinville;PE;Educação;Instituto de Previdência;1806374,89;15/07/2024;Pessoal;Federal
-308;São Luís;MA;Saneamento;Secretaria de Saúde;61349,86;04/12/2023;Custeio;Estadual
-309;Florianópolis;SC;Segurança Pública;Câmara Municipal;404538,60;23/05/2024;Transferência;Estadual
-310;Goiânia;SE;Segurança Pública;Autarquia de Trânsito;991978,03;09/02/2023;Transferência;Convênio
-311;Belo Horizonte;MG;Infraestrutura;Secretaria de Segurança;699470,35;09/05/2022;Custeio;Estadual
-312;Sorocaba;MS;Educação;Secretaria de Obras;1678400,06;29/09/2024;Pessoal;Convênio
-313;Recife;RN;Cultura;Fundo Municipal;2114566,92;20/12/2022;Pessoal;Federal
-314;Porto Velho;RO;Educação;Secretaria de Segurança;766923,11;10/01/2023;Pessoal;Estadual
-315;Manaus;PE;Transporte;Autarquia de Trânsito;1060481,76;23/09/2024;Investimento;Estadual
-316;Curitiba;PR;Segurança Pública;Fundo Municipal;2105753,11;20/04/2022;Pessoal;Federal
-317;Curitiba;PR;Administração;Autarquia de Trânsito;2409753,58;01/11/2024;Transferência;Convênio
-318;Londrina;RO;Ciência e Tecnologia;Secretaria de Educação;211263,21;05/03/2022;Investimento;Municipal
-319;Maceió;AL;Meio Ambiente;Secretaria de Obras;424681,40;25/07/2024;Transferência;Federal
-320;Rio de Janeiro;RJ;Habitação;Câmara Municipal;2059090,61;22/01/2024;Custeio;Convênio
-321;Teresina;PI;Esporte e Lazer;Secretaria de Saúde;1841291,80;22/05/2023;Pessoal;Federal
-322;João Pessoa;PB;Administração;Secretaria de Saúde;1100479,41;29/08/2022;Investimento;Estadual
-323;Aracaju;SE;Administração;Autarquia de Trânsito;419124,14;13/10/2022;Investimento;Estadual
-324;Aracaju;SE;Cultura;Câmara Municipal;706307,12;11/12/2022;Pessoal;Municipal
-325;Ribeirão Preto;MA;Comunicação;Secretaria de Saúde;343294,32;22/04/2024;Custeio;Municipal
-326;Porto Alegre;RS;Administração;Secretaria de Educação;627944,72;22/10/2023;Investimento;Convênio
-327;Curitiba;PR;Comunicação;Secretaria de Obras;1571392,99;08/02/2024;Transferência;Federal
-328;Brasília;RS;Esporte e Lazer;Câmara Municipal;1875756,95;26/01/2024;Transferência;Convênio
-329;Brasília;MT;Saneamento;Instituto de Previdência;1588927,16;04/01/2024;Custeio;Convênio
-330;Campinas;DF;Ciência e Tecnologia;Secretaria de Obras;810548,55;04/08/2023;Pessoal;Estadual
-331;Vitória;RJ;Comunicação;Prefeitura Municipal;119627,60;30/07/2024;Custeio;Federal
-332;São Paulo;CE;Esporte e Lazer;Secretaria de Segurança;2489256,70;28/09/2022;Pessoal;Estadual
-333;Goiânia;GO;Cultura;Secretaria de Obras;210639,22;05/12/2022;Custeio;Convênio
-334;São Luís;RS;Esporte e Lazer;Secretaria de Saúde;1760726,61;03/01/2022;Investimento;Convênio
-335;Macapá;AP;Infraestrutura;Câmara Municipal;1701556,90;20/01/2022;Custeio;Municipal
-336;Palmas;TO;Administração;Autarquia de Trânsito;1736607,35;05/09/2024;Custeio;Estadual
-337;Belo Horizonte;MG;Habitação;Secretaria de Saúde;262487,83;23/01/2024;Pessoal;Estadual
-338;Manaus;MG;Comunicação;Secretaria de Educação;175686,96;18/01/2022;Investimento;Convênio
-339;Porto Alegre;MS;Esporte e Lazer;Instituto de Previdência;2150606,50;27/06/2022;Custeio;Estadual
-340;São Paulo;SP;Saneamento;Autarquia de Trânsito;882081,42;29/05/2024;Pessoal;Estadual
-341;Vitória;ES;Educação;Secretaria de Segurança;1385724,60;07/08/2023;Custeio;Municipal
-342;Ribeirão Preto;DF;Infraestrutura;Autarquia de Trânsito;742377,42;22/04/2022;Investimento;Convênio
-343;Belo Horizonte;MG;Ciência e Tecnologia;Secretaria de Saúde;1323074,82;25/01/2022;Pessoal;Municipal
-344;Aparecida de Goiânia;BA;Esporte e Lazer;Fundo Municipal;1368158,77;20/12/2022;Transferência;Federal
-345;São Paulo;AC;Assistência Social;Secretaria de Segurança;104368,02;04/05/2022;Transferência;Municipal
-346;Santos;RS;Esporte e Lazer;Autarquia de Trânsito;210657,39;09/11/2022;Pessoal;Federal
-347;São Luís;MA;Infraestrutura;Secretaria de Educação;1343293,48;11/03/2024;Custeio;Municipal
-348;Maceió;RR;Saúde;Secretaria de Segurança;220100,93;08/06/2024;Custeio;Convênio
-349;Teresina;RN;Comunicação;Secretaria de Educação;303010,30;09/10/2022;Custeio;Estadual
-350;São José dos Campos;PR;Meio Ambiente;Secretaria de Obras;421572,57;17/09/2022;Pessoal;Federal
-351;Vitória;SP;Habitação;Autarquia de Trânsito;683591,58;11/05/2022;Pessoal;Federal
-352;Cuiabá;PR;Saúde;Instituto de Previdência;2149102,66;08/12/2022;Pessoal;Estadual
-353;Aparecida de Goiânia;GO;Comunicação;Secretaria de Saúde;574869,04;08/11/2024;Custeio;Federal
-354;Rio Branco;AC;Ciência e Tecnologia;Fundo Municipal;960533,79;04/11/2022;Investimento;Federal
-355;Santos;PI;Infraestrutura;Fundo Municipal;624416,64;18/10/2023;Pessoal;Federal
-356;Ribeirão Preto;RJ;Comunicação;Prefeitura Municipal;452464,15;22/11/2024;Custeio;Convênio
-357;João Pessoa;AP;Habitação;Secretaria de Obras;821615,80;24/07/2024;Custeio;Municipal
-358;Brasília;DF;Habitação;Secretaria de Obras;1850242,09;12/05/2023;Transferência;Municipal
-359;Guarulhos;RJ;Saneamento;Câmara Municipal;1902403,14;18/05/2023;Investimento;Federal
-360;Belém;PA;Meio Ambiente;Fundo Municipal;1591674,89;20/01/2022;Pessoal;Federal
-361;Teresina;SP;Educação;Secretaria de Segurança;1326887,15;03/05/2023;Transferência;Convênio
-362;Porto Alegre;AL;Saneamento;Secretaria de Obras;237101,46;20/04/2023;Transferência;Municipal
-363;Brasília;PB;Transporte;Secretaria de Saúde;1266042,27;18/03/2024;Custeio;Federal
-364;Manaus;PA;Infraestrutura;Secretaria de Obras;656172,39;08/10/2023;Transferência;Municipal
-365;São Luís;MT;Educação;Secretaria de Segurança;344599,06;12/08/2022;Investimento;Federal
-366;Florianópolis;CE;Esporte e Lazer;Secretaria de Saúde;1342131,75;02/03/2023;Transferência;Municipal
-367;João Pessoa;PB;Educação;Secretaria de Saúde;398250,37;16/09/2023;Custeio;Estadual
-368;Porto Alegre;TO;Educação;Secretaria de Segurança;2421158,01;22/03/2024;Custeio;Municipal
-369;Goiânia;GO;Saúde;Autarquia de Trânsito;2137230,26;27/05/2023;Custeio;Convênio
-370;Manaus;AM;Educação;Prefeitura Municipal;158864,62;01/04/2023;Investimento;Estadual
-371;Brasília;TO;Transporte;Secretaria de Obras;2293984,31;03/06/2022;Custeio;Federal
-372;Londrina;DF;Habitação;Secretaria de Educação;234486,70;11/11/2023;Custeio;Federal
-373;João Pessoa;PB;Transporte;Autarquia de Trânsito;2055105,08;19/03/2024;Transferência;Federal
-374;Goiânia;MG;Cultura;Secretaria de Segurança;2271219,02;18/07/2023;Pessoal;Convênio
-375;Salvador;BA;Transporte;Secretaria de Segurança;1619959,61;18/10/2024;Transferência;Convênio
-376;Maceió;AL;Esporte e Lazer;Secretaria de Educação;1050990,88;12/12/2024;Investimento;Federal
-377;Aracaju;MG;Ciência e Tecnologia;Câmara Municipal;1954680,59;06/12/2023;Pessoal;Convênio
-378;Goiânia;GO;Cultura;Secretaria de Segurança;78112,13;30/07/2023;Custeio;Convênio
-379;Maringá;PE;Infraestrutura;Secretaria de Educação;254835,17;09/05/2023;Pessoal;Federal
-380;São Luís;SP;Transporte;Autarquia de Trânsito;890237,56;22/12/2022;Investimento;Estadual
-381;Aracaju;RJ;Transporte;Prefeitura Municipal;1760114,94;22/12/2023;Investimento;Estadual
-382;Uberlândia;TO;Meio Ambiente;Secretaria de Obras;443014,14;19/03/2022;Custeio;Federal
-383;Rio de Janeiro;ES;Meio Ambiente;Instituto de Previdência;6705,32;17/02/2023;Investimento;Municipal
-384;Boa Vista;RR;Habitação;Fundo Municipal;153592,13;30/10/2022;Investimento;Federal
-385;Fortaleza;PE;Cultura;Autarquia de Trânsito;1467111,57;21/11/2023;Pessoal;Municipal
-386;Osasco;BA;Habitação;Instituto de Previdência;1624704,76;23/12/2022;Pessoal;Estadual
-387;Goiânia;RO;Esporte e Lazer;Secretaria de Obras;1836317,46;27/08/2023;Investimento;Estadual
-388;Florianópolis;SC;Saneamento;Autarquia de Trânsito;2127638,63;08/03/2022;Investimento;Municipal
-389;São Luís;SE;Comunicação;Secretaria de Saúde;2342036,04;16/10/2022;Pessoal;Federal
-390;Florianópolis;ES;Segurança Pública;Secretaria de Saúde;2055046,20;19/11/2023;Transferência;Federal
-391;Goiânia;GO;Saneamento;Secretaria de Saúde;879450,50;10/08/2022;Custeio;Federal
-392;Santos;MG;Segurança Pública;Autarquia de Trânsito;1235239,57;15/02/2024;Pessoal;Convênio
-393;Aparecida de Goiânia;AM;Comunicação;Secretaria de Segurança;410828,00;31/05/2022;Custeio;Municipal
-394;Curitiba;AC;Educação;Fundo Municipal;429412,48;08/02/2024;Investimento;Federal
-395;Brasília;PI;Cultura;Instituto de Previdência;1762739,09;02/06/2024;Investimento;Convênio
-396;Fortaleza;CE;Cultura;Secretaria de Segurança;2436124,06;18/04/2024;Pessoal;Municipal
-397;São Luís;MA;Saúde;Autarquia de Trânsito;1431565,67;02/10/2024;Investimento;Federal
-398;Campo Grande;MS;Educação;Secretaria de Obras;2060623,78;10/09/2024;Investimento;Federal
-399;Rio Branco;AC;Comunicação;Secretaria de Obras;2442758,95;27/08/2024;Custeio;Municipal
-400;Uberlândia;SE;Comunicação;Secretaria de Obras;232386,51;04/03/2024;Investimento;Municipal
-401;Londrina;MG;Saúde;Secretaria de Obras;1102152,36;24/06/2023;Investimento;Municipal
-402;Rio de Janeiro;RJ;Habitação;Secretaria de Saúde;218839,74;06/12/2023;Transferência;Estadual
-403;Teresina;PI;Esporte e Lazer;Câmara Municipal;1049487,03;30/08/2024;Investimento;Convênio
-404;São Luís;MA;Administração;Prefeitura Municipal;1257743,17;24/11/2024;Investimento;Federal
-405;Belém;SP;Infraestrutura;Secretaria de Segurança;319834,07;17/05/2024;Custeio;Convênio
-406;Porto Alegre;DF;Administração;Secretaria de Obras;802774,97;18/05/2022;Custeio;Convênio
-407;Florianópolis;PI;Administração;Secretaria de Obras;1301622,00;26/01/2022;Transferência;Federal
-408;Belém;PA;Transporte;Secretaria de Saúde;2312695,78;26/07/2022;Pessoal;Municipal
-409;Belém;PA;Comunicação;Instituto de Previdência;1432197,98;26/08/2024;Custeio;Estadual
-410;Niterói;GO;Saúde;Autarquia de Trânsito;2224487,66;10/11/2023;Investimento;Federal
-411;Natal;SC;Cultura;Prefeitura Municipal;847975,87;13/09/2023;Pessoal;Municipal
-412;Curitiba;TO;Administração;Secretaria de Segurança;340291,87;26/06/2024;Pessoal;Municipal
-413;Brasília;SC;Infraestrutura;Instituto de Previdência;532419,30;13/04/2024;Transferência;Municipal
-414;Palmas;TO;Habitação;Secretaria de Educação;168714,33;03/11/2024;Transferência;Estadual
-415;Aparecida de Goiânia;SP;Saúde;Secretaria de Educação;485944,80;16/02/2023;Custeio;Estadual
-416;Cuiabá;AL;Saneamento;Secretaria de Segurança;688573,86;08/08/2024;Transferência;Federal
-417;Porto Velho;RO;Cultura;Instituto de Previdência;1487138,77;30/12/2022;Transferência;Municipal
-418;Campo Grande;MS;Assistência Social;Secretaria de Saúde;716248,09;02/03/2024;Custeio;Estadual
-419;Campinas;RJ;Administração;Secretaria de Segurança;1620212,83;28/02/2023;Pessoal;Convênio
-420;Recife;PE;Habitação;Prefeitura Municipal;1187872,53;28/09/2022;Investimento;Federal
-421;Vitória;ES;Habitação;Secretaria de Obras;1783287,52;18/07/2023;Transferência;Convênio
-422;Campinas;MS;Ciência e Tecnologia;Secretaria de Obras;1694604,41;24/03/2024;Custeio;Federal
-423;Cuiabá;PE;Meio Ambiente;Secretaria de Obras;749697,44;10/08/2022;Transferência;Federal
-424;Florianópolis;MT;Administração;Secretaria de Obras;656561,54;04/09/2023;Investimento;Estadual
-425;Salvador;PE;Habitação;Autarquia de Trânsito;1653023,16;14/10/2022;Custeio;Convênio
-426;São Luís;MA;Esporte e Lazer;Autarquia de Trânsito;973745,93;14/03/2022;Investimento;Municipal
-427;Feira de Santana;SC;Comunicação;Instituto de Previdência;2266783,63;05/01/2024;Pessoal;Estadual
-428;Juiz de Fora;TO;Segurança Pública;Secretaria de Obras;248519,64;20/09/2022;Pessoal;Estadual
-429;Brasília;RO;Infraestrutura;Fundo Municipal;562203,17;21/09/2023;Transferência;Municipal
-430;Campo Grande;MS;Assistência Social;Instituto de Previdência;2128778,65;21/08/2024;Custeio;Federal
-431;Ribeirão Preto;PR;Educação;Autarquia de Trânsito;1326947,07;26/04/2024;Custeio;Estadual
-432;Vitória;BA;Esporte e Lazer;Instituto de Previdência;362344,26;05/01/2023;Custeio;Convênio
-433;Goiânia;MT;Cultura;Prefeitura Municipal;16760,19;15/07/2023;Investimento;Estadual
-434;Uberlândia;RJ;Habitação;Secretaria de Saúde;327867,86;07/06/2024;Transferência;Convênio
-435;Porto Velho;PA;Saúde;Prefeitura Municipal;1336787,59;04/02/2024;Custeio;Municipal
-436;Guarulhos;SP;Saúde;Prefeitura Municipal;1568583,89;25/05/2023;Investimento;Municipal
-437;São Luís;MA;Esporte e Lazer;Câmara Municipal;1473733,37;09/12/2022;Custeio;Federal
-438;Sorocaba;MA;Saneamento;Câmara Municipal;1492942,95;23/11/2023;Transferência;Estadual
-439;Uberlândia;MT;Cultura;Secretaria de Segurança;416384,35;06/04/2024;Custeio;Estadual
-440;Manaus;ES;Infraestrutura;Prefeitura Municipal;1476283,62;13/12/2022;Custeio;Municipal
-441;Belo Horizonte;RR;Esporte e Lazer;Secretaria de Obras;1929267,91;10/04/2022;Custeio;Federal
-442;Salvador;RS;Saneamento;Secretaria de Saúde;1044855,04;18/02/2024;Custeio;Municipal
-443;Campinas;PR;Saneamento;Prefeitura Municipal;756285,55;26/07/2022;Pessoal;Estadual
-444;Curitiba;PA;Meio Ambiente;Secretaria de Saúde;710353,39;06/08/2022;Transferência;Estadual
-445;Natal;RN;Assistência Social;Câmara Municipal;2432933,71;04/01/2024;Transferência;Municipal
-446;Fortaleza;CE;Ciência e Tecnologia;Secretaria de Segurança;1722068,77;11/09/2024;Pessoal;Estadual
-447;Rio Branco;AC;Educação;Secretaria de Saúde;2088904,25;08/10/2024;Investimento;Federal
-448;Curitiba;SP;Assistência Social;Secretaria de Segurança;1144594,33;30/08/2023;Pessoal;Convênio
-449;Maceió;AL;Segurança Pública;Prefeitura Municipal;2131360,47;08/01/2024;Pessoal;Convênio
-450;Florianópolis;SC;Administração;Prefeitura Municipal;29132,46;11/10/2022;Investimento;Municipal
-451;Natal;MS;Saneamento;Secretaria de Saúde;934692,27;03/12/2023;Investimento;Federal
-452;Sorocaba;MG;Assistência Social;Autarquia de Trânsito;1726306,57;06/09/2024;Transferência;Estadual
-453;Manaus;AM;Saneamento;Prefeitura Municipal;2454015,08;23/11/2022;Custeio;Convênio
-454;Aparecida de Goiânia;RJ;Comunicação;Instituto de Previdência;457245,10;17/02/2024;Pessoal;Federal
-455;Manaus;RO;Ciência e Tecnologia;Instituto de Previdência;286779,01;22/04/2024;Transferência;Federal
-456;Macapá;AP;Cultura;Prefeitura Municipal;1762897,60;10/12/2024;Investimento;Municipal
-457;Curitiba;PE;Esporte e Lazer;Secretaria de Segurança;1207414,54;28/02/2024;Investimento;Federal
-458;Belém;AC;Meio Ambiente;Instituto de Previdência;2130418,52;05/12/2022;Custeio;Convênio
-459;Cuiabá;MT;Assistência Social;Prefeitura Municipal;1269788,68;15/02/2024;Transferência;Estadual
-460;Aparecida de Goiânia;AP;Ciência e Tecnologia;Secretaria de Saúde;2142190,11;04/07/2024;Pessoal;Federal
-461;Rio de Janeiro;PR;Educação;Autarquia de Trânsito;1033784,68;01/01/2022;Custeio;Municipal
-462;Sorocaba;PE;Cultura;Fundo Municipal;2064150,92;02/04/2023;Transferência;Municipal
-463;Joinville;PI;Saneamento;Fundo Municipal;1791204,18;22/08/2022;Custeio;Estadual
-464;João Pessoa;AC;Meio Ambiente;Câmara Municipal;937856,45;06/08/2022;Custeio;Estadual
-465;Curitiba;PR;Saneamento;Autarquia de Trânsito;271868,96;06/02/2023;Investimento;Federal
-466;Belo Horizonte;MG;Administração;Secretaria de Segurança;1793385,85;09/08/2022;Transferência;Federal
-467;Maringá;RS;Educação;Instituto de Previdência;1146182,75;29/10/2024;Investimento;Convênio
-468;Salvador;AC;Meio Ambiente;Autarquia de Trânsito;2097846,20;16/09/2024;Investimento;Estadual
-469;Curitiba;SC;Esporte e Lazer;Fundo Municipal;1262754,75;27/02/2024;Transferência;Estadual
-470;Vitória;GO;Assistência Social;Instituto de Previdência;2012968,09;10/10/2022;Transferência;Municipal
-471;Florianópolis;TO;Saneamento;Câmara Municipal;1583295,29;16/02/2023;Investimento;Municipal
-472;Manaus;RO;Saneamento;Secretaria de Educação;1262214,13;23/10/2023;Custeio;Municipal
-473;Aparecida de Goiânia;PI;Comunicação;Autarquia de Trânsito;1687237,50;29/12/2024;Pessoal;Convênio
-474;Aracaju;SE;Educação;Prefeitura Municipal;955271,43;19/04/2022;Custeio;Estadual
-475;Belém;GO;Assistência Social;Secretaria de Obras;370338,83;08/05/2022;Pessoal;Estadual
-476;Aracaju;SP;Administração;Instituto de Previdência;260687,62;05/04/2023;Transferência;Estadual
-477;João Pessoa;PE;Saneamento;Prefeitura Municipal;2316579,60;04/03/2024;Transferência;Municipal
-478;Teresina;PI;Saneamento;Secretaria de Obras;511702,62;26/06/2024;Investimento;Municipal
-479;Guarulhos;SP;Habitação;Secretaria de Segurança;738973,42;30/12/2022;Custeio;Estadual
-480;Recife;CE;Esporte e Lazer;Prefeitura Municipal;1074127,00;26/06/2023;Investimento;Estadual
-481;São Paulo;RJ;Cultura;Instituto de Previdência;1775674,79;14/11/2022;Custeio;Estadual
-482;Teresina;MT;Ciência e Tecnologia;Câmara Municipal;898423,54;13/10/2023;Investimento;Estadual
-483;Recife;PE;Meio Ambiente;Secretaria de Educação;1042748,45;06/04/2024;Custeio;Municipal
-484;Vitória;ES;Cultura;Fundo Municipal;737468,02;22/12/2024;Transferência;Federal
-485;Londrina;AM;Infraestrutura;Secretaria de Segurança;2397447,56;20/10/2023;Transferência;Federal
-486;Belo Horizonte;MG;Saneamento;Secretaria de Obras;66640,80;24/11/2024;Pessoal;Convênio
-487;Curitiba;PR;Comunicação;Secretaria de Segurança;804180,33;18/06/2022;Custeio;Estadual
-488;São Paulo;SP;Comunicação;Secretaria de Saúde;530899,78;13/03/2023;Transferência;Federal
-489;Osasco;DF;Comunicação;Secretaria de Saúde;1868492,61;11/11/2022;Custeio;Convênio
-490;Brasília;RR;Educação;Prefeitura Municipal;449090,45;31/05/2023;Custeio;Estadual
-491;Londrina;GO;Comunicação;Autarquia de Trânsito;1085397,46;04/02/2022;Transferência;Federal
-492;Teresina;PI;Saneamento;Secretaria de Saúde;1891121,69;04/04/2022;Custeio;Municipal
-493;Recife;PE;Habitação;Secretaria de Obras;1518381,77;31/07/2023;Transferência;Convênio
-494;Rio de Janeiro;MG;Ciência e Tecnologia;Secretaria de Educação;1336002,07;07/10/2022;Transferência;Municipal
-495;Porto Alegre;RS;Comunicação;Fundo Municipal;2393692,16;23/01/2022;Investimento;Federal
-496;Maceió;AL;Transporte;Autarquia de Trânsito;1345194,36;24/06/2022;Pessoal;Estadual
-497;Aracaju;SC;Infraestrutura;Autarquia de Trânsito;2264541,94;15/11/2024;Investimento;Estadual
-498;Fortaleza;CE;Administração;Secretaria de Obras;489843,91;07/01/2023;Custeio;Convênio
-499;João Pessoa;RS;Comunicação;Secretaria de Saúde;630465,60;09/02/2023;Transferência;Municipal
-500;Campo Grande;MS;Comunicação;Secretaria de Segurança;254612,42;23/05/2022;Investimento;Municipal
-501;Teresina;PR;Saneamento;Secretaria de Educação;1416052,26;17/01/2024;Pessoal;Convênio
-502;Fortaleza;CE;Infraestrutura;Secretaria de Segurança;1781936,82;12/06/2024;Pessoal;Municipal
-503;Vitória;BA;Ciência e Tecnologia;Instituto de Previdência;1116168,14;18/09/2023;Transferência;Federal
-504;Brasília;CE;Administração;Secretaria de Obras;2147490,57;14/10/2022;Investimento;Municipal
-505;Fortaleza;SC;Saneamento;Secretaria de Saúde;2230802,44;04/11/2024;Custeio;Convênio
-506;Belo Horizonte;SP;Meio Ambiente;Secretaria de Obras;1360955,96;24/08/2024;Investimento;Municipal
-507;Belo Horizonte;MG;Habitação;Secretaria de Obras;339033,74;23/10/2024;Custeio;Convênio
-508;Maceió;MS;Administração;Secretaria de Educação;1894229,15;15/10/2022;Transferência;Estadual
-509;Aparecida de Goiânia;CE;Comunicação;Secretaria de Educação;1841119,92;17/09/2024;Pessoal;Federal
-510;São Luís;ES;Educação;Secretaria de Obras;926740,79;29/03/2022;Investimento;Municipal
-511;Sorocaba;MG;Saúde;Prefeitura Municipal;2451571,51;26/10/2023;Custeio;Municipal
-512;Maringá;TO;Meio Ambiente;Secretaria de Educação;944765,63;15/02/2024;Pessoal;Federal
-513;Recife;PE;Infraestrutura;Câmara Municipal;1017576,30;08/12/2023;Transferência;Convênio
-514;Natal;RN;Segurança Pública;Instituto de Previdência;418186,53;07/06/2022;Pessoal;Estadual
-515;Salvador;BA;Cultura;Secretaria de Saúde;1654468,56;29/04/2024;Pessoal;Federal
-516;Joinville;PR;Infraestrutura;Secretaria de Educação;1619911,79;21/04/2024;Custeio;Estadual
-517;Maceió;AL;Transporte;Secretaria de Educação;341136,50;15/11/2024;Custeio;Estadual
-518;Maceió;AL;Segurança Pública;Câmara Municipal;2395804,65;08/02/2022;Pessoal;Federal
-519;Joinville;DF;Administração;Instituto de Previdência;430564,13;21/04/2024;Investimento;Estadual
-520;Campo Grande;RN;Segurança Pública;Fundo Municipal;2306268,10;21/05/2022;Investimento;Convênio
-521;Belo Horizonte;MG;Saúde;Secretaria de Segurança;1309164,80;29/10/2024;Transferência;Estadual
-522;Natal;RN;Ciência e Tecnologia;Prefeitura Municipal;2194992,83;24/12/2024;Custeio;Federal
-523;Feira de Santana;PR;Administração;Prefeitura Municipal;2242937,54;02/06/2024;Transferência;Municipal
-524;Osasco;AL;Infraestrutura;Instituto de Previdência;1974941,18;20/02/2024;Pessoal;Federal
-525;Belém;PA;Ciência e Tecnologia;Secretaria de Segurança;2275662,96;21/06/2022;Pessoal;Convênio
-526;Goiânia;GO;Saneamento;Prefeitura Municipal;1447077,93;30/08/2022;Custeio;Convênio
-527;Porto Alegre;RS;Habitação;Fundo Municipal;1025068,47;07/08/2022;Investimento;Convênio
-528;Campo Grande;RS;Administração;Câmara Municipal;1061786,06;19/01/2024;Pessoal;Convênio
-529;São Paulo;SP;Meio Ambiente;Câmara Municipal;1208757,05;29/01/2024;Transferência;Municipal
-530;Niterói;MA;Saneamento;Secretaria de Educação;2138222,31;01/09/2022;Investimento;Convênio
-531;Belém;SE;Educação;Secretaria de Segurança;1273317,14;25/11/2023;Custeio;Estadual
-532;São Paulo;MG;Habitação;Secretaria de Saúde;2059022,39;23/08/2024;Transferência;Federal
-533;Macapá;AP;Cultura;Secretaria de Saúde;1524527,01;27/02/2024;Transferência;Municipal
-534;Salvador;RR;Habitação;Secretaria de Educação;1602526,83;18/06/2024;Custeio;Estadual
-535;São José dos Campos;RO;Assistência Social;Secretaria de Segurança;88855,33;11/11/2024;Investimento;Estadual
-536;Porto Velho;RO;Infraestrutura;Prefeitura Municipal;2439236,52;27/06/2022;Pessoal;Convênio
-537;Niterói;MS;Transporte;Secretaria de Segurança;1296768,04;21/05/2022;Custeio;Municipal
-538;Maringá;SC;Cultura;Fundo Municipal;2408402,72;21/07/2023;Investimento;Estadual
-539;Aparecida de Goiânia;PB;Saúde;Secretaria de Obras;441711,79;02/11/2024;Custeio;Federal
-540;Recife;PE;Educação;Câmara Municipal;2391989,83;28/05/2023;Transferência;Convênio
-541;Maceió;RJ;Habitação;Fundo Municipal;2403290,62;28/07/2024;Transferência;Federal
-542;Curitiba;PR;Educação;Autarquia de Trânsito;1585986,18;28/03/2023;Investimento;Municipal
-543;São José dos Campos;PA;Meio Ambiente;Prefeitura Municipal;1753542,29;24/06/2023;Investimento;Municipal
-544;Vitória;AP;Educação;Câmara Municipal;2328833,62;02/09/2024;Pessoal;Municipal
-545;Natal;DF;Segurança Pública;Secretaria de Segurança;1250003,35;13/02/2023;Investimento;Estadual
-546;Goiânia;GO;Infraestrutura;Secretaria de Segurança;2091655,10;31/12/2023;Investimento;Federal
-547;Uberlândia;AM;Transporte;Prefeitura Municipal;1911789,31;28/03/2022;Transferência;Municipal
-548;Aparecida de Goiânia;RN;Administração;Secretaria de Obras;1229559,35;12/11/2024;Pessoal;Convênio
-549;Manaus;ES;Saúde;Câmara Municipal;1999178,44;06/09/2024;Custeio;Municipal
-550;Goiânia;MG;Ciência e Tecnologia;Secretaria de Saúde;1747120,20;31/07/2024;Pessoal;Federal
-551;Porto Velho;AC;Transporte;Secretaria de Saúde;816963,32;16/06/2023;Investimento;Municipal
-552;Vitória;ES;Transporte;Fundo Municipal;917980,76;18/10/2024;Transferência;Estadual
-553;Cuiabá;PA;Cultura;Autarquia de Trânsito;702675,68;04/01/2023;Investimento;Estadual
-554;Palmas;TO;Assistência Social;Secretaria de Segurança;1390573,42;20/02/2024;Investimento;Estadual
-555;Porto Alegre;SE;Ciência e Tecnologia;Prefeitura Municipal;445635,16;20/10/2024;Investimento;Municipal
-556;Campo Grande;SE;Meio Ambiente;Prefeitura Municipal;999012,75;01/12/2022;Custeio;Estadual
-557;Palmas;TO;Administração;Secretaria de Saúde;1127387,77;17/11/2023;Pessoal;Municipal
-558;Campo Grande;MS;Cultura;Prefeitura Municipal;1032343,46;21/12/2023;Investimento;Estadual
-559;São Paulo;SP;Cultura;Câmara Municipal;1221296,89;04/07/2024;Custeio;Convênio
-560;Natal;RN;Comunicação;Secretaria de Educação;2171302,84;22/11/2023;Transferência;Convênio
-561;Macapá;AP;Cultura;Secretaria de Segurança;787137,75;20/08/2023;Pessoal;Convênio
-562;Cuiabá;GO;Saneamento;Câmara Municipal;2413987,45;27/04/2024;Investimento;Estadual
-563;Rio Branco;AC;Infraestrutura;Secretaria de Obras;2351391,16;13/06/2022;Investimento;Estadual
-564;Belo Horizonte;MG;Educação;Instituto de Previdência;1373342,19;23/02/2022;Transferência;Federal
-565;Manaus;AM;Segurança Pública;Secretaria de Saúde;1638807,53;09/03/2024;Pessoal;Estadual
-566;Londrina;ES;Comunicação;Secretaria de Educação;332536,39;16/12/2022;Custeio;Federal
-567;Florianópolis;RO;Administração;Instituto de Previdência;1170647,72;12/07/2023;Transferência;Estadual
-568;Maringá;RR;Transporte;Instituto de Previdência;1579463,57;09/06/2024;Pessoal;Municipal
-569;Brasília;PR;Ciência e Tecnologia;Secretaria de Obras;917629,39;17/06/2023;Investimento;Municipal
-570;Rio Branco;AC;Administração;Secretaria de Educação;862992,87;18/08/2024;Custeio;Convênio
-571;São Paulo;SP;Habitação;Autarquia de Trânsito;1995922,12;19/04/2023;Custeio;Municipal
-572;Juiz de Fora;DF;Esporte e Lazer;Autarquia de Trânsito;628490,81;09/03/2024;Transferência;Estadual
-573;Goiânia;GO;Comunicação;Secretaria de Segurança;1293942,10;11/07/2023;Pessoal;Municipal
-574;Belém;PA;Educação;Secretaria de Educação;345876,96;15/08/2022;Transferência;Convênio
-575;Uberlândia;GO;Infraestrutura;Fundo Municipal;53391,52;12/04/2022;Custeio;Estadual
-576;Manaus;AM;Segurança Pública;Instituto de Previdência;1819132,14;22/04/2023;Custeio;Estadual
-577;Vitória;AC;Esporte e Lazer;Secretaria de Obras;1965384,72;17/10/2024;Pessoal;Convênio
-578;Vitória;RR;Educação;Secretaria de Educação;144815,67;14/03/2024;Custeio;Convênio
-579;Fortaleza;CE;Administração;Secretaria de Obras;2044040,56;26/01/2022;Custeio;Estadual
-580;Londrina;MG;Infraestrutura;Prefeitura Municipal;501953,79;12/07/2022;Investimento;Convênio
-581;Teresina;MG;Cultura;Secretaria de Educação;1574764,81;28/03/2022;Custeio;Municipal
-582;Guarulhos;PR;Cultura;Prefeitura Municipal;2159825,88;23/03/2023;Custeio;Estadual
-583;São Paulo;RS;Segurança Pública;Secretaria de Obras;1463818,67;21/03/2024;Investimento;Federal
-584;Joinville;AL;Saneamento;Secretaria de Educação;931639,66;03/07/2022;Investimento;Estadual
-585;Curitiba;PR;Transporte;Fundo Municipal;2327467,72;03/05/2022;Custeio;Municipal
-586;Porto Alegre;RS;Meio Ambiente;Secretaria de Saúde;318939,51;22/04/2023;Pessoal;Municipal
-587;Guarulhos;SE;Saúde;Autarquia de Trânsito;898627,91;03/10/2022;Pessoal;Federal
-588;Juiz de Fora;PR;Assistência Social;Câmara Municipal;1744109,25;24/01/2023;Investimento;Municipal
-589;Natal;MT;Administração;Câmara Municipal;405056,81;23/12/2024;Investimento;Convênio
-590;Feira de Santana;MA;Cultura;Instituto de Previdência;6795,97;02/11/2024;Transferência;Estadual
-591;Cuiabá;AC;Habitação;Secretaria de Segurança;805131,77;10/05/2022;Transferência;Estadual
-592;Juiz de Fora;PE;Segurança Pública;Secretaria de Obras;809887,10;22/10/2023;Custeio;Federal
-593;Belo Horizonte;PE;Administração;Secretaria de Educação;450703,81;06/03/2022;Investimento;Federal
-594;Curitiba;PR;Saúde;Autarquia de Trânsito;1646513,54;12/12/2024;Pessoal;Federal
-595;Campo Grande;MS;Saneamento;Secretaria de Saúde;37649,84;04/03/2023;Transferência;Federal
-596;Salvador;PB;Cultura;Câmara Municipal;1859976,22;01/05/2024;Pessoal;Federal
-597;São José dos Campos;TO;Saúde;Secretaria de Saúde;2086968,96;09/06/2022;Investimento;Federal
-598;Feira de Santana;AM;Esporte e Lazer;Secretaria de Segurança;486833,02;25/05/2023;Investimento;Convênio
-599;Florianópolis;SC;Comunicação;Fundo Municipal;1687858,95;24/05/2024;Custeio;Estadual
-600;Aracaju;SE;Esporte e Lazer;Câmara Municipal;847094,61;20/11/2022;Transferência;Municipal
+ID;Municipio;UF;Categoria;Orgao;Valor_R$;Data;Tipo_Despesa;Fonte_Recurso
+1;Caxias do Sul;RS;Outras Despesas Correntes;Tribunal de Contas da União;23699142.41;2024-06-26;Restos a Pagar Pagos;Taxas e Multas
+2;São Paulo;SP;Juros e Encargos da Dívida;Ministério da Agricultura;7702621.0;2024-10-19;Despesa Liquidada;Contribuições Sociais
+3;São José dos Campos;SP;Juros e Encargos da Dívida;Ministério das Comunicações;9055713.68;2024-10-01;Restos a Pagar Pagos;Fundo de Participação
+4;São Bernardo do Campo;SP;Amortização da Dívida;Presidência da República;13192741.27;2024-03-03;Despesa Liquidada;Recursos Diretamente Arrecadados
+5;Rio de Janeiro;RJ;Amortização da Dívida;Ministério da Fazenda;894817.73;2024-06-20;Despesa Empenhada;Doações
+6;Anápolis;GO;Juros e Encargos da Dívida;Ministério da Justiça;356542.07;2024-03-16;Restos a Pagar Pagos;Contribuições Sociais
+7;Plano Piloto;DF;Pessoal e Encargos Sociais;Ministério das Comunicações;5178044.4;2024-11-13;Despesa Paga;Doações
+8;Gravataí;RS;Investimentos;Ministério das Comunicações;9145779.89;2024-10-18;Despesa Liquidada;Recursos Diretamente Arrecadados
+9;Macapá;AP;Investimentos;Ministério das Comunicações;3214321.25;2024-06-11;Restos a Pagar Pagos;Doações
+10;São José dos Campos;SP;Investimentos;Ministério da Cultura;12668534.85;2024-02-18;Despesa Liquidada;Recursos Ordinários
+11;Pacaraima;RR;Pessoal e Encargos Sociais;Ministério do Meio Ambiente;19547496.01;2024-08-08;Despesa Empenhada;Taxas e Multas
+12;Manacapuru;AM;Investimentos;Senado Federal;9119590.48;2024-06-15;Restos a Pagar Pagos;Fundo de Participação
+13;Floriano;PI;Pessoal e Encargos Sociais;Tribunal de Contas da União;13010545.51;2024-12-05;Despesa Liquidada;Recursos Ordinários
+14;Paraíso do Tocantins;TO;Investimentos;Ministério do Meio Ambiente;14074439.68;2024-10-23;Despesa Empenhada;Recursos de Concessões
+15;Maringá;PR;Amortização da Dívida;Ministério da Educação;19633226.49;2024-03-04;Restos a Pagar Pagos;Fundo de Participação
+16;Caxias;MA;Amortização da Dívida;Ministério do Meio Ambiente;1144573.03;2024-07-11;Restos a Pagar Pagos;Contribuições Sociais
+17;Arapiraca;AL;Investimentos;Ministério do Esporte;7032018.79;2024-12-02;Despesa Empenhada;Recursos Ordinários
+18;Juazeiro do Norte;CE;Amortização da Dívida;Ministério do Desenvolvimento Social;4423666.73;2024-08-08;Despesa Paga;Contribuições Sociais
+19;Osasco;SP;Outras Despesas Correntes;Presidência da República;2658802.97;2024-09-03;Despesa Paga;Doações
+20;Criciúma;SC;Pessoal e Encargos Sociais;Ministério dos Transportes;16541701.62;2024-11-23;Despesa Liquidada;Contribuições Sociais
+21;Viamão;RS;Inversões Financeiras;Ministério do Meio Ambiente;774455.44;2024-11-24;Restos a Pagar Pagos;Fundo de Participação
+22;Vitória da Conquista;BA;Juros e Encargos da Dívida;Ministério da Agricultura;5990935.97;2024-10-10;Restos a Pagar Pagos;Contribuições Sociais
+23;Petrolina;PE;Investimentos;Ministério da Ciência e Tecnologia;13705820.44;2024-07-24;Restos a Pagar Pagos;Operações de Crédito
+24;Betim;MG;Pessoal e Encargos Sociais;Tribunal de Contas da União;36366943.26;2024-04-02;Despesa Paga;Recursos Diretamente Arrecadados
+25;Águas Lindas de Goiás;GO;Juros e Encargos da Dívida;Ministério da Cultura;3044595.33;2024-02-23;Despesa Empenhada;Recursos de Concessões
+26;Maceió;AL;Juros e Encargos da Dívida;Presidência da República;9473801.93;2024-03-09;Restos a Pagar Pagos;Taxas e Multas
+27;Montes Claros;MG;Outras Despesas Correntes;Ministério do Desenvolvimento Social;15481932.89;2024-08-15;Despesa Empenhada;Fundo de Participação
+28;Caxias;MA;Juros e Encargos da Dívida;Ministério da Agricultura;8779757.36;2024-01-10;Despesa Empenhada;Operações de Crédito
+29;Pelotas;RS;Pessoal e Encargos Sociais;Controladoria-Geral da União;19262656.7;2024-03-01;Despesa Paga;Taxas e Multas
+30;Manacapuru;AM;Juros e Encargos da Dívida;Ministério da Fazenda;341811.34;2024-04-16;Despesa Empenhada;Fundo de Participação
+31;Cabo de Santo Agostinho;PE;Outras Despesas Correntes;Ministério da Agricultura;5813130.42;2024-09-25;Despesa Liquidada;Recursos Ordinários
+32;Oiapoque;AP;Juros e Encargos da Dívida;Ministério da Agricultura;2352083.32;2024-03-10;Despesa Empenhada;Recursos de Concessões
+33;Ariquemes;RO;Amortização da Dívida;Ministério do Trabalho;9198201.08;2024-02-23;Restos a Pagar Pagos;Operações de Crédito
+34;Paço do Lumiar;MA;Outras Despesas Correntes;Ministério do Desenvolvimento Social;20844503.99;2024-01-22;Despesa Empenhada;Fundo de Participação
+35;Viamão;RS;Outras Despesas Correntes;Ministério do Desenvolvimento Social;26417816.58;2024-07-14;Despesa Empenhada;Taxas e Multas
+36;Corumbá;MS;Outras Despesas Correntes;Ministério da Cultura;8552944.36;2024-07-12;Despesa Empenhada;Taxas e Multas
+37;São Gonçalo do Amarante;RN;Amortização da Dívida;Ministério do Meio Ambiente;8987238.06;2024-12-06;Despesa Empenhada;Taxas e Multas
+38;Parintins;AM;Outras Despesas Correntes;Ministério do Desenvolvimento Social;19316155.81;2024-07-22;Despesa Paga;Recursos Ordinários
+39;Ponta Grossa;PR;Investimentos;Ministério da Saúde;1584517.66;2024-07-02;Despesa Empenhada;Contribuições Sociais
+40;São Gonçalo;RJ;Outras Despesas Correntes;Ministério do Meio Ambiente;26525222.82;2024-11-11;Despesa Paga;Operações de Crédito
+41;Petrolina;PE;Pessoal e Encargos Sociais;Ministério das Comunicações;40960603.3;2024-05-10;Despesa Paga;Fundo de Participação
+42;Palmeira dos Índios;AL;Juros e Encargos da Dívida;Ministério da Defesa;5990847.55;2024-11-28;Despesa Liquidada;Recursos Diretamente Arrecadados
+43;Caracaraí;RR;Investimentos;Ministério da Educação;4987217.27;2024-03-02;Despesa Paga;Recursos Diretamente Arrecadados
+44;Campos dos Goytacazes;RJ;Inversões Financeiras;Ministério da Saúde;4065085.58;2024-10-13;Despesa Liquidada;Recursos Ordinários
+45;Fortaleza;CE;Outras Despesas Correntes;Ministério do Esporte;5434074.1;2024-03-26;Despesa Paga;Doações
+46;Gurupi;TO;Pessoal e Encargos Sociais;Ministério da Fazenda;24700288.31;2024-01-16;Despesa Empenhada;Taxas e Multas
+47;Vilhena;RO;Amortização da Dívida;Ministério das Comunicações;5269405.53;2024-06-18;Despesa Paga;Operações de Crédito
+48;Juazeiro;BA;Investimentos;Ministério das Comunicações;14017013.49;2024-09-09;Despesa Empenhada;Doações
+49;Três Lagoas;MS;Pessoal e Encargos Sociais;Ministério da Agricultura;20983598.45;2024-02-24;Despesa Liquidada;Recursos de Concessões
+50;Rio Verde;GO;Inversões Financeiras;Ministério da Fazenda;3063622.33;2024-02-03;Despesa Paga;Recursos Diretamente Arrecadados
+51;Jaraguá do Sul;SC;Amortização da Dívida;Ministério da Ciência e Tecnologia;12279869.52;2024-02-19;Despesa Empenhada;Fundo de Participação
+52;Goiânia;GO;Inversões Financeiras;Presidência da República;1274035.69;2024-11-07;Despesa Paga;Operações de Crédito
+53;Tangará da Serra;MT;Investimentos;Ministério da Educação;14887669.07;2024-11-05;Despesa Liquidada;Taxas e Multas
+54;Belém;PA;Pessoal e Encargos Sociais;Controladoria-Geral da União;28382915.12;2024-10-21;Despesa Liquidada;Fundo de Participação
+55;Aracaju;SE;Amortização da Dívida;Presidência da República;9900838.63;2024-03-20;Despesa Liquidada;Doações
+56;Ananindeua;PA;Outras Despesas Correntes;Ministério da Fazenda;7584033.97;2024-11-03;Despesa Liquidada;Doações
+57;Lauro de Freitas;BA;Outras Despesas Correntes;Ministério da Ciência e Tecnologia;29427084.01;2024-04-19;Restos a Pagar Pagos;Taxas e Multas
+58;Ribeirão Preto;SP;Juros e Encargos da Dívida;Ministério da Educação;334634.68;2024-02-02;Despesa Liquidada;Contribuições Sociais
+59;Belo Horizonte;MG;Investimentos;Ministério dos Transportes;12255975.73;2024-12-07;Despesa Empenhada;Recursos Ordinários
+60;Coari;AM;Investimentos;Ministério dos Transportes;11289062.96;2024-11-09;Restos a Pagar Pagos;Taxas e Multas
+61;Ji-Paraná;RO;Juros e Encargos da Dívida;Presidência da República;3207340.52;2024-04-19;Despesa Paga;Recursos de Concessões
+62;Ponta Grossa;PR;Outras Despesas Correntes;Ministério da Cultura;4629902.68;2024-09-20;Despesa Empenhada;Recursos Ordinários
+63;Duque de Caxias;RJ;Pessoal e Encargos Sociais;Controladoria-Geral da União;41194398.68;2024-06-17;Restos a Pagar Pagos;Fundo de Participação
+64;Floriano;PI;Juros e Encargos da Dívida;Ministério das Comunicações;9961775.26;2024-08-12;Despesa Liquidada;Recursos de Concessões
+65;Parauapebas;PA;Inversões Financeiras;Ministério da Agricultura;3700484.17;2024-04-15;Despesa Paga;Fundo de Participação
+66;Nossa Senhora do Socorro;SE;Outras Despesas Correntes;Ministério do Esporte;2786573.99;2024-04-12;Restos a Pagar Pagos;Doações
+67;Itacoatiara;AM;Investimentos;Ministério da Defesa;14235673.57;2024-06-20;Despesa Paga;Contribuições Sociais
+68;Novo Hamburgo;RS;Pessoal e Encargos Sociais;Ministério da Cultura;25340244.22;2024-12-05;Despesa Liquidada;Fundo de Participação
+69;Gravataí;RS;Inversões Financeiras;Ministério dos Transportes;1806442.64;2024-08-15;Restos a Pagar Pagos;Recursos Ordinários
+70;Londrina;PR;Amortização da Dívida;Presidência da República;3067975.4;2024-02-25;Despesa Empenhada;Contribuições Sociais
+71;Taguatinga;DF;Investimentos;Senado Federal;11410163.39;2024-08-22;Despesa Paga;Operações de Crédito
+72;Paraíso do Tocantins;TO;Investimentos;Ministério da Saúde;8387770.53;2024-04-04;Despesa Empenhada;Operações de Crédito
+73;Betim;MG;Investimentos;Ministério do Esporte;2280803.24;2024-07-06;Restos a Pagar Pagos;Taxas e Multas
+74;Joinville;SC;Inversões Financeiras;Ministério da Justiça;4520321.58;2024-08-28;Despesa Empenhada;Recursos de Concessões
+75;Nova Iguaçu;RJ;Inversões Financeiras;Ministério da Defesa;1414772.05;2024-08-13;Restos a Pagar Pagos;Recursos Ordinários
+76;Bayeux;PB;Amortização da Dívida;Tribunal de Contas da União;13901851.93;2024-10-26;Despesa Paga;Taxas e Multas
+77;Macapá;AP;Juros e Encargos da Dívida;Ministério da Defesa;7834207.19;2024-11-02;Despesa Empenhada;Taxas e Multas
+78;Natal;RN;Investimentos;Ministério do Meio Ambiente;7769758.14;2024-06-27;Despesa Paga;Fundo de Participação
+79;São José de Ribamar;MA;Inversões Financeiras;Presidência da República;860855.19;2024-11-24;Restos a Pagar Pagos;Recursos de Concessões
+80;Criciúma;SC;Investimentos;Ministério das Comunicações;6790743.53;2024-03-15;Despesa Liquidada;Fundo de Participação
+81;Paulista;PE;Amortização da Dívida;Ministério do Meio Ambiente;13586135.4;2024-05-21;Restos a Pagar Pagos;Recursos Ordinários
+82;Santo André;SP;Amortização da Dívida;Câmara dos Deputados;15013563.06;2024-12-26;Despesa Paga;Recursos Ordinários
+83;Montes Claros;MG;Outras Despesas Correntes;Ministério da Ciência e Tecnologia;11247006.66;2024-07-02;Despesa Liquidada;Recursos de Concessões
+84;Itajaí;SC;Pessoal e Encargos Sociais;Ministério da Educação;5889938.46;2024-03-06;Despesa Paga;Recursos de Concessões
+85;Cascavel;PR;Amortização da Dívida;Ministério do Turismo;2369064.83;2024-11-08;Despesa Empenhada;Operações de Crédito
+86;Várzea Grande;MT;Pessoal e Encargos Sociais;Ministério da Ciência e Tecnologia;10686331.73;2024-12-26;Despesa Empenhada;Contribuições Sociais
+87;Brasília;DF;Outras Despesas Correntes;Ministério da Ciência e Tecnologia;23067015.91;2024-05-10;Despesa Paga;Contribuições Sociais
+88;Gravataí;RS;Amortização da Dívida;Ministério dos Transportes;18390330.45;2024-09-18;Despesa Liquidada;Contribuições Sociais
+89;Laranjal do Jari;AP;Investimentos;Ministério do Trabalho;11020239.8;2024-11-09;Restos a Pagar Pagos;Fundo de Participação
+90;João Pessoa;PB;Amortização da Dívida;Câmara dos Deputados;902563.18;2024-06-05;Despesa Empenhada;Taxas e Multas
+91;Niterói;RJ;Amortização da Dívida;Senado Federal;17059797.44;2024-09-15;Despesa Empenhada;Doações
+92;Santo André;SP;Amortização da Dívida;Ministério da Defesa;13713072.98;2024-09-26;Despesa Paga;Recursos Ordinários
+93;Vila Velha;ES;Outras Despesas Correntes;Ministério da Defesa;22940881.54;2024-05-15;Despesa Liquidada;Recursos Diretamente Arrecadados
+94;Parauapebas;PA;Pessoal e Encargos Sociais;Ministério do Meio Ambiente;27306487.4;2024-11-27;Despesa Empenhada;Operações de Crédito
+95;Santo André;SP;Inversões Financeiras;Ministério do Desenvolvimento Social;176974.76;2024-01-19;Restos a Pagar Pagos;Operações de Crédito
+96;Plano Piloto;DF;Amortização da Dívida;Ministério da Defesa;10140525.13;2024-03-02;Despesa Liquidada;Fundo de Participação
+97;Duque de Caxias;RJ;Outras Despesas Correntes;Ministério da Cultura;27494786.42;2024-02-13;Despesa Paga;Doações
+98;Manacapuru;AM;Juros e Encargos da Dívida;Ministério da Fazenda;6594974.31;2024-01-25;Despesa Empenhada;Recursos Diretamente Arrecadados
+99;Caruaru;PE;Amortização da Dívida;Câmara dos Deputados;11792764.15;2024-07-04;Restos a Pagar Pagos;Recursos de Concessões
+100;Penedo;AL;Inversões Financeiras;Ministério dos Transportes;670958.29;2024-06-03;Despesa Liquidada;Operações de Crédito
+101;Palmas;TO;Investimentos;Ministério da Educação;9502474.27;2024-11-03;Despesa Paga;Operações de Crédito
+102;São José;SC;Inversões Financeiras;Ministério da Cultura;2585472.15;2024-11-02;Despesa Liquidada;Doações
+103;Foz do Iguaçu;PR;Amortização da Dívida;Senado Federal;2552061.89;2024-08-15;Despesa Liquidada;Fundo de Participação
+104;Porto Alegre;RS;Juros e Encargos da Dívida;Ministério da Educação;7472773.33;2024-09-17;Despesa Empenhada;Doações
+105;Porto Nacional;TO;Outras Despesas Correntes;Ministério da Justiça;29280427.43;2024-10-18;Despesa Liquidada;Operações de Crédito
+106;Santarém;PA;Pessoal e Encargos Sociais;Ministério da Cultura;25577224.91;2024-11-23;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+107;Guarulhos;SP;Outras Despesas Correntes;Presidência da República;19420675.64;2024-01-03;Despesa Liquidada;Recursos de Concessões
+108;Ribeirão das Neves;MG;Inversões Financeiras;Ministério da Educação;2624482.63;2024-02-27;Despesa Empenhada;Recursos Ordinários
+109;Aparecida de Goiânia;GO;Amortização da Dívida;Ministério da Educação;1593319.18;2024-11-13;Despesa Paga;Recursos de Concessões
+110;Brasília;DF;Pessoal e Encargos Sociais;Ministério do Meio Ambiente;20065538.11;2024-10-02;Despesa Empenhada;Taxas e Multas
+111;Belo Horizonte;MG;Juros e Encargos da Dívida;Câmara dos Deputados;8744037.08;2024-02-17;Restos a Pagar Pagos;Operações de Crédito
+112;Linhares;ES;Pessoal e Encargos Sociais;Ministério do Desenvolvimento Social;27527680.39;2024-11-06;Restos a Pagar Pagos;Fundo de Participação
+113;Rio de Janeiro;RJ;Amortização da Dívida;Controladoria-Geral da União;2475140.84;2024-01-14;Despesa Paga;Doações
+114;Taguatinga;DF;Juros e Encargos da Dívida;Ministério do Turismo;776033.96;2024-08-21;Despesa Paga;Doações
+115;Uberaba;MG;Outras Despesas Correntes;Ministério da Educação;18611490.03;2024-11-20;Restos a Pagar Pagos;Fundo de Participação
+116;São Gonçalo;RJ;Outras Despesas Correntes;Ministério da Ciência e Tecnologia;28519186.64;2024-10-17;Restos a Pagar Pagos;Recursos Ordinários
+117;Parnaíba;PI;Amortização da Dívida;Senado Federal;11648230.86;2024-10-03;Restos a Pagar Pagos;Taxas e Multas
+118;Santa Maria;RS;Amortização da Dívida;Ministério da Defesa;16705684.31;2024-02-07;Despesa Empenhada;Contribuições Sociais
+119;Santo André;SP;Pessoal e Encargos Sociais;Senado Federal;24335878.98;2024-12-03;Despesa Liquidada;Doações
+120;Codó;MA;Inversões Financeiras;Ministério da Cultura;4136679.23;2024-09-11;Despesa Empenhada;Recursos Diretamente Arrecadados
+121;Lagarto;SE;Outras Despesas Correntes;Presidência da República;22026743.79;2024-09-10;Despesa Paga;Recursos de Concessões
+122;São Bernardo do Campo;SP;Inversões Financeiras;Ministério do Turismo;1929726.44;2024-04-06;Restos a Pagar Pagos;Recursos Ordinários
+123;Parintins;AM;Pessoal e Encargos Sociais;Ministério dos Transportes;9339106.9;2024-05-02;Despesa Empenhada;Recursos Diretamente Arrecadados
+124;Tangará da Serra;MT;Juros e Encargos da Dívida;Ministério das Comunicações;8301969.85;2024-11-13;Restos a Pagar Pagos;Recursos de Concessões
+125;Bayeux;PB;Inversões Financeiras;Ministério do Meio Ambiente;109440.67;2024-08-01;Despesa Paga;Taxas e Multas
+126;Sorriso;MT;Amortização da Dívida;Ministério da Educação;1014264.22;2024-11-26;Restos a Pagar Pagos;Recursos Ordinários
+127;Três Lagoas;MS;Outras Despesas Correntes;Ministério da Justiça;2927308.78;2024-05-15;Despesa Paga;Doações
+128;Manacapuru;AM;Inversões Financeiras;Ministério da Agricultura;2036315.09;2024-01-10;Despesa Paga;Taxas e Multas
+129;Várzea Grande;MT;Inversões Financeiras;Ministério do Trabalho;1835307.22;2024-04-15;Despesa Empenhada;Doações
+130;Aracaju;SE;Investimentos;Senado Federal;9259100.48;2024-01-27;Despesa Liquidada;Taxas e Multas
+131;Floriano;PI;Amortização da Dívida;Ministério dos Transportes;15447868.3;2024-10-02;Despesa Empenhada;Contribuições Sociais
+132;Cabo de Santo Agostinho;PE;Outras Despesas Correntes;Ministério da Justiça;14555804.88;2024-06-09;Despesa Paga;Doações
+133;Belo Horizonte;MG;Outras Despesas Correntes;Ministério do Desenvolvimento Social;18515838.35;2024-04-05;Restos a Pagar Pagos;Recursos de Concessões
+134;Duque de Caxias;RJ;Juros e Encargos da Dívida;Tribunal de Contas da União;5378737.64;2024-11-03;Despesa Liquidada;Taxas e Multas
+135;Olinda;PE;Inversões Financeiras;Ministério da Cultura;932557.29;2024-07-12;Despesa Liquidada;Fundo de Participação
+136;Aracaju;SE;Outras Despesas Correntes;Ministério das Comunicações;27683937.0;2024-08-16;Despesa Empenhada;Recursos de Concessões
+137;Salvador;BA;Pessoal e Encargos Sociais;Ministério dos Transportes;47082648.04;2024-08-04;Despesa Empenhada;Recursos Diretamente Arrecadados
+138;Londrina;PR;Amortização da Dívida;Ministério da Justiça;1990469.56;2024-01-01;Despesa Liquidada;Recursos de Concessões
+139;Florianópolis;SC;Amortização da Dívida;Ministério da Educação;4936661.37;2024-10-05;Despesa Paga;Recursos Ordinários
+140;Caxias;MA;Investimentos;Ministério da Ciência e Tecnologia;11350870.34;2024-05-11;Despesa Paga;Recursos Ordinários
+141;Porto Alegre;RS;Outras Despesas Correntes;Ministério da Defesa;7611923.24;2024-08-03;Despesa Paga;Recursos Ordinários
+142;Bayeux;PB;Inversões Financeiras;Ministério da Fazenda;3874088.83;2024-09-28;Despesa Paga;Contribuições Sociais
+143;Cabo de Santo Agostinho;PE;Outras Despesas Correntes;Câmara dos Deputados;24191549.96;2024-05-23;Despesa Paga;Recursos Diretamente Arrecadados
+144;Petrolina;PE;Outras Despesas Correntes;Ministério dos Transportes;21918222.52;2024-10-21;Despesa Empenhada;Taxas e Multas
+145;São Paulo;SP;Investimentos;Ministério do Trabalho;10509238.59;2024-11-11;Despesa Paga;Fundo de Participação
+146;Cascavel;PR;Outras Despesas Correntes;Câmara dos Deputados;6038459.72;2024-02-28;Restos a Pagar Pagos;Taxas e Multas
+147;Caruaru;PE;Pessoal e Encargos Sociais;Ministério do Trabalho;14133000.03;2024-03-20;Restos a Pagar Pagos;Recursos Ordinários
+148;Maracanaú;CE;Amortização da Dívida;Ministério da Saúde;2722884.27;2024-06-26;Despesa Liquidada;Operações de Crédito
+149;Lauro de Freitas;BA;Outras Despesas Correntes;Senado Federal;17481716.84;2024-11-16;Despesa Liquidada;Fundo de Participação
+150;São Gonçalo do Amarante;RN;Inversões Financeiras;Ministério da Cultura;3932544.8;2024-09-20;Despesa Empenhada;Recursos de Concessões
+151;Uberlândia;MG;Pessoal e Encargos Sociais;Ministério da Saúde;48935288.79;2024-08-22;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+152;Campina Grande;PB;Juros e Encargos da Dívida;Ministério da Ciência e Tecnologia;8254366.81;2024-06-22;Despesa Empenhada;Doações
+153;Vilhena;RO;Outras Despesas Correntes;Ministério dos Transportes;16951725.87;2024-10-02;Restos a Pagar Pagos;Contribuições Sociais
+154;Macaíba;RN;Outras Despesas Correntes;Ministério da Cultura;12282438.81;2024-04-17;Despesa Empenhada;Contribuições Sociais
+155;Petrolina;PE;Amortização da Dívida;Ministério da Justiça;19452683.19;2024-04-05;Despesa Paga;Fundo de Participação
+156;Ariquemes;RO;Amortização da Dívida;Ministério da Saúde;335217.57;2024-04-13;Despesa Empenhada;Operações de Crédito
+157;Timon;MA;Juros e Encargos da Dívida;Tribunal de Contas da União;3317990.39;2024-11-16;Restos a Pagar Pagos;Operações de Crédito
+158;Rorainópolis;RR;Inversões Financeiras;Ministério do Meio Ambiente;4025491.75;2024-08-10;Despesa Paga;Recursos Diretamente Arrecadados
+159;Paço do Lumiar;MA;Outras Despesas Correntes;Ministério da Cultura;7218533.33;2024-05-11;Despesa Paga;Recursos Ordinários
+160;Tefé;AM;Inversões Financeiras;Ministério da Defesa;700486.57;2024-04-13;Despesa Liquidada;Taxas e Multas
+161;Gravataí;RS;Pessoal e Encargos Sociais;Ministério do Turismo;18104959.79;2024-03-09;Despesa Paga;Taxas e Multas
+162;Patos;PB;Investimentos;Controladoria-Geral da União;5393621.75;2024-10-08;Despesa Liquidada;Contribuições Sociais
+163;Itajaí;SC;Inversões Financeiras;Ministério dos Transportes;70916.75;2024-08-28;Restos a Pagar Pagos;Recursos Ordinários
+164;Mossoró;RN;Inversões Financeiras;Ministério da Educação;4455080.38;2024-03-02;Despesa Liquidada;Doações
+165;Florianópolis;SC;Pessoal e Encargos Sociais;Ministério do Meio Ambiente;10384418.07;2024-06-05;Despesa Empenhada;Contribuições Sociais
+166;Juazeiro do Norte;CE;Juros e Encargos da Dívida;Ministério da Educação;9467989.18;2024-05-16;Despesa Empenhada;Contribuições Sociais
+167;Paulista;PE;Outras Despesas Correntes;Ministério do Turismo;15252765.97;2024-11-04;Despesa Empenhada;Taxas e Multas
+168;Sinop;MT;Inversões Financeiras;Ministério da Fazenda;3926398.06;2024-04-26;Despesa Empenhada;Operações de Crédito
+169;Itacoatiara;AM;Amortização da Dívida;Ministério da Agricultura;11132808.31;2024-04-14;Restos a Pagar Pagos;Recursos de Concessões
+170;Lauro de Freitas;BA;Amortização da Dívida;Ministério da Fazenda;9957040.13;2024-01-05;Despesa Paga;Contribuições Sociais
+171;Aracaju;SE;Outras Despesas Correntes;Controladoria-Geral da União;16589809.26;2024-01-04;Despesa Paga;Operações de Crédito
+172;Campo Grande;MS;Investimentos;Ministério da Cultura;5688685.05;2024-08-02;Despesa Empenhada;Recursos de Concessões
+173;Goiânia;GO;Inversões Financeiras;Ministério dos Transportes;4007728.96;2024-12-14;Despesa Empenhada;Recursos Diretamente Arrecadados
+174;Mossoró;RN;Investimentos;Ministério da Cultura;2026587.32;2024-01-07;Restos a Pagar Pagos;Recursos de Concessões
+175;Cabedelo;PB;Inversões Financeiras;Ministério do Trabalho;1898136.7;2024-12-23;Despesa Paga;Recursos de Concessões
+176;Uberaba;MG;Outras Despesas Correntes;Ministério da Cultura;2554773.47;2024-07-15;Despesa Liquidada;Taxas e Multas
+177;Samambaia;DF;Investimentos;Senado Federal;8337029.75;2024-12-02;Restos a Pagar Pagos;Taxas e Multas
+178;São Luís;MA;Investimentos;Controladoria-Geral da União;7028886.01;2024-05-16;Despesa Empenhada;Contribuições Sociais
+179;Parnamirim;RN;Investimentos;Ministério do Desenvolvimento Social;13128623.3;2024-12-17;Restos a Pagar Pagos;Taxas e Multas
+180;Manaus;AM;Pessoal e Encargos Sociais;Ministério da Defesa;31897080.14;2024-05-02;Despesa Empenhada;Operações de Crédito
+181;Porto Nacional;TO;Pessoal e Encargos Sociais;Presidência da República;4495769.08;2024-01-06;Despesa Empenhada;Doações
+182;Anápolis;GO;Outras Despesas Correntes;Ministério dos Transportes;21180326.77;2024-04-20;Despesa Paga;Fundo de Participação
+183;Águas Lindas de Goiás;GO;Juros e Encargos da Dívida;Ministério do Trabalho;8153430.68;2024-10-24;Despesa Paga;Taxas e Multas
+184;Montes Claros;MG;Inversões Financeiras;Ministério das Comunicações;3879814.27;2024-07-15;Despesa Paga;Doações
+185;Itabaiana;SE;Amortização da Dívida;Controladoria-Geral da União;2405136.14;2024-05-02;Despesa Empenhada;Operações de Crédito
+186;Recife;PE;Outras Despesas Correntes;Ministério do Meio Ambiente;3058294.46;2024-07-19;Restos a Pagar Pagos;Recursos de Concessões
+187;São Bernardo do Campo;SP;Outras Despesas Correntes;Ministério da Fazenda;4201467.95;2024-02-21;Despesa Empenhada;Recursos de Concessões
+188;Paraíso do Tocantins;TO;Amortização da Dívida;Presidência da República;13877930.78;2024-04-05;Despesa Paga;Fundo de Participação
+189;Teresina;PI;Amortização da Dívida;Ministério do Meio Ambiente;13757730.41;2024-11-26;Restos a Pagar Pagos;Operações de Crédito
+190;Novo Hamburgo;RS;Amortização da Dívida;Ministério do Esporte;8528457.99;2024-06-07;Despesa Paga;Operações de Crédito
+191;Rio Largo;AL;Pessoal e Encargos Sociais;Ministério do Turismo;40497101.11;2024-09-04;Despesa Empenhada;Recursos Ordinários
+192;Rio Largo;AL;Amortização da Dívida;Ministério das Comunicações;16031790.97;2024-02-08;Despesa Liquidada;Taxas e Multas
+193;Vilhena;RO;Outras Despesas Correntes;Ministério do Meio Ambiente;16749133.41;2024-07-07;Despesa Liquidada;Recursos de Concessões
+194;Itapipoca;CE;Juros e Encargos da Dívida;Ministério da Fazenda;5706578.84;2024-07-03;Despesa Liquidada;Recursos Ordinários
+195;Caxias;MA;Outras Despesas Correntes;Presidência da República;6576806.88;2024-09-09;Despesa Paga;Recursos de Concessões
+196;Boa Vista;RR;Pessoal e Encargos Sociais;Ministério do Desenvolvimento Social;43088256.46;2024-06-28;Restos a Pagar Pagos;Fundo de Participação
+197;Ji-Paraná;RO;Amortização da Dívida;Ministério da Ciência e Tecnologia;10030086.87;2024-04-08;Despesa Liquidada;Doações
+198;Cabo de Santo Agostinho;PE;Outras Despesas Correntes;Ministério dos Transportes;27225964.56;2024-07-13;Despesa Empenhada;Taxas e Multas
+199;Duque de Caxias;RJ;Outras Despesas Correntes;Ministério do Esporte;11763371.59;2024-11-13;Restos a Pagar Pagos;Operações de Crédito
+200;Salvador;BA;Pessoal e Encargos Sociais;Senado Federal;14574796.69;2024-08-15;Despesa Paga;Recursos de Concessões
+201;Anápolis;GO;Juros e Encargos da Dívida;Ministério da Justiça;1443711.34;2024-02-15;Despesa Liquidada;Fundo de Participação
+202;Tefé;AM;Investimentos;Ministério da Defesa;10717495.7;2024-04-09;Despesa Paga;Operações de Crédito
+203;Rorainópolis;RR;Pessoal e Encargos Sociais;Ministério do Esporte;39999256.42;2024-10-08;Despesa Empenhada;Operações de Crédito
+204;Natal;RN;Amortização da Dívida;Ministério do Esporte;546676.16;2024-01-05;Despesa Liquidada;Recursos de Concessões
+205;Macapá;AP;Amortização da Dívida;Tribunal de Contas da União;16017376.6;2024-04-16;Despesa Liquidada;Doações
+206;Novo Hamburgo;RS;Inversões Financeiras;Ministério da Ciência e Tecnologia;2444426.89;2024-11-19;Despesa Liquidada;Taxas e Multas
+207;Caracaraí;RR;Juros e Encargos da Dívida;Controladoria-Geral da União;7668929.11;2024-10-26;Despesa Paga;Doações
+208;Uberlândia;MG;Amortização da Dívida;Ministério do Desenvolvimento Social;2460800.03;2024-09-13;Despesa Liquidada;Taxas e Multas
+209;Dourados;MS;Investimentos;Ministério da Fazenda;11867946.37;2024-12-24;Despesa Empenhada;Operações de Crédito
+210;Olinda;PE;Inversões Financeiras;Ministério da Educação;4205577.86;2024-09-14;Restos a Pagar Pagos;Taxas e Multas
+211;Caruaru;PE;Inversões Financeiras;Ministério da Cultura;2764750.42;2024-05-17;Restos a Pagar Pagos;Recursos Ordinários
+212;Rio Branco;AC;Juros e Encargos da Dívida;Ministério do Meio Ambiente;5103017.35;2024-01-18;Despesa Liquidada;Recursos Diretamente Arrecadados
+213;Oiapoque;AP;Juros e Encargos da Dívida;Ministério da Defesa;2489424.9;2024-07-16;Despesa Liquidada;Fundo de Participação
+214;Ribeirão das Neves;MG;Inversões Financeiras;Ministério das Comunicações;1294060.52;2024-08-24;Restos a Pagar Pagos;Fundo de Participação
+215;Belém;PA;Outras Despesas Correntes;Ministério da Ciência e Tecnologia;18916785.14;2024-03-14;Restos a Pagar Pagos;Taxas e Multas
+216;São José de Ribamar;MA;Outras Despesas Correntes;Ministério das Comunicações;20279430.5;2024-07-19;Despesa Paga;Recursos Ordinários
+217;Taguatinga;DF;Inversões Financeiras;Ministério da Fazenda;3803474.32;2024-11-03;Despesa Liquidada;Fundo de Participação
+218;Rio Branco;AC;Pessoal e Encargos Sociais;Ministério do Desenvolvimento Social;42450971.13;2024-10-09;Despesa Empenhada;Fundo de Participação
+219;Parintins;AM;Investimentos;Câmara dos Deputados;11254690.29;2024-04-28;Despesa Liquidada;Recursos de Concessões
+220;São José de Ribamar;MA;Investimentos;Ministério das Comunicações;6310765.46;2024-07-23;Despesa Liquidada;Recursos Diretamente Arrecadados
+221;Criciúma;SC;Juros e Encargos da Dívida;Ministério do Trabalho;7714652.29;2024-01-14;Despesa Paga;Doações
+222;São Paulo;SP;Juros e Encargos da Dívida;Ministério da Defesa;8147225.08;2024-12-15;Despesa Empenhada;Fundo de Participação
+223;Tangará da Serra;MT;Inversões Financeiras;Ministério dos Transportes;3142785.98;2024-07-15;Despesa Empenhada;Contribuições Sociais
+224;Laranjal do Jari;AP;Investimentos;Senado Federal;4062513.29;2024-04-27;Despesa Empenhada;Doações
+225;Londrina;PR;Outras Despesas Correntes;Ministério do Desenvolvimento Social;26856923.0;2024-10-09;Despesa Empenhada;Operações de Crédito
+226;Ceilândia;DF;Outras Despesas Correntes;Ministério do Trabalho;24079400.2;2024-10-15;Despesa Paga;Contribuições Sociais
+227;Cariacica;ES;Outras Despesas Correntes;Presidência da República;20942945.26;2024-03-25;Restos a Pagar Pagos;Fundo de Participação
+228;Colombo;PR;Amortização da Dívida;Ministério da Educação;4078058.1;2024-03-10;Despesa Paga;Recursos de Concessões
+229;Ribeirão Preto;SP;Outras Despesas Correntes;Ministério da Justiça;7809248.78;2024-10-13;Restos a Pagar Pagos;Taxas e Multas
+230;São José dos Pinhais;PR;Inversões Financeiras;Ministério da Agricultura;3467751.02;2024-01-13;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+231;Belo Horizonte;MG;Investimentos;Senado Federal;913164.87;2024-08-22;Despesa Paga;Recursos Ordinários
+232;Criciúma;SC;Pessoal e Encargos Sociais;Ministério da Justiça;35458222.14;2024-11-12;Despesa Empenhada;Recursos Diretamente Arrecadados
+233;Arapiraca;AL;Inversões Financeiras;Ministério do Turismo;613810.94;2024-04-03;Despesa Paga;Recursos Ordinários
+234;Macapá;AP;Investimentos;Ministério da Fazenda;14711793.56;2024-09-01;Restos a Pagar Pagos;Recursos Ordinários
+235;Cruzeiro do Sul;AC;Inversões Financeiras;Ministério do Meio Ambiente;825378.44;2024-07-09;Despesa Liquidada;Operações de Crédito
+236;Corumbá;MS;Investimentos;Ministério do Trabalho;2125658.88;2024-05-09;Restos a Pagar Pagos;Recursos de Concessões
+237;Águas Lindas de Goiás;GO;Amortização da Dívida;Ministério das Comunicações;14710575.12;2024-06-13;Despesa Liquidada;Operações de Crédito
+238;Campinas;SP;Inversões Financeiras;Ministério da Saúde;3061338.87;2024-09-13;Despesa Liquidada;Doações
+239;Santarém;PA;Amortização da Dívida;Ministério da Cultura;1740313.46;2024-09-18;Despesa Liquidada;Doações
+240;Olinda;PE;Investimentos;Ministério da Agricultura;1230377.99;2024-12-02;Despesa Liquidada;Contribuições Sociais
+241;Castanhal;PA;Inversões Financeiras;Ministério do Desenvolvimento Social;286641.16;2024-10-06;Despesa Paga;Recursos de Concessões
+242;Feira de Santana;BA;Amortização da Dívida;Ministério do Meio Ambiente;18485829.79;2024-11-19;Despesa Liquidada;Recursos Diretamente Arrecadados
+243;Uberlândia;MG;Juros e Encargos da Dívida;Ministério do Meio Ambiente;4660190.26;2024-03-09;Despesa Liquidada;Contribuições Sociais
+244;Uberaba;MG;Inversões Financeiras;Ministério da Agricultura;95541.56;2024-12-22;Restos a Pagar Pagos;Recursos de Concessões
+245;Caxias;MA;Investimentos;Ministério do Trabalho;14012143.03;2024-01-27;Restos a Pagar Pagos;Fundo de Participação
+246;Arapiraca;AL;Investimentos;Ministério do Esporte;2896628.22;2024-02-22;Restos a Pagar Pagos;Operações de Crédito
+247;Parintins;AM;Investimentos;Ministério da Saúde;2731441.92;2024-06-26;Restos a Pagar Pagos;Taxas e Multas
+248;Santa Rita;PB;Juros e Encargos da Dívida;Ministério do Trabalho;2822319.51;2024-08-05;Despesa Empenhada;Taxas e Multas
+249;Parauapebas;PA;Pessoal e Encargos Sociais;Ministério da Cultura;42525796.4;2024-12-10;Despesa Empenhada;Taxas e Multas
+250;Nova Iguaçu;RJ;Investimentos;Ministério da Justiça;8045773.83;2024-11-24;Despesa Empenhada;Recursos Ordinários
+251;Imperatriz;MA;Inversões Financeiras;Ministério da Agricultura;376923.43;2024-09-15;Despesa Paga;Contribuições Sociais
+252;Itapipoca;CE;Investimentos;Ministério do Esporte;7310642.49;2024-08-14;Despesa Paga;Taxas e Multas
+253;Marabá;PA;Amortização da Dívida;Ministério do Trabalho;2476915.84;2024-12-05;Despesa Empenhada;Recursos de Concessões
+254;Tefé;AM;Investimentos;Ministério da Saúde;14143987.78;2024-05-25;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+255;Timon;MA;Investimentos;Ministério do Desenvolvimento Social;8429289.47;2024-12-09;Despesa Paga;Contribuições Sociais
+256;Betim;MG;Inversões Financeiras;Ministério do Esporte;4839253.08;2024-09-17;Despesa Liquidada;Recursos Diretamente Arrecadados
+257;Paraíso do Tocantins;TO;Inversões Financeiras;Controladoria-Geral da União;1104187.91;2024-11-22;Despesa Liquidada;Doações
+258;Cascavel;PR;Inversões Financeiras;Ministério da Agricultura;4451653.39;2024-09-07;Restos a Pagar Pagos;Operações de Crédito
+259;Cachoeiro de Itapemirim;ES;Pessoal e Encargos Sociais;Presidência da República;30038582.62;2024-01-21;Despesa Liquidada;Recursos de Concessões
+260;Rio Verde;GO;Amortização da Dívida;Presidência da República;10561343.53;2024-07-27;Despesa Empenhada;Recursos de Concessões
+261;Taguatinga;DF;Inversões Financeiras;Ministério da Educação;1766191.69;2024-02-10;Restos a Pagar Pagos;Fundo de Participação
+262;Boa Vista;RR;Inversões Financeiras;Ministério da Fazenda;430713.22;2024-07-10;Despesa Liquidada;Taxas e Multas
+263;Ponta Grossa;PR;Inversões Financeiras;Ministério do Turismo;449219.11;2024-08-15;Despesa Paga;Contribuições Sociais
+264;Caracaraí;RR;Juros e Encargos da Dívida;Ministério da Agricultura;1192527.87;2024-08-20;Restos a Pagar Pagos;Doações
+265;Vila Velha;ES;Amortização da Dívida;Ministério do Turismo;4756658.59;2024-04-10;Restos a Pagar Pagos;Taxas e Multas
+266;Chapecó;SC;Investimentos;Presidência da República;2105815.2;2024-04-08;Despesa Empenhada;Recursos Diretamente Arrecadados
+267;Caxias;MA;Pessoal e Encargos Sociais;Senado Federal;11994899.86;2024-12-24;Despesa Empenhada;Recursos de Concessões
+268;Pelotas;RS;Inversões Financeiras;Presidência da República;3831013.14;2024-03-20;Despesa Paga;Operações de Crédito
+269;Viamão;RS;Inversões Financeiras;Senado Federal;2528599.44;2024-04-14;Despesa Paga;Recursos Diretamente Arrecadados
+270;Osasco;SP;Inversões Financeiras;Ministério do Desenvolvimento Social;281085.67;2024-05-25;Despesa Empenhada;Recursos Ordinários
+271;Uberlândia;MG;Investimentos;Ministério do Turismo;13050823.27;2024-07-13;Despesa Empenhada;Recursos de Concessões
+272;Tangará da Serra;MT;Pessoal e Encargos Sociais;Tribunal de Contas da União;20186935.48;2024-07-27;Despesa Liquidada;Fundo de Participação
+273;Imperatriz;MA;Outras Despesas Correntes;Câmara dos Deputados;9692194.95;2024-07-20;Despesa Paga;Operações de Crédito
+274;Sorriso;MT;Pessoal e Encargos Sociais;Ministério do Desenvolvimento Social;33393186.16;2024-11-06;Despesa Empenhada;Recursos Diretamente Arrecadados
+275;Rio Branco;AC;Inversões Financeiras;Ministério da Ciência e Tecnologia;3525813.46;2024-01-22;Despesa Liquidada;Doações
+276;Fortaleza;CE;Outras Despesas Correntes;Ministério do Meio Ambiente;18290536.95;2024-06-08;Despesa Liquidada;Doações
+277;Olinda;PE;Pessoal e Encargos Sociais;Ministério dos Transportes;22267150.93;2024-05-08;Despesa Paga;Recursos Ordinários
+278;Itabaiana;SE;Outras Despesas Correntes;Ministério dos Transportes;16061819.01;2024-08-22;Despesa Empenhada;Doações
+279;Sorocaba;SP;Amortização da Dívida;Ministério da Cultura;9544332.66;2024-03-17;Restos a Pagar Pagos;Recursos Ordinários
+280;São José dos Pinhais;PR;Amortização da Dívida;Ministério das Comunicações;19320080.95;2024-01-01;Despesa Paga;Taxas e Multas
+281;Caracaraí;RR;Investimentos;Ministério da Ciência e Tecnologia;5161597.17;2024-05-26;Restos a Pagar Pagos;Operações de Crédito
+282;Cabo de Santo Agostinho;PE;Pessoal e Encargos Sociais;Presidência da República;45620014.18;2024-11-06;Despesa Empenhada;Taxas e Multas
+283;Caxias;MA;Pessoal e Encargos Sociais;Câmara dos Deputados;37174103.35;2024-04-08;Despesa Empenhada;Taxas e Multas
+284;Teresina;PI;Pessoal e Encargos Sociais;Presidência da República;6833234.91;2024-05-24;Despesa Liquidada;Operações de Crédito
+285;São Bernardo do Campo;SP;Juros e Encargos da Dívida;Ministério da Ciência e Tecnologia;5598673.63;2024-06-27;Restos a Pagar Pagos;Recursos de Concessões
+286;Gurupi;TO;Amortização da Dívida;Ministério da Fazenda;385867.58;2024-11-02;Despesa Paga;Contribuições Sociais
+287;Cabedelo;PB;Pessoal e Encargos Sociais;Ministério dos Transportes;10879372.08;2024-12-03;Despesa Paga;Doações
+288;Parnaíba;PI;Pessoal e Encargos Sociais;Ministério da Fazenda;7299580.33;2024-04-11;Restos a Pagar Pagos;Fundo de Participação
+289;Chapecó;SC;Investimentos;Ministério do Meio Ambiente;6441957.47;2024-01-20;Restos a Pagar Pagos;Operações de Crédito
+290;Sorriso;MT;Outras Despesas Correntes;Ministério da Agricultura;10265103.62;2024-10-05;Restos a Pagar Pagos;Operações de Crédito
+291;Mossoró;RN;Pessoal e Encargos Sociais;Ministério da Ciência e Tecnologia;22735566.4;2024-08-28;Restos a Pagar Pagos;Recursos de Concessões
+292;Vila Velha;ES;Outras Despesas Correntes;Senado Federal;29536305.85;2024-08-25;Despesa Paga;Recursos Diretamente Arrecadados
+293;Santarém;PA;Pessoal e Encargos Sociais;Ministério da Agricultura;4411567.32;2024-04-26;Despesa Liquidada;Operações de Crédito
+294;Itabaiana;SE;Juros e Encargos da Dívida;Ministério do Trabalho;2809005.17;2024-01-20;Despesa Empenhada;Taxas e Multas
+295;Samambaia;DF;Pessoal e Encargos Sociais;Ministério do Desenvolvimento Social;41668983.27;2024-02-21;Despesa Empenhada;Recursos Diretamente Arrecadados
+296;Tefé;AM;Pessoal e Encargos Sociais;Ministério do Esporte;20676168.8;2024-09-15;Restos a Pagar Pagos;Recursos Ordinários
+297;Ilhéus;BA;Inversões Financeiras;Ministério do Esporte;2833981.03;2024-03-06;Despesa Liquidada;Contribuições Sociais
+298;Timon;MA;Juros e Encargos da Dívida;Ministério do Turismo;9130029.19;2024-06-18;Despesa Paga;Doações
+299;Parauapebas;PA;Outras Despesas Correntes;Ministério da Defesa;16682123.58;2024-01-12;Despesa Liquidada;Doações
+300;Tangará da Serra;MT;Outras Despesas Correntes;Controladoria-Geral da União;29567551.41;2024-11-27;Despesa Empenhada;Recursos de Concessões
+301;Caracaraí;RR;Amortização da Dívida;Câmara dos Deputados;9890720.68;2024-06-01;Despesa Liquidada;Recursos Ordinários
+302;Palmas;TO;Pessoal e Encargos Sociais;Ministério do Turismo;38142427.5;2024-05-21;Despesa Liquidada;Recursos de Concessões
+303;Juazeiro;BA;Pessoal e Encargos Sociais;Ministério da Fazenda;25169587.48;2024-12-10;Despesa Paga;Recursos Diretamente Arrecadados
+304;Caruaru;PE;Juros e Encargos da Dívida;Senado Federal;5920547.92;2024-02-04;Despesa Empenhada;Doações
+305;Londrina;PR;Amortização da Dívida;Presidência da República;16017992.03;2024-11-26;Despesa Liquidada;Contribuições Sociais
+306;Parnamirim;RN;Inversões Financeiras;Ministério do Esporte;2827704.49;2024-10-09;Restos a Pagar Pagos;Taxas e Multas
+307;Rio Branco;AC;Pessoal e Encargos Sociais;Ministério da Saúde;37206749.74;2024-04-08;Despesa Liquidada;Contribuições Sociais
+308;Parnamirim;RN;Juros e Encargos da Dívida;Ministério dos Transportes;4823698.25;2024-04-28;Despesa Empenhada;Doações
+309;Olinda;PE;Inversões Financeiras;Ministério dos Transportes;1605549.95;2024-12-26;Despesa Empenhada;Contribuições Sociais
+310;Codó;MA;Juros e Encargos da Dívida;Ministério da Justiça;3373772.56;2024-12-15;Despesa Paga;Recursos de Concessões
+311;Guarulhos;SP;Pessoal e Encargos Sociais;Senado Federal;30005736.93;2024-06-18;Despesa Empenhada;Fundo de Participação
+312;Belém;PA;Pessoal e Encargos Sociais;Ministério das Comunicações;40946896.83;2024-07-23;Despesa Liquidada;Fundo de Participação
+313;Bayeux;PB;Inversões Financeiras;Ministério da Agricultura;886028.27;2024-01-03;Despesa Empenhada;Taxas e Multas
+314;Maracanaú;CE;Inversões Financeiras;Ministério da Ciência e Tecnologia;2936051.59;2024-04-11;Despesa Liquidada;Recursos Ordinários
+315;Camaçari;BA;Juros e Encargos da Dívida;Senado Federal;4415261.37;2024-08-03;Restos a Pagar Pagos;Operações de Crédito
+316;Uberaba;MG;Pessoal e Encargos Sociais;Ministério da Justiça;26457077.36;2024-04-07;Despesa Paga;Operações de Crédito
+317;Corumbá;MS;Pessoal e Encargos Sociais;Ministério do Trabalho;22016475.33;2024-07-10;Restos a Pagar Pagos;Contribuições Sociais
+318;Lagarto;SE;Pessoal e Encargos Sociais;Controladoria-Geral da União;33997505.79;2024-03-07;Despesa Empenhada;Fundo de Participação
+319;Santana;AP;Investimentos;Ministério dos Transportes;11515126.57;2024-03-20;Despesa Empenhada;Recursos de Concessões
+320;São Bernardo do Campo;SP;Inversões Financeiras;Presidência da República;4235551.39;2024-04-23;Despesa Paga;Recursos Diretamente Arrecadados
+321;Sobral;CE;Inversões Financeiras;Controladoria-Geral da União;1481539.75;2024-09-20;Restos a Pagar Pagos;Contribuições Sociais
+322;Luziânia;GO;Inversões Financeiras;Ministério da Saúde;2495209.92;2024-11-18;Despesa Paga;Doações
+323;Nossa Senhora do Socorro;SE;Amortização da Dívida;Ministério da Educação;16718604.15;2024-05-19;Despesa Paga;Recursos Ordinários
+324;Manacapuru;AM;Inversões Financeiras;Câmara dos Deputados;1682589.39;2024-04-22;Despesa Paga;Taxas e Multas
+325;São José de Ribamar;MA;Inversões Financeiras;Tribunal de Contas da União;2454334.79;2024-10-10;Restos a Pagar Pagos;Recursos Ordinários
+326;Itabuna;BA;Pessoal e Encargos Sociais;Ministério da Saúde;48670767.38;2024-10-26;Despesa Liquidada;Recursos de Concessões
+327;Timon;MA;Inversões Financeiras;Presidência da República;969398.2;2024-04-09;Despesa Paga;Taxas e Multas
+328;Porto Velho;RO;Outras Despesas Correntes;Controladoria-Geral da União;16162426.84;2024-12-27;Despesa Paga;Taxas e Multas
+329;Belo Horizonte;MG;Pessoal e Encargos Sociais;Controladoria-Geral da União;22551393.26;2024-01-15;Despesa Liquidada;Recursos Diretamente Arrecadados
+330;Lauro de Freitas;BA;Outras Despesas Correntes;Tribunal de Contas da União;11524280.05;2024-06-21;Restos a Pagar Pagos;Recursos Ordinários
+331;Parnaíba;PI;Inversões Financeiras;Ministério da Justiça;4338813.8;2024-07-17;Despesa Paga;Recursos Diretamente Arrecadados
+332;Juazeiro;BA;Inversões Financeiras;Controladoria-Geral da União;3733999.8;2024-03-28;Despesa Empenhada;Doações
+333;Juazeiro do Norte;CE;Amortização da Dívida;Ministério do Turismo;18196814.0;2024-05-21;Restos a Pagar Pagos;Contribuições Sociais
+334;Arapiraca;AL;Amortização da Dívida;Presidência da República;4363312.47;2024-03-24;Restos a Pagar Pagos;Taxas e Multas
+335;Chapecó;SC;Amortização da Dívida;Ministério dos Transportes;3123945.41;2024-04-04;Despesa Liquidada;Recursos de Concessões
+336;Itapipoca;CE;Pessoal e Encargos Sociais;Controladoria-Geral da União;11149077.56;2024-07-15;Despesa Paga;Recursos de Concessões
+337;Blumenau;SC;Juros e Encargos da Dívida;Ministério das Comunicações;8982035.62;2024-11-05;Despesa Empenhada;Recursos Diretamente Arrecadados
+338;Porto Nacional;TO;Juros e Encargos da Dívida;Ministério do Esporte;1763703.45;2024-06-18;Despesa Liquidada;Fundo de Participação
+339;Maracanaú;CE;Outras Despesas Correntes;Tribunal de Contas da União;27070547.13;2024-11-12;Despesa Empenhada;Recursos Diretamente Arrecadados
+340;Ananindeua;PA;Investimentos;Ministério da Defesa;299506.56;2024-02-01;Despesa Paga;Taxas e Multas
+341;Lauro de Freitas;BA;Investimentos;Ministério da Educação;4806736.09;2024-08-23;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+342;Maracanaú;CE;Outras Despesas Correntes;Ministério da Fazenda;29628313.67;2024-09-09;Despesa Liquidada;Contribuições Sociais
+343;Rio Branco;AC;Inversões Financeiras;Ministério da Justiça;4865847.66;2024-07-03;Despesa Paga;Operações de Crédito
+344;São José dos Pinhais;PR;Inversões Financeiras;Ministério do Turismo;4151617.57;2024-11-23;Despesa Paga;Taxas e Multas
+345;Colombo;PR;Pessoal e Encargos Sociais;Câmara dos Deputados;43467751.0;2024-12-18;Despesa Liquidada;Recursos Diretamente Arrecadados
+346;Coari;AM;Juros e Encargos da Dívida;Controladoria-Geral da União;4699043.86;2024-09-08;Despesa Empenhada;Fundo de Participação
+347;Petrópolis;RJ;Inversões Financeiras;Ministério do Trabalho;3788458.3;2024-03-15;Despesa Liquidada;Recursos de Concessões
+348;São José;SC;Inversões Financeiras;Senado Federal;2973090.95;2024-09-21;Despesa Empenhada;Contribuições Sociais
+349;Cachoeiro de Itapemirim;ES;Pessoal e Encargos Sociais;Ministério da Educação;12302755.42;2024-11-26;Restos a Pagar Pagos;Contribuições Sociais
+350;Ilhéus;BA;Pessoal e Encargos Sociais;Ministério do Meio Ambiente;31742470.33;2024-05-08;Despesa Empenhada;Recursos Diretamente Arrecadados
+351;Jaraguá do Sul;SC;Amortização da Dívida;Câmara dos Deputados;18684444.33;2024-12-10;Restos a Pagar Pagos;Operações de Crédito
+352;Serra;ES;Outras Despesas Correntes;Ministério da Justiça;25207453.37;2024-11-11;Despesa Liquidada;Recursos de Concessões
+353;Vitória;ES;Amortização da Dívida;Ministério da Cultura;2666138.0;2024-12-03;Despesa Paga;Recursos Diretamente Arrecadados
+354;Recife;PE;Pessoal e Encargos Sociais;Ministério da Justiça;16889181.68;2024-04-14;Despesa Paga;Doações
+355;Natal;RN;Pessoal e Encargos Sociais;Controladoria-Geral da União;32352111.62;2024-04-05;Despesa Liquidada;Recursos de Concessões
+356;Juazeiro;BA;Inversões Financeiras;Ministério da Saúde;2765734.53;2024-02-08;Despesa Empenhada;Fundo de Participação
+357;Porto Nacional;TO;Juros e Encargos da Dívida;Ministério da Educação;5971544.01;2024-06-03;Despesa Empenhada;Doações
+358;Rio de Janeiro;RJ;Juros e Encargos da Dívida;Ministério do Trabalho;5881461.97;2024-05-01;Despesa Paga;Fundo de Participação
+359;Crato;CE;Pessoal e Encargos Sociais;Ministério da Defesa;5114890.03;2024-02-24;Despesa Paga;Recursos de Concessões
+360;Penedo;AL;Inversões Financeiras;Senado Federal;2618685.75;2024-05-07;Despesa Paga;Taxas e Multas
+361;Maringá;PR;Amortização da Dívida;Ministério da Fazenda;9713285.16;2024-08-04;Restos a Pagar Pagos;Fundo de Participação
+362;Salvador;BA;Pessoal e Encargos Sociais;Ministério da Educação;27891268.86;2024-12-05;Restos a Pagar Pagos;Contribuições Sociais
+363;Bayeux;PB;Amortização da Dívida;Ministério do Desenvolvimento Social;18956418.83;2024-10-05;Despesa Liquidada;Fundo de Participação
+364;Parintins;AM;Outras Despesas Correntes;Ministério do Trabalho;23663760.37;2024-02-13;Despesa Empenhada;Fundo de Participação
+365;Dourados;MS;Outras Despesas Correntes;Ministério do Trabalho;17005954.35;2024-10-27;Restos a Pagar Pagos;Operações de Crédito
+366;Belford Roxo;RJ;Juros e Encargos da Dívida;Tribunal de Contas da União;2044676.1;2024-12-21;Despesa Empenhada;Contribuições Sociais
+367;Paulista;PE;Outras Despesas Correntes;Ministério do Trabalho;25162082.35;2024-05-24;Despesa Empenhada;Doações
+368;Arapiraca;AL;Amortização da Dívida;Ministério da Ciência e Tecnologia;14287684.56;2024-07-22;Despesa Paga;Fundo de Participação
+369;Rondonópolis;MT;Inversões Financeiras;Ministério do Trabalho;2453313.71;2024-03-06;Despesa Paga;Fundo de Participação
+370;Cabedelo;PB;Pessoal e Encargos Sociais;Ministério da Saúde;2883299.16;2024-08-24;Restos a Pagar Pagos;Recursos de Concessões
+371;Natal;RN;Outras Despesas Correntes;Ministério da Justiça;14549196.15;2024-08-16;Despesa Liquidada;Recursos de Concessões
+372;Guarulhos;SP;Inversões Financeiras;Ministério da Saúde;3787817.81;2024-11-05;Restos a Pagar Pagos;Doações
+373;Juiz de Fora;MG;Inversões Financeiras;Ministério da Agricultura;1178465.97;2024-12-19;Despesa Paga;Operações de Crédito
+374;Manaus;AM;Pessoal e Encargos Sociais;Ministério da Defesa;47280021.48;2024-12-05;Despesa Empenhada;Operações de Crédito
+375;João Pessoa;PB;Pessoal e Encargos Sociais;Ministério da Cultura;42802764.58;2024-09-24;Despesa Liquidada;Contribuições Sociais
+376;São Paulo;SP;Investimentos;Senado Federal;6230956.49;2024-10-08;Despesa Liquidada;Fundo de Participação
+377;Macaíba;RN;Pessoal e Encargos Sociais;Tribunal de Contas da União;14582442.46;2024-09-19;Despesa Paga;Operações de Crédito
+378;Rio Verde;GO;Juros e Encargos da Dívida;Presidência da República;360211.87;2024-09-19;Despesa Paga;Fundo de Participação
+379;Foz do Iguaçu;PR;Inversões Financeiras;Ministério da Cultura;2099137.08;2024-10-23;Despesa Liquidada;Doações
+380;Petrópolis;RJ;Inversões Financeiras;Controladoria-Geral da União;461864.58;2024-06-17;Despesa Empenhada;Taxas e Multas
+381;Campina Grande;PB;Pessoal e Encargos Sociais;Ministério da Saúde;49859490.59;2024-04-21;Restos a Pagar Pagos;Recursos de Concessões
+382;Várzea Grande;MT;Inversões Financeiras;Senado Federal;432912.32;2024-03-11;Despesa Empenhada;Taxas e Multas
+383;Tarauacá;AC;Pessoal e Encargos Sociais;Ministério da Agricultura;22020879.91;2024-08-01;Despesa Paga;Recursos de Concessões
+384;São Gonçalo do Amarante;RN;Investimentos;Ministério da Saúde;12075321.95;2024-03-16;Restos a Pagar Pagos;Contribuições Sociais
+385;Foz do Iguaçu;PR;Amortização da Dívida;Senado Federal;3555640.38;2024-03-04;Restos a Pagar Pagos;Operações de Crédito
+386;Ponta Porã;MS;Juros e Encargos da Dívida;Ministério do Desenvolvimento Social;1746751.08;2024-10-02;Restos a Pagar Pagos;Operações de Crédito
+387;Campo Grande;MS;Inversões Financeiras;Ministério da Educação;1156534.82;2024-12-19;Restos a Pagar Pagos;Doações
+388;Macapá;AP;Investimentos;Presidência da República;483921.06;2024-06-22;Restos a Pagar Pagos;Recursos de Concessões
+389;Itacoatiara;AM;Amortização da Dívida;Ministério das Comunicações;8784238.29;2024-09-04;Restos a Pagar Pagos;Taxas e Multas
+390;Cuiabá;MT;Outras Despesas Correntes;Ministério da Agricultura;10423387.09;2024-04-17;Restos a Pagar Pagos;Operações de Crédito
+391;Luziânia;GO;Juros e Encargos da Dívida;Câmara dos Deputados;7234264.41;2024-10-11;Despesa Empenhada;Recursos Ordinários
+392;Imperatriz;MA;Outras Despesas Correntes;Ministério da Educação;12137332.31;2024-10-18;Despesa Liquidada;Operações de Crédito
+393;Uberaba;MG;Pessoal e Encargos Sociais;Ministério da Saúde;26844518.01;2024-07-01;Despesa Empenhada;Doações
+394;Ribeirão das Neves;MG;Juros e Encargos da Dívida;Ministério das Comunicações;2377184.4;2024-10-27;Despesa Liquidada;Fundo de Participação
+395;Guarulhos;SP;Juros e Encargos da Dívida;Ministério da Agricultura;9563246.12;2024-02-20;Despesa Empenhada;Recursos Diretamente Arrecadados
+396;Águas Lindas de Goiás;GO;Inversões Financeiras;Tribunal de Contas da União;539857.83;2024-04-15;Despesa Empenhada;Doações
+397;Sena Madureira;AC;Inversões Financeiras;Ministério das Comunicações;1071006.45;2024-08-13;Restos a Pagar Pagos;Recursos de Concessões
+398;Sobral;CE;Amortização da Dívida;Ministério da Justiça;17070575.47;2024-11-25;Despesa Liquidada;Recursos Diretamente Arrecadados
+399;Campo Grande;MS;Pessoal e Encargos Sociais;Ministério da Defesa;34379222.8;2024-05-18;Despesa Empenhada;Recursos de Concessões
+400;Marabá;PA;Inversões Financeiras;Ministério da Defesa;1557745.77;2024-07-24;Despesa Liquidada;Recursos Ordinários
+401;São José;SC;Amortização da Dívida;Ministério do Turismo;1899772.07;2024-09-04;Despesa Liquidada;Recursos de Concessões
+402;Vitória;ES;Investimentos;Ministério da Ciência e Tecnologia;3436818.55;2024-03-05;Despesa Empenhada;Doações
+403;Mossoró;RN;Pessoal e Encargos Sociais;Presidência da República;33139934.25;2024-10-18;Despesa Empenhada;Recursos Diretamente Arrecadados
+404;Mossoró;RN;Juros e Encargos da Dívida;Ministério do Esporte;6048303.27;2024-10-27;Despesa Liquidada;Doações
+405;Castanhal;PA;Inversões Financeiras;Ministério do Desenvolvimento Social;605810.64;2024-11-02;Despesa Liquidada;Taxas e Multas
+406;Ribeirão Preto;SP;Amortização da Dívida;Senado Federal;15432896.0;2024-09-11;Despesa Liquidada;Operações de Crédito
+407;Ribeirão Preto;SP;Inversões Financeiras;Ministério da Saúde;3367281.28;2024-02-01;Restos a Pagar Pagos;Contribuições Sociais
+408;Itajaí;SC;Inversões Financeiras;Presidência da República;1197012.99;2024-10-22;Restos a Pagar Pagos;Fundo de Participação
+409;Maracanaú;CE;Amortização da Dívida;Ministério da Defesa;9577294.71;2024-06-17;Despesa Empenhada;Fundo de Participação
+410;Ariquemes;RO;Investimentos;Ministério da Ciência e Tecnologia;6315439.51;2024-06-12;Restos a Pagar Pagos;Doações
+411;Foz do Iguaçu;PR;Pessoal e Encargos Sociais;Controladoria-Geral da União;36942589.55;2024-09-14;Restos a Pagar Pagos;Recursos de Concessões
+412;Cacoal;RO;Outras Despesas Correntes;Ministério do Turismo;23473026.3;2024-06-24;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+413;Parnamirim;RN;Investimentos;Ministério da Cultura;5290241.32;2024-12-25;Despesa Empenhada;Recursos Diretamente Arrecadados
+414;João Pessoa;PB;Outras Despesas Correntes;Ministério da Cultura;15501098.33;2024-11-10;Despesa Paga;Recursos de Concessões
+415;Juazeiro do Norte;CE;Pessoal e Encargos Sociais;Câmara dos Deputados;44269624.84;2024-09-11;Despesa Liquidada;Contribuições Sociais
+416;Goiânia;GO;Pessoal e Encargos Sociais;Ministério das Comunicações;14024222.0;2024-06-14;Restos a Pagar Pagos;Fundo de Participação
+417;Colombo;PR;Inversões Financeiras;Presidência da República;2918203.29;2024-11-23;Restos a Pagar Pagos;Doações
+418;Jaraguá do Sul;SC;Outras Despesas Correntes;Controladoria-Geral da União;17339252.13;2024-10-12;Despesa Liquidada;Fundo de Participação
+419;Três Lagoas;MS;Inversões Financeiras;Ministério da Agricultura;3992295.32;2024-12-03;Despesa Empenhada;Doações
+420;Rondonópolis;MT;Inversões Financeiras;Ministério da Educação;4328955.93;2024-01-16;Despesa Liquidada;Taxas e Multas
+421;Coari;AM;Juros e Encargos da Dívida;Ministério do Turismo;6709019.55;2024-09-20;Despesa Paga;Fundo de Participação
+422;Feira de Santana;BA;Investimentos;Ministério do Turismo;13632140.45;2024-05-28;Restos a Pagar Pagos;Doações
+423;Cabo de Santo Agostinho;PE;Inversões Financeiras;Ministério da Justiça;46664.39;2024-11-27;Despesa Paga;Doações
+424;Paulista;PE;Pessoal e Encargos Sociais;Ministério do Turismo;3002684.44;2024-06-23;Despesa Liquidada;Doações
+425;Ponta Porã;MS;Investimentos;Ministério da Agricultura;12477663.04;2024-02-27;Restos a Pagar Pagos;Fundo de Participação
+426;Oiapoque;AP;Investimentos;Tribunal de Contas da União;4995329.89;2024-12-15;Despesa Paga;Doações
+427;Feira de Santana;BA;Inversões Financeiras;Câmara dos Deputados;310549.22;2024-12-04;Despesa Liquidada;Taxas e Multas
+428;Sinop;MT;Amortização da Dívida;Ministério do Turismo;10972430.17;2024-07-04;Despesa Liquidada;Doações
+429;Sorriso;MT;Amortização da Dívida;Ministério da Agricultura;3263651.51;2024-05-03;Despesa Paga;Doações
+430;Rondonópolis;MT;Pessoal e Encargos Sociais;Ministério do Trabalho;18978650.51;2024-03-17;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+431;Santana;AP;Amortização da Dívida;Ministério da Ciência e Tecnologia;1612329.91;2024-12-27;Despesa Liquidada;Contribuições Sociais
+432;Paulista;PE;Pessoal e Encargos Sociais;Ministério da Cultura;2957726.62;2024-10-25;Despesa Liquidada;Taxas e Multas
+433;Santana;AP;Pessoal e Encargos Sociais;Câmara dos Deputados;8042926.12;2024-03-16;Despesa Empenhada;Taxas e Multas
+434;Contagem;MG;Pessoal e Encargos Sociais;Câmara dos Deputados;2162025.65;2024-10-22;Despesa Empenhada;Taxas e Multas
+435;Porto Nacional;TO;Inversões Financeiras;Câmara dos Deputados;1110656.9;2024-04-14;Despesa Paga;Recursos Diretamente Arrecadados
+436;Guarulhos;SP;Pessoal e Encargos Sociais;Ministério das Comunicações;10807788.22;2024-12-19;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+437;Campinas;SP;Amortização da Dívida;Ministério da Cultura;8180049.82;2024-07-18;Despesa Liquidada;Recursos de Concessões
+438;Londrina;PR;Outras Despesas Correntes;Ministério do Trabalho;3592193.6;2024-07-15;Despesa Paga;Recursos Diretamente Arrecadados
+439;Natal;RN;Investimentos;Câmara dos Deputados;148635.41;2024-03-15;Despesa Liquidada;Taxas e Multas
+440;Maringá;PR;Pessoal e Encargos Sociais;Ministério da Defesa;13449836.93;2024-06-01;Despesa Liquidada;Operações de Crédito
+441;Laranjal do Jari;AP;Inversões Financeiras;Ministério do Esporte;3310991.49;2024-02-17;Despesa Paga;Recursos Ordinários
+442;Sena Madureira;AC;Juros e Encargos da Dívida;Ministério da Educação;8069953.43;2024-07-09;Despesa Empenhada;Taxas e Multas
+443;Cuiabá;MT;Investimentos;Ministério do Turismo;11596516.38;2024-10-23;Despesa Liquidada;Operações de Crédito
+444;Parnamirim;RN;Inversões Financeiras;Ministério da Saúde;1881399.11;2024-04-23;Despesa Paga;Recursos Diretamente Arrecadados
+445;Penedo;AL;Pessoal e Encargos Sociais;Ministério da Saúde;23185133.37;2024-10-04;Despesa Empenhada;Taxas e Multas
+446;Penedo;AL;Outras Despesas Correntes;Ministério da Cultura;4100172.81;2024-11-10;Restos a Pagar Pagos;Operações de Crédito
+447;Uberlândia;MG;Outras Despesas Correntes;Ministério da Defesa;16326672.42;2024-01-03;Restos a Pagar Pagos;Recursos Ordinários
+448;Juazeiro do Norte;CE;Investimentos;Ministério da Justiça;12513711.6;2024-10-14;Despesa Paga;Recursos Ordinários
+449;Marabá;PA;Investimentos;Ministério dos Transportes;7881620.46;2024-05-23;Despesa Empenhada;Fundo de Participação
+450;Itajaí;SC;Investimentos;Ministério do Turismo;1237103.51;2024-10-01;Despesa Liquidada;Doações
+451;Curitiba;PR;Investimentos;Ministério da Ciência e Tecnologia;9154577.05;2024-05-27;Despesa Liquidada;Operações de Crédito
+452;Blumenau;SC;Inversões Financeiras;Câmara dos Deputados;4364780.34;2024-11-08;Restos a Pagar Pagos;Taxas e Multas
+453;Laranjal do Jari;AP;Outras Despesas Correntes;Ministério das Comunicações;8533822.94;2024-10-23;Despesa Paga;Recursos Ordinários
+454;Tangará da Serra;MT;Investimentos;Controladoria-Geral da União;11259545.62;2024-12-12;Restos a Pagar Pagos;Fundo de Participação
+455;Sobral;CE;Amortização da Dívida;Ministério da Saúde;1310425.61;2024-08-28;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+456;Ananindeua;PA;Amortização da Dívida;Ministério da Cultura;5981286.82;2024-01-26;Despesa Liquidada;Fundo de Participação
+457;Sinop;MT;Inversões Financeiras;Controladoria-Geral da União;574922.87;2024-02-09;Despesa Paga;Recursos Ordinários
+458;Santo André;SP;Investimentos;Controladoria-Geral da União;1219607.3;2024-10-03;Despesa Liquidada;Fundo de Participação
+459;Jaraguá do Sul;SC;Juros e Encargos da Dívida;Ministério da Justiça;6976732.44;2024-05-11;Restos a Pagar Pagos;Taxas e Multas
+460;Duque de Caxias;RJ;Pessoal e Encargos Sociais;Ministério da Educação;9310612.1;2024-05-18;Despesa Empenhada;Taxas e Multas
+461;Sobral;CE;Juros e Encargos da Dívida;Câmara dos Deputados;529313.87;2024-11-17;Despesa Paga;Fundo de Participação
+462;Ponta Porã;MS;Investimentos;Ministério da Justiça;207689.2;2024-05-08;Despesa Liquidada;Fundo de Participação
+463;Palmas;TO;Inversões Financeiras;Ministério da Educação;4837889.67;2024-11-07;Despesa Paga;Recursos Diretamente Arrecadados
+464;Pelotas;RS;Inversões Financeiras;Ministério da Fazenda;2252427.16;2024-05-18;Despesa Paga;Fundo de Participação
+465;Petrópolis;RJ;Inversões Financeiras;Senado Federal;3300472.4;2024-03-24;Restos a Pagar Pagos;Operações de Crédito
+466;Corumbá;MS;Outras Despesas Correntes;Ministério dos Transportes;28337824.41;2024-12-21;Restos a Pagar Pagos;Taxas e Multas
+467;Aparecida de Goiânia;GO;Inversões Financeiras;Ministério da Educação;3029423.2;2024-11-15;Despesa Paga;Operações de Crédito
+468;Jaboatão dos Guararapes;PE;Pessoal e Encargos Sociais;Ministério da Saúde;10744172.65;2024-11-10;Despesa Empenhada;Fundo de Participação
+469;Contagem;MG;Amortização da Dívida;Ministério do Esporte;12336971.82;2024-01-08;Despesa Liquidada;Contribuições Sociais
+470;Ponta Grossa;PR;Amortização da Dívida;Ministério do Trabalho;10160794.68;2024-08-28;Restos a Pagar Pagos;Recursos de Concessões
+471;Tarauacá;AC;Pessoal e Encargos Sociais;Ministério da Justiça;8065645.31;2024-03-26;Restos a Pagar Pagos;Contribuições Sociais
+472;Rio Branco;AC;Juros e Encargos da Dívida;Ministério do Turismo;5933730.27;2024-01-25;Despesa Liquidada;Recursos Diretamente Arrecadados
+473;Campina Grande;PB;Pessoal e Encargos Sociais;Ministério das Comunicações;6565119.13;2024-08-02;Despesa Liquidada;Recursos Diretamente Arrecadados
+474;Aparecida de Goiânia;GO;Juros e Encargos da Dívida;Ministério da Defesa;2436354.27;2024-11-12;Despesa Paga;Recursos Diretamente Arrecadados
+475;Olinda;PE;Investimentos;Ministério do Trabalho;14238469.17;2024-03-07;Despesa Liquidada;Recursos de Concessões
+476;Itabaiana;SE;Inversões Financeiras;Ministério da Agricultura;3197865.75;2024-04-11;Despesa Liquidada;Taxas e Multas
+477;São Cristóvão;SE;Juros e Encargos da Dívida;Ministério da Saúde;4760282.23;2024-11-02;Despesa Empenhada;Recursos Diretamente Arrecadados
+478;Santa Rita;PB;Amortização da Dívida;Ministério da Agricultura;10027943.04;2024-09-16;Despesa Empenhada;Contribuições Sociais
+479;Ponta Porã;MS;Inversões Financeiras;Ministério da Educação;3955697.38;2024-06-23;Despesa Empenhada;Contribuições Sociais
+480;Vitória;ES;Inversões Financeiras;Ministério do Desenvolvimento Social;100970.38;2024-05-06;Despesa Liquidada;Operações de Crédito
+481;Sobral;CE;Amortização da Dívida;Ministério da Justiça;9856350.2;2024-08-03;Despesa Empenhada;Operações de Crédito
+482;Imperatriz;MA;Juros e Encargos da Dívida;Ministério das Comunicações;8059261.97;2024-09-15;Despesa Liquidada;Recursos de Concessões
+483;Jaraguá do Sul;SC;Investimentos;Ministério da Defesa;11388707.72;2024-09-03;Despesa Paga;Fundo de Participação
+484;Belo Horizonte;MG;Pessoal e Encargos Sociais;Senado Federal;6054335.18;2024-09-17;Despesa Liquidada;Recursos de Concessões
+485;Floriano;PI;Investimentos;Ministério da Saúde;3464853.36;2024-12-05;Despesa Liquidada;Recursos Ordinários
+486;Cruzeiro do Sul;AC;Outras Despesas Correntes;Ministério do Desenvolvimento Social;6443309.52;2024-05-23;Despesa Empenhada;Recursos de Concessões
+487;Goiânia;GO;Investimentos;Ministério das Comunicações;14607167.59;2024-08-23;Restos a Pagar Pagos;Operações de Crédito
+488;Maceió;AL;Inversões Financeiras;Ministério da Defesa;437410.73;2024-08-27;Despesa Empenhada;Recursos de Concessões
+489;Ribeirão das Neves;MG;Juros e Encargos da Dívida;Ministério do Desenvolvimento Social;1775730.54;2024-12-18;Restos a Pagar Pagos;Recursos de Concessões
+490;Vitória;ES;Amortização da Dívida;Ministério das Comunicações;16282377.2;2024-11-23;Despesa Empenhada;Recursos Diretamente Arrecadados
+491;São José dos Campos;SP;Investimentos;Ministério da Fazenda;9810336.72;2024-01-02;Restos a Pagar Pagos;Doações
+492;São José;SC;Investimentos;Ministério do Turismo;12413801.02;2024-01-08;Restos a Pagar Pagos;Recursos Ordinários
+493;Araguaína;TO;Pessoal e Encargos Sociais;Ministério das Comunicações;39495037.33;2024-01-13;Despesa Empenhada;Taxas e Multas
+494;Osasco;SP;Juros e Encargos da Dívida;Câmara dos Deputados;2881622.12;2024-05-01;Despesa Empenhada;Recursos de Concessões
+495;Juiz de Fora;MG;Outras Despesas Correntes;Ministério dos Transportes;2016537.59;2024-10-24;Despesa Liquidada;Recursos Diretamente Arrecadados
+496;Sorriso;MT;Pessoal e Encargos Sociais;Ministério do Trabalho;22343654.47;2024-01-14;Despesa Liquidada;Recursos de Concessões
+497;Caruaru;PE;Inversões Financeiras;Ministério do Desenvolvimento Social;4390688.88;2024-05-13;Restos a Pagar Pagos;Fundo de Participação
+498;Florianópolis;SC;Outras Despesas Correntes;Ministério da Justiça;9292517.89;2024-08-01;Despesa Paga;Taxas e Multas
+499;Canoas;RS;Pessoal e Encargos Sociais;Senado Federal;32266707.57;2024-07-22;Restos a Pagar Pagos;Doações
+500;Brasília;DF;Inversões Financeiras;Ministério da Cultura;3550399.82;2024-07-10;Despesa Empenhada;Recursos Diretamente Arrecadados
+501;Boa Vista;RR;Inversões Financeiras;Ministério dos Transportes;2747240.92;2024-03-23;Despesa Liquidada;Fundo de Participação
+502;Bayeux;PB;Juros e Encargos da Dívida;Ministério do Esporte;7939241.0;2024-08-21;Despesa Paga;Recursos de Concessões
+503;Ananindeua;PA;Investimentos;Ministério da Justiça;3654172.25;2024-11-20;Despesa Empenhada;Recursos Ordinários
+504;Cariacica;ES;Inversões Financeiras;Câmara dos Deputados;2643579.81;2024-02-25;Despesa Paga;Taxas e Multas
+505;Laranjal do Jari;AP;Outras Despesas Correntes;Câmara dos Deputados;24204733.32;2024-10-26;Despesa Empenhada;Operações de Crédito
+506;Ponta Grossa;PR;Inversões Financeiras;Câmara dos Deputados;485258.27;2024-11-24;Despesa Liquidada;Fundo de Participação
+507;Petrolina;PE;Pessoal e Encargos Sociais;Controladoria-Geral da União;39678774.41;2024-02-10;Restos a Pagar Pagos;Recursos de Concessões
+508;Manacapuru;AM;Amortização da Dívida;Ministério da Ciência e Tecnologia;10272362.54;2024-12-06;Despesa Empenhada;Doações
+509;Cascavel;PR;Outras Despesas Correntes;Ministério da Agricultura;16521179.33;2024-06-23;Despesa Empenhada;Recursos Ordinários
+510;Joinville;SC;Amortização da Dívida;Ministério da Saúde;1425296.07;2024-11-09;Despesa Paga;Contribuições Sociais
+511;São Luís;MA;Inversões Financeiras;Ministério da Saúde;4237390.1;2024-07-05;Despesa Paga;Operações de Crédito
+512;Crato;CE;Investimentos;Ministério das Comunicações;9993362.55;2024-06-05;Restos a Pagar Pagos;Contribuições Sociais
+513;Santa Maria;RS;Amortização da Dívida;Ministério do Esporte;16458327.67;2024-12-02;Despesa Paga;Recursos Ordinários
+514;Belém;PA;Outras Despesas Correntes;Ministério do Meio Ambiente;12991082.03;2024-02-23;Despesa Empenhada;Recursos Ordinários
+515;Fortaleza;CE;Juros e Encargos da Dívida;Ministério da Cultura;5762034.65;2024-10-10;Despesa Paga;Recursos Ordinários
+516;Coari;AM;Inversões Financeiras;Controladoria-Geral da União;2139436.38;2024-09-15;Despesa Liquidada;Fundo de Participação
+517;Porto Velho;RO;Outras Despesas Correntes;Ministério da Defesa;12088132.97;2024-12-27;Despesa Paga;Contribuições Sociais
+518;Ananindeua;PA;Outras Despesas Correntes;Ministério das Comunicações;4133089.85;2024-10-14;Despesa Paga;Recursos de Concessões
+519;Crato;CE;Inversões Financeiras;Ministério da Agricultura;1764714.47;2024-10-17;Despesa Liquidada;Recursos de Concessões
+520;Luziânia;GO;Amortização da Dívida;Ministério da Agricultura;12327122.74;2024-02-17;Despesa Liquidada;Recursos de Concessões
+521;Cariacica;ES;Inversões Financeiras;Ministério da Saúde;4530228.87;2024-01-09;Despesa Liquidada;Recursos de Concessões
+522;Santa Rita;PB;Outras Despesas Correntes;Ministério da Cultura;4289633.31;2024-04-21;Despesa Liquidada;Recursos Ordinários
+523;Feira de Santana;BA;Juros e Encargos da Dívida;Ministério da Agricultura;7098862.72;2024-12-28;Restos a Pagar Pagos;Contribuições Sociais
+524;Gravataí;RS;Amortização da Dívida;Ministério da Defesa;14499252.48;2024-08-06;Restos a Pagar Pagos;Contribuições Sociais
+525;Recife;PE;Amortização da Dívida;Ministério da Saúde;8683334.35;2024-11-06;Restos a Pagar Pagos;Recursos de Concessões
+526;Caruaru;PE;Investimentos;Ministério das Comunicações;10373180.62;2024-01-24;Restos a Pagar Pagos;Doações
+527;Curitiba;PR;Amortização da Dívida;Ministério do Esporte;5977488.9;2024-01-18;Restos a Pagar Pagos;Taxas e Multas
+528;Itabuna;BA;Outras Despesas Correntes;Ministério das Comunicações;20169978.58;2024-03-11;Restos a Pagar Pagos;Fundo de Participação
+529;Feira de Santana;BA;Pessoal e Encargos Sociais;Ministério do Esporte;22799933.38;2024-10-16;Despesa Paga;Recursos Ordinários
+530;João Pessoa;PB;Amortização da Dívida;Ministério das Comunicações;6429348.61;2024-05-08;Despesa Empenhada;Taxas e Multas
+531;Natal;RN;Outras Despesas Correntes;Câmara dos Deputados;21575620.71;2024-02-22;Despesa Liquidada;Recursos Diretamente Arrecadados
+532;Parintins;AM;Juros e Encargos da Dívida;Ministério da Ciência e Tecnologia;8184207.4;2024-08-12;Despesa Paga;Taxas e Multas
+533;Belford Roxo;RJ;Outras Despesas Correntes;Ministério do Meio Ambiente;23612671.34;2024-12-24;Restos a Pagar Pagos;Doações
+534;São Cristóvão;SE;Pessoal e Encargos Sociais;Ministério da Defesa;21610054.39;2024-03-23;Restos a Pagar Pagos;Operações de Crédito
+535;Dourados;MS;Pessoal e Encargos Sociais;Ministério da Ciência e Tecnologia;29558287.15;2024-12-27;Restos a Pagar Pagos;Contribuições Sociais
+536;Luziânia;GO;Amortização da Dívida;Senado Federal;3721066.42;2024-03-14;Despesa Empenhada;Contribuições Sociais
+537;Penedo;AL;Amortização da Dívida;Tribunal de Contas da União;6057637.17;2024-11-04;Despesa Liquidada;Doações
+538;Betim;MG;Amortização da Dívida;Presidência da República;18297381.81;2024-12-20;Despesa Liquidada;Recursos Diretamente Arrecadados
+539;Itapipoca;CE;Juros e Encargos da Dívida;Ministério do Trabalho;7568915.2;2024-01-22;Despesa Empenhada;Doações
+540;Paraíso do Tocantins;TO;Pessoal e Encargos Sociais;Ministério da Ciência e Tecnologia;6077616.56;2024-03-22;Restos a Pagar Pagos;Fundo de Participação
+541;Florianópolis;SC;Amortização da Dívida;Tribunal de Contas da União;4316318.74;2024-09-17;Despesa Paga;Fundo de Participação
+542;Ji-Paraná;RO;Pessoal e Encargos Sociais;Ministério da Justiça;46049312.41;2024-11-22;Restos a Pagar Pagos;Recursos Ordinários
+543;Anápolis;GO;Juros e Encargos da Dívida;Ministério do Trabalho;7957594.2;2024-09-08;Despesa Empenhada;Taxas e Multas
+544;Ananindeua;PA;Amortização da Dívida;Ministério da Saúde;16973052.88;2024-11-10;Despesa Liquidada;Taxas e Multas
+545;Belford Roxo;RJ;Outras Despesas Correntes;Ministério da Fazenda;20451489.36;2024-06-16;Restos a Pagar Pagos;Fundo de Participação
+546;Timon;MA;Outras Despesas Correntes;Ministério da Educação;8771384.18;2024-12-03;Despesa Paga;Fundo de Participação
+547;Juiz de Fora;MG;Inversões Financeiras;Presidência da República;243951.64;2024-06-21;Restos a Pagar Pagos;Operações de Crédito
+548;Santos;SP;Outras Despesas Correntes;Ministério do Esporte;20828200.46;2024-11-25;Despesa Paga;Doações
+549;Ilhéus;BA;Inversões Financeiras;Ministério da Cultura;3102354.74;2024-04-16;Despesa Liquidada;Taxas e Multas
+550;Camaçari;BA;Inversões Financeiras;Ministério da Educação;3817913.93;2024-03-16;Restos a Pagar Pagos;Doações
+551;Porto Alegre;RS;Investimentos;Ministério do Meio Ambiente;183501.35;2024-01-19;Restos a Pagar Pagos;Recursos de Concessões
+552;Manaus;AM;Juros e Encargos da Dívida;Ministério dos Transportes;1699661.57;2024-08-18;Restos a Pagar Pagos;Recursos Ordinários
+553;Montes Claros;MG;Pessoal e Encargos Sociais;Ministério dos Transportes;27888922.4;2024-10-19;Restos a Pagar Pagos;Doações
+554;Campinas;SP;Inversões Financeiras;Senado Federal;2241327.25;2024-04-22;Despesa Paga;Doações
+555;Lauro de Freitas;BA;Investimentos;Ministério da Justiça;7912968.75;2024-08-01;Despesa Liquidada;Recursos Diretamente Arrecadados
+556;Abaetetuba;PA;Juros e Encargos da Dívida;Controladoria-Geral da União;4189262.35;2024-06-15;Despesa Empenhada;Contribuições Sociais
+557;Cuiabá;MT;Investimentos;Ministério da Justiça;6600580.78;2024-12-15;Despesa Paga;Contribuições Sociais
+558;Cascavel;PR;Investimentos;Ministério da Ciência e Tecnologia;10765979.32;2024-02-25;Restos a Pagar Pagos;Recursos Ordinários
+559;Paço do Lumiar;MA;Outras Despesas Correntes;Ministério do Trabalho;12281415.07;2024-09-23;Despesa Paga;Contribuições Sociais
+560;Tarauacá;AC;Inversões Financeiras;Ministério da Justiça;4353887.66;2024-05-27;Despesa Liquidada;Recursos de Concessões
+561;Santa Maria;RS;Inversões Financeiras;Ministério das Comunicações;3291084.09;2024-09-20;Restos a Pagar Pagos;Operações de Crédito
+562;Caxias do Sul;RS;Pessoal e Encargos Sociais;Ministério da Cultura;18229291.11;2024-03-09;Despesa Empenhada;Fundo de Participação
+563;Santa Maria;RS;Amortização da Dívida;Ministério do Esporte;17668197.99;2024-03-26;Despesa Liquidada;Recursos Diretamente Arrecadados
+564;Várzea Grande;MT;Inversões Financeiras;Ministério da Justiça;1746143.94;2024-08-20;Despesa Liquidada;Doações
+565;Paulista;PE;Inversões Financeiras;Ministério da Saúde;876949.41;2024-04-27;Despesa Empenhada;Taxas e Multas
+566;Cascavel;PR;Outras Despesas Correntes;Ministério da Educação;24534342.86;2024-08-11;Restos a Pagar Pagos;Operações de Crédito
+567;Palmeira dos Índios;AL;Pessoal e Encargos Sociais;Senado Federal;24101031.6;2024-09-06;Despesa Empenhada;Contribuições Sociais
+568;Maracanaú;CE;Pessoal e Encargos Sociais;Ministério do Trabalho;13635691.66;2024-03-24;Restos a Pagar Pagos;Contribuições Sociais
+569;Linhares;ES;Amortização da Dívida;Ministério do Trabalho;16248803.87;2024-02-23;Restos a Pagar Pagos;Recursos Ordinários
+570;Novo Hamburgo;RS;Juros e Encargos da Dívida;Ministério da Defesa;2735945.2;2024-07-11;Despesa Empenhada;Contribuições Sociais
+571;Niterói;RJ;Juros e Encargos da Dívida;Ministério do Meio Ambiente;6207160.74;2024-05-07;Despesa Empenhada;Recursos de Concessões
+572;Joinville;SC;Juros e Encargos da Dívida;Controladoria-Geral da União;3118782.48;2024-08-13;Despesa Liquidada;Recursos Ordinários
+573;Chapecó;SC;Pessoal e Encargos Sociais;Ministério do Trabalho;46391608.71;2024-08-28;Restos a Pagar Pagos;Operações de Crédito
+574;Fortaleza;CE;Amortização da Dívida;Ministério da Cultura;5562159.57;2024-10-28;Despesa Empenhada;Fundo de Participação
+575;Imperatriz;MA;Juros e Encargos da Dívida;Ministério da Justiça;3999646.76;2024-06-18;Despesa Paga;Recursos de Concessões
+576;Londrina;PR;Pessoal e Encargos Sociais;Ministério do Trabalho;43769952.23;2024-05-12;Despesa Paga;Recursos Diretamente Arrecadados
+577;Floriano;PI;Inversões Financeiras;Controladoria-Geral da União;853233.86;2024-06-23;Despesa Empenhada;Recursos Diretamente Arrecadados
+578;Ariquemes;RO;Outras Despesas Correntes;Câmara dos Deputados;25882892.29;2024-03-18;Despesa Paga;Taxas e Multas
+579;Tarauacá;AC;Amortização da Dívida;Ministério da Justiça;13666036.34;2024-09-25;Despesa Paga;Operações de Crédito
+580;Itabuna;BA;Outras Despesas Correntes;Ministério da Cultura;24444267.84;2024-09-02;Restos a Pagar Pagos;Contribuições Sociais
+581;Belo Horizonte;MG;Investimentos;Câmara dos Deputados;5635691.39;2024-12-18;Restos a Pagar Pagos;Taxas e Multas
+582;Aparecida de Goiânia;GO;Pessoal e Encargos Sociais;Ministério da Fazenda;42509130.84;2024-11-26;Restos a Pagar Pagos;Recursos Ordinários
+583;Duque de Caxias;RJ;Amortização da Dívida;Ministério da Fazenda;572683.63;2024-12-11;Despesa Empenhada;Contribuições Sociais
+584;Santos;SP;Pessoal e Encargos Sociais;Ministério da Defesa;42893820.8;2024-03-13;Despesa Liquidada;Contribuições Sociais
+585;Itapipoca;CE;Outras Despesas Correntes;Senado Federal;6939541.01;2024-07-28;Despesa Empenhada;Doações
+586;Feira de Santana;BA;Outras Despesas Correntes;Ministério da Defesa;4880301.38;2024-03-18;Despesa Empenhada;Recursos de Concessões
+587;Ponta Grossa;PR;Inversões Financeiras;Ministério da Cultura;2022352.2;2024-04-03;Restos a Pagar Pagos;Fundo de Participação
+588;Sobral;CE;Inversões Financeiras;Ministério da Fazenda;337754.34;2024-05-20;Despesa Paga;Recursos Diretamente Arrecadados
+589;Timon;MA;Outras Despesas Correntes;Ministério da Agricultura;21206047.92;2024-12-23;Restos a Pagar Pagos;Operações de Crédito
+590;Cacoal;RO;Amortização da Dívida;Ministério da Defesa;4290372.68;2024-07-04;Despesa Empenhada;Contribuições Sociais
+591;Osasco;SP;Pessoal e Encargos Sociais;Ministério da Fazenda;29979432.55;2024-03-27;Restos a Pagar Pagos;Recursos Diretamente Arrecadados
+592;Ceará-Mirim;RN;Juros e Encargos da Dívida;Câmara dos Deputados;9634265.68;2024-08-13;Despesa Empenhada;Doações
+593;São Gonçalo do Amarante;RN;Inversões Financeiras;Tribunal de Contas da União;2417514.11;2024-06-18;Restos a Pagar Pagos;Doações
+594;Ji-Paraná;RO;Inversões Financeiras;Ministério dos Transportes;2459118.7;2024-09-09;Restos a Pagar Pagos;Taxas e Multas
+595;Jaboatão dos Guararapes;PE;Pessoal e Encargos Sociais;Ministério da Agricultura;39351390.37;2024-08-16;Despesa Paga;Contribuições Sociais
+596;Araguaína;TO;Amortização da Dívida;Controladoria-Geral da União;9221570.26;2024-11-28;Despesa Liquidada;Taxas e Multas
+597;Penedo;AL;Outras Despesas Correntes;Ministério do Trabalho;13257900.28;2024-09-23;Despesa Paga;Recursos Ordinários
+598;Osasco;SP;Inversões Financeiras;Ministério da Fazenda;3299186.65;2024-06-26;Despesa Liquidada;Doações
+599;Fortaleza;CE;Investimentos;Ministério da Educação;8714628.39;2024-12-05;Despesa Empenhada;Doações
+600;Ariquemes;RO;Outras Despesas Correntes;Presidência da República;28764099.15;2024-06-12;Despesa Liquidada;Fundo de Participação

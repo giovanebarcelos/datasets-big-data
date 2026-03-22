@@ -1,41 +1,16 @@
-﻿Participante;Idade;Genero;Peso_kg;Altura_cm;Pressao_Arterial;Diabetes;Fumante;Plano_Saude
-Carolina Teixeira Ferreira;61;M;77,6;191;126/86;Não;Sim;SUS
-Fernando Pereira Rodrigues;57;Outro;87,8;155;138/96;Não;Sim;Bradesco Saúde
-Mateus Moreira Teixeira;48;Outro;52,7;173;101/98;Não;Ex-fumante;SulAmérica
-Mateus Rocha Costa;64;M;59,9;195;158/72;Não;Sim;Bradesco Saúde
-João Almeida Moreira;47;F;65,8;188;128/75;Não;Não;SulAmérica
-Fernando Gomes Ferreira;33;F;106,4;154;100/62;Não;Ex-fumante;SUS
-Juliana Martins Lima;74;Outro;90,7;195;149/98;Pré-diabético;Ex-fumante;Unimed
-Luciana Castro Santos;36;F;115,4;152;123/85;Pré-diabético;Ex-fumante;SUS
-Raquel Souza Souza;27;F;109,4;187;148/67;Não;Não;SUS
-Carla Pereira Araújo;31;F;53,3;191;144/64;Não;Ex-fumante;SUS
-André Gomes Carvalho;62;F;73,1;178;144/76;Pré-diabético;Não;SulAmérica
-Rafael Rodrigues Barbosa;36;M;63,8;173;136/83;Não;Não;SUS
-Henrique Teixeira Carvalho;48;Outro;82,4;168;109/68;Não;Ex-fumante;Bradesco Saúde
-Larissa Teixeira Pereira;19;M;94,6;159;137/60;Não;Não;SUS
-Luciana Mendes Ferreira;80;F;99,7;187;154/92;Não;Ex-fumante;Bradesco Saúde
-Luciana Teixeira Ferreira;73;Outro;86,0;180;157/84;Sim;Ex-fumante;Unimed
-Camila Carvalho Almeida;32;M;68,7;157;141/72;Não;Não;SUS
-Eduardo Pereira Castro;30;F;101,5;175;140/66;Não;Ex-fumante;Unimed
-Tatiana Nascimento Castro;52;M;127,5;153;128/96;Pré-diabético;Sim;Amil
-Patrícia Monteiro Teixeira;72;M;64,4;195;129/71;Sim;Ex-fumante;Bradesco Saúde
-Juliana Castro Almeida;64;M;122,0;158;133/79;Sim;Sim;Amil
-Henrique Moreira Araújo;47;M;90,6;153;120/100;Sim;Sim;SUS
-Thiago Oliveira Araújo;30;M;91,1;163;138/91;Não;Ex-fumante;Unimed
-Fernanda Castro Rocha;67;Outro;61,6;190;139/89;Sim;Não;SUS
-Luciana Teixeira Ferreira;39;Outro;86,1;168;160/79;Não;Ex-fumante;Amil
-Larissa Vieira Nascimento;50;F;98,2;157;148/71;Não;Sim;Bradesco Saúde
-Luciana Ferreira Ferreira;22;F;102,2;156;159/88;Não;Ex-fumante;SUS
-Bruno Souza Pereira;31;F;87,7;170;149/93;Não;Sim;SUS
-Vanessa Almeida Moreira;61;M;72,5;162;149/85;Não;Sim;SulAmérica
-Ricardo Barbosa Araújo;59;Outro;112,0;167;114/76;Não;Não;Bradesco Saúde
-Felipe Gomes Castro;40;Outro;71,8;169;127/96;Não;Não;Unimed
-Ana Martins Costa;59;M;127,9;167;101/72;Não;Ex-fumante;SUS
-Isabela Costa Silva;38;F;112,2;170;135/95;Não;Sim;SulAmérica
-Larissa Souza Oliveira;33;M;72,7;180;160/97;Não;Sim;SUS
-Luciana Pereira Lima;56;Outro;76,9;156;103/100;Não;Não;SulAmérica
-Carolina Carvalho Souza;48;M;119,9;154;120/86;Não;Sim;SulAmérica
-Renata Almeida Nascimento;23;F;65,8;186;134/76;Pré-diabético;Ex-fumante;Bradesco Saúde
-Rafael Oliveira Monteiro;63;Outro;71,7;173;157/88;Não;Sim;Bradesco Saúde
-Camila Rocha Costa;39;M;102,6;195;116/76;Pré-diabético;Ex-fumante;Unimed
-Gabriel Teixeira Martins;45;F;113,5;153;153/93;Sim;Ex-fumante;Bradesco Saúde
+Participante;Idade;Condicao_Previa;Medicamento_Uso;Frequencia_Exercicio;Avaliacao_Saude_1a10
+Ana Maria Silva;51;Alergia;Não;Sedentário;10
+João Pedro Santos;60;Hipertensão;Não;1x semana;8
+Maria Fernanda Oliveira;47;Artrite;Sim;Sedentário;10
+Carlos Eduardo Costa;38;Insônia;Sim;Sedentário;7
+Juliana Almeida Souza;50;Hipertensão;Sim;Sedentário;8
+Roberto Lima Neto;30;Depressão;Não;1x semana;7
+Patrícia Mendes Dias;45;Artrite;Não;Diária;5
+Fernando Araújo Ribeiro;64;Alergia;Sim;1x semana;9
+Luciana Barbosa;51;Hipertensão;Não;Sedentário;6
+Thiago Nascimento Ramos;49;Insônia;Sim;Sedentário;4
+Camila Torres Freitas;31;Enxaqueca;Sim;3x semana;4
+Bruno Cardoso Pinto;61;Ansiedade;Sim;3x semana;9
+Amanda Vieira Gomes;60;Enxaqueca;Não;3x semana;9
+Ricardo Monteiro Lopes;63;Ansiedade;Não;1x semana;4
+Daniela Rocha Martins;67;Nenhuma;Não;3x semana;9

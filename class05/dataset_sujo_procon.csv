@@ -1,631 +1,631 @@
-﻿ID;Data_Reclamacao;Consumidor;CPF;Cidade;UF;Categoria;Empresa;Descricao_Problema;Status;Nota_Consumidor;Tempo_Resposta_Dias
-1;10/02/2024;Renata Moreira Teixeira;994.510.683-82;Fortaleza;pe;Telefonia Celular;tim;Serviço interrompido sem aviso;Finalizada;;54
-2;2022-03-16;Carlos  Nascimento  Nascimento;767.660.628-95;Guarulhos;AC;Educação Superior;Kroton LTDA;Atendimento ao cliente insatisfatório;FINALIZADA;3;
-3;26/11/22;LEONARDO PEREIRA TEIXEIRA;;Fortaleza;RJ;Telefonia Celular;Claro LTDA;Produto não entregue no prazo;finalizada;N/A;40
-4;02/02/2022;Felipe  Moreira  Ferreira;785.234.615-12;Osasco;Ac;Educação Superior;Kroton;Produto não entregue no prazo;resolvida;3;-1
-5;02/11/23;Pedro  Teixeira  Pereira;375.229.648-42;São Paulo;BA;Internet Banda Larga;TIM LIVE;Dificuldade para cancelar contrato;Finalizada;;63
-6;13/07/2023;  Camila Rocha Carvalho  ;126.817.930-08;Florianópolis;RN;Plano de Saúde;Unimed LTDA;Produto não entregue no prazo;Em Andamento;N/A;5
-7;16/12/2023;Rafael Silva Almeida;90596669423;Guarulhos;sc;Plano de Saúde;Bradesco Saúde;Cobrança após cancelamento;em andamento;N/A;-1
-8;25.09.2022;FELIPE SANTOS FERREIRA;898.810.855-87;Campinas;MA;Comércio Eletrônico;Amazon;Cobrança após cancelamento;Resolvida;3;-1
-9;09.05.2022;Eduardo  Castro  Oliveira;36900479046;João Pessoa;SP;Transporte Aéreo;LATAM;Produto não entregue no prazo;Não resolvida;4;10
-10;24/11/2023;Juliana Araújo Lima;647.763.103-23;MARINGÁ;AL;Plano de Saúde;Bradesco Saúde S.A.;Produto não entregue no prazo;Finalizada;3;47
-11;07/08/2024;Carolina  Teixeira  Teixeira;644.286.307-07;Belo Horizonte ;AL;TV por Assinatura;OI TV;Cobrança após cancelamento;RESOLVIDA;4;-1
-12;2024-06-28;MARIANA CASTRO FERREIRA;276.074.146-44;Belém;DF;Cartão de Crédito;Bradesco;Dificuldade para cancelar contrato;EM ANDAMENTO;;
-13;05-05-2024;Juliana Vieira Santos;218.241.408-17;MANAUS;ap;Transporte Aéreo;Avianca LTDA;Descumprimento de oferta;Não Resolvida;5;
-14;25.11.2024;Beatriz  Martins  Gomes;404.492.728-09;GUARULHOS;Pi;Cartão de Crédito;SANTANDER;Atendimento ao cliente insatisfatório;resolvida;3;35
-15;30/07/2023;Carolina Castro Almeida;81560542707;Maringá;se;Energia Elétrica;CPFL;Produto não entregue no prazo;resolvida;4;-1
-16;2023-09-16;  Carlos Araújo Silva  ;;JUIZ DE FORA;RS;Transporte Aéreo;LATAM LTDA;Não cumprimento de garantia;não resolvida;;-1
-17;15/08/24;PATRÍCIA SOUZA COSTA;151.980.702-72;Teresina;Ro;Energia Elétrica;ENEL;Cobrança após cancelamento;NÃO RESOLVIDA;4;82
-18;13/11/2023;Larissa Souza Costa;64458296945;Brasília;SE;Cartão de Crédito;Santander LTDA;Cobrança indevida na fatura;Em Andamento;5;
-19;21.03.2024;Carolina  Costa  Rodrigues;;São José dos Campos;BA;Transporte Aéreo;LATAM;Dificuldade para cancelar contrato;não resolvida;2;30
-20;25.04.2022;adriana carvalho monteiro;38577973982;Vitória;Es;Internet Banda Larga;Tim Live;Cobrança após cancelamento;não resolvida;2;-1
-21;11-10-2022;MARCOS VIEIRA GOMES;65120690611;Maringá;PB;Plano de Saúde;Amil;Atendimento ao cliente insatisfatório;RESOLVIDA;;
-22;08-03-2023;  Gustavo Costa Castro  ;033.086.414-86;Manaus;PE;Telefonia Celular;Tim;Propaganda enganosa;Finalizada;3;17
-23;;LUCAS LIMA FERREIRA;956.291.796-44;Osasco;SP;Transporte Aéreo;LATAM S.A.;Cobrança indevida na fatura;RESOLVIDA;1;40
-24;17/05/2023;Amanda  Silva  Barbosa;161.155.661-34;Natal;MS;Telefonia Celular;CLARO;Dificuldade para cancelar contrato;Em Andamento;2;52
-25;2022-12-05;Paulo Teixeira Lima;128.265.859-70;João Pessoa;AC;Plano de Saúde;SulAmérica LTDA;Não cumprimento de garantia;RESOLVIDA;3;45
-26;05/07/2023;HENRIQUE CARVALHO NASCIMENTO;;Vitória;SP;Educação Superior;anhanguera;Dificuldade para cancelar contrato;em andamento;;-1
-27;03/05/2024;  Renata Martins Ferreira  ;14597736609;Maringá;ap;Banco;banco do brasil;Atendimento ao cliente insatisfatório;finalizada;4;45
-28;04/03/22;TATIANA ARAÚJO CARVALHO;;Goiânia;PI;Plano de Saúde;bradesco saúde;Propaganda enganosa;EM ANDAMENTO;5;-1
-29;24-01-2022;  Luciana Monteiro Vieira  ;572.400.303-15;São José dos Campos;PB;Educação Superior;Kroton;Serviço interrompido sem aviso;Em Andamento;3;35
-30;11/22/2022;Gabriel Barbosa Almeida;;Uberlândia ;Pr;Telefonia Celular;OI;Dificuldade para cancelar contrato;não resolvida;5;61
-31;25.10.2022;GUSTAVO TEIXEIRA CARVALHO;24088609692;SÃO LUÍS;AL;Telefonia Celular;Vivo;Não cumprimento de garantia;RESOLVIDA;5;22
-32;;Bruno  Martins  Nascimento;;JUIZ DE FORA;PI;Telefonia Celular;Oi S.A.;Propaganda enganosa;Finalizada;4;15
-33;25/01/2023;MATEUS PEREIRA NASCIMENTO;;Belo Horizonte;PE;Comércio Eletrônico;Magazine Luiza;Descumprimento de oferta;em andamento;5;
-34;05/04/2022;diego rodrigues lima;;São José dos Campos;Pr;Comércio Eletrônico;Amazon S.A.;Descumprimento de oferta;Resolvida;4;-1
-35;18/06/2024;  Luciana Nascimento Ferreira  ;05249221911;Belém;Go;Internet Banda Larga;Tim Live;Propaganda enganosa;Resolvida;3;75
-36;20/05/23;Patrícia Araújo Teixeira;95986777055;São José dos Campos ;SP;Comércio Eletrônico;Mercado Livre;Não cumprimento de garantia;Finalizada;3;71
-37;;Henrique Almeida Lima;99165081136;Rio de Janeiro;RS;Transporte Aéreo;Azul;Descumprimento de oferta;Finalizada;2;-1
-38;25/12/23;LEONARDO MARTINS VIEIRA;;RIO DE JANEIRO;DF;TV por Assinatura;Claro TV LTDA;Serviço interrompido sem aviso;Não Resolvida;5;-1
-39;22/10/2022;Leonardo  Nascimento  Mendes;88524991960;Curitiba;Ro;Plano de Saúde;Bradesco Saúde;Descumprimento de oferta;Não Resolvida;;-1
-40;05-02-2024;Juliana Silva Ribeiro;664.970.084-45;Curitiba;am;Energia Elétrica;Light;Não cumprimento de garantia;Finalizada;N/A;13
-41;25.05.2024;THIAGO CARVALHO FERREIRA;25776899773;BRASÍLIA;AL;TV por Assinatura;claro tv;Descumprimento de oferta;Resolvida;3;8
-42;04-11-2023;Beatriz Nascimento Barbosa;84274062828;São Paulo;MT;TV por Assinatura;SKY;Serviço interrompido sem aviso;Em Andamento;;21
-43;19/05/2024;Gabriel  Gomes  Monteiro;;Belo Horizonte;Am;Telefonia Celular;oi;Descumprimento de oferta;NÃO RESOLVIDA;N/A;
-44;04/25/2023;patrícia gomes ribeiro;009.805.783-69;Campinas;AP;Energia Elétrica;light;Atendimento ao cliente insatisfatório;Não resolvida;N/A;87
-45;07-12-2022;Eduardo Rocha Pereira;10788312736;João Pessoa;CE;Comércio Eletrônico;Amazon;Produto não entregue no prazo;Finalizada;3;87
-46;;Juliana  Carvalho  Almeida;;Curitiba ;Df;TV por Assinatura;DirecTV Go LTDA;Cobrança após cancelamento;resolvida;2;
-47;20-08-2023;  Raquel Costa Barbosa  ;;Porto Alegre;TO;TV por Assinatura;Oi TV S.A.;Atendimento ao cliente insatisfatório;Finalizada;4;34
-48;;diego silva barbosa;;São Paulo;MS;Transporte Aéreo;latam;Cobrança indevida na fatura;Em Andamento;5;
-49;2024-12-19;Luciana  Moreira  Ferreira;305.782.453-10;Manaus;es;Transporte Aéreo;Avianca;Propaganda enganosa;Não Resolvida;3;54
-50;29.04.2024;  Mariana Pereira Monteiro  ;;Fortaleza;PA;Telefonia Celular;Tim;Cobrança após cancelamento;Em Andamento;N/A;9
-51;19/01/2023;Ricardo  Pereira  Carvalho;70507077508;Aparecida de Goiânia;Rn;Energia Elétrica;ENEL;Descumprimento de oferta;Finalizada;;42
-52;04/03/2022;adriana carvalho costa;731.370.017-49;BRASÍLIA;ms;Telefonia Celular;Oi;Cobrança indevida na fatura;Não Resolvida;;77
-53;08/14/2023;Ricardo Monteiro Costa;833.728.756-79;Campinas;PA;Energia Elétrica;light;Descumprimento de oferta;Finalizada;;9
-54;2023-07-09;DIEGO TEIXEIRA OLIVEIRA;340.371.524-31;FORTALEZA;PI;Telefonia Celular;Tim;Produto não entregue no prazo;Não Resolvida;4;57
-55;20/12/2024;  João Nascimento Teixeira  ;;Feira de Santana ;pi;Energia Elétrica;Enel S.A.;Propaganda enganosa;FINALIZADA;2;36
-56;12/09/2024;Ricardo Moreira Silva;;Joinville;GO;Comércio Eletrônico;Americanas S.A.;Cobrança indevida na fatura;EM ANDAMENTO;5;-1
-57;;Paulo Martins Pereira;82463061621;Osasco;AC;Comércio Eletrônico;Americanas;Dificuldade para cancelar contrato;RESOLVIDA;3;-1
-58;30-08-2024;  Beatriz Teixeira Rodrigues  ;10705605573;RECIFE;AC;Energia Elétrica;Cemig;Vício ou defeito no produto;RESOLVIDA;1;-1
-59;26-11-2023;MARIANA NASCIMENTO PEREIRA;559.556.216-83;Cuiabá ;pr;Energia Elétrica;Copel;Cobrança após cancelamento;Em Andamento;1;
-60;22/03/2022;Renata Carvalho Nascimento;;Teresina;DF;Educação Superior;anhanguera;Não cumprimento de garantia;resolvida;N/A;
-61;21/09/2024;Tatiana  Gomes  Barbosa;;Manaus;MS;Educação Superior;Estácio;Produto não entregue no prazo;Não resolvida;2;20
-62;2024-01-08;marcos monteiro rodrigues;210.741.443-01;Porto Velho;MS;Educação Superior;KROTON;Dificuldade para cancelar contrato;FINALIZADA;2;79
-63;02/12/2024;camila ferreira monteiro;32437039190;Santos;RO;Banco;itaú;Atendimento ao cliente insatisfatório;Em Andamento;5;74
-64;;EDUARDO VIEIRA BARBOSA;;Porto Alegre;RN;Telefonia Celular;oi;Cobrança indevida na fatura;Em Andamento;1;
-65;21/08/2023;Lucas Moreira Monteiro;;JOINVILLE;CE;Transporte Aéreo;GOL;Propaganda enganosa;Finalizada;2;71
-66;07.04.2023;ISABELA NASCIMENTO SOUZA;712.666.153-93;Natal;AL;Internet Banda Larga;Tim Live;Produto não entregue no prazo;NÃO RESOLVIDA;2;80
-67;15/05/2022;Fernanda  Almeida  Nascimento;759.559.422-98;Guarulhos;BA;Internet Banda Larga;Oi Fibra S.A.;Produto não entregue no prazo;resolvida;4;38
-68;08-04-2024;João Ribeiro Silva;267.531.805-76;Brasília;AP;Transporte Aéreo;avianca;Dificuldade para cancelar contrato;em andamento;2;5
-69;08-11-2022;Amanda Carvalho Oliveira;;São José dos Campos;ES;Telefonia Celular;tim;Atendimento ao cliente insatisfatório;Em Andamento;3;-1
-70;26/06/2023;Pedro  Costa  Costa;62412667680;Salvador;MG;Comércio Eletrônico;Mercado Livre;Atendimento ao cliente insatisfatório;FINALIZADA;2;-1
-71;01/07/2022;andré lima almeida;436.444.329-69;Campo Grande;SP;Telefonia Celular;oi;Serviço interrompido sem aviso;não resolvida;;7
-72;;ANDRÉ OLIVEIRA ALMEIDA;277.323.573-74;Curitiba;SC;Telefonia Celular;Tim;Cobrança indevida na fatura;Finalizada;N/A;84
-73;26.04.2022;João  Teixeira  Costa;35313184560;São Luís;ES;TV por Assinatura;SKY;Não cumprimento de garantia;Resolvida;2;14
-74;2023-01-13;Fernanda Martins Monteiro;832.648.971-00;Londrina;AM;Educação Superior;unip;Dificuldade para cancelar contrato;finalizada;1;39
-75;14/10/23;Juliana Barbosa Pereira;130.542.842-51;Brasília;RS;Cartão de Crédito;Bradesco LTDA;Propaganda enganosa;resolvida;3;41
-76;2024-12-30;carolina martins silva;410.593.948-15;Natal;RJ;Cartão de Crédito;Bradesco S.A.;Cobrança indevida na fatura;Não resolvida;5;2
-77;11-03-2024;  Raquel Castro Gomes  ;57579033675;Uberlândia;TO;Educação Superior;estácio;Descumprimento de oferta;Em Andamento;4;-1
-78;;carlos rodrigues martins;27332627767;Osasco;Pe;Internet Banda Larga;Tim Live S.A.;Cobrança após cancelamento;finalizada;N/A;
-79;15/04/2022;Fernando  Silva  Martins;95473564272;Campinas;Al;Telefonia Celular;VIVO;Dificuldade para cancelar contrato;resolvida;3;20
-80;05/21/2022;  Isabela Souza Carvalho  ;25316498283;APARECIDA DE GOIÂNIA;pb;Plano de Saúde;SULAMÉRICA;Não cumprimento de garantia;resolvida;3;
-81;06/09/2023;  Beatriz Silva Teixeira  ;215.272.597-83;OSASCO;GO;Transporte Aéreo;LATAM;Cobrança indevida na fatura;Em Andamento;4;69
-82;06-06-2022;Amanda  Costa  Santos;775.257.231-63;Niterói;ro;Transporte Aéreo;LATAM;Cobrança indevida na fatura;em andamento;2;8
-83;10/02/2023;LETÍCIA RIBEIRO LIMA;722.757.940-74;SÃO LUÍS;GO;Educação Superior;Kroton;Não cumprimento de garantia;Não Resolvida;4;
-84;16/07/2023;andré lima castro;;Aparecida de Goiânia;RJ;Telefonia Celular;Oi;Não cumprimento de garantia;Em Andamento;N/A;56
-85;04/02/2024;ANA NASCIMENTO SOUZA;994.023.235-85;Aracaju ;DF;TV por Assinatura;SKY;Cobrança indevida na fatura;FINALIZADA;5;
-86;11/07/2024;  Beatriz Rocha Costa  ;686.862.748-23;BELO HORIZONTE;AP;Banco;BANCO DO BRASIL;Não cumprimento de garantia;Em Andamento;2;20
-87;04/13/2024;Beatriz Ferreira Pereira;;RIO DE JANEIRO;RJ;Cartão de Crédito;Nubank S.A.;Não cumprimento de garantia;Em Andamento;3;-1
-88;29-07-2023;Luciana Ribeiro Carvalho;897.795.361-40;São Paulo;RN;Energia Elétrica;Enel;Vício ou defeito no produto;Resolvida;2;61
-89;2023-07-20;LETÍCIA MENDES SILVA;479.058.304-70;Uberlândia;AC;Comércio Eletrônico;AMERICANAS;Dificuldade para cancelar contrato;Resolvida;1;70
-90;2024-05-08;isabela vieira rocha;;BELÉM;MA;Internet Banda Larga;Claro NET;Propaganda enganosa;Em Andamento;5;30
-91;02-01-2022;FELIPE LIMA ROCHA;017.505.665-58;NITERÓI;rj;TV por Assinatura;Claro TV;Serviço interrompido sem aviso;Em Andamento;1;52
-92;12/05/2023;Paulo Rocha Souza;693.794.999-52;Florianópolis;PA;Banco;santander;Cobrança após cancelamento;Em Andamento;4;
-93;02.06.2022;raquel carvalho castro;705.068.098-38;Fortaleza;go;Plano de Saúde;Unimed;Descumprimento de oferta;Em Andamento;3;
-94;07/12/2022;Adriana Oliveira Pereira;783.731.835-94;Belém ;GO;Educação Superior;Estácio;Serviço interrompido sem aviso;Em Andamento;N/A;10
-95;2023-11-15;mariana mendes castro;442.526.942-04;Niterói;SP;Comércio Eletrônico;Magazine Luiza;Dificuldade para cancelar contrato;Resolvida;4;74
-96;03/04/23;tatiana teixeira nascimento;455.526.151-07;ARACAJU;AC;TV por Assinatura;Oi TV;Cobrança após cancelamento;Finalizada;;87
-97;;Gabriel Silva Costa;08983187309;Salvador;TO;Comércio Eletrônico;Americanas;Produto não entregue no prazo;Não resolvida;1;40
-98;09-02-2024;Renata Teixeira Ribeiro;;SÃO LUÍS;PE;Telefonia Celular;Oi;Dificuldade para cancelar contrato;resolvida;2;84
-99;11/15/2023;Pedro Ferreira Martins;;Sao Luís;RR;Comércio Eletrônico;Magazine Luiza;Vício ou defeito no produto;NÃO RESOLVIDA;;20
-100;08/12/2023;  Ana Vieira Gomes  ;253.095.587-79;Niterói;PR;Comércio Eletrônico;Magazine Luiza S.A.;Serviço interrompido sem aviso;Não resolvida;1;-1
-101;;Paulo  Rocha  Oliveira;489.579.257-85;Guarulhos;Rn;Telefonia Celular;Claro LTDA;Atendimento ao cliente insatisfatório;Em Andamento;N/A;17
-102;19/05/2023;amanda silva pereira;828.035.689-91;Juiz de Fora;pi;Comércio Eletrônico;Americanas;Descumprimento de oferta;Em Andamento;;-1
-103;01/20/2022;Diego  Pereira  Carvalho;;Aparecida de Goiânia;AL;Banco;Banco do Brasil LTDA;Propaganda enganosa;Resolvida;2;71
-104;16/01/2023;LETÍCIA VIEIRA TEIXEIRA;;Ribeirao Preto;Se;TV por Assinatura;Claro TV;Cobrança indevida na fatura;resolvida;3;40
-105;15/05/2024;Carolina Carvalho Monteiro;514.487.621-64;CAMPO GRANDE;Rr;Comércio Eletrônico;Amazon;Serviço interrompido sem aviso;Em Andamento;;45
-106;02/11/2023;Pedro Moreira Silva;701.785.020-50;Aracaju;PR;Cartão de Crédito;Banco do Brasil;Cobrança indevida na fatura;Resolvida;4;61
-107;07-09-2023;  Beatriz Monteiro Pereira  ;78052890566;BRASÍLIA;PI;Comércio Eletrônico;Americanas;Não cumprimento de garantia;não resolvida;3;-1
-108;06/26/2024;Bruno Teixeira Rocha;448.365.670-71;Aracaju;PR;Cartão de Crédito;Banco do Brasil S.A.;Descumprimento de oferta;Finalizada;;32
-109;;Felipe  Teixeira  Araújo;42507438203;Salvador;Pb;Energia Elétrica;Cemig S.A.;Dificuldade para cancelar contrato;Em Andamento;3;82
-110;21/10/22;Marcos  Vieira  Souza;74316032503;Maceió;Pe;Banco;Santander;Descumprimento de oferta;Em Andamento;1;-1
-111;11/08/2023;Carolina Araújo Almeida;912.990.371-91;Londrina;RJ;Plano de Saúde;sulamérica;Produto não entregue no prazo;Em Andamento;;-1
-112;08/06/2022;Ricardo Monteiro Araújo;347.560.164-26;Teresina;MT;Energia Elétrica;Enel;Serviço interrompido sem aviso;Resolvida;5;
-113;2023-01-30;larissa martins martins;;Belém;Mg;Transporte Aéreo;Avianca LTDA;Serviço interrompido sem aviso;EM ANDAMENTO;2;-1
-114;05.10.2023;Carolina Santos Rodrigues;06174136445;Joinville;SP;Internet Banda Larga;vivo fibra;Não cumprimento de garantia;Resolvida;4;
-115;2023-02-26;Felipe  Castro  Costa;96920666048;São Luís;GO;Cartão de Crédito;Bradesco LTDA;Propaganda enganosa;Resolvida;5;20
-116;31.12.2022;Carla  Rocha  Martins;22368312753;Recife;Sc;Plano de Saúde;bradesco saúde;Descumprimento de oferta;Resolvida;5;64
-117;09/08/24;Ana Rodrigues Souza;;Salvador;AM;Plano de Saúde;Amil LTDA;Cobrança indevida na fatura;Finalizada;;
-118;12-02-2022;FELIPE VIEIRA ARAÚJO;334.421.065-10;João Pessoa;AP;Banco;Itaú;Produto não entregue no prazo;NÃO RESOLVIDA;N/A;
-119;08/25/2023;LUCAS MARTINS BARBOSA;60389515923;Osasco;ap;Banco;BANCO DO BRASIL;Dificuldade para cancelar contrato;Não Resolvida;N/A;-1
-120;09.01.2023;Luciana Teixeira Santos;178.295.988-16;SÃO PAULO;sc;Cartão de Crédito;Itaú LTDA;Propaganda enganosa;Resolvida;1;
-121;30/07/2023;Adriana  Pereira  Lima;;São José dos Campos;df;Educação Superior;Anhanguera LTDA;Produto não entregue no prazo;Resolvida;;60
-122;18/04/2024;Renata Mendes Vieira;941.679.520-27;Natal;PI;Internet Banda Larga;Claro NET S.A.;Serviço interrompido sem aviso;EM ANDAMENTO;N/A;76
-123;29/01/2022;Maria Nascimento Martins;869.484.674-75;Curitiba;SC;Energia Elétrica;Light;Cobrança após cancelamento;Finalizada;1;-1
-124;10/05/22;CARLOS PEREIRA BARBOSA;178.760.287-49;Joinville;RO;Transporte Aéreo;LATAM;Dificuldade para cancelar contrato;Resolvida;4;68
-125;2023-07-05;Renata Gomes Barbosa;;Brasília;ac;Plano de Saúde;SULAMÉRICA;Produto não entregue no prazo;Em Andamento;4;
-126;16/12/22;Thiago  Almeida  Lima;608.736.314-93;SÃO JOSÉ DOS CAMPOS;BA;Educação Superior;Estácio LTDA;Cobrança indevida na fatura;EM ANDAMENTO;5;30
-127;09/24/2023;EDUARDO OLIVEIRA GOMES;47889377070;Rio de Janeiro;MS;Energia Elétrica;Enel S.A.;Atendimento ao cliente insatisfatório;não resolvida;;
-128;13/10/2023;vanessa moreira monteiro;131.525.523-22;Florianópolis;df;Comércio Eletrônico;Magazine Luiza;Dificuldade para cancelar contrato;Em Andamento;N/A;-1
-129;;  Marcos Nascimento Souza  ;217.748.747-79;Cuiabá;RN;Transporte Aéreo;Azul;Cobrança após cancelamento;NÃO RESOLVIDA;5;
-130;12.07.2023;ricardo araújo rocha;785.929.458-36;Feira de Santana;RR;Comércio Eletrônico;MAGAZINE LUIZA;Cobrança após cancelamento;Não Resolvida;;35
-131;02.02.2023;isabela araújo ferreira;847.464.550-72;Curitiba;PI;Telefonia Celular;Claro LTDA;Descumprimento de oferta;em andamento;1;-1
-132;01/01/2022;mateus santos almeida;;Santos;ac;Educação Superior;ESTÁCIO;Serviço interrompido sem aviso;FINALIZADA;2;
-133;24/01/2022;  Paulo Oliveira Teixeira  ;;Porto Velho;DF;Transporte Aéreo;Avianca;Propaganda enganosa;Não resolvida;;17
-134;08-07-2024;Paulo Ribeiro Souza;26203069516;Uberlândia;AM;Transporte Aéreo;Avianca;Produto não entregue no prazo;Resolvida;;-1
-135;07/12/2024;  Adriana Araújo Monteiro  ;51856905096;Niterói;SP;Energia Elétrica;Cemig;Cobrança após cancelamento;Resolvida;4;-1
-136;29-06-2022;  Pedro Almeida Oliveira  ;;Aracaju;MT;Transporte Aéreo;AVIANCA;Dificuldade para cancelar contrato;NÃO RESOLVIDA;3;
-137;11/29/2024;  Diego Araújo Nascimento  ;387.369.323-80;CAMPO GRANDE;go;Plano de Saúde;Bradesco Saúde S.A.;Vício ou defeito no produto;Em Andamento;4;
-138;04/12/2022;Bruno Monteiro Souza;268.937.460-21;Osasco;MA;Plano de Saúde;SulAmérica S.A.;Produto não entregue no prazo;Não resolvida;2;81
-139;2023-11-15;mariana mendes castro;442.526.942-04;Niterói;SP;Comércio Eletrônico;Magazine Luiza;Dificuldade para cancelar contrato;Resolvida;4;74
-140;07-05-2022;Ana Silva Barbosa;369.626.902-22;Aparecida de Goiânia;RO;Energia Elétrica;CPFL S.A.;Não cumprimento de garantia;resolvida;3;14
-141;;Beatriz Lima Vieira;724.771.157-87;Joinville;AP;Energia Elétrica;CPFL S.A.;Serviço interrompido sem aviso;resolvida;;68
-142;03/08/2024;MARCOS MENDES MENDES;696.693.233-70;Uberlândia;Mt;Telefonia Celular;Claro LTDA;Descumprimento de oferta;RESOLVIDA;;
-143;09/01/2024;MARCOS COSTA MARTINS;;Salvador;Ce;Educação Superior;Anhanguera S.A.;Vício ou defeito no produto;resolvida;1;27
-144;30/08/2022;Marcos Ferreira Barbosa;905.306.730-83;Sao Luís;MA;Internet Banda Larga;oi fibra;Descumprimento de oferta;finalizada;5;16
-145;19.04.2023;LUCAS ARAÚJO GOMES;592.897.487-41;JOÃO PESSOA;RO;Energia Elétrica;CEMIG;Produto não entregue no prazo;resolvida;N/A;35
-146;30/07/2023;Lucas Barbosa Souza;814.051.325-17;Teresina;PE;Energia Elétrica;CPFL LTDA;Propaganda enganosa;resolvida;1;68
-147;02/02/24;CAROLINA SOUZA FERREIRA;15890418280;FORTALEZA;Al;Internet Banda Larga;Vivo Fibra;Não cumprimento de garantia;não resolvida;5;5
-148;;Ricardo Souza Oliveira;;Campinas;df;Internet Banda Larga;oi fibra;Propaganda enganosa;resolvida;N/A;40
-149;30/05/2022;Maria Ferreira Carvalho;;NATAL;rj;Transporte Aéreo;Avianca;Produto não entregue no prazo;NÃO RESOLVIDA;N/A;82
-150;01/03/22;Thiago Nascimento Vieira;70483648116;Maringá;Sc;Plano de Saúde;Bradesco Saúde;Produto não entregue no prazo;não resolvida;2;-1
-151;;FERNANDA COSTA ALMEIDA;833.878.959-19;Vitória;RJ;Plano de Saúde;SULAMÉRICA;Não cumprimento de garantia;Em Andamento;;
-152;31-07-2024;Rafael  Costa  Ribeiro;740.536.251-23;Fortaleza;AM;Internet Banda Larga;claro net;Serviço interrompido sem aviso;resolvida;2;
-153;05/11/2024;Letícia  Silva  Rodrigues;694.473.534-14;Fortaleza;CE;Internet Banda Larga;oi fibra;Vício ou defeito no produto;Finalizada;4;
-154;17.01.2023;Gabriel Santos Pereira;;São Paulo;ES;Internet Banda Larga;Vivo Fibra LTDA;Propaganda enganosa;em andamento;3;2
-155;06/04/2022;GABRIEL GOMES FERREIRA;586.277.888-26;SÃO LUÍS;Go;Educação Superior;Anhanguera;Cobrança indevida na fatura;EM ANDAMENTO;5;16
-156;2024-07-18;  Carlos Costa Almeida  ;33054849516;JOINVILLE;RJ;Cartão de Crédito;Itaú;Cobrança após cancelamento;Não Resolvida;4;-1
-157;10/13/2024;  Amanda Rocha Martins  ;77759358613;Brasília;Ap;Plano de Saúde;Amil LTDA;Cobrança indevida na fatura;Em Andamento;;78
-158;;MARIANA CARVALHO LIMA;847.413.401-92;Santos;RR;Educação Superior;Kroton;Descumprimento de oferta;Em Andamento;;67
-159;30.05.2023;lucas mendes araújo;213.461.646-15;Osasco;BA;TV por Assinatura;Oi TV S.A.;Cobrança indevida na fatura;Resolvida;;10
-160;06/06/2023;João Vieira Moreira;;Belo Horizonte;RN;Cartão de Crédito;Itaú;Dificuldade para cancelar contrato;NÃO RESOLVIDA;3;-1
-161;25/01/23;  Pedro Rocha Lima  ;884.959.126-09;São Paulo;SC;Energia Elétrica;Light S.A.;Dificuldade para cancelar contrato;Finalizada;3;81
-162;2023-02-26;Mateus Gomes Barbosa;;CAMPO GRANDE;PA;TV por Assinatura;CLARO TV;Vício ou defeito no produto;Finalizada;;9
-163;20-10-2022;renata ferreira carvalho;048.113.018-64;Manaus;ms;Plano de Saúde;Unimed LTDA;Produto não entregue no prazo;não resolvida;3;
-164;2023-03-01;isabela mendes santos;697.216.218-33;Maringá;Sc;TV por Assinatura;directv go;Não cumprimento de garantia;Não Resolvida;3;21
-165;18/06/2023;Carlos Carvalho Araújo;45137402826;Osasco;RJ;Energia Elétrica;CEMIG;Vício ou defeito no produto;não resolvida;3;75
-166;02-02-2022;Mariana  Monteiro  Teixeira;983.589.477-06;Maringá;ES;Telefonia Celular;VIVO;Propaganda enganosa;Finalizada;4;58
-167;27.10.2023;  Maria Moreira Gomes  ;14504972366;Niterói;pe;Plano de Saúde;Unimed LTDA;Produto não entregue no prazo;Em Andamento;N/A;-1
-168;14/06/2024;Mariana Gomes Souza;861.997.078-39;Brasília;MA;TV por Assinatura;DIRECTV GO;Não cumprimento de garantia;Em Andamento;N/A;-1
-169;17/11/2023;Lucas Monteiro Martins;714.359.341-06;Santos;RS;Comércio Eletrônico;AMAZON;Dificuldade para cancelar contrato;Não Resolvida;1;19
-170;18/03/2023;  Tatiana Lima Vieira  ;36816723866;SANTOS;pr;Plano de Saúde;Bradesco Saúde LTDA;Dificuldade para cancelar contrato;Finalizada;N/A;86
-171;;Vanessa Teixeira Monteiro;826.800.907-22;JUIZ DE FORA;AP;Internet Banda Larga;TIM LIVE;Serviço interrompido sem aviso;Não resolvida;;-1
-172;31.05.2023;Felipe Rocha Barbosa;77253209592;SÃO JOSÉ DOS CAMPOS;SE;Plano de Saúde;SulAmérica;Descumprimento de oferta;Não resolvida;3;61
-173;15/12/22;Tatiana Ribeiro Gomes;;Rio de Janeiro;RR;Telefonia Celular;CLARO;Produto não entregue no prazo;não resolvida;2;33
-174;28-12-2024;Marcos Costa Oliveira;954.252.750-56;Ribeirão Preto ;PE;Telefonia Celular;Oi;Descumprimento de oferta;Resolvida;4;24
-175;02/09/2024;  Carolina Rocha Rocha  ;;Maringá;se;Internet Banda Larga;Claro NET;Descumprimento de oferta;NÃO RESOLVIDA;2;23
-176;26/02/22;Gustavo Moreira Rodrigues;04582072162;Londrina;BA;Energia Elétrica;COPEL;Descumprimento de oferta;Não Resolvida;N/A;85
-177;;  Maria Santos Araújo  ;812.532.512-18;Juiz de Fora;mg;Educação Superior;Anhanguera LTDA;Vício ou defeito no produto;finalizada;N/A;28
-178;12/08/2022;fernanda pereira ribeiro;;Joinville;rj;Comércio Eletrônico;MAGAZINE LUIZA;Descumprimento de oferta;Resolvida;N/A;21
-179;06/09/2023;Carlos Barbosa Teixeira;115.576.941-51;Feira de Santana;MS;TV por Assinatura;Claro TV S.A.;Dificuldade para cancelar contrato;resolvida;2;-1
-180;06.07.2023;  Vanessa Oliveira Santos  ;233.558.857-28;Campo Grande;Rs;Educação Superior;Anhanguera S.A.;Produto não entregue no prazo;RESOLVIDA;;
-181;06/08/2023;Juliana  Rocha  Pereira;434.660.954-70;Santos;Rj;Internet Banda Larga;Claro NET S.A.;Não cumprimento de garantia;Em Andamento;4;
-182;12/12/2022;JOÃO COSTA RIBEIRO;46853045555;SALVADOR;DF;Energia Elétrica;CPFL S.A.;Descumprimento de oferta;Finalizada;2;
-183;09/18/2024;GABRIEL FERREIRA MENDES;903.177.569-00;Curitiba ;SP;Comércio Eletrônico;AMERICANAS;Atendimento ao cliente insatisfatório;NÃO RESOLVIDA;;-1
-184;14-12-2024;mateus barbosa martins;28774786910;Rio de Janeiro;SE;Educação Superior;Kroton LTDA;Vício ou defeito no produto;Em Andamento;;10
-185;11/11/24;Maria  Pereira  Moreira;;Teresina;RO;Cartão de Crédito;bradesco;Dificuldade para cancelar contrato;NÃO RESOLVIDA;1;43
-186;07/05/2024;thiago almeida costa;;Sao José dos Campos;Rs;Plano de Saúde;unimed;Propaganda enganosa;EM ANDAMENTO;5;34
-187;04-01-2023;Juliana Vieira Nascimento;281.137.244-79;Maringá;Mt;Internet Banda Larga;TIM LIVE;Cobrança após cancelamento;Em Andamento;N/A;
-188;04/10/2022;pedro rodrigues barbosa;;SÃO PAULO;pe;Internet Banda Larga;VIVO FIBRA;Não cumprimento de garantia;Finalizada;4;37
-189;14-12-2022;Luciana  Santos  Teixeira;751.862.109-86;Niterói;Ce;Internet Banda Larga;Oi Fibra LTDA;Não cumprimento de garantia;Finalizada;5;9
-190;;fernanda araújo santos;022.525.531-34;Londrina;PI;Educação Superior;UNIP;Produto não entregue no prazo;FINALIZADA;;-1
-191;;carlos martins teixeira;704.171.038-91;RIBEIRÃO PRETO;MA;Plano de Saúde;Unimed;Atendimento ao cliente insatisfatório;Não Resolvida;3;56
-192;10/04/2022;BEATRIZ MONTEIRO VIEIRA;333.501.626-25;Belo Horizonte;go;Internet Banda Larga;Oi Fibra;Cobrança indevida na fatura;Em Andamento;2;4
-193;2022-05-30;luciana costa teixeira;;Ribeirão Preto;AL;Internet Banda Larga;Oi Fibra;Atendimento ao cliente insatisfatório;resolvida;;27
-194;08.06.2024;André Lima Ferreira;042.186.747-15;Salvador;Rs;Internet Banda Larga;tim live;Cobrança indevida na fatura;em andamento;N/A;7
-195;29/10/2023;André  Carvalho  Martins;403.507.695-55;Cuiabá;PE;Telefonia Celular;vivo;Serviço interrompido sem aviso;finalizada;4;-1
-196;;Henrique  Pereira  Silva;105.591.698-33;UBERLÂNDIA;ma;Telefonia Celular;tim;Propaganda enganosa;resolvida;2;-1
-197;04/25/2022;  Carla Almeida Barbosa  ;35440711072;Rio de Janeiro;RO;Plano de Saúde;Unimed S.A.;Vício ou defeito no produto;Finalizada;;26
-198;26/11/23;Ricardo  Teixeira  Barbosa;69902131166;Santos;RS;TV por Assinatura;Oi TV S.A.;Descumprimento de oferta;FINALIZADA;2;73
-199;2024-06-26;Henrique Rodrigues Carvalho;741.359.665-33;São Luís;Ro;Plano de Saúde;SULAMÉRICA;Atendimento ao cliente insatisfatório;Não resolvida;1;4
-200;2022-04-20;Mateus Rocha Araújo;179.316.250-55;Belém;RN;Banco;santander;Cobrança após cancelamento;não resolvida;4;31
-201;05/26/2023;EDUARDO RODRIGUES PEREIRA;16099097578;RECIFE;Ap;Telefonia Celular;Oi S.A.;Propaganda enganosa;EM ANDAMENTO;3;37
-202;11/12/2022;patrícia castro ribeiro;03235841802;Aracaju;rj;Comércio Eletrônico;amazon;Descumprimento de oferta;Não resolvida;N/A;
-203;05/04/2022;  Luciana Martins Souza  ;;GOIÂNIA;BA;Banco;Caixa LTDA;Cobrança após cancelamento;Finalizada;3;
-204;;André  Almeida  Silva;677.798.367-78;Sao Paulo;RR;Banco;Itaú LTDA;Não cumprimento de garantia;NÃO RESOLVIDA;N/A;59
-205;20/06/2023;maria monteiro souza;086.715.207-71;Joinville;MA;Cartão de Crédito;Santander LTDA;Não cumprimento de garantia;em andamento;2;38
-206;13-12-2024;felipe vieira santos;307.177.613-50;Uberlândia;Mg;TV por Assinatura;Claro TV;Atendimento ao cliente insatisfatório;EM ANDAMENTO;2;
-207;2024-09-30;PATRÍCIA MOREIRA RODRIGUES;598.977.738-24;Ribeirão Preto;PA;Educação Superior;Estácio;Serviço interrompido sem aviso;Não resolvida;;
-208;28-10-2023;Adriana Martins Martins;82487414278;São Luís;Am;Transporte Aéreo;Avianca;Vício ou defeito no produto;NÃO RESOLVIDA;;74
-209;;Pedro Martins Rodrigues;;CURITIBA;PI;Banco;Santander;Dificuldade para cancelar contrato;Não Resolvida;2;67
-210;06/12/2022;RICARDO BARBOSA LIMA;80127712771;Porto Velho;Df;Telefonia Celular;claro;Descumprimento de oferta;EM ANDAMENTO;3;1
-211;14/09/2022;Paulo Rodrigues Gomes;;São Paulo;RO;Plano de Saúde;SulAmérica;Atendimento ao cliente insatisfatório;NÃO RESOLVIDA;4;-1
-212;19/01/2023;Ricardo  Pereira  Carvalho;70507077508;Aparecida de Goiânia;Rn;Energia Elétrica;ENEL;Descumprimento de oferta;Finalizada;;42
-213;;renata souza monteiro;043.598.398-59;Sorocaba ;Se;Energia Elétrica;Light LTDA;Dificuldade para cancelar contrato;Finalizada;4;10
-214;04/17/2024;  Fernanda Rodrigues Almeida  ;;Florianópolis;Ro;Telefonia Celular;Oi;Cobrança após cancelamento;Não Resolvida;4;-1
-215;08/24/2023;  Juliana Martins Castro  ;814.207.681-70;Osasco;es;Plano de Saúde;SulAmérica;Atendimento ao cliente insatisfatório;finalizada;N/A;-1
-216;2022-04-18;adriana ferreira oliveira;;Brasília;PE;Banco;santander;Atendimento ao cliente insatisfatório;resolvida;3;13
-217;;BEATRIZ TEIXEIRA RIBEIRO;129.555.100-51;Ribeirão Preto;Rr;Banco;Bradesco;Vício ou defeito no produto;Não Resolvida;1;
-218;06/27/2024;  Lucas Pereira Costa  ;80433315696;Rio de Janeiro;ma;Telefonia Celular;Claro LTDA;Atendimento ao cliente insatisfatório;NÃO RESOLVIDA;;88
-219;2023-06-09;ricardo pereira martins;;Florianópolis;AP;Banco;Caixa S.A.;Não cumprimento de garantia;RESOLVIDA;1;24
-220;30.06.2022;tatiana gomes santos;60675141483;Fortaleza;RJ;Internet Banda Larga;tim live;Serviço interrompido sem aviso;finalizada;;70
-221;20/05/2023;GABRIEL SOUZA LIMA;;Rio de Janeiro;RJ;Internet Banda Larga;Oi Fibra S.A.;Propaganda enganosa;Em Andamento;;86
-222;02/07/2024;  Diego Rocha Castro  ;62902515386;Belém;SP;TV por Assinatura;Claro TV;Não cumprimento de garantia;Em Andamento;N/A;
-223;;Bruno Lima Silva;176.170.613-01;Manaus;ES;Transporte Aéreo;LATAM S.A.;Serviço interrompido sem aviso;Resolvida;N/A;55
-224;;carolina ferreira rocha;457.502.188-52;Curitiba;PE;Energia Elétrica;CPFL;Vício ou defeito no produto;Não resolvida;5;
-225;06/07/2024;Tatiana Ribeiro Mendes;63560062551;Brasília;sp;Plano de Saúde;Unimed LTDA;Atendimento ao cliente insatisfatório;Finalizada;3;-1
-226;13/08/2023;Bruno Araújo Teixeira;;Aparecida de Goiânia ;mt;Energia Elétrica;CPFL;Cobrança após cancelamento;Não Resolvida;3;63
-227;12/05/2022;Felipe Gomes Santos;;Guarulhos ;go;Comércio Eletrônico;Americanas S.A.;Cobrança indevida na fatura;EM ANDAMENTO;N/A;-1
-228;14/12/22;RAFAEL CASTRO PEREIRA;472.240.553-06;Recife;AC;Banco;santander;Cobrança após cancelamento;não resolvida;3;-1
-229;01/03/2023;larissa rodrigues ribeiro;331.614.082-31;Fortaleza;PB;Educação Superior;UNIP;Descumprimento de oferta;Em Andamento;N/A;10
-230;;camila silva mendes;;Rio de Janeiro ;Ce;Plano de Saúde;Unimed S.A.;Serviço interrompido sem aviso;resolvida;;18
-231;08-02-2024;  Amanda Martins Vieira  ;;Manaus;es;Cartão de Crédito;Itaú S.A.;Cobrança após cancelamento;Em Andamento;1;-1
-232;04/21/2022;Letícia  Lima  Ribeiro;45334798529;RIBEIRÃO PRETO;AC;Internet Banda Larga;TIM LIVE;Cobrança indevida na fatura;em andamento;2;78
-233;02.03.2022;pedro castro rodrigues;;Natal;rr;Energia Elétrica;CPFL;Atendimento ao cliente insatisfatório;não resolvida;N/A;
-234;05-07-2024;  Fernando Costa Ferreira  ;05509579281;LONDRINA;Mg;Telefonia Celular;Oi;Não cumprimento de garantia;NÃO RESOLVIDA;1;35
-235;09/26/2023;Fernando  Pereira  Costa;54592055967;Londrina;AP;Cartão de Crédito;Santander LTDA;Cobrança após cancelamento;Não Resolvida;;57
-236;2023-04-14;Renata  Rodrigues  Rodrigues;62819150237;Campinas ;PR;Banco;Santander;Dificuldade para cancelar contrato;Não Resolvida;3;
-237;2023-04-27;Vanessa Carvalho Nascimento;24524881603;MACEIÓ;PA;Banco;Banco do Brasil;Propaganda enganosa;Resolvida;N/A;29
-238;14/07/2023;Carla Martins Carvalho;029.708.137-22;Recife;MS;Banco;Bradesco LTDA;Serviço interrompido sem aviso;Não resolvida;1;-1
-239;29/01/2022;Maria Nascimento Martins;869.484.674-75;Curitiba;SC;Energia Elétrica;Light;Cobrança após cancelamento;Finalizada;1;-1
-240;2022-12-10;CAROLINA ROCHA ROCHA;149.057.175-32;Uberlândia;rn;Plano de Saúde;Amil S.A.;Produto não entregue no prazo;Em Andamento;5;
-241;02/10/2023;Maria Almeida Carvalho;477.568.863-71;Londrina;pi;Telefonia Celular;claro;Dificuldade para cancelar contrato;Não resolvida;5;
-242;;João Vieira Barbosa;;Osasco;Ba;Banco;Caixa;Cobrança indevida na fatura;Em Andamento;;
-243;22-12-2022;FERNANDA MONTEIRO ROCHA;780.410.486-67;São José dos Campos;ba;TV por Assinatura;OI TV;Descumprimento de oferta;RESOLVIDA;5;16
-244;04-12-2024;  João Araújo Castro  ;116.114.644-61;Maringá;Al;Comércio Eletrônico;MAGAZINE LUIZA;Serviço interrompido sem aviso;em andamento;3;31
-245;29/09/2024;ana mendes costa;;Osasco;RS;Cartão de Crédito;nubank;Dificuldade para cancelar contrato;em andamento;5;21
-246;14/03/2024;Camila Araújo Ferreira;86159528599;Sorocaba ;pr;Cartão de Crédito;santander;Não cumprimento de garantia;Não resolvida;1;61
-247;29/01/24;Letícia Castro Rocha;29774105068;Rio de Janeiro ;BA;Cartão de Crédito;Nubank LTDA;Propaganda enganosa;Finalizada;3;
-248;03.04.2024;RICARDO CASTRO SILVA;;Belo Horizonte;TO;Cartão de Crédito;Banco do Brasil;Serviço interrompido sem aviso;resolvida;;40
-249;21.02.2022;Mateus Lima Monteiro;832.527.625-20;Brasília;pa;Educação Superior;unip;Propaganda enganosa;Não resolvida;4;13
-250;10/11/2024;gustavo costa barbosa;539.276.871-41;Natal;sp;Educação Superior;Kroton S.A.;Cobrança indevida na fatura;Finalizada;3;60
-251;28-02-2024;gustavo rocha ribeiro;760.064.345-97;BRASÍLIA;SP;Telefonia Celular;Vivo;Serviço interrompido sem aviso;Em Andamento;N/A;-1
-252;02/06/2023;marcos santos silva;42276434946;Manaus ;RO;Telefonia Celular;Tim;Propaganda enganosa;finalizada;3;48
-253;03.02.2022;Maria Santos Moreira;319.507.873-05;Maringá;ES;Cartão de Crédito;itaú;Não cumprimento de garantia;não resolvida;3;
-254;20.06.2023;Lucas Teixeira Carvalho;;Recife;MS;Internet Banda Larga;Tim Live;Cobrança após cancelamento;NÃO RESOLVIDA;;-1
-255;29/05/2022;  Mariana Costa Araújo  ;83229000590;João Pessoa;PB;Energia Elétrica;Light LTDA;Dificuldade para cancelar contrato;Em Andamento;;-1
-256;01/10/2023;Luciana  Pereira  Barbosa;067.996.736-72;Maringá;AL;Cartão de Crédito;Santander;Vício ou defeito no produto;Em Andamento;1;
-257;23.09.2022;  Letícia Nascimento Rodrigues  ;;Guarulhos;SC;Energia Elétrica;Cemig LTDA;Cobrança indevida na fatura;RESOLVIDA;3;-1
-258;25/11/22;joão mendes barbosa;068.144.166-61;Joinville ;Ba;Banco;Bradesco;Vício ou defeito no produto;Finalizada;5;-1
-259;2022-11-03;André  Pereira  Lima;213.957.965-62;Uberlândia;MS;Telefonia Celular;oi;Propaganda enganosa;EM ANDAMENTO;;38
-260;04.01.2023;  Fernanda Rodrigues Almeida  ;;Salvador;Ms;Banco;CAIXA;Não cumprimento de garantia;finalizada;;-1
-261;2023-09-19;tatiana araújo vieira;;Niterói ;ES;Internet Banda Larga;Tim Live;Dificuldade para cancelar contrato;finalizada;1;83
-262;;Fernanda  Rodrigues  Gomes;837.990.053-66;GUARULHOS;ES;Banco;Bradesco;Cobrança após cancelamento;em andamento;;
-263;08-02-2024;  Amanda Martins Vieira  ;;Manaus;es;Cartão de Crédito;Itaú S.A.;Cobrança após cancelamento;Em Andamento;1;-1
-264;2024-04-24;FERNANDO OLIVEIRA MONTEIRO;;Teresina;PR;Energia Elétrica;Copel;Cobrança indevida na fatura;resolvida;;-1
-265;24-03-2022;Mariana Vieira Costa;128.638.110-50;Manaus;CE;Comércio Eletrônico;magazine luiza;Dificuldade para cancelar contrato;Em Andamento;2;
-266;13/11/22;isabela nascimento rocha;;MANAUS;MS;Internet Banda Larga;Vivo Fibra LTDA;Produto não entregue no prazo;Finalizada;N/A;-1
-267;20-11-2023;Vanessa  Costa  Rocha;812.731.742-71;Manaus ;GO;TV por Assinatura;Claro TV LTDA;Atendimento ao cliente insatisfatório;Finalizada;4;-1
-268;2022-11-23;Paulo Araújo Nascimento;194.670.141-28;Campo Grande;CE;Transporte Aéreo;GOL S.A.;Serviço interrompido sem aviso;Em Andamento;3;58
-269;01/08/23;carla gomes rocha;013.807.951-18;Belém;se;Plano de Saúde;amil;Dificuldade para cancelar contrato;resolvida;5;3
-270;;marcos gomes vieira;;Belo Horizonte;RO;Internet Banda Larga;Oi Fibra;Cobrança após cancelamento;Em Andamento;3;26
-271;20/06/22;Raquel  Oliveira  Pereira;440.883.318-38;Recife;DF;Comércio Eletrônico;Americanas LTDA;Produto não entregue no prazo;Não Resolvida;2;79
-272;2024-01-13;carlos lima moreira;296.970.100-34;Joao Pessoa;PR;Transporte Aéreo;Azul LTDA;Vício ou defeito no produto;resolvida;1;52
-273;08/06/2023;Mariana Rodrigues Silva;20174020984;Osasco;Pe;Energia Elétrica;CEMIG;Não cumprimento de garantia;Em Andamento;;16
-274;13-11-2022;tatiana silva teixeira;376.764.973-78;Florianópolis;MS;Educação Superior;Anhanguera LTDA;Descumprimento de oferta;resolvida;N/A;56
-275;30/07/2023;Carolina Castro Almeida;81560542707;Maringá;se;Energia Elétrica;CPFL;Produto não entregue no prazo;resolvida;4;-1
-276;17.01.2022;  Gabriel Barbosa Nascimento  ;;São José dos Campos ;CE;Telefonia Celular;Vivo;Descumprimento de oferta;Resolvida;5;27
-277;2023-05-08;Camila  Costa  Teixeira;973.697.016-85;Cuiabá;ro;Plano de Saúde;UNIMED;Cobrança indevida na fatura;não resolvida;N/A;72
-278;13.03.2023;Renata Araújo Almeida;27322857042;Belo Horizonte;MT;Plano de Saúde;Bradesco Saúde S.A.;Cobrança após cancelamento;Não resolvida;4;62
-279;28-05-2024;Eduardo Rocha Mendes;97895377012;Aparecida de Goiânia;PA;Plano de Saúde;AMIL;Atendimento ao cliente insatisfatório;Finalizada;N/A;81
-280;;RENATA PEREIRA NASCIMENTO;460.912.104-07;Cuiabá;SC;Educação Superior;Kroton;Produto não entregue no prazo;Finalizada;2;60
-281;;  Renata Gomes Mendes  ;550.553.629-17;Teresina;Ap;Cartão de Crédito;BANCO DO BRASIL;Serviço interrompido sem aviso;Em Andamento;4;
-282;19/03/2022;Raquel  Silva  Oliveira;75180077842;CUIABÁ;Am;Energia Elétrica;Cemig S.A.;Cobrança indevida na fatura;finalizada;5;
-283;22/06/2024;Ana Martins Santos;746.143.370-04;Uberlândia;df;Transporte Aéreo;Avianca;Vício ou defeito no produto;Não resolvida;N/A;62
-284;21-08-2024;Carolina Carvalho Ribeiro;429.371.784-72;CAMPO GRANDE;ce;Plano de Saúde;UNIMED;Dificuldade para cancelar contrato;Não resolvida;4;84
-285;;Isabela Rocha Ribeiro;083.572.890-91;BELO HORIZONTE;ES;Comércio Eletrônico;magazine luiza;Produto não entregue no prazo;RESOLVIDA;;41
-286;20-07-2023;Letícia  Monteiro  Souza;43442111754;João Pessoa;PR;TV por Assinatura;sky;Cobrança após cancelamento;Em Andamento;3;21
-287;23/11/22;  Marcos Castro Costa  ;729.370.625-87;Porto Velho;MS;Transporte Aéreo;gol;Serviço interrompido sem aviso;Finalizada;N/A;-1
-288;02/06/2023;marcos santos silva;42276434946;Manaus ;RO;Telefonia Celular;Tim;Propaganda enganosa;finalizada;3;48
-289;;luciana vieira rocha;576.664.760-85;São Paulo ;MT;Educação Superior;KROTON;Dificuldade para cancelar contrato;Em Andamento;N/A;69
-290;28-02-2024;CAROLINA CASTRO OLIVEIRA;534.745.024-05;Londrina;RS;Transporte Aéreo;azul;Cobrança após cancelamento;FINALIZADA;2;-1
-291;25-12-2023;Carolina  Moreira  Oliveira;78220081001;GOIÂNIA;ro;Educação Superior;Anhanguera S.A.;Serviço interrompido sem aviso;Em Andamento;N/A;14
-292;14/07/22;  Fernanda Mendes Barbosa  ;906.091.750-75;MARINGÁ;to;Comércio Eletrônico;Magazine Luiza;Propaganda enganosa;Finalizada;5;26
-293;01.12.2023;Fernanda Monteiro Martins;133.956.322-45;RIBEIRÃO PRETO;rn;Internet Banda Larga;Vivo Fibra;Serviço interrompido sem aviso;Finalizada;5;39
-294;24/07/2023;LEONARDO COSTA ALMEIDA;313.245.275-67;Maringá;TO;Telefonia Celular;Tim S.A.;Cobrança após cancelamento;Finalizada;2;-1
-295;11/01/2024;MARIA BARBOSA GOMES;925.629.726-69;Campinas;mt;TV por Assinatura;DirecTV Go;Propaganda enganosa;Finalizada;1;
-296;08-11-2023;THIAGO ALMEIDA CASTRO;;Santos;go;Plano de Saúde;SulAmérica LTDA;Atendimento ao cliente insatisfatório;Finalizada;5;46
-297;17-03-2023;  Leonardo Ribeiro Martins  ;098.460.180-40;Guarulhos;AC;Plano de Saúde;Amil S.A.;Atendimento ao cliente insatisfatório;Em Andamento;N/A;34
-298;22/10/2023;Eduardo  Pereira  Silva;342.437.539-16;Juiz de Fora;am;Energia Elétrica;Enel;Vício ou defeito no produto;Finalizada;4;-1
-299;;JOÃO ALMEIDA RODRIGUES;827.463.523-56;Recife ;SP;Telefonia Celular;Vivo LTDA;Cobrança indevida na fatura;Finalizada;2;
-300;2024-07-01;  Lucas Nascimento Mendes  ;659.846.074-56;FLORIANÓPOLIS;rs;Telefonia Celular;Vivo;Descumprimento de oferta;resolvida;4;75
-301;;Henrique  Barbosa  Monteiro;51769680645;Teresina;BA;Plano de Saúde;sulamérica;Cobrança após cancelamento;não resolvida;5;27
-302;28/11/22;  Mariana Ribeiro Lima  ;674.199.160-53;Porto Velho;Se;Telefonia Celular;oi;Cobrança indevida na fatura;NÃO RESOLVIDA;3;16
-303;08-06-2022;Pedro Vieira Gomes;;Uberlândia;se;Transporte Aéreo;Azul S.A.;Descumprimento de oferta;Finalizada;1;-1
-304;09/11/2023;RAFAEL CASTRO SANTOS;115.488.051-09;Guarulhos;SC;Cartão de Crédito;Santander;Atendimento ao cliente insatisfatório;RESOLVIDA;3;1
-305;02.07.2024;Fernanda Santos Mendes;385.300.090-06;Manaus;pa;Comércio Eletrônico;MAGAZINE LUIZA;Vício ou defeito no produto;Em Andamento;4;85
-306;;  Leonardo Souza Martins  ;;Cuiabá;ES;Telefonia Celular;OI;Cobrança indevida na fatura;Finalizada;5;72
-307;10-05-2023;Raquel Teixeira Almeida;246.568.415-46;Vitória;PR;Plano de Saúde;Unimed LTDA;Dificuldade para cancelar contrato;resolvida;3;47
-308;02/28/2023;Felipe Mendes Costa;;Guarulhos;TO;TV por Assinatura;oi tv;Serviço interrompido sem aviso;Finalizada;;66
-309;30/07/23;Gabriel  Castro  Pereira;997.992.715-60;CAMPINAS;Sc;Transporte Aéreo;Azul;Cobrança após cancelamento;Em Andamento;5;
-310;02/11/2023;  Carolina Carvalho Lima  ;924.687.144-69;Aparecida de Goiânia;ES;Plano de Saúde;Bradesco Saúde S.A.;Vício ou defeito no produto;Em Andamento;;81
-311;2023-07-07;BRUNO ROCHA TEIXEIRA;73811337049;Niterói;MT;Telefonia Celular;Oi S.A.;Cobrança indevida na fatura;RESOLVIDA;3;34
-312;;CARLOS PEREIRA FERREIRA;;Sao José dos Campos;PR;Educação Superior;Anhanguera;Cobrança indevida na fatura;Em Andamento;4;76
-313;11/08/2024;ANDRÉ LIMA SILVA;31090771823;Maceió;sp;Comércio Eletrônico;Amazon S.A.;Vício ou defeito no produto;EM ANDAMENTO;4;57
-314;06/08/2022;joão carvalho rodrigues;974.935.492-10;Sao José dos Campos;Pi;Energia Elétrica;Copel LTDA;Produto não entregue no prazo;Não Resolvida;N/A;40
-315;11/11/24;Maria  Pereira  Moreira;;Teresina;RO;Cartão de Crédito;bradesco;Dificuldade para cancelar contrato;NÃO RESOLVIDA;1;43
-316;10/12/2023;Lucas  Ferreira  Carvalho;97736772443;Guarulhos;Ma;Comércio Eletrônico;Americanas;Não cumprimento de garantia;FINALIZADA;4;40
-317;2023-01-02;Gustavo  Ribeiro  Araújo;85150668815;Sorocaba;ms;Energia Elétrica;CPFL S.A.;Vício ou defeito no produto;Em Andamento;2;33
-318;10/06/24;Ana  Nascimento  Monteiro;187.588.041-40;Santos;pe;Banco;Santander;Serviço interrompido sem aviso;Finalizada;5;84
-319;22.03.2023;Paulo  Rodrigues  Araújo;094.014.412-45;Goiânia;GO;Energia Elétrica;cemig;Cobrança indevida na fatura;Não resolvida;3;
-320;2024-08-05;Ricardo Almeida Carvalho;;Recife;PR;Telefonia Celular;Oi S.A.;Produto não entregue no prazo;Finalizada;1;-1
-321;2022-03-12;Pedro Monteiro Monteiro;66366228455;Fortaleza;PI;Comércio Eletrônico;Americanas;Serviço interrompido sem aviso;Em Andamento;5;11
-322;19.12.2024;mariana almeida pereira;773.031.678-71;Santos;pi;TV por Assinatura;SKY;Serviço interrompido sem aviso;Em Andamento;N/A;-1
-323;06/01/2023;  Lucas Pereira Araújo  ;;SOROCABA;mt;Energia Elétrica;LIGHT;Dificuldade para cancelar contrato;EM ANDAMENTO;2;-1
-324;2023-05-10;Bruno Rocha Vieira;718.624.475-63;Curitiba;Df;Telefonia Celular;Oi LTDA;Serviço interrompido sem aviso;Finalizada;N/A;45
-325;29/08/23;VANESSA MENDES SILVA;270.259.961-14;Florianópolis;TO;Telefonia Celular;Tim;Descumprimento de oferta;FINALIZADA;1;
-326;04-07-2024;PATRÍCIA SANTOS GOMES;051.556.740-92;Recife ;PR;Educação Superior;Estácio;Cobrança indevida na fatura;Resolvida;N/A;69
-327;;Thiago Rodrigues Barbosa;;BRASÍLIA;AL;Cartão de Crédito;Itaú;Cobrança após cancelamento;EM ANDAMENTO;;54
-328;09/04/24;thiago rodrigues pereira;604.741.208-18;Guarulhos;Df;TV por Assinatura;Oi TV;Cobrança após cancelamento;Em Andamento;N/A;
-329;2023-12-11;  Marcos Oliveira Mendes  ;;UBERLÂNDIA;Al;Plano de Saúde;bradesco saúde;Serviço interrompido sem aviso;Finalizada;3;-1
-330;07.06.2022;Fernando  Mendes  Ribeiro;323.047.725-96;Brasília;RN;Cartão de Crédito;Itaú LTDA;Propaganda enganosa;resolvida;;-1
-331;28.03.2023;  Leonardo Lima Rodrigues  ;;Goiânia;Ro;Banco;Banco do Brasil S.A.;Vício ou defeito no produto;resolvida;2;18
-332;09-01-2024;CARLA COSTA FERREIRA;777.744.496-49;Belo Horizonte;SE;Telefonia Celular;Oi;Vício ou defeito no produto;não resolvida;2;-1
-333;09/26/2024;pedro mendes santos;;Campo Grande;AC;Banco;Santander S.A.;Cobrança após cancelamento;Em Andamento;3;36
-334;;Amanda  Rodrigues  Teixeira;;Guarulhos;CE;Energia Elétrica;CEMIG;Vício ou defeito no produto;Resolvida;4;
-335;16-03-2023;Bruno Pereira Costa;;Teresina;pa;Cartão de Crédito;Bradesco S.A.;Não cumprimento de garantia;finalizada;;86
-336;2022-10-30;Gustavo Monteiro Costa;719.612.933-21;Natal;BA;Educação Superior;Unip;Cobrança indevida na fatura;não resolvida;4;
-337;14/11/2023;Carlos  Oliveira  Rodrigues;;Porto Alegre;AL;TV por Assinatura;Claro TV;Propaganda enganosa;finalizada;N/A;-1
-338;;  Pedro Araújo Teixeira  ;24636698375;Cuiabá;TO;Transporte Aéreo;GOL LTDA;Descumprimento de oferta;Em Andamento;4;75
-339;27/07/2022;Gustavo  Ferreira  Moreira;385.028.477-98;Vitória ;MS;Comércio Eletrônico;MERCADO LIVRE;Vício ou defeito no produto;Em Andamento;2;49
-340;01/01/2022;felipe teixeira souza;56168095641;Natal;RO;Energia Elétrica;CEMIG;Cobrança indevida na fatura;Não resolvida;5;90
-341;24/06/2023;Amanda  Barbosa  Barbosa;67518571164;Osasco;RN;Energia Elétrica;ENEL;Atendimento ao cliente insatisfatório;resolvida;;-1
-342;10.08.2022;mateus santos ferreira;400.933.396-37;Goiânia ;RO;Transporte Aéreo;Avianca LTDA;Serviço interrompido sem aviso;resolvida;N/A;37
-343;2023-05-08;Camila  Costa  Teixeira;973.697.016-85;Cuiabá;ro;Plano de Saúde;UNIMED;Cobrança indevida na fatura;não resolvida;N/A;72
-344;20-04-2022;Pedro Oliveira Silva;76078195164;MARINGÁ;rj;Cartão de Crédito;Banco do Brasil;Atendimento ao cliente insatisfatório;resolvida;N/A;-1
-345;;gustavo mendes nascimento;83212086149;PORTO ALEGRE;rn;Energia Elétrica;Copel LTDA;Descumprimento de oferta;Em Andamento;1;-1
-346;10/02/2022;Larissa Moreira Oliveira;072.314.920-49;RIO DE JANEIRO;MA;Banco;Itaú;Produto não entregue no prazo;resolvida;1;
-347;25.07.2024;Diego  Carvalho  Lima;915.321.801-13;São José dos Campos;DF;Plano de Saúde;SulAmérica LTDA;Serviço interrompido sem aviso;NÃO RESOLVIDA;1;19
-348;;BEATRIZ GOMES SOUZA;;Campo Grande;Ba;Internet Banda Larga;Claro NET S.A.;Cobrança indevida na fatura;finalizada;;36
-349;22.05.2022;Bruno Ribeiro Nascimento;967.074.215-31;Niterói;ce;Telefonia Celular;Vivo;Produto não entregue no prazo;Finalizada;N/A;
-350;27/09/22;  Ricardo Pereira Vieira  ;140.307.559-84;Natal;BA;Transporte Aéreo;Azul;Dificuldade para cancelar contrato;resolvida;;32
-351;11/08/22;isabela gomes almeida;;João Pessoa;ce;Energia Elétrica;CEMIG;Vício ou defeito no produto;Resolvida;2;46
-352;;Raquel  Pereira  Pereira;023.042.333-88;CURITIBA;AC;Plano de Saúde;Unimed LTDA;Serviço interrompido sem aviso;Finalizada;;56
-353;13/11/2024;TATIANA VIEIRA BARBOSA;;Campinas;SP;Educação Superior;anhanguera;Cobrança após cancelamento;RESOLVIDA;2;61
-354;01-12-2022;  Fernando Pereira Moreira  ;663.984.648-44;Sorocaba;ES;Energia Elétrica;Light;Atendimento ao cliente insatisfatório;resolvida;;-1
-355;20/05/22;Diego Castro Oliveira;;Goiânia;MT;Internet Banda Larga;Tim Live S.A.;Atendimento ao cliente insatisfatório;finalizada;4;65
-356;;Bruno Rocha Barbosa;537.126.887-04;Vitória;Pr;Internet Banda Larga;vivo fibra;Descumprimento de oferta;Não Resolvida;4;-1
-357;26/04/23;Vanessa  Nascimento  Silva;276.448.294-35;Salvador;to;Internet Banda Larga;OI FIBRA;Atendimento ao cliente insatisfatório;finalizada;N/A;-1
-358;16/08/2022;  Larissa Araújo Teixeira  ;;Campinas;Rn;Transporte Aéreo;AVIANCA;Não cumprimento de garantia;RESOLVIDA;N/A;16
-359;10/27/2023;Leonardo Moreira Teixeira;949.652.396-74;Porto Alegre;Ro;Plano de Saúde;Bradesco Saúde;Descumprimento de oferta;Resolvida;1;
-360;16.01.2024;larissa gomes nascimento;180.583.934-08;Cuiabá;TO;Comércio Eletrônico;Magazine Luiza LTDA;Cobrança após cancelamento;resolvida;1;
-361;01/21/2024;vanessa lima almeida;638.274.903-31;Belém;MT;Transporte Aéreo;LATAM S.A.;Cobrança indevida na fatura;em andamento;;-1
-362;28/03/2022;Rafael  Barbosa  Pereira;;FEIRA DE SANTANA;SE;Transporte Aéreo;GOL;Vício ou defeito no produto;Não Resolvida;;54
-363;04-12-2024;carlos rodrigues oliveira;749.117.675-50;NATAL;MT;Internet Banda Larga;Tim Live S.A.;Dificuldade para cancelar contrato;Não Resolvida;;
-364;02/08/2024;Marcos Monteiro Vieira;84547050057;Vitória;pr;Energia Elétrica;Light LTDA;Descumprimento de oferta;Em Andamento;;56
-365;27/03/23;Beatriz Almeida Ribeiro;42474151632;Osasco;RS;Transporte Aéreo;gol;Propaganda enganosa;não resolvida;5;21
-366;28/06/2022;Felipe Castro Castro;;Osasco;ce;Cartão de Crédito;Bradesco;Produto não entregue no prazo;Resolvida;1;
-367;29/01/24;Letícia Castro Rocha;29774105068;Rio de Janeiro ;BA;Cartão de Crédito;Nubank LTDA;Propaganda enganosa;Finalizada;3;
-368;;FELIPE SOUZA NASCIMENTO;595.083.745-60;Sorocaba;to;Internet Banda Larga;Claro NET;Descumprimento de oferta;Em Andamento;4;59
-369;04/25/2022;  Carla Almeida Barbosa  ;35440711072;Rio de Janeiro;RO;Plano de Saúde;Unimed S.A.;Vício ou defeito no produto;Finalizada;;26
-370;17-11-2022;Ana Gomes Rodrigues;313.298.871-23;RIO DE JANEIRO;Mg;Energia Elétrica;Light;Descumprimento de oferta;Finalizada;5;44
-371;16-01-2024;bruno pereira araújo;87058079106;RECIFE;GO;Comércio Eletrônico;Mercado Livre S.A.;Cobrança após cancelamento;Não resolvida;5;-1
-372;21/05/2024;camila rodrigues rocha;606.395.136-89;OSASCO;MA;Energia Elétrica;Copel LTDA;Propaganda enganosa;não resolvida;4;11
-373;11/08/22;isabela gomes almeida;;João Pessoa;ce;Energia Elétrica;CEMIG;Vício ou defeito no produto;Resolvida;2;46
-374;06-05-2022;isabela barbosa ribeiro;948.698.948-48;Sorocaba;es;Internet Banda Larga;Claro NET;Descumprimento de oferta;Finalizada;2;-1
-375;15/06/22;  Luciana Martins Lima  ;273.868.133-72;Uberlândia;Am;Internet Banda Larga;TIM LIVE;Atendimento ao cliente insatisfatório;NÃO RESOLVIDA;;26
-376;23/12/22;Juliana Teixeira Pereira;;Joinville;SP;Educação Superior;estácio;Não cumprimento de garantia;finalizada;3;
-377;13/09/24;Lucas Moreira Martins;05270436922;APARECIDA DE GOIÂNIA;GO;Cartão de Crédito;Nubank;Serviço interrompido sem aviso;FINALIZADA;5;14
-378;;Vanessa Costa Gomes;64220947054;Uberlândia;PE;Educação Superior;Anhanguera;Cobrança após cancelamento;finalizada;N/A;-1
-379;07/05/2022;Camila Araújo Monteiro;064.488.548-75;Curitiba;Rs;Telefonia Celular;Tim;Dificuldade para cancelar contrato;EM ANDAMENTO;;
-380;10/22/2023;Ricardo Silva Mendes;;FORTALEZA;Df;Banco;santander;Não cumprimento de garantia;Resolvida;1;
-381;22.05.2022;isabela ribeiro teixeira;;Uberlândia;CE;Educação Superior;anhanguera;Serviço interrompido sem aviso;Em Andamento;3;89
-382;;  João Araújo Costa  ;;São Paulo ;MT;Banco;BRADESCO;Cobrança indevida na fatura;Resolvida;4;89
-383;12/30/2024;Carlos Ferreira Rocha;815.229.322-97;Florianópolis;Ma;Cartão de Crédito;banco do brasil;Propaganda enganosa;FINALIZADA;1;47
-384;2023-12-23;Mariana  Costa  Mendes;875.920.415-52;São Luís;MG;Cartão de Crédito;nubank;Atendimento ao cliente insatisfatório;Não resolvida;3;
-385;11-09-2024;camila almeida souza;827.305.976-62;São José dos Campos;Pb;Banco;BANCO DO BRASIL;Cobrança indevida na fatura;RESOLVIDA;4;77
-386;;leonardo carvalho vieira;226.897.531-15;Campo Grande;pi;TV por Assinatura;SKY S.A.;Dificuldade para cancelar contrato;Finalizada;N/A;84
-387;23/04/23;Carlos Mendes Rodrigues;898.622.546-86;APARECIDA DE GOIÂNIA;AP;Cartão de Crédito;Bradesco S.A.;Dificuldade para cancelar contrato;FINALIZADA;;-1
-388;2024-10-12;  André Gomes Gomes  ;65765786800;Vitória;ba;Comércio Eletrônico;AMERICANAS;Propaganda enganosa;Em Andamento;4;-1
-389;2024-06-10;letícia barbosa araújo;;Porto Alegre;SC;TV por Assinatura;Oi TV;Dificuldade para cancelar contrato;Resolvida;5;
-390;2022-11-26;maria ferreira ribeiro;38207154818;Recife;ap;Transporte Aéreo;Avianca;Dificuldade para cancelar contrato;finalizada;4;72
-391;04/08/2022;Renata  Araújo  Souza;;Curitiba;DF;Transporte Aéreo;avianca;Produto não entregue no prazo;Em Andamento;;
-392;16/10/2022;Maria  Lima  Oliveira;071.912.943-37;GOIÂNIA;PE;Banco;Caixa S.A.;Atendimento ao cliente insatisfatório;EM ANDAMENTO;N/A;27
-393;16-04-2022;  Henrique Barbosa Gomes  ;271.436.947-49;TERESINA;Rr;Transporte Aéreo;gol;Cobrança após cancelamento;Finalizada;1;41
-394;10-12-2023;  Adriana Rocha Nascimento  ;048.334.658-67;Porto Velho;DF;Transporte Aéreo;LATAM S.A.;Vício ou defeito no produto;FINALIZADA;3;
-395;20/05/24;Fernando Oliveira Moreira;935.264.259-93;Londrina;PR;Transporte Aéreo;Azul S.A.;Descumprimento de oferta;Em Andamento;4;76
-396;;  Camila Ferreira Martins  ;249.418.016-95;Recife;RJ;Energia Elétrica;Light;Atendimento ao cliente insatisfatório;Resolvida;5;-1
-397;2023-01-05;amanda oliveira monteiro;201.729.512-66;JUIZ DE FORA;rj;Internet Banda Larga;Claro NET;Cobrança após cancelamento;Em Andamento;;84
-398;02/06/22;Fernanda  Oliveira  Mendes;214.574.452-03;MANAUS;Sp;Banco;Banco do Brasil;Cobrança indevida na fatura;NÃO RESOLVIDA;;-1
-399;03/06/24;RAQUEL RIBEIRO GOMES;05324216943;Sao Luís;sc;Internet Banda Larga;Oi Fibra LTDA;Cobrança indevida na fatura;Em Andamento;N/A;58
-400;;Marcos Lima Santos;73201295318;São Paulo;DF;Transporte Aéreo;gol;Cobrança indevida na fatura;Finalizada;2;
-401;06/08/2024;mateus rocha monteiro;26105402602;Santos;RJ;Internet Banda Larga;Tim Live S.A.;Cobrança após cancelamento;FINALIZADA;2;-1
-402;30/03/22;LUCAS SANTOS BARBOSA;015.799.706-29;Belo Horizonte;PR;TV por Assinatura;DirecTV Go LTDA;Vício ou defeito no produto;FINALIZADA;2;
-403;2024-02-21;juliana gomes rodrigues;69584442022;Juiz de Fora;pi;Cartão de Crédito;Nubank;Descumprimento de oferta;não resolvida;;10
-404;30.12.2023;MARCOS TEIXEIRA MARTINS;196.789.630-09;Aracaju;AL;Energia Elétrica;Enel;Produto não entregue no prazo;Em Andamento;;36
-405;06/11/23;Patrícia Souza Nascimento;801.874.729-13;RECIFE;Ms;Comércio Eletrônico;Magazine Luiza S.A.;Cobrança indevida na fatura;Não Resolvida;2;68
-406;04-02-2022;CARLOS RODRIGUES ARAÚJO;888.118.592-06;Rio de Janeiro;MG;TV por Assinatura;DirecTV Go;Vício ou defeito no produto;resolvida;N/A;29
-407;17/11/2022;André Nascimento Teixeira;424.796.000-94;Fortaleza;PR;Comércio Eletrônico;Americanas;Propaganda enganosa;não resolvida;N/A;
-408;03.02.2024;Henrique  Costa  Araújo;94758166028;RECIFE;CE;Cartão de Crédito;Bradesco S.A.;Cobrança indevida na fatura;Em Andamento;3;-1
-409;;RAQUEL ALMEIDA PEREIRA;;Joinville;RR;Comércio Eletrônico;Americanas LTDA;Dificuldade para cancelar contrato;Finalizada;2;83
-410;2024-07-20;Vanessa  Lima  Pereira;;Campo Grande;go;Banco;Itaú S.A.;Cobrança após cancelamento;EM ANDAMENTO;;-1
-411;;  Pedro Mendes Lima  ;036.957.562-94;GUARULHOS;pi;Comércio Eletrônico;Mercado Livre LTDA;Cobrança após cancelamento;EM ANDAMENTO;;-1
-412;;Eduardo  Nascimento  Castro;068.311.217-95;Juiz de Fora;DF;Internet Banda Larga;VIVO FIBRA;Vício ou defeito no produto;finalizada;1;55
-413;;Maria Castro Pereira;087.783.471-06;Feira de Santana;GO;Plano de Saúde;SulAmérica;Dificuldade para cancelar contrato;Finalizada;4;-1
-414;04.04.2022;Leonardo  Castro  Pereira;24913943032;Belo Horizonte;PR;Educação Superior;Kroton;Atendimento ao cliente insatisfatório;Não resolvida;3;-1
-415;2023-04-08;Maria Ribeiro Teixeira;016.633.401-42;Cuiabá;GO;TV por Assinatura;DirecTV Go;Vício ou defeito no produto;Não resolvida;;-1
-416;10/11/2024;BEATRIZ GOMES ALMEIDA;425.628.607-81;Ribeirão Preto;PB;Internet Banda Larga;vivo fibra;Propaganda enganosa;resolvida;5;48
-417;2022-11-19;adriana mendes almeida;712.582.848-89;Maringá ;RJ;Educação Superior;Unip;Vício ou defeito no produto;Em Andamento;N/A;-1
-418;29-06-2022;  Mateus Ferreira Monteiro  ;876.632.790-42;Campinas;MG;Transporte Aéreo;latam;Descumprimento de oferta;Resolvida;3;35
-419;19/05/2023;  Carolina Gomes Gomes  ;;Ribeirão Preto;MG;Comércio Eletrônico;Mercado Livre S.A.;Dificuldade para cancelar contrato;resolvida;5;-1
-420;23-12-2024;Renata  Mendes  Santos;867.233.104-48;UBERLÂNDIA;RS;Energia Elétrica;LIGHT;Vício ou defeito no produto;resolvida;1;18
-421;18.02.2023;gabriel santos rodrigues;939.553.308-92;Maceió;DF;Internet Banda Larga;tim live;Cobrança após cancelamento;EM ANDAMENTO;4;
-422;10.03.2024;letícia almeida teixeira;644.512.562-22;Feira de Santana ;DF;Energia Elétrica;light;Propaganda enganosa;Não resolvida;1;10
-423;11/04/2024;Maria Santos Souza;139.154.804-42;SANTOS;RN;Internet Banda Larga;Tim Live LTDA;Não cumprimento de garantia;Resolvida;5;33
-424;02/11/23;Adriana Oliveira Lima;828.246.491-37;Santos;RJ;TV por Assinatura;claro tv;Produto não entregue no prazo;Em Andamento;4;84
-425;05.03.2023;Fernando  Costa  Rodrigues;60885329873;Rio de Janeiro;Rn;Comércio Eletrônico;Magazine Luiza S.A.;Dificuldade para cancelar contrato;em andamento;N/A;6
-426;13/11/2024;TATIANA VIEIRA BARBOSA;;Campinas;SP;Educação Superior;anhanguera;Cobrança após cancelamento;RESOLVIDA;2;61
-427;;André Castro Araújo;789.379.877-52;Maringá;Mg;Internet Banda Larga;TIM LIVE;Propaganda enganosa;Em Andamento;N/A;20
-428;31/03/2024;isabela vieira monteiro;859.026.297-61;Porto Velho;pi;Energia Elétrica;CPFL;Propaganda enganosa;NÃO RESOLVIDA;5;6
-429;08/04/2024;Henrique  Barbosa  Souza;766.352.152-67;Londrina;PB;Energia Elétrica;Copel S.A.;Cobrança após cancelamento;FINALIZADA;3;-1
-430;31/08/2022;amanda silva almeida;;Aracaju;sc;Transporte Aéreo;GOL S.A.;Cobrança após cancelamento;Em Andamento;4;-1
-431;02-06-2023;pedro pereira castro;;Porto Alegre ;PI;Energia Elétrica;copel;Cobrança indevida na fatura;Finalizada;3;30
-432;29/01/2022;  Amanda Souza Gomes  ;70001900738;Campo Grande;ES;Comércio Eletrônico;Magazine Luiza;Vício ou defeito no produto;Não resolvida;1;74
-433;;carlos gomes mendes;;Salvador;AP;Banco;Banco do Brasil;Dificuldade para cancelar contrato;resolvida;2;27
-434;17/08/2024;RAQUEL ALMEIDA CASTRO;064.272.990-43;UBERLÂNDIA;pb;TV por Assinatura;Claro TV S.A.;Cobrança indevida na fatura;NÃO RESOLVIDA;4;-1
-435;2022-03-12;Pedro Monteiro Monteiro;66366228455;Fortaleza;PI;Comércio Eletrônico;Americanas;Serviço interrompido sem aviso;Em Andamento;5;11
-436;18.02.2024;  Fernanda Martins Barbosa  ;;Feira de Santana;RS;Banco;Banco do Brasil S.A.;Cobrança indevida na fatura;Não Resolvida;2;67
-437;12/13/2022;amanda lima santos;;Uberlândia;Ma;Transporte Aéreo;LATAM S.A.;Cobrança indevida na fatura;Em Andamento;4;43
-438;01/08/2023;larissa pereira rocha;021.704.701-25;Juiz de Fora;Df;Comércio Eletrônico;Mercado Livre S.A.;Cobrança após cancelamento;em andamento;4;-1
-439;01-06-2023;Fernanda Santos Ribeiro;606.737.788-92;Campo Grande;AL;Comércio Eletrônico;Amazon LTDA;Cobrança indevida na fatura;em andamento;1;-1
-440;25-04-2022;Lucas  Mendes  Martins;;Rio de Janeiro;PR;Telefonia Celular;vivo;Cobrança após cancelamento;EM ANDAMENTO;3;48
-441;;André  Almeida  Silva;677.798.367-78;Sao Paulo;RR;Banco;Itaú LTDA;Não cumprimento de garantia;NÃO RESOLVIDA;N/A;59
-442;05/07/2023;HENRIQUE CARVALHO NASCIMENTO;;Vitória;SP;Educação Superior;anhanguera;Dificuldade para cancelar contrato;em andamento;;-1
-443;16/02/23;JULIANA BARBOSA ROCHA;69269203273;Uberlândia;mg;TV por Assinatura;SKY;Atendimento ao cliente insatisfatório;Resolvida;4;-1
-444;04/09/2023;carla vieira ribeiro;501.468.314-65;Rio de Janeiro;SP;Plano de Saúde;Bradesco Saúde S.A.;Propaganda enganosa;Não Resolvida;1;18
-445;21-08-2022;Thiago Pereira Araújo;087.143.903-90;Rio de Janeiro;se;TV por Assinatura;DirecTV Go;Descumprimento de oferta;Resolvida;N/A;80
-446;12-05-2024;fernando lima ribeiro;549.770.536-44;Campo Grande ;MT;Internet Banda Larga;Vivo Fibra;Descumprimento de oferta;Finalizada;1;
-447;09/30/2024;  Ana Castro Rodrigues  ;004.177.073-46;Maceió;ES;Telefonia Celular;Oi LTDA;Não cumprimento de garantia;Não Resolvida;N/A;-1
-448;13/03/2023;isabela souza araújo;;Ribeirão Preto;Rn;Internet Banda Larga;Oi Fibra S.A.;Vício ou defeito no produto;Em Andamento;5;
-449;29-07-2023;Luciana Ribeiro Carvalho;897.795.361-40;São Paulo;RN;Energia Elétrica;Enel;Vício ou defeito no produto;Resolvida;2;61
-450;27/11/2022;Carolina  Oliveira  Vieira;699.165.872-36;Teresina;AL;Transporte Aéreo;Azul S.A.;Cobrança após cancelamento;finalizada;2;89
-451;06-06-2022;Amanda  Costa  Santos;775.257.231-63;Niterói;ro;Transporte Aéreo;LATAM;Cobrança indevida na fatura;em andamento;2;8
-452;04/07/2023;Lucas Costa Vieira;;Rio de Janeiro;PE;Cartão de Crédito;BRADESCO;Produto não entregue no prazo;Não resolvida;N/A;
-453;15-06-2022;RENATA GOMES COSTA;129.824.922-02;Aracaju;Al;Educação Superior;Unip;Produto não entregue no prazo;finalizada;1;-1
-454;08-05-2023;EDUARDO COSTA LIMA;54189258831;São Paulo;ms;Cartão de Crédito;Nubank;Serviço interrompido sem aviso;não resolvida;3;58
-455;2024-08-26;Maria  Costa  Vieira;;Salvador;Rr;Internet Banda Larga;Vivo Fibra LTDA;Serviço interrompido sem aviso;não resolvida;;-1
-456;04-06-2024;Carla Pereira Moreira;04152428678;Vitória;SE;Transporte Aéreo;Avianca S.A.;Não cumprimento de garantia;Em Andamento;1;87
-457;09/11/2022;Letícia Moreira Ribeiro;74396399495;Sao Paulo;MS;Banco;BANCO DO BRASIL;Vício ou defeito no produto;Em Andamento;4;
-458;21.07.2022;marcos costa teixeira;688.155.903-08;Aparecida de Goiânia;To;Plano de Saúde;BRADESCO SAÚDE;Cobrança após cancelamento;finalizada;1;71
-459;2023-03-15;  Beatriz Silva Lima  ;82070002675;Campo Grande;Se;Energia Elétrica;light;Produto não entregue no prazo;Finalizada;5;
-460;09/11/22;Renata Souza Lima;939.606.104-71;Curitiba;BA;Energia Elétrica;Copel;Propaganda enganosa;finalizada;5;6
-461;21.09.2024;MARIANA TEIXEIRA RODRIGUES;542.458.667-29;APARECIDA DE GOIÂNIA;CE;Energia Elétrica;Cemig LTDA;Propaganda enganosa;resolvida;1;67
-462;23-07-2023;Gustavo Castro Barbosa;69769413667;Feira de Santana;Rn;Energia Elétrica;Copel;Cobrança após cancelamento;Finalizada;N/A;
-463;08/04/2023;  Larissa Souza Rocha  ;96546628973;CURITIBA;CE;Plano de Saúde;Amil S.A.;Dificuldade para cancelar contrato;Finalizada;1;17
-464;05/07/24;PAULO SILVA BARBOSA;;São José dos Campos;Go;Educação Superior;Anhanguera LTDA;Cobrança indevida na fatura;NÃO RESOLVIDA;3;87
-465;10-11-2022;Isabela Araújo Mendes;656.115.686-22;SALVADOR;ac;Plano de Saúde;Bradesco Saúde LTDA;Cobrança indevida na fatura;Em Andamento;2;-1
-466;10/02/23;Vanessa  Almeida  Lima;;São José dos Campos ;DF;Plano de Saúde;Unimed;Serviço interrompido sem aviso;resolvida;N/A;47
-467;18/09/2022;Gustavo Vieira Rocha;12151904562;Natal;BA;Internet Banda Larga;OI FIBRA;Vício ou defeito no produto;Finalizada;2;
-468;;AMANDA PEREIRA CASTRO;;João Pessoa;sc;Banco;Santander;Propaganda enganosa;Finalizada;2;57
-469;10/07/2024;Beatriz Nascimento Rocha;295.145.205-80;SÃO JOSÉ DOS CAMPOS;AL;Transporte Aéreo;LATAM;Serviço interrompido sem aviso;Em Andamento;N/A;89
-470;10/16/2023;  Gustavo Vieira Souza  ;289.363.278-68;Joinville ;AL;TV por Assinatura;CLARO TV;Descumprimento de oferta;Não Resolvida;5;10
-471;12-09-2022;FERNANDO COSTA LIMA;966.954.217-56;Joinville;AC;Internet Banda Larga;oi fibra;Produto não entregue no prazo;Finalizada;5;41
-472;31/08/2022;renata teixeira vieira;;Salvador;rn;Internet Banda Larga;Vivo Fibra;Não cumprimento de garantia;Não Resolvida;N/A;73
-473;30/12/23;Ricardo Nascimento Oliveira;;Rio de Janeiro;pb;TV por Assinatura;DirecTV Go;Dificuldade para cancelar contrato;FINALIZADA;4;-1
-474;15/03/2023;Patrícia Castro Gomes;23089964692;São Luís;MS;Transporte Aéreo;Avianca LTDA;Dificuldade para cancelar contrato;Não Resolvida;2;31
-475;06/12/22;fernando silva souza;;Curitiba;SC;Cartão de Crédito;Itaú;Descumprimento de oferta;Não Resolvida;3;9
-476;28/06/24;Diego  Santos  Costa;;Campo Grande;PB;Transporte Aéreo;LATAM;Atendimento ao cliente insatisfatório;resolvida;;45
-477;20/09/2024;larissa rocha araújo;14057702501;Cuiabá;RN;Telefonia Celular;Tim S.A.;Dificuldade para cancelar contrato;NÃO RESOLVIDA;N/A;-1
-478;2023-02-09;Thiago Barbosa Souza;171.960.049-02;Natal;SE;Plano de Saúde;SulAmérica S.A.;Propaganda enganosa;Não Resolvida;5;-1
-479;30/11/2023;  André Oliveira Teixeira  ;98566430165;Osasco;Pe;Comércio Eletrônico;americanas;Vício ou defeito no produto;em andamento;;85
-480;24/01/2022;Raquel  Rocha  Pereira;52635951763;Goiânia;RS;TV por Assinatura;Claro TV LTDA;Vício ou defeito no produto;Finalizada;3;-1
-481;2023-06-08;Henrique  Gomes  Oliveira;956.630.063-62;Salvador;MG;Telefonia Celular;Oi LTDA;Descumprimento de oferta;RESOLVIDA;2;47
-482;19.02.2022;Paulo  Rocha  Mendes;120.720.957-89;São Luís;MT;Transporte Aéreo;LATAM LTDA;Não cumprimento de garantia;Finalizada;N/A;58
-483;07-07-2024;Mateus  Moreira  Nascimento;359.667.715-39;Belém;SC;Comércio Eletrônico;Amazon S.A.;Dificuldade para cancelar contrato;Resolvida;2;74
-484;21/03/22;GABRIEL ROCHA GOMES;297.760.145-84;Ribeirão Preto;SP;Banco;ITAÚ;Descumprimento de oferta;Não resolvida;1;54
-485;11/20/2022;Lucas Ribeiro Almeida;852.002.391-52;Fortaleza;to;Cartão de Crédito;NUBANK;Cobrança indevida na fatura;Não Resolvida;;71
-486;05/01/2024;TATIANA LIMA CASTRO;42259551330;Fortaleza;rj;Cartão de Crédito;Bradesco;Produto não entregue no prazo;resolvida;4;
-487;20-11-2024;Ana Araújo Teixeira;;Ribeirão Preto;PR;Transporte Aéreo;LATAM LTDA;Cobrança após cancelamento;Não Resolvida;2;75
-488;03/02/2023;  Isabela Carvalho Rocha  ;937.859.541-76;RIO DE JANEIRO;am;Banco;santander;Cobrança após cancelamento;Resolvida;2;56
-489;03/03/22;henrique mendes santos;466.697.472-17;Belém;ms;Energia Elétrica;copel;Atendimento ao cliente insatisfatório;Resolvida;2;-1
-490;16/04/24;  Bruno Silva Moreira  ;051.834.349-36;Florianópolis;Rr;Comércio Eletrônico;Americanas LTDA;Atendimento ao cliente insatisfatório;em andamento;1;
-491;;Marcos Pereira Nascimento;;Teresina;AL;Telefonia Celular;Oi;Descumprimento de oferta;Não Resolvida;1;-1
-492;26/08/24;  Paulo Nascimento Moreira  ;473.879.309-25;CAMPINAS;AL;Energia Elétrica;Enel S.A.;Cobrança indevida na fatura;Finalizada;3;39
-493;08.04.2022;  Felipe Rocha Rodrigues  ;395.167.309-53;Niterói;Go;Transporte Aéreo;avianca;Cobrança após cancelamento;FINALIZADA;N/A;
-494;07/07/2023;  Tatiana Martins Monteiro  ;;Londrina;MS;Energia Elétrica;Cemig;Dificuldade para cancelar contrato;Em Andamento;5;18
-495;;juliana martins monteiro;296.586.360-25;Porto Velho;BA;Educação Superior;Estácio;Dificuldade para cancelar contrato;EM ANDAMENTO;1;3
-496;31/12/2024;  Amanda Nascimento Pereira  ;702.785.379-82;João Pessoa ;RJ;Banco;Itaú;Descumprimento de oferta;resolvida;4;48
-497;;Larissa Silva Rocha;366.656.007-62;Juiz de Fora;Ce;TV por Assinatura;SKY LTDA;Atendimento ao cliente insatisfatório;Finalizada;4;
-498;2022-07-25;Raquel Barbosa Carvalho;847.146.220-14;Guarulhos;AL;Internet Banda Larga;Vivo Fibra S.A.;Serviço interrompido sem aviso;não resolvida;2;38
-499;03/07/2022;Leonardo Gomes Vieira;04690743906;FEIRA DE SANTANA;Df;TV por Assinatura;SKY;Propaganda enganosa;EM ANDAMENTO;2;70
-500;;ricardo oliveira pereira;223.801.370-20;Teresina;Mg;Energia Elétrica;cpfl;Atendimento ao cliente insatisfatório;Finalizada;;-1
-501;2024-07-23;Raquel Costa Nascimento;608.252.637-94;Porto Alegre;mg;Educação Superior;Anhanguera;Serviço interrompido sem aviso;Não Resolvida;N/A;21
-502;;  Renata Gomes Almeida  ;087.834.767-90;Londrina;ma;Energia Elétrica;Cemig S.A.;Não cumprimento de garantia;Em Andamento;5;27
-503;07/01/23;carlos castro costa;416.298.702-52;Cuiabá;GO;Plano de Saúde;Unimed S.A.;Serviço interrompido sem aviso;não resolvida;3;-1
-504;06/14/2024;Fernanda  Oliveira  Souza;476.207.347-87;Aracaju;TO;Plano de Saúde;SULAMÉRICA;Descumprimento de oferta;Não Resolvida;N/A;23
-505;29/04/2024;MATEUS RIBEIRO SILVA;690.174.953-89;Porto Velho;MA;Internet Banda Larga;Claro NET S.A.;Vício ou defeito no produto;Finalizada;;-1
-506;17/06/2022;Vanessa Pereira Monteiro;265.278.254-63;Vitória ;AP;Energia Elétrica;Cemig;Produto não entregue no prazo;finalizada;5;-1
-507;2024-05-07;ricardo costa costa;;TERESINA;Rj;Telefonia Celular;CLARO;Dificuldade para cancelar contrato;Finalizada;1;52
-508;2024-12-29;BRUNO SOUZA TEIXEIRA;;Manaus;RN;Transporte Aéreo;Azul;Produto não entregue no prazo;RESOLVIDA;5;
-509;;FERNANDO TEIXEIRA NASCIMENTO;93082278146;Maceió;to;Educação Superior;Estácio;Serviço interrompido sem aviso;resolvida;2;11
-510;2024-02-04;Patrícia Lima Teixeira;;Campo Grande ;SE;TV por Assinatura;Oi TV;Serviço interrompido sem aviso;NÃO RESOLVIDA;4;7
-511;30/01/2023;Camila  Vieira  Ribeiro;205.449.339-27;Aparecida de Goiânia;PA;Transporte Aéreo;Azul S.A.;Descumprimento de oferta;Resolvida;;-1
-512;15/08/24;Pedro Monteiro Moreira;07379499944;Sorocaba ;RO;Banco;Santander;Cobrança indevida na fatura;finalizada;2;
-513;01/03/2022;Mateus Gomes Ribeiro;;BELO HORIZONTE;RS;Telefonia Celular;oi;Atendimento ao cliente insatisfatório;Finalizada;N/A;80
-514;;  João Nascimento Teixeira  ;943.830.148-57;NITERÓI;Ac;Transporte Aéreo;latam;Propaganda enganosa;resolvida;N/A;72
-515;21/01/23;Gabriel Moreira Carvalho;;FEIRA DE SANTANA;BA;TV por Assinatura;SKY;Atendimento ao cliente insatisfatório;Resolvida;1;
-516;;MARIANA CARVALHO LIMA;847.413.401-92;Santos;RR;Educação Superior;Kroton;Descumprimento de oferta;Em Andamento;;67
-517;18/03/22;Vanessa Carvalho Mendes;56580363836;Uberlândia;MA;Plano de Saúde;Unimed S.A.;Cobrança indevida na fatura;Não Resolvida;N/A;82
-518;09/20/2022;Lucas Souza Castro;860.479.471-99;Campinas;MT;Banco;Caixa LTDA;Dificuldade para cancelar contrato;Não resolvida;2;16
-519;13/04/24;Fernando  Santos  Santos;;Belém;MA;Educação Superior;Kroton;Descumprimento de oferta;resolvida;5;76
-520;05/16/2024;  Fernando Lima Gomes  ;94264076089;Campinas;RR;Cartão de Crédito;Itaú LTDA;Cobrança após cancelamento;Resolvida;5;
-521;04-06-2024;RAQUEL OLIVEIRA TEIXEIRA;427.873.554-04;Maceió;Pr;TV por Assinatura;sky;Vício ou defeito no produto;FINALIZADA;;88
-522;14/08/2024;  Amanda Costa Silva  ;462.078.562-27;Maringá;PA;TV por Assinatura;directv go;Produto não entregue no prazo;resolvida;4;78
-523;25/10/2023;VANESSA SANTOS VIEIRA;44742707254;VITÓRIA;pi;Internet Banda Larga;Claro NET LTDA;Dificuldade para cancelar contrato;em andamento;2;12
-524;31.05.2023;  Camila Nascimento Castro  ;;Belo Horizonte;pi;Banco;santander;Cobrança após cancelamento;Finalizada;;88
-525;14/03/2023;juliana teixeira teixeira;;Fortaleza;SE;Cartão de Crédito;BANCO DO BRASIL;Vício ou defeito no produto;Finalizada;4;
-526;2022-09-19;Raquel Monteiro Rocha;;Uberlândia;PB;Internet Banda Larga;Vivo Fibra LTDA;Descumprimento de oferta;Finalizada;2;29
-527;09/28/2024;VANESSA CARVALHO RIBEIRO;744.653.255-44;Recife ;PI;Internet Banda Larga;Vivo Fibra S.A.;Descumprimento de oferta;Não resolvida;;83
-528;11/01/2022;  Ricardo Carvalho Martins  ;;Natal;RJ;Internet Banda Larga;Oi Fibra;Serviço interrompido sem aviso;Não Resolvida;5;-1
-529;08-06-2023;  Maria Moreira Mendes  ;863.245.352-79;Curitiba;RR;Transporte Aéreo;azul;Produto não entregue no prazo;em andamento;5;
-530;07-10-2023;renata costa vieira;;Porto Alegre;Mg;Comércio Eletrônico;magazine luiza;Serviço interrompido sem aviso;resolvida;5;8
-531;06/07/2022;Thiago  Almeida  Ribeiro;;Natal;ap;Energia Elétrica;CPFL;Não cumprimento de garantia;Resolvida;3;51
-532;;Marcos Monteiro Barbosa;44302997385;Natal;SE;Telefonia Celular;Vivo LTDA;Propaganda enganosa;RESOLVIDA;4;72
-533;03/03/2023;Isabela  Almeida  Oliveira;213.455.799-90;JOINVILLE;Mg;Comércio Eletrônico;Amazon;Cobrança indevida na fatura;Finalizada;;-1
-534;03/06/2022;Mariana  Ferreira  Carvalho;00330510972;Sorocaba;MS;TV por Assinatura;DIRECTV GO;Propaganda enganosa;resolvida;;30
-535;2022-11-28;Leonardo Vieira Silva;;ARACAJU;RR;Educação Superior;kroton;Descumprimento de oferta;Não Resolvida;2;35
-536;2023-10-09;Bruno Ferreira Teixeira;75605269901;Belém;AL;Educação Superior;Kroton S.A.;Atendimento ao cliente insatisfatório;Não Resolvida;2;
-537;07/04/2023;Thiago Almeida Mendes;;Curitiba;se;Banco;BANCO DO BRASIL;Vício ou defeito no produto;finalizada;4;7
-538;15/06/2022;Tatiana  Barbosa  Araújo;505.139.184-18;Aracaju;AM;Telefonia Celular;Claro S.A.;Propaganda enganosa;RESOLVIDA;3;
-539;29/08/2023;Henrique Moreira Nascimento;976.738.872-46;Niterói;SE;Cartão de Crédito;Banco do Brasil;Cobrança indevida na fatura;Resolvida;N/A;40
-540;16/04/2022;  Pedro Carvalho Silva  ;;Joinville;SP;Cartão de Crédito;itaú;Propaganda enganosa;Não Resolvida;5;
-541;10/18/2023;Lucas  Ferreira  Rocha;596.373.114-93;Curitiba;pe;TV por Assinatura;Claro TV;Vício ou defeito no produto;Em Andamento;1;
-542;29.05.2022;  Luciana Carvalho Martins  ;117.087.027-28;Belo Horizonte;Al;Cartão de Crédito;Banco do Brasil;Cobrança após cancelamento;NÃO RESOLVIDA;;15
-543;26.09.2023;Adriana  Martins  Araújo;404.772.464-97;Ribeirão Preto;Am;Telefonia Celular;Oi S.A.;Produto não entregue no prazo;Resolvida;N/A;79
-544;01/01/2022;mateus santos almeida;;Santos;ac;Educação Superior;ESTÁCIO;Serviço interrompido sem aviso;FINALIZADA;2;
-545;20-11-2024;Ana Araújo Teixeira;;Ribeirão Preto;PR;Transporte Aéreo;LATAM LTDA;Cobrança após cancelamento;Não Resolvida;2;75
-546;18/05/2024;amanda castro monteiro;880.316.647-95;Porto Alegre;DF;TV por Assinatura;Oi TV;Cobrança após cancelamento;Em Andamento;3;11
-547;29/06/22;  Gustavo Moreira Costa  ;;Salvador;DF;Comércio Eletrônico;americanas;Produto não entregue no prazo;Não resolvida;5;1
-548;23/12/22;GUSTAVO BARBOSA RIBEIRO;807.200.805-70;Aparecida de Goiânia;DF;Comércio Eletrônico;magazine luiza;Serviço interrompido sem aviso;NÃO RESOLVIDA;3;-1
-549;27/01/24;Leonardo  Castro  Araújo;402.157.231-25;Natal;MT;Plano de Saúde;SulAmérica;Cobrança indevida na fatura;Em Andamento;5;-1
-550;12/05/2022;mateus barbosa oliveira;79036666369;Joinville;RS;TV por Assinatura;DIRECTV GO;Não cumprimento de garantia;EM ANDAMENTO;2;86
-551;13/07/2022;Tatiana  Santos  Ribeiro;19499913650;Vitória;Ro;Cartão de Crédito;Banco do Brasil S.A.;Cobrança após cancelamento;Finalizada;4;-1
-552;24/02/22;CAMILA CASTRO ROCHA;;Fortaleza;PB;Plano de Saúde;Unimed;Produto não entregue no prazo;NÃO RESOLVIDA;2;6
-553;2023-04-20;TATIANA PEREIRA BARBOSA;39106573517;VITÓRIA;RJ;Plano de Saúde;Unimed;Serviço interrompido sem aviso;RESOLVIDA;;-1
-554;17/06/2023;Renata  Oliveira  Silva;;BELO HORIZONTE;RS;TV por Assinatura;Oi TV S.A.;Cobrança após cancelamento;Não Resolvida;1;-1
-555;06.05.2024;carla barbosa moreira;226.934.854-03;Ribeirão Preto;Mg;Plano de Saúde;SulAmérica;Vício ou defeito no produto;Finalizada;;53
-556;17/04/2024;PEDRO CARVALHO SOUZA;893.335.286-60;São Luís;SC;Telefonia Celular;Vivo LTDA;Dificuldade para cancelar contrato;Finalizada;5;38
-557;14/07/2024;mateus barbosa barbosa;41594925434;BELO HORIZONTE;GO;Comércio Eletrônico;Amazon LTDA;Vício ou defeito no produto;finalizada;3;22
-558;12/05/2023;Paulo Rocha Souza;693.794.999-52;Florianópolis;PA;Banco;santander;Cobrança após cancelamento;Em Andamento;4;
-559;13/05/2022;  Beatriz Vieira Martins  ;507.259.250-16;ARACAJU;PE;Comércio Eletrônico;Amazon;Cobrança indevida na fatura;Finalizada;;
-560;19.09.2022;Paulo  Martins  Martins;86067347671;Aparecida de Goiânia;PA;TV por Assinatura;oi tv;Não cumprimento de garantia;Resolvida;N/A;
-561;01-04-2024;Maria Araújo Rocha;595.691.922-05;Campinas;Sc;Comércio Eletrônico;magazine luiza;Cobrança após cancelamento;NÃO RESOLVIDA;1;35
-562;30.05.2023;lucas mendes araújo;213.461.646-15;Osasco;BA;TV por Assinatura;Oi TV S.A.;Cobrança indevida na fatura;Resolvida;;10
-563;18.01.2024;  Leonardo Nascimento Martins  ;878.602.039-22;MACEIÓ;AL;Educação Superior;Unip LTDA;Vício ou defeito no produto;Finalizada;5;
-564;21/03/22;GABRIEL ROCHA GOMES;297.760.145-84;Ribeirão Preto;SP;Banco;ITAÚ;Descumprimento de oferta;Não resolvida;1;54
-565;;Isabela Vieira Ribeiro;;Fortaleza;SE;Transporte Aéreo;Avianca;Cobrança após cancelamento;Resolvida;;79
-566;05-08-2024;Raquel Castro Ferreira;703.854.787-26;Aparecida de Goiânia;Am;TV por Assinatura;claro tv;Não cumprimento de garantia;Em Andamento;5;-1
-567;16/08/23;Beatriz Ribeiro Almeida;;Porto Alegre;ES;Energia Elétrica;Light LTDA;Cobrança indevida na fatura;em andamento;5;
-568;07-05-2022;Ana Silva Barbosa;369.626.902-22;Aparecida de Goiânia;RO;Energia Elétrica;CPFL S.A.;Não cumprimento de garantia;resolvida;3;14
-569;20/06/2022;felipe moreira ferreira;218.922.400-61;São José dos Campos;Rr;Energia Elétrica;Cemig;Serviço interrompido sem aviso;Em Andamento;5;6
-570;04/01/2024;Leonardo  Ribeiro  Lima;349.394.166-74;Londrina ;pi;Educação Superior;Unip LTDA;Dificuldade para cancelar contrato;FINALIZADA;1;
-571;06/27/2022;Tatiana Oliveira Moreira;669.436.436-53;Teresina;Rr;Banco;Santander S.A.;Cobrança após cancelamento;RESOLVIDA;1;
-572;21.08.2023;  Vanessa Rocha Monteiro  ;18143369757;Cuiabá;Mg;Cartão de Crédito;Bradesco;Vício ou defeito no produto;RESOLVIDA;;78
-573;07-04-2022;Marcos  Ferreira  Nascimento;465.806.817-92;Joao Pessoa;rn;Educação Superior;Kroton;Atendimento ao cliente insatisfatório;Resolvida;N/A;80
-574;07.03.2023;beatriz pereira teixeira;327.839.692-15;BELO HORIZONTE;ac;Comércio Eletrônico;Amazon;Propaganda enganosa;NÃO RESOLVIDA;N/A;-1
-575;31-10-2024;Letícia  Ribeiro  Costa;783.393.994-31;Maringá;Pi;Transporte Aéreo;Azul S.A.;Cobrança após cancelamento;Finalizada;N/A;
-576;;Adriana  Martins  Oliveira;27793333569;Porto Alegre;GO;Plano de Saúde;SulAmérica S.A.;Vício ou defeito no produto;resolvida;1;54
-577;21-08-2024;Carolina Carvalho Ribeiro;429.371.784-72;CAMPO GRANDE;ce;Plano de Saúde;UNIMED;Dificuldade para cancelar contrato;Não resolvida;4;84
-578;01/08/2022;Carlos Teixeira Almeida;10753502469;São José dos Campos;RR;TV por Assinatura;Claro TV;Serviço interrompido sem aviso;Não Resolvida;;68
-579;29-06-2022;  Pedro Almeida Oliveira  ;;Aracaju;MT;Transporte Aéreo;AVIANCA;Dificuldade para cancelar contrato;NÃO RESOLVIDA;3;
-580;11/05/2022;Isabela  Rodrigues  Ribeiro;078.241.164-34;Teresina ;TO;Internet Banda Larga;Tim Live S.A.;Dificuldade para cancelar contrato;em andamento;;30
-581;;PATRÍCIA FERREIRA MOREIRA;;Recife;RS;Internet Banda Larga;Tim Live S.A.;Produto não entregue no prazo;Finalizada;N/A;58
-582;;Letícia  Souza  Monteiro;453.752.574-48;FLORIANÓPOLIS;Rs;Educação Superior;anhanguera;Produto não entregue no prazo;Em Andamento;1;-1
-583;11-11-2024;LARISSA ARAÚJO RODRIGUES;604.678.203-69;Niterói;MT;Telefonia Celular;Vivo S.A.;Produto não entregue no prazo;NÃO RESOLVIDA;1;18
-584;07/23/2024;André Barbosa Araújo;045.194.558-68;Sorocaba;GO;Transporte Aéreo;LATAM S.A.;Não cumprimento de garantia;FINALIZADA;2;43
-585;24.03.2022;Ricardo Gomes Monteiro;172.727.973-28;Aparecida de Goiânia;PI;TV por Assinatura;SKY;Produto não entregue no prazo;Resolvida;2;26
-586;29/03/2023;Larissa  Silva  Mendes;805.877.155-59;Porto Velho;sp;Transporte Aéreo;Avianca LTDA;Cobrança indevida na fatura;NÃO RESOLVIDA;1;50
-587;30/03/2024;Mariana  Almeida  Castro;925.287.835-73;Ribeirão Preto;ES;Comércio Eletrônico;AMAZON;Dificuldade para cancelar contrato;Não Resolvida;N/A;-1
-588;05/07/2024;CAROLINA GOMES GOMES;26720367027;Recife;sc;Transporte Aéreo;Avianca;Vício ou defeito no produto;RESOLVIDA;4;67
-589;15/03/2022;PEDRO MONTEIRO RIBEIRO;691.267.191-96;Campinas;AL;Internet Banda Larga;Vivo Fibra LTDA;Descumprimento de oferta;Não Resolvida;5;
-590;16-12-2022;João  Rodrigues  Pereira;200.013.278-92;Campo Grande;Al;Comércio Eletrônico;mercado livre;Atendimento ao cliente insatisfatório;Em Andamento;2;
-591;25/08/22;Tatiana Nascimento Souza;038.469.128-15;Curitiba;go;Energia Elétrica;ENEL;Descumprimento de oferta;Não Resolvida;2;52
-592;;Diego  Carvalho  Ribeiro;821.003.709-07;Maceió;Pe;Energia Elétrica;Cemig LTDA;Atendimento ao cliente insatisfatório;Não Resolvida;;35
-593;11/24/2022;  Paulo Lima Souza  ;96584029376;FLORIANÓPOLIS;RS;Transporte Aéreo;Avianca;Cobrança após cancelamento;Resolvida;5;23
-594;2024-08-06;Fernanda  Nascimento  Almeida;41000665848;Maceió;ES;Telefonia Celular;Tim S.A.;Cobrança indevida na fatura;NÃO RESOLVIDA;5;64
-595;;juliana martins monteiro;296.586.360-25;Porto Velho;BA;Educação Superior;Estácio;Dificuldade para cancelar contrato;EM ANDAMENTO;1;3
-596;30/11/2023;  André Oliveira Teixeira  ;98566430165;Osasco;Pe;Comércio Eletrônico;americanas;Vício ou defeito no produto;em andamento;;85
-597;10/12/23;Patrícia Silva Rodrigues;;João Pessoa;SE;Comércio Eletrônico;mercado livre;Não cumprimento de garantia;FINALIZADA;N/A;75
-598;2022-06-06;  Renata Martins Souza  ;30734800226;PORTO ALEGRE;RO;Telefonia Celular;TIM;Propaganda enganosa;Não resolvida;1;-1
-599;;fernanda rocha costa;903.230.888-06;JOÃO PESSOA;MT;TV por Assinatura;Oi TV;Atendimento ao cliente insatisfatório;Resolvida;5;45
-600;01-09-2024;Henrique Nascimento Costa;720.335.051-60;Maceió;AM;Comércio Eletrônico;MERCADO LIVRE;Dificuldade para cancelar contrato;Em Andamento;3;
-601;08/01/24;Raquel  Ferreira  Gomes;096.941.235-28;Juiz de Fora;MG;Transporte Aéreo;LATAM;Cobrança indevida na fatura;Finalizada;2;4
-602;2022-10-29;Beatriz Lima Lima;70806313959;MACEIÓ;PI;Plano de Saúde;unimed;Descumprimento de oferta;Não Resolvida;1;10
-603;2022-05-01;luciana carvalho nascimento;;João Pessoa;PR;Transporte Aéreo;LATAM;Cobrança indevida na fatura;Finalizada;2;12
-604;11-07-2024;Letícia Rocha Souza;19844496163;Goiânia;pr;Comércio Eletrônico;Magazine Luiza;Descumprimento de oferta;Não Resolvida;5;57
-605;;João Vieira Barbosa;;Osasco;Ba;Banco;Caixa;Cobrança indevida na fatura;Em Andamento;;
-606;;Beatriz Santos Ribeiro;460.174.196-40;Salvador;BA;Energia Elétrica;Copel;Dificuldade para cancelar contrato;Finalizada;5;-1
-607;05/07/22;Thiago Vieira Teixeira;;GUARULHOS;DF;Comércio Eletrônico;AMERICANAS;Vício ou defeito no produto;Em Andamento;5;
-608;;juliana oliveira oliveira;;Curitiba;PI;TV por Assinatura;Claro TV;Cobrança indevida na fatura;resolvida;1;19
-609;23/04/22;CAROLINA SOUZA NASCIMENTO;36017430402;Porto Velho;AL;Internet Banda Larga;Vivo Fibra;Vício ou defeito no produto;finalizada;4;15
-610;;André Castro Araújo;789.379.877-52;Maringá;Mg;Internet Banda Larga;TIM LIVE;Propaganda enganosa;Em Andamento;N/A;20
-611;07/09/2024;ANDRÉ LIMA MARTINS;;Campo Grande;rn;Energia Elétrica;Copel;Propaganda enganosa;FINALIZADA;N/A;
-612;30/05/2023;Larissa  Martins  Nascimento;873.058.868-10;Vitória;Ba;TV por Assinatura;DirecTV Go S.A.;Serviço interrompido sem aviso;EM ANDAMENTO;1;-1
-613;08.08.2023;  Felipe Pereira Barbosa  ;64164508629;Guarulhos;SP;Cartão de Crédito;Nubank S.A.;Serviço interrompido sem aviso;Em Andamento;;28
-614;01.07.2023;FERNANDA VIEIRA TEIXEIRA;57932770115;CURITIBA;ro;Cartão de Crédito;itaú;Vício ou defeito no produto;resolvida;3;69
-615;11.11.2024;amanda pereira costa;541.802.882-52;Belém;Rr;Energia Elétrica;Cemig LTDA;Cobrança indevida na fatura;Em Andamento;5;69
-616;04/11/2022;Mateus  Castro  Monteiro;;Manaus ;AP;Banco;Banco do Brasil S.A.;Serviço interrompido sem aviso;FINALIZADA;1;88
-617;08-01-2022;mariana araújo rocha;06129889728;Porto Alegre;Se;TV por Assinatura;Claro TV S.A.;Produto não entregue no prazo;FINALIZADA;N/A;10
-618;;  Rafael Gomes Costa  ;35027674906;Recife;PR;Comércio Eletrônico;AMERICANAS;Atendimento ao cliente insatisfatório;RESOLVIDA;3;64
-619;10/10/2024;CARLA ROCHA COSTA;422.061.850-69;Feira de Santana;Es;Energia Elétrica;Light;Cobrança indevida na fatura;finalizada;;
-620;;  Letícia Rocha Monteiro  ;35179838713;ARACAJU;rn;Cartão de Crédito;Itaú LTDA;Não cumprimento de garantia;Em Andamento;4;19
-621;08/21/2024;Beatriz Rocha Martins;097.739.836-66;Aparecida de Goiânia;Pr;Plano de Saúde;Bradesco Saúde;Cobrança indevida na fatura;EM ANDAMENTO;4;52
-622;19/04/2022;Carla  Ferreira  Oliveira;44267353842;OSASCO;AM;Educação Superior;UNIP;Serviço interrompido sem aviso;Finalizada;;
-623;02.02.2022;Henrique Rodrigues Ribeiro;;Teresina;Am;TV por Assinatura;Oi TV S.A.;Descumprimento de oferta;Não resolvida;N/A;
-624;;fernando carvalho costa;597.739.610-34;VITÓRIA;Pi;Internet Banda Larga;Claro NET LTDA;Cobrança indevida na fatura;Em Andamento;5;28
-625;;Luciana  Almeida  Gomes;;Porto Velho;PA;TV por Assinatura;DirecTV Go;Propaganda enganosa;não resolvida;;-1
-626;10/05/2024;  Eduardo Gomes Vieira  ;73586794336;Natal;ce;Cartão de Crédito;Itaú S.A.;Vício ou defeito no produto;finalizada;3;67
-627;22/08/2023;  Patrícia Castro Mendes  ;;Uberlândia;AP;Energia Elétrica;CPFL S.A.;Dificuldade para cancelar contrato;finalizada;;-1
-628;07/10/2024;Beatriz Pereira Oliveira;916.119.553-09;Uberlândia;TO;Banco;Itaú;Descumprimento de oferta;Finalizada;4;
-629;20-05-2022;gustavo oliveira teixeira;;SOROCABA;SE;Internet Banda Larga;tim live;Não cumprimento de garantia;Finalizada;4;55
-630;06.11.2023;Diego Monteiro Ferreira;294.874.781-12;Niterói ;RJ;Banco;Santander;Descumprimento de oferta;Não resolvida;;57
+ID;Data_Reclamacao;Consumidor;CPF;Cidade;UF;Categoria;Empresa;Descricao_Problema;Status;Nota_Consumidor;Tempo_Resposta_Dias
+1;13/2/2024;Rafael Martins;546.145.594-78;Maceió;AL;Correios e Entregas;CLARO;Falta de resposta;Finalizado não avaliado;N/A;
+2;2024-12-14;Bruno Carvalho;223.862.520-27;Ananindeua;PA;Alimentação - Delivery;Claro/Net;Voo cancelado sem aviso;Em análise;2;2
+3;14.09.2023;Juliana Costa;950.746.773-59;Santana;AP;Alimentação - Delivery;Amazon Brasil;Atendimento precário;Finalizado avaliado;5;3
+4;13/9/2024;Felipe Ribeiro;452 770 233 34;Linhares;ES;Transporte Aéreo;Correios;Erro no aplicativo;Em análise;5;77
+5;03-10-2024;Maria Silva;881 818 170 17;Chapecó;SC;Bancos e Financeiras;gol linhas aéreas;Voo cancelado sem aviso;Finalizado avaliado;4;71
+6;08/04/2024;Juliana Costa;721-712-774-89;Dourados;MS;Seguros;Bradesco;Conta contestada;Em análise;N/A;22
+7;2024-11-15;JOÃO SANTOS;370.781.368-77;Camaçari;BA;Telecomunicações - Internet;LATAM Airlines;Serviço não prestado;Resolvido;4;-3
+8;22.03.2024;Ana Oliveira;562.318.977-30;Lauro de Freitas;BA;Alimentação - Delivery;SABESP;Atendimento precário;Finalizado não avaliado;1;7
+9;25-11-2024;Camila Rodrigues;906-437-435-84;Petrolina;PE;Seguros;Banco do Brasil;Estorno não realizado;Finalizado avaliado;4;N/A
+10;28/04/2024;Fernanda Pereira;355 185 440 92;Manaus;AM;Telecomunicações - Internet;magalu;Produto não entregue;Em análise;N/A;42
+11;2023-10-04;Vanessa Gomes;72863756010;Samambaia;DF;Água e Esgoto;CAIXA ECONÔMICA;Conta contestada;Em análise;3;79
+12;27/12/2023;Daniela Araújo;937-295-107-78;Santana;AP;Energia Elétrica;Claro/Net;Defeito no produto;Finalizado avaliado;4;
+13;2023-02-24;Maria Silva;892.244.703-35;Vilhena;RO;Bancos e Financeiras;Telefonica Brasil;Conta contestada;Em andamento;2;2
+14;10/01/2023;Amanda Dias;49028060664;Cuiabá;MT;Alimentação - Delivery;MAGAZINE LUIZA;Produto diferente do anunciado;Não Resolvido;1;59
+15;2024-06-15;Rafael Martins;917 393 789 44;Sobral;CE;Telecomunicações - Telefonia Móvel;AMAZON BRASIL;Voo cancelado sem aviso;Finalizado não avaliado;3;51
+16;01-06-2023;Pedro Lima;780.699.595-71;Guarulhos;SP;Correios e Entregas;Sabesp;Qualidade abaixo do esperado;Finalizado não avaliado;1;N/A
+17;02/01/2023;Felipe Ribeiro;331.601.718-72;Linhares;ES;Cartões de Crédito/Débito;Banco do Brasil;Internet instável;Finalizado avaliado;1;75
+18;17/11/2024;Lucas Nascimento;672-827-843-38;Manacapuru;AM;Telecomunicações - Telefonia Móvel;cvc viagens;Estorno não realizado;Em análise;1;53
+19;3/3/2023;Carlos Souza;19092922996;Floriano;PI;Água e Esgoto;Mercadolivre;Conta contestada;Resolvido;4;
+20;15-06-2023;Gustavo Rocha;892-404-679-46;Olinda;PE;Energia Elétrica;claro / net;Atendimento precário;Finalizado não avaliado;4;54
+21;2024-08-25;Daniela Araújo;459.304.405-21;Santa Rita;PB;Água e Esgoto;tim;Produto não entregue;Resolvido;4;27
+22;25.01.2023;Amanda Dias;756.489.806-88;Joinville;SC;Telecomunicações - Internet;Net Virtua;Internet instável;Finalizado avaliado;4;21
+23;24-02-2023;Roberto Almeida;542 657 638 95;Floriano;PI;Transporte Aéreo;Enel;Conta contestada;Não Resolvido;5;82
+24;23-11-2023;PATRÍCIA MENDES;83873094185;Recife;PE;Telecomunicações - Telefonia Móvel;MAGAZINE LUIZA;Dificuldade de cancelamento;Em análise;3;N/A
+25;21/5/2023;Camila Rodrigues;65646033722;Sorriso;MT;Seguros;Mercado Livre;Cobrança após cancelamento;Finalizado não avaliado;2;
+26;27/5/2023;Ana Oliveira;297 578 139 50;Plano Piloto;DF;Eletrônicos e Celulares;uber;Erro no aplicativo;Não Resolvido;N/A;88
+27;24-02-2024;Roberto Almeida;41555123181;São José dos Campos;SP;Cartões de Crédito/Débito;Azul;Atraso na entrega;Em andamento;3;
+28;27/03/2024;Vanessa Gomes;868-335-461-49;Coari;AM;Correios e Entregas;cpfl energia;Serviço não prestado;Não Resolvido;1;21
+29;08/05/2023;DANIELA ARAÚJO;21238955740;Santa Rita;PB;Viagens e Turismo;CASAS BAHIA;Voo cancelado sem aviso;Não Resolvido;4;57
+30;17.12.2024;Fernanda Pereira;664-333-943-30;Uberlândia;MG;Eletrônicos e Celulares;CPFL ENERGIA;Produto não entregue;Resolvido;3;0
+31;15/7/2023;Ana Oliveira;822-751-398-77;São José dos Pinhais;PR;Correios e Entregas;Caixa Econômica;Falta de resposta;Finalizado avaliado;5;84
+32;16-12-2024;Patrícia Mendes;96748777396;Paraíso do Tocantins;TO;Telecomunicações - TV por Assinatura;enel;Produto não entregue;Não Resolvido;4;86
+33;19/01/2023;Lucas Nascimento;354.638.325-95;Várzea Grande;MT;Alimentação - Delivery;CLARO;Atendimento precário;Resolvido;2;41
+34;3/2/2023;Bruno Carvalho;885-820-847-79;Nossa Senhora do Socorro;SE;Correios e Entregas;enel;Cobrança após cancelamento;Resolvido;5;29
+35;24/4/2023;João Santos;915 518 481 60;Porto Velho;RO;Eletrônicos e Celulares;SAMSUNG;Atraso na entrega;Em andamento;5;44
+36;2024-04-05;Daniela Araújo;908.270.660-28;Paulista;PE;Seguros;uber;Cobrança indevida;Resolvido;4;67
+37;21/10/2024;Daniela Araújo;36844850765;Palmeira dos Índios;AL;Eletrônicos e Celulares;CPFL Energia;Voo cancelado sem aviso;Em análise;3;-1
+38;27/07/2023;Felipe Ribeiro;703-335-358-45;Ceilândia;DF;Bancos e Financeiras;VIVO;Cobrança após cancelamento;Em andamento;5;-1
+39;23.10.2024;Felipe Ribeiro;628.437.741-91;Aparecida de Goiânia;GO;Seguros;CASAS BAHIA;Qualidade abaixo do esperado;Finalizado não avaliado;N/A;
+40;2024-02-22;Carlos Souza;925-803-960-69;Brasília;DF;Correios e Entregas;ifood;Falta de resposta;Finalizado não avaliado;2;4
+41;26/02/2023;Lucas Nascimento;405-567-993-55;Colombo;PR;Telecomunicações - TV por Assinatura;motorola;Cobrança indevida;Finalizado avaliado;1;10
+42;3/10/2024;Ana Oliveira;714-291-210-46;Canoas;RS;Seguros;Americanas S.A.;Conta contestada;Em análise;3;-2
+43;25.02.2023;Carlos Souza;284 321 569 10;Santos;SP;Cartões de Crédito/Débito;cpfl energia;Produto diferente do anunciado;Em análise;5;80
+44;28/08/2024;Daniela Araújo;102.819.221-70;Cascavel;PR;Energia Elétrica;Uber;Internet instável;Em andamento;3;6
+45;5/11/2023;Amanda Dias;332 443 188 65;Lagarto;SE;Eletrônicos e Celulares;CVC Viagens;Atraso na entrega;Em andamento;3;62
+46;2023-04-17;Vanessa Gomes;846-711-286-93;Belém;PA;Transporte Aéreo;CPFL ENERGIA;Qualidade abaixo do esperado;Finalizado avaliado;;71
+47;2023-05-15;Felipe Ribeiro;429-370-670-15;Santana;AP;Bancos e Financeiras;ITAÚ;Erro no aplicativo;Não Resolvido;4;N/A
+48;13-05-2023;Ana Oliveira;868 555 352 95;Cachoeiro de Itapemirim;ES;Transporte por Aplicativo;Magazine Luiza;Cobrança após cancelamento;Finalizado avaliado;;
+49;15-11-2023;Roberto Almeida;506-680-177-51;Vitória da Conquista;BA;Energia Elétrica;oi fixo;Erro no aplicativo;Em andamento;5;15
+50;1/7/2024;Camila Rodrigues;723-846-652-45;Pelotas;RS;Transporte por Aplicativo;tim;Falta de resposta;Em andamento;1;-2
+51;20/5/2023;Carlos Souza;441-758-358-69;Macapá;AP;Telecomunicações - Internet;LATAM Airlines;Dados incorretos na fatura;Finalizado avaliado;2;10
+52;2023-07-17;Fernanda Pereira;523-368-882-24;Ji-Paraná;RO;Telecomunicações - TV por Assinatura;CPFL Energia;Serviço não prestado;Finalizado avaliado;2;81
+53;11.07.2024;Gustavo Rocha;83036420572;Tangará da Serra;MT;Transporte por Aplicativo;BRADESCO;Propaganda enganosa;Resolvido;1;N/A
+54;2024-05-10;Ana Oliveira;434 243 585 60;Colombo;PR;Transporte Aéreo;Enel;Propaganda enganosa;Em análise;1;21
+55;14.10.2023;Roberto Almeida;938-348-383-84;Guarulhos;SP;Bancos e Financeiras;LATAM AIRLINES;Dificuldade de cancelamento;Em andamento;3;12
+56;27/11/2023;Maria Silva;470 433 410 88;Rondonópolis;MT;Transporte por Aplicativo;Samsung;Falta de resposta;Resolvido;2;56
+57;1/11/2024;Lucas Nascimento;581-559-535-21;Sinop;MT;Eletrônicos e Celulares;tim;Conta contestada;Finalizado não avaliado;5;75
+58;2024-07-01;Ana Oliveira;22387649959;Várzea Grande;MT;Transporte Aéreo;APPLE;Conta contestada;Finalizado não avaliado;2;67
+59;22/03/2023;Roberto Almeida;466-226-233-80;Boa Vista;RR;Alimentação - Delivery;vivo telefonica;Defeito no produto;Não Resolvido;3;84
+60;12/11/2023;Gustavo Rocha;930 762 327 42;Cabo de Santo Agostinho;PE;Água e Esgoto;Mercadolivre;Produto diferente do anunciado;Finalizado avaliado;1;17
+61;26.12.2024;Camila Rodrigues;287.542.454-47;Paço do Lumiar;MA;Cartões de Crédito/Débito;iFood;Serviço não prestado;Em andamento;4;27
+62;24-01-2024;Roberto Almeida;569.314.156-45;Santa Maria;RS;Transporte por Aplicativo;Enel;Produto não entregue;Em andamento;2;33
+63;2023-01-22;Roberto Almeida;820.799.732-32;Caracaraí;RR;Telecomunicações - TV por Assinatura;SAMSUNG;Falta de resposta;Em análise;4;N/A
+64;13/09/2023;João Santos;93013580596;Paulista;PE;Telecomunicações - Telefonia Móvel;SKY BRASIL;Cobrança indevida;Em análise;1;86
+65;23-05-2023;Pedro Lima;790 182 766 34;Itajaí;SC;Água e Esgoto;latam airlines;Cobrança indevida;Finalizado avaliado;5;
+66;11/01/2024;Ana Oliveira;628.206.213-81;Goiânia;GO;Bancos e Financeiras;Caixa Econômica;Internet instável;Finalizado avaliado;4;30
+67;2023-03-06;Maria Silva;511 777 758 86;Palmeira dos Índios;AL;Água e Esgoto;Caixa Econômica;Internet instável;Em andamento;5;53
+68;13/08/2024;Carlos Souza;228 799 829 89;Manacapuru;AM;Energia Elétrica;Net Virtua;Produto diferente do anunciado;Finalizado não avaliado;5;
+69;08/05/2023;Daniela Araújo;21238955740;Santa Rita;PB;Viagens e Turismo;CASAS BAHIA;Voo cancelado sem aviso;Não Resolvido;4;57
+70;3/8/2024;Roberto Almeida;48861887142;Três Lagoas;MS;Energia Elétrica;itau;Cobrança após cancelamento;Em andamento;5;
+71;23.07.2024;Rafael Martins;643-620-622-66;Campinas;SP;Energia Elétrica;banco do brasil;Produto não entregue;Finalizado avaliado;4;31
+72;13.02.2023;Patrícia Mendes;460.617.151-35;Parnaíba;PI;Transporte por Aplicativo;RAPPI;Falta de resposta;Finalizado avaliado;;49
+73;03/03/2024;João Santos;17734995080;Sorocaba;SP;Telecomunicações - Internet;uber;Cobrança após cancelamento;Finalizado avaliado;5;41
+74;05-11-2023;Thiago Ferreira;59134845064;Ariquemes;RO;Eletrônicos e Celulares;cpfl energia;Dificuldade de cancelamento;Em análise;3;5
+75;25/7/2024;Juliana Costa;64292110651;Aparecida de Goiânia;GO;Comércio Eletrônico;americanas;Falta de resposta;Finalizado não avaliado;N/A;
+76;27-05-2023;Carlos Souza;144.521.469-18;Ceilândia;DF;Telecomunicações - TV por Assinatura;MAGAZINE LUIZA;Dificuldade de cancelamento;Resolvido;1;2
+77;01/08/2024;Thiago Ferreira;79855473235;Recife;PE;Cartões de Crédito/Débito;latam airlines;Internet instável;Finalizado avaliado;1;43
+78;06-02-2024;Bruno Carvalho;836-839-880-31;Caracaraí;RR;Cartões de Crédito/Débito;CPFL ENERGIA;Qualidade abaixo do esperado;Finalizado avaliado;1;33
+79;01-12-2023;Rafael Martins;559-674-331-44;Chapecó;SC;Energia Elétrica;Sky Brasil;Cobrança após cancelamento;Em andamento;1;
+80;2023-02-24;MARIA SILVA;892.244.703-35;Vilhena;RO;Bancos e Financeiras;Telefonica Brasil;Conta contestada;Em andamento;2;2
+81;06-10-2023;Felipe Ribeiro;953 972 764 17;Blumenau;SC;Telecomunicações - TV por Assinatura;americanas;Internet instável;Em andamento;N/A;1
+82;18-11-2024;Camila Rodrigues;61830390547;Colombo;PR;Bancos e Financeiras;B2W - Americanas;Conta contestada;Em análise;4;54
+83;06.08.2023;Roberto Almeida;42083045929;São Luís;MA;Telecomunicações - TV por Assinatura;GOL LINHAS AÉREAS;Dados incorretos na fatura;Resolvido;5;46
+84;25/09/2024;Vanessa Gomes;96312155715;Rio Branco;AC;Telecomunicações - Telefonia Móvel;Banco Bradesco;Serviço não prestado;Finalizado não avaliado;4;66
+85;08-07-2023;João Santos;875-769-310-82;Patos;PB;Transporte por Aplicativo;APPLE;Qualidade abaixo do esperado;Resolvido;3;
+86;2023-11-22;Daniela Araújo;684-410-236-16;Serra;ES;Eletrônicos e Celulares;americanas;Qualidade abaixo do esperado;Não Resolvido;4;77
+87;25/2/2023;Pedro Lima;16295521260;Nova Iguaçu;RJ;Viagens e Turismo;B2W - Americanas;Cobrança após cancelamento;Não Resolvido;4;84
+88;16.09.2024;Amanda Dias;772.217.495-41;Mossoró;RN;Alimentação - Delivery;Vivo;Estorno não realizado;Finalizado avaliado;5;
+89;13/11/2024;Felipe Ribeiro;81191669984;Vitória;ES;Comércio Eletrônico;Sabesp;Falta de resposta;Em andamento;2;50
+90;25-07-2024;Daniela Araújo;681 679 759 62;Paulista;PE;Telecomunicações - Internet;GOL LINHAS AÉREAS;Estorno não realizado;Resolvido;1;80
+91;22/10/2024;Gustavo Rocha;611 590 187 52;Ceará-Mirim;RN;Cartões de Crédito/Débito;99;Falta de resposta;Finalizado não avaliado;5;
+92;27-03-2024;Rafael Martins;766 147 227 60;Ceará-Mirim;RN;Transporte Aéreo;enel;Voo cancelado sem aviso;Em análise;5;88
+93;2023-04-01;Camila Rodrigues;53553866172;Curitiba;PR;Energia Elétrica;tim;Qualidade abaixo do esperado;Não Resolvido;5;44
+94;06-02-2023;Roberto Almeida;303.348.431-44;Rio Branco;AC;Energia Elétrica;caixa econômica;Cobrança indevida;Finalizado não avaliado;1;27
+95;28/8/2023;Roberto Almeida;796.712.700-80;Serra;ES;Seguros;GOL LINHAS AÉREAS;Propaganda enganosa;Em análise;N/A;28
+96;2024-03-23;Fernanda Pereira;225 437 956 30;Campos dos Goytacazes;RJ;Eletrônicos e Celulares;oi fixo;Dados incorretos na fatura;Resolvido;4;18
+97;20-03-2024;Lucas Nascimento;302-744-450-48;Itapipoca;CE;Bancos e Financeiras;CAIXA ECONÔMICA;Produto diferente do anunciado;Não Resolvido;3;N/A
+98;27/4/2024;Maria Silva;474.472.672-92;São Gonçalo do Amarante;RN;Transporte Aéreo;iFood;Internet instável;Finalizado avaliado;3;
+99;03/06/2024;Amanda Dias;434 167 260 89;Ceará-Mirim;RN;Correios e Entregas;Amazon Brasil;Internet instável;Finalizado não avaliado;1;47
+100;19/04/2023;Vanessa Gomes;847 516 818 53;Linhares;ES;Comércio Eletrônico;latam airlines;Atendimento precário;Em análise;3;
+101;21-02-2023;Amanda Dias;386-329-417-51;Cabedelo;PB;Telecomunicações - Telefonia Móvel;Amazon Brasil;Cobrança após cancelamento;Finalizado não avaliado;5;6
+102;10-12-2024;Felipe Ribeiro;395 107 305 81;Macaíba;RN;Cartões de Crédito/Débito;caixa econômica;Voo cancelado sem aviso;Finalizado avaliado;3;85
+103;12/10/2024;Roberto Almeida;379 535 677 51;Goiânia;GO;Viagens e Turismo;enel;Atraso na entrega;Finalizado não avaliado;5;2
+104;14/12/2023;Roberto Almeida;933.645.197-75;Águas Lindas de Goiás;GO;Telecomunicações - Telefonia Móvel;CPFL Energia;Produto não entregue;Resolvido;4;48
+105;07-01-2023;Juliana Costa;23153999832;Codó;MA;Eletrônicos e Celulares;UBER;Atraso na entrega;Resolvido;1;58
+106;23-11-2024;Maria Silva;719 899 836 36;Linhares;ES;Comércio Eletrônico;CVC Viagens;Propaganda enganosa;Não Resolvido;4;39
+107;2024-12-15;Gustavo Rocha;343 809 171 32;Ponta Porã;MS;Seguros;T.I.M.;Qualidade abaixo do esperado;Finalizado avaliado;5;83
+108;14/6/2023;Ana Oliveira;220-784-853-75;Santa Maria;RS;Cartões de Crédito/Débito;IFOOD;Falta de resposta;Em análise;1;74
+109;06.08.2024;Vanessa Gomes;49044250981;Natal;RN;Correios e Entregas;Americanas;Defeito no produto;Resolvido;1;62
+110;2024-01-08;Larissa Barbosa;983.322.793-37;São Gonçalo do Amarante;RN;Correios e Entregas;correios;Serviço não prestado;Em análise;1;66
+111;15-12-2023;Daniela Araújo;30138727687;Campina Grande;PB;Telecomunicações - Telefonia Móvel;Azul;Atraso na entrega;Em análise;2;
+112;1/8/2023;Camila Rodrigues;33856155914;Niterói;RJ;Alimentação - Delivery;OI FIXO;Defeito no produto;Finalizado não avaliado;3;15
+113;23-11-2023;Patrícia Mendes;83873094185;Recife;PE;Telecomunicações - Telefonia Móvel;MAGAZINE LUIZA;Dificuldade de cancelamento;Em análise;3;N/A
+114;25.03.2023;Felipe Ribeiro;525.725.737-92;Teresina;PI;Seguros;99;Produto diferente do anunciado;Finalizado não avaliado;2;58
+115;2024-11-15;João Santos;370.781.368-77;Camaçari;BA;Telecomunicações - Internet;LATAM Airlines;Serviço não prestado;Resolvido;4;-3
+116;19.08.2024;Felipe Ribeiro;760-511-782-58;Piripiri;PI;Comércio Eletrônico;bradesco;Internet instável;Finalizado avaliado;4;34
+117;2024-05-24;Ana Oliveira;725 899 942 42;Sena Madureira;AC;Cartões de Crédito/Débito;correios;Internet instável;Não Resolvido;1;48
+118;08-07-2024;Thiago Ferreira;690.200.804-29;Petrolina;PE;Seguros;VIVO;Conta contestada;Finalizado avaliado;1;
+119;2023-03-16;Bruno Carvalho;808-280-572-64;Plano Piloto;DF;Água e Esgoto;cvc viagens;Propaganda enganosa;Resolvido;2;17
+120;27/07/2023;Felipe Ribeiro;703-335-358-45;Ceilândia;DF;Bancos e Financeiras;VIVO;Cobrança após cancelamento;Em andamento;5;-1
+121;16/8/2024;Gustavo Rocha;865-798-816-62;Paulista;PE;Telecomunicações - Internet;BANCO DO BRASIL;Voo cancelado sem aviso;Finalizado não avaliado;1;N/A
+122;19-01-2023;Maria Silva;604 210 860 97;Camaçari;BA;Telecomunicações - Telefonia Móvel;Banco Bradesco;Dados incorretos na fatura;Finalizado avaliado;5;9
+123;09/08/2023;Daniela Araújo;142-252-137-15;Três Lagoas;MS;Eletrônicos e Celulares;americanas;Estorno não realizado;Finalizado não avaliado;1;N/A
+124;19-11-2024;Thiago Ferreira;916.518.277-83;Campinas;SP;Água e Esgoto;ENEL;Dificuldade de cancelamento;Não Resolvido;2;15
+125;04-02-2023;Gustavo Rocha;254.805.994-48;Porto Nacional;TO;Água e Esgoto;SABESP;Falta de resposta;Finalizado não avaliado;;19
+126;11.06.2023;Thiago Ferreira;473-762-578-97;Campo Grande;MS;Telecomunicações - TV por Assinatura;99;Serviço não prestado;Em andamento;1;7
+127;24/11/2024;João Santos;91471323975;Cascavel;PR;Energia Elétrica;SKY BRASIL;Cobrança indevida;Resolvido;5;49
+128;21/12/2023;Bruno Carvalho;16822812783;Dourados;MS;Correios e Entregas;LATAM AIRLINES;Produto não entregue;Não Resolvido;3;8
+129;02.10.2024;Roberto Almeida;108-890-920-70;Várzea Grande;MT;Água e Esgoto;CVC Viagens;Dados incorretos na fatura;Finalizado avaliado;3;85
+130;12/08/2023;Larissa Barbosa;651 719 335 40;Ceilândia;DF;Correios e Entregas;ENEL;Cobrança após cancelamento;Em andamento;;68
+131;02/03/2024;Carlos Souza;361 544 463 34;Maracanaú;CE;Transporte Aéreo;Vivo;Qualidade abaixo do esperado;Em análise;2;12
+132;2023-09-18;Bruno Carvalho;14660015968;Caracaraí;RR;Água e Esgoto;gol linhas aéreas;Estorno não realizado;Resolvido;2;11
+133;01-04-2023;Patrícia Mendes;567.302.354-75;Piripiri;PI;Bancos e Financeiras;uber;Dificuldade de cancelamento;Resolvido;2;44
+134;07.03.2024;Bruno Carvalho;572-371-836-23;Parnamirim;RN;Água e Esgoto;UBER;Internet instável;Não Resolvido;2;
+135;11.09.2024;Camila Rodrigues;351.934.370-55;Floriano;PI;Transporte por Aplicativo;99;Atraso na entrega;Resolvido;2;6
+136;24/9/2024;Maria Silva;152.792.580-16;Manaus;AM;Seguros;Vivo S.A.;Propaganda enganosa;Em análise;1;23
+137;2024-10-22;Juliana Costa;19847660195;Três Lagoas;MS;Eletrônicos e Celulares;MAGAZINE LUIZA;Propaganda enganosa;Em andamento;3;4
+138;26/5/2024;Amanda Dias;370.694.575-10;Manaus;AM;Transporte Aéreo;Mercado Livre;Internet instável;Finalizado avaliado;4;13
+139;27/06/2024;Maria Silva;912 350 681 93;Bayeux;PB;Seguros;AMAZON BRASIL;Falta de resposta;Finalizado não avaliado;2;62
+140;17.02.2023;Carlos Souza;414-495-131-35;Manacapuru;AM;Telecomunicações - Internet;UBER;Cobrança após cancelamento;Finalizado avaliado;1;3
+141;21-03-2023;Carlos Souza;14058379976;Piripiri;PI;Alimentação - Delivery;Banco do Brasil;Produto diferente do anunciado;Finalizado não avaliado;2;55
+142;08-11-2024;Maria Silva;490-565-727-83;Jaboatão dos Guararapes;PE;Seguros;99;Internet instável;Resolvido;3;5
+143;2023-07-21;Patrícia Mendes;386-313-943-28;Coari;AM;Alimentação - Delivery;NET;Atendimento precário;Em análise;5;83
+144;2023-11-10;Gustavo Rocha;643 139 415 74;São Bernardo do Campo;SP;Seguros;cpfl energia;Conta contestada;Em análise;1;
+145;10.12.2024;Lucas Nascimento;170.976.893-93;Macapá;AP;Telecomunicações - Telefonia Móvel;sky brasil;Atendimento precário;Não Resolvido;4;41
+146;2023-05-28;Carlos Souza;214 245 344 94;Parnamirim;RN;Alimentação - Delivery;Bradesco;Propaganda enganosa;Finalizado não avaliado;3;
+147;2024-07-10;Maria Silva;93449792355;Macapá;AP;Correios e Entregas;CVC VIAGENS;Propaganda enganosa;Finalizado avaliado;3;29
+148;2024-03-26;Thiago Ferreira;81350926376;Taguatinga;DF;Energia Elétrica;Sky Brasil;Dificuldade de cancelamento;Resolvido;3;23
+149;2023-11-06;Rafael Martins;963.614.905-69;Serra;ES;Viagens e Turismo;SKY BRASIL;Voo cancelado sem aviso;Finalizado avaliado;4;70
+150;23.09.2023;Rafael Martins;944.885.850-99;Arapiraca;AL;Eletrônicos e Celulares;Enel;Produto não entregue;Não Resolvido;2;84
+151;12/11/2024;Fernanda Pereira;364.130.899-87;Uberaba;MG;Água e Esgoto;Claro/Net;Cobrança após cancelamento;Resolvido;4;9
+152;27-04-2023;Juliana Costa;56075040640;Oiapoque;AP;Eletrônicos e Celulares;VIVO;Falta de resposta;Resolvido;N/A;23
+153;06/04/2024;Juliana Costa;10220034078;Maceió;AL;Telecomunicações - TV por Assinatura;UBER;Conta contestada;Finalizado não avaliado;5;26
+154;6/11/2023;Juliana Costa;330.900.691-95;Santarém;PA;Bancos e Financeiras;Claro/Net;Conta contestada;Finalizado avaliado;1;
+155;09/07/2023;Felipe Ribeiro;368 420 696 85;Tarauacá;AC;Bancos e Financeiras;Sabesp;Atraso na entrega;Não Resolvido;3;4
+156;2/4/2024;Lucas Nascimento;454.970.709-89;Patos;PB;Correios e Entregas;Net Virtua;Defeito no produto;Resolvido;2;
+157;11/09/2024;João Santos;378-347-165-54;Águas Lindas de Goiás;GO;Comércio Eletrônico;TIM Celular;Internet instável;Em análise;4;43
+158;2023-04-27;Patrícia Mendes;282.912.399-98;Feira de Santana;BA;Correios e Entregas;vivo telefonica;Falta de resposta;Não Resolvido;4;48
+159;07-04-2023;Carlos Souza;99945677531;Petrópolis;RJ;Alimentação - Delivery;Correios;Erro no aplicativo;Não Resolvido;5;77
+160;15-06-2023;Gustavo Rocha;892-404-679-46;Olinda;PE;Energia Elétrica;claro / net;Atendimento precário;Finalizado não avaliado;4;54
+161;24-10-2023;Roberto Almeida;723 798 120 59;Rio Largo;AL;Alimentação - Delivery;gol linhas aéreas;Internet instável;Em andamento;4;30
+162;14/09/2024;Rafael Martins;58759947482;Caruaru;PE;Energia Elétrica;IFOOD;Voo cancelado sem aviso;Finalizado não avaliado;2;40
+163;04.05.2023;Carlos Souza;288 468 180 94;Corumbá;MS;Transporte por Aplicativo;AZUL;Cobrança indevida;Em análise;5;
+164;2024-08-22;Rafael Martins;532 392 975 12;Blumenau;SC;Telecomunicações - TV por Assinatura;samsung;Voo cancelado sem aviso;Em análise;4;N/A
+165;25/10/2023;João Santos;32652290086;Três Lagoas;MS;Seguros;Apple;Internet instável;Em andamento;5;0
+166;6/7/2024;Lucas Nascimento;340 458 377 17;Juiz de Fora;MG;Transporte por Aplicativo;ifood;Produto não entregue;Resolvido;5;87
+167;21-05-2024;Larissa Barbosa;44451036023;Vitória da Conquista;BA;Transporte por Aplicativo;americanas;Estorno não realizado;Finalizado avaliado;2;51
+168;23/12/2023;Roberto Almeida;56495044441;Imperatriz;MA;Telecomunicações - Telefonia Móvel;Claro / NET;Erro no aplicativo;Finalizado avaliado;2;34
+169;15-04-2023;Amanda Dias;359 653 928 39;Viamão;RS;Telecomunicações - Internet;Claro;Conta contestada;Finalizado avaliado;4;15
+170;28-08-2023;Bruno Carvalho;828 397 142 40;Cruzeiro do Sul;AC;Comércio Eletrônico;MOTOROLA;Dificuldade de cancelamento;Em análise;4;47
+171;14.08.2023;Fernanda Pereira;698 968 313 42;Boa Vista;RR;Telecomunicações - Telefonia Móvel;Itaú Unibanco;Voo cancelado sem aviso;Finalizado não avaliado;3;21
+172;2023-03-14;RAFAEL MARTINS;916.184.461-41;Parauapebas;PA;Transporte por Aplicativo;amazon brasil;Conta contestada;Em análise;5;60
+173;2023-08-01;Vanessa Gomes;935 631 705 44;Bayeux;PB;Transporte Aéreo;Magazine luiza;Qualidade abaixo do esperado;Finalizado avaliado;3;-5
+174;24-04-2024;Maria Silva;343.650.678-96;Oiapoque;AP;Viagens e Turismo;BANCO DO BRASIL;Produto diferente do anunciado;Em andamento;4;60
+175;04-01-2024;Larissa Barbosa;829 321 611 46;Três Lagoas;MS;Telecomunicações - Telefonia Móvel;SAMSUNG;Voo cancelado sem aviso;Finalizado avaliado;1;78
+176;6/4/2024;Thiago Ferreira;554.361.371-52;Várzea Grande;MT;Correios e Entregas;Magazine Luiza;Qualidade abaixo do esperado;Em andamento;3;32
+177;16/8/2023;Camila Rodrigues;142-781-153-37;Dourados;MS;Água e Esgoto;Sky Brasil;Qualidade abaixo do esperado;Em análise;4;45
+178;16/02/2024;Ana Oliveira;38993647624;Ilhéus;BA;Bancos e Financeiras;MercadoLivre;Atendimento precário;Em análise;1;37
+179;09.05.2023;Fernanda Pereira;543 986 436 94;Luziânia;GO;Transporte por Aplicativo;CPFL ENERGIA;Cobrança indevida;Não Resolvido;1;24
+180;14/6/2023;Lucas Nascimento;558-258-747-34;Joinville;SC;Viagens e Turismo;latam airlines;Cobrança indevida;Finalizado não avaliado;1;67
+181;01.09.2024;Roberto Almeida;981 248 649 56;Plano Piloto;DF;Telecomunicações - TV por Assinatura;LATAM AIRLINES;Produto diferente do anunciado;Finalizado avaliado;5;45
+182;28/11/2023;Camila Rodrigues;168-507-382-77;Jaraguá do Sul;SC;Cartões de Crédito/Débito;americanas;Qualidade abaixo do esperado;Em análise;1;35
+183;14/1/2024;João Santos;39466512932;Piripiri;PI;Transporte Aéreo;Claro/Net;Conta contestada;Em andamento;5;62
+184;2023-02-17;Lucas Nascimento;704 124 866 46;Natal;RN;Cartões de Crédito/Débito;oi fixo;Estorno não realizado;Não Resolvido;4;
+185;09.01.2023;Maria Silva;32148666481;Tangará da Serra;MT;Seguros;99;Atendimento precário;Finalizado avaliado;2;N/A
+186;06-01-2024;Thiago Ferreira;78487588692;Nova Iguaçu;RJ;Telecomunicações - Telefonia Móvel;LIGHT;Serviço não prestado;Finalizado avaliado;1;52
+187;03-02-2024;Felipe Ribeiro;94374018284;Águas Lindas de Goiás;GO;Telecomunicações - Telefonia Móvel;CVC VIAGENS;Atraso na entrega;Em andamento;4;
+188;28/7/2024;Camila Rodrigues;987.241.174-26;Bayeux;PB;Comércio Eletrônico;CVC Viagens;Produto diferente do anunciado;Finalizado avaliado;;24
+189;2023-06-18;Maria Silva;24498596387;Novo Hamburgo;RS;Energia Elétrica;americanas;Voo cancelado sem aviso;Resolvido;5;39
+190;03-07-2024;Pedro Lima;269-398-748-23;Aracaju;SE;Telecomunicações - Telefonia Móvel;Azul;Voo cancelado sem aviso;Finalizado não avaliado;4;78
+191;05-02-2024;Juliana Costa;966 535 346 84;São Cristóvão;SE;Alimentação - Delivery;99;Cobrança indevida;Em análise;5;49
+192;08-07-2024;Gustavo Rocha;298-884-800-31;Goiânia;GO;Correios e Entregas;CAIXA ECONÔMICA;Dados incorretos na fatura;Finalizado avaliado;4;84
+193;2023-09-17;Rafael Martins;514-436-145-43;Juiz de Fora;MG;Viagens e Turismo;Casas Bahia;Propaganda enganosa;Finalizado não avaliado;1;76
+194;2023-09-18;Larissa Barbosa;642 471 731 36;Porto Nacional;TO;Transporte Aéreo;Bradesco S.A.;Qualidade abaixo do esperado;Finalizado não avaliado;4;74
+195;12/05/2023;Vanessa Gomes;820-496-748-23;Caxias do Sul;RS;Seguros;Light;Produto não entregue;Não Resolvido;2;12
+196;10-11-2024;Juliana Costa;83397838528;João Pessoa;PB;Telecomunicações - Telefonia Móvel;Sky Brasil;Falta de resposta;Em andamento;2;87
+197;2024-07-20;Pedro Lima;22246780040;Manacapuru;AM;Seguros;ifood;Propaganda enganosa;Em análise;3;1
+198;2024-07-23;CAMILA RODRIGUES;292-290-952-33;Montes Claros;MG;Telecomunicações - Internet;Vivo S.A.;Produto não entregue;Em análise;1;63
+199;01.10.2023;Lucas Nascimento;619.445.374-97;Maracanaú;CE;Bancos e Financeiras;latam airlines;Estorno não realizado;Em andamento;4;88
+200;28/10/2024;Fernanda Pereira;614.185.329-15;Nossa Senhora do Socorro;SE;Seguros;Apple;Produto não entregue;Finalizado não avaliado;4;21
+201;03.09.2024;Larissa Barbosa;625 633 500 61;Codó;MA;Água e Esgoto;magalu;Conta contestada;Finalizado avaliado;1;24
+202;4/2/2023;Maria Silva;19013447757;Floriano;PI;Correios e Entregas;UBER;Produto diferente do anunciado;Resolvido;5;23
+203;3/11/2024;Felipe Ribeiro;257-986-590-94;Rondonópolis;MT;Viagens e Turismo;LATAM Airlines;Internet instável;Finalizado avaliado;5;31
+204;2023-09-02;Patrícia Mendes;398 500 212 70;Palmas;TO;Seguros;TIM Celular;Produto não entregue;Em análise;N/A;66
+205;19.08.2024;FELIPE RIBEIRO;760-511-782-58;Piripiri;PI;Comércio Eletrônico;bradesco;Internet instável;Finalizado avaliado;4;34
+206;28/11/2024;Larissa Barbosa;926 736 482 87;Belford Roxo;RJ;Correios e Entregas;Itau Unibanco S.A.;Serviço não prestado;Em análise;2;
+207;2024-01-06;Fernanda Pereira;657-966-972-77;Corumbá;MS;Telecomunicações - Internet;Banco Bradesco;Produto diferente do anunciado;Em andamento;2;84
+208;26/10/2024;João Santos;876-207-548-14;Ponta Porã;MS;Correios e Entregas;LATAM Airlines;Defeito no produto;Finalizado não avaliado;4;63
+209;9/11/2023;Daniela Araújo;632 878 712 84;Vitória;ES;Água e Esgoto;CVC VIAGENS;Qualidade abaixo do esperado;Resolvido;N/A;78
+210;17.08.2023;Gustavo Rocha;92021797033;Manacapuru;AM;Telecomunicações - Telefonia Móvel;Mercadolivre;Produto não entregue;Finalizado não avaliado;2;36
+211;2023-09-14;Daniela Araújo;11250430162;Viamão;RS;Alimentação - Delivery;RAPPI;Propaganda enganosa;Resolvido;1;
+212;14/01/2024;Felipe Ribeiro;379-526-425-71;Tarauacá;AC;Eletrônicos e Celulares;Claro/Net;Qualidade abaixo do esperado;Não Resolvido;1;79
+213;10/9/2024;Roberto Almeida;62871712724;Nova Iguaçu;RJ;Seguros;CAIXA ECONÔMICA;Estorno não realizado;Finalizado avaliado;3;32
+214;24/10/2023;Felipe Ribeiro;99747868869;Vitória da Conquista;BA;Telecomunicações - Internet;Magalu;Dificuldade de cancelamento;Em análise;1;66
+215;16/11/2023;Ana Oliveira;23378761991;Rio Verde;GO;Eletrônicos e Celulares;amazon brasil;Atendimento precário;Em andamento;3;14
+216;11-11-2023;Vanessa Gomes;980-965-708-26;Paraíso do Tocantins;TO;Transporte por Aplicativo;apple;Falta de resposta;Em andamento;;29
+217;18.01.2023;Ana Oliveira;41372096136;Itabaiana;SE;Telecomunicações - Internet;Sabesp;Atraso na entrega;Finalizado não avaliado;3;
+218;2024-12-28;Vanessa Gomes;582.373.803-26;Nossa Senhora do Socorro;SE;Transporte Aéreo;banco do brasil;Produto não entregue;Finalizado não avaliado;3;68
+219;2023-07-21;Pedro Lima;32466877323;Nossa Senhora do Socorro;SE;Cartões de Crédito/Débito;samsung;Qualidade abaixo do esperado;Finalizado não avaliado;N/A;81
+220;21/7/2023;Ana Oliveira;712.402.722-82;Itacoatiara;AM;Transporte Aéreo;Uber;Internet instável;Em andamento;1;46
+221;15.01.2023;Patrícia Mendes;234 856 973 94;Ponta Grossa;PR;Telecomunicações - TV por Assinatura;APPLE;Voo cancelado sem aviso;Finalizado avaliado;4;65
+222;01.08.2023;Gustavo Rocha;548-183-613-65;Paraíso do Tocantins;TO;Transporte Aéreo;banco do brasil;Dificuldade de cancelamento;Em andamento;1;N/A
+223;27/2/2023;Camila Rodrigues;108 912 308 35;Porto Alegre;RS;Telecomunicações - Telefonia Móvel;T.I.M.;Erro no aplicativo;Finalizado avaliado;5;57
+224;2024-10-23;João Santos;104 835 717 33;Belém;PA;Cartões de Crédito/Débito;Telefonica Brasil;Falta de resposta;Em análise;4;
+225;01/02/2023;Maria Silva;27170044671;Montes Claros;MG;Alimentação - Delivery;Azul;Internet instável;Finalizado não avaliado;1;
+226;28/1/2024;Vanessa Gomes;410 898 569 99;Lauro de Freitas;BA;Cartões de Crédito/Débito;99;Voo cancelado sem aviso;Resolvido;;-5
+227;02-08-2023;Thiago Ferreira;690.285.864-28;Chapecó;SC;Alimentação - Delivery;GOL Linhas Aéreas;Cobrança após cancelamento;Resolvido;2;29
+228;11/10/2023;Patrícia Mendes;620.404.174-78;Florianópolis;SC;Bancos e Financeiras;BRADESCO;Qualidade abaixo do esperado;Não Resolvido;4;-1
+229;25-10-2024;Rafael Martins;490 272 256 23;Picos;PI;Telecomunicações - TV por Assinatura;Itaú;Serviço não prestado;Não Resolvido;2;87
+230;22/11/2023;Camila Rodrigues;272 403 879 80;Londrina;PR;Comércio Eletrônico;MOTOROLA;Estorno não realizado;Resolvido;1;
+231;22/12/2024;Amanda Dias;326-226-532-64;Natal;RN;Eletrônicos e Celulares;LIGHT;Cobrança após cancelamento;Em análise;1;27
+232;11-11-2024;João Santos;331-946-787-30;Piripiri;PI;Bancos e Financeiras;cpfl energia;Voo cancelado sem aviso;Finalizado avaliado;2;55
+233;26.07.2024;VANESSA GOMES;760-705-948-96;Camaçari;BA;Viagens e Turismo;Vivo S.A.;Produto diferente do anunciado;Não Resolvido;N/A;N/A
+234;2023-10-22;Vanessa Gomes;337-328-500-81;Tefé;AM;Transporte por Aplicativo;gol linhas aéreas;Erro no aplicativo;Finalizado não avaliado;5;86
+235;17-06-2023;Pedro Lima;54241232996;Campinas;SP;Transporte por Aplicativo;CVC Viagens;Estorno não realizado;Finalizado não avaliado;4;
+236;27-05-2024;Felipe Ribeiro;676.116.688-14;Rio Branco;AC;Telecomunicações - TV por Assinatura;Azul;Qualidade abaixo do esperado;Finalizado não avaliado;3;83
+237;2023-12-11;Felipe Ribeiro;20178248270;Lagarto;SE;Transporte por Aplicativo;Uber;Voo cancelado sem aviso;Finalizado não avaliado;5;39
+238;14.08.2023;Daniela Araújo;203 706 636 92;Porto Velho;RO;Bancos e Financeiras;CAIXA ECONÔMICA;Conta contestada;Em análise;4;
+239;27-11-2024;Rafael Martins;741.660.796-66;Camaçari;BA;Transporte Aéreo;TIM Celular;Propaganda enganosa;Não Resolvido;4;27
+240;10/02/2024;Vanessa Gomes;696.722.376-74;Macapá;AP;Telecomunicações - TV por Assinatura;MOTOROLA;Conta contestada;Finalizado não avaliado;5;-1
+241;2024-01-27;Patrícia Mendes;281 214 291 23;Três Lagoas;MS;Água e Esgoto;99;Produto não entregue;Não Resolvido;4;9
+242;16.01.2023;Gustavo Rocha;790-958-845-73;Paulista;PE;Comércio Eletrônico;LATAM AIRLINES;Atendimento precário;Não Resolvido;4;16
+243;2023-03-14;Rafael Martins;916.184.461-41;Parauapebas;PA;Transporte por Aplicativo;amazon brasil;Conta contestada;Em análise;5;60
+244;04-01-2024;LARISSA BARBOSA;829 321 611 46;Três Lagoas;MS;Telecomunicações - Telefonia Móvel;SAMSUNG;Voo cancelado sem aviso;Finalizado avaliado;1;78
+245;16.10.2024;Larissa Barbosa;55825197146;Codó;MA;Bancos e Financeiras;Oi Fixo;Atraso na entrega;Em análise;1;64
+246;2024-08-07;Bruno Carvalho;238.585.290-79;Linhares;ES;Telecomunicações - Telefonia Móvel;ifood;Propaganda enganosa;Resolvido;3;-5
+247;21.07.2024;Ana Oliveira;726-304-163-99;Dourados;MS;Viagens e Turismo;CVC Viagens;Voo cancelado sem aviso;Finalizado não avaliado;1;49
+248;2023-11-24;Bruno Carvalho;149.951.758-18;Parintins;AM;Energia Elétrica;Oi Fixo;Atendimento precário;Não Resolvido;5;
+249;11.12.2024;Bruno Carvalho;921-883-995-54;Caruaru;PE;Correios e Entregas;CPFL ENERGIA;Cobrança após cancelamento;Finalizado avaliado;3;50
+250;11.02.2024;Juliana Costa;597-301-941-83;Florianópolis;SC;Viagens e Turismo;Banco do Brasil;Produto diferente do anunciado;Resolvido;1;0
+251;10/12/2024;Pedro Lima;194-406-952-57;Ariquemes;RO;Água e Esgoto;Oi Fixo;Propaganda enganosa;Finalizado avaliado;1;27
+252;2024-01-08;Juliana Costa;295 302 832 74;Ponta Grossa;PR;Telecomunicações - TV por Assinatura;ML;Dados incorretos na fatura;Em análise;3;76
+253;2024-11-13;Juliana Costa;255-803-185-91;Maringá;PR;Seguros;amazon brasil;Conta contestada;Não Resolvido;4;49
+254;11.04.2024;Lucas Nascimento;686.350.876-62;Abaetetuba;PA;Energia Elétrica;CVC Viagens;Cobrança indevida;Resolvido;3;
+255;7/10/2024;Maria Silva;407-249-978-72;Guarulhos;SP;Telecomunicações - Internet;Telefonica Brasil;Cobrança indevida;Resolvido;2;75
+256;11.06.2024;João Santos;279.326.306-61;Marabá;PA;Transporte Aéreo;AMAZON BRASIL;Atraso na entrega;Em análise;1;19
+257;21/8/2023;Camila Rodrigues;294 148 718 69;Nossa Senhora do Socorro;SE;Telecomunicações - Internet;Apple;Atendimento precário;Em análise;N/A;30
+258;19/12/2024;Roberto Almeida;117 744 985 57;Dourados;MS;Alimentação - Delivery;Samsung;Produto não entregue;Finalizado avaliado;N/A;54
+259;3/8/2024;João Santos;292 243 231 41;São Gonçalo do Amarante;RN;Água e Esgoto;SKY BRASIL;Atendimento precário;Em andamento;3;
+260;02/01/2023;Felipe Ribeiro;331.601.718-72;Linhares;ES;Cartões de Crédito/Débito;Banco do Brasil;Internet instável;Finalizado avaliado;1;75
+261;2024-04-26;Bruno Carvalho;419.379.810-91;Caracaraí;RR;Seguros;Apple;Internet instável;Resolvido;5;72
+262;1/7/2024;Maria Silva;304-290-740-14;Foz do Iguaçu;PR;Bancos e Financeiras;azul;Internet instável;Em andamento;1;80
+263;07.06.2023;Larissa Barbosa;482 300 373 63;Rorainópolis;RR;Cartões de Crédito/Débito;CLARO;Internet instável;Finalizado avaliado;;69
+264;06-04-2024;Ana Oliveira;883-241-941-97;Boa Vista;RR;Bancos e Financeiras;Azul;Internet instável;Em análise;2;89
+265;2024-09-07;Larissa Barbosa;399-615-374-26;Palmas;TO;Correios e Entregas;sabesp;Conta contestada;Resolvido;N/A;
+266;12/06/2024;Vanessa Gomes;202-721-616-18;Gurupi;TO;Eletrônicos e Celulares;T.I.M.;Internet instável;Em análise;1;87
+267;12-04-2023;Thiago Ferreira;545-920-291-25;Três Lagoas;MS;Seguros;APPLE;Dados incorretos na fatura;Finalizado não avaliado;4;54
+268;17/12/2024;Roberto Almeida;610.521.612-67;Boa Vista;RR;Bancos e Financeiras;gol linhas aéreas;Conta contestada;Em andamento;3;9
+269;17.10.2024;Felipe Ribeiro;138.258.573-94;Cascavel;PR;Seguros;Vivo / Telefônica;Serviço não prestado;Resolvido;4;27
+270;12-03-2024;Juliana Costa;965 861 498 94;Tangará da Serra;MT;Bancos e Financeiras;Banco do Brasil;Produto não entregue;Finalizado avaliado;2;N/A
+271;24.03.2023;Fernanda Pereira;303-846-646-57;Teresina;PI;Energia Elétrica;AMERICANAS;Erro no aplicativo;Resolvido;1;53
+272;21.12.2024;Maria Silva;230-439-111-60;Osasco;SP;Correios e Entregas;CVC Viagens;Qualidade abaixo do esperado;Não Resolvido;3;86
+273;15.02.2024;João Santos;677.554.483-53;Rio de Janeiro;RJ;Telecomunicações - TV por Assinatura;ITAÚ;Voo cancelado sem aviso;Em análise;1;83
+274;15-10-2024;Felipe Ribeiro;675 775 494 74;Rio Largo;AL;Cartões de Crédito/Débito;Sky Brasil;Serviço não prestado;Resolvido;5;40
+275;2024-05-18;Felipe Ribeiro;607 778 237 11;Lauro de Freitas;BA;Cartões de Crédito/Débito;Caixa Econômica;Dados incorretos na fatura;Resolvido;5;N/A
+276;27/04/2023;Roberto Almeida;769 592 420 83;Rio Branco;AC;Alimentação - Delivery;IFOOD;Voo cancelado sem aviso;Finalizado avaliado;3;N/A
+277;23/7/2024;Maria Silva;363 991 185 91;Parnamirim;RN;Água e Esgoto;Telefonica Brasil;Estorno não realizado;Finalizado avaliado;2;13
+278;10/5/2023;Patrícia Mendes;524-250-152-34;Sinop;MT;Transporte Aéreo;VIVO;Conta contestada;Em andamento;2;77
+279;12/7/2023;Rafael Martins;128 631 716 42;Nova Iguaçu;RJ;Comércio Eletrônico;SABESP;Atraso na entrega;Finalizado não avaliado;;-4
+280;01-05-2023;Roberto Almeida;902 913 412 26;Ceará-Mirim;RN;Água e Esgoto;Claro/Net;Cobrança após cancelamento;Finalizado avaliado;3;23
+281;22/11/2024;João Santos;355.433.184-90;Cabedelo;PB;Telecomunicações - TV por Assinatura;OI FIXO;Atendimento precário;Não Resolvido;5;53
+282;25/9/2023;Carlos Souza;53938273479;Mossoró;RN;Correios e Entregas;CASAS BAHIA;Serviço não prestado;Em análise;4;61
+283;26/3/2023;João Santos;11390161091;Curitiba;PR;Seguros;MERCADO LIVRE;Propaganda enganosa;Em análise;5;50
+284;01-08-2023;Amanda Dias;23982223599;Macapá;AP;Energia Elétrica;Americanas S.A.;Atraso na entrega;Não Resolvido;2;33
+285;23/09/2024;Thiago Ferreira;61960524540;Chapecó;SC;Água e Esgoto;Bradesco;Propaganda enganosa;Não Resolvido;3;12
+286;05-11-2024;Thiago Ferreira;59710596739;Codó;MA;Cartões de Crédito/Débito;motorola;Conta contestada;Finalizado avaliado;4;13
+287;2023-08-21;Lucas Nascimento;56366879628;Cacoal;RO;Telecomunicações - Internet;99;Atraso na entrega;Resolvido;4;73
+288;2024-11-20;Roberto Almeida;70285275019;Ji-Paraná;RO;Alimentação - Delivery;LATAM Airlines;Voo cancelado sem aviso;Não Resolvido;1;44
+289;21-07-2024;Lucas Nascimento;70413261914;Belo Horizonte;MG;Cartões de Crédito/Débito;LATAM Airlines;Conta contestada;Resolvido;2;66
+290;03-04-2023;Larissa Barbosa;534-134-442-59;Juiz de Fora;MG;Telecomunicações - Internet;LIGHT;Voo cancelado sem aviso;Não Resolvido;3;
+291;23/10/2024;JOÃO SANTOS;73337862714;Penedo;AL;Telecomunicações - TV por Assinatura;SKY BRASIL;Cobrança após cancelamento;Não Resolvido;3;46
+292;13-04-2023;Ana Oliveira;212 633 199 98;Três Lagoas;MS;Seguros;CAIXA ECONÔMICA;Produto não entregue;Não Resolvido;1;3
+293;10/6/2024;Felipe Ribeiro;565-703-654-77;Patos;PB;Energia Elétrica;apple;Voo cancelado sem aviso;Não Resolvido;2;34
+294;06/07/2024;Rafael Martins;972.491.985-57;Taguatinga;DF;Correios e Entregas;iFood;Defeito no produto;Finalizado avaliado;3;83
+295;2023-08-11;Fernanda Pereira;785 378 799 28;Camaçari;BA;Seguros;claro / net;Dados incorretos na fatura;Resolvido;4;56
+296;6/9/2023;Vanessa Gomes;19618365667;Sorriso;MT;Telecomunicações - TV por Assinatura;correios;Dados incorretos na fatura;Resolvido;3;67
+297;19-11-2024;Vanessa Gomes;555 748 833 22;Tarauacá;AC;Transporte Aéreo;OI FIXO;Internet instável;Finalizado não avaliado;5;-4
+298;27.12.2023;Lucas Nascimento;276-849-885-48;Penedo;AL;Alimentação - Delivery;IFOOD;Defeito no produto;Não Resolvido;;-3
+299;18/3/2023;Fernanda Pereira;16222889469;Picos;PI;Transporte por Aplicativo;gol linhas aéreas;Defeito no produto;Em análise;5;58
+300;18/7/2023;Daniela Araújo;993-866-592-79;Piripiri;PI;Alimentação - Delivery;Magalu;Conta contestada;Resolvido;1;19
+301;04-09-2024;Daniela Araújo;908-533-915-60;Bayeux;PB;Viagens e Turismo;CVC Viagens;Falta de resposta;Resolvido;5;1
+302;22-02-2023;Carlos Souza;72940287555;Paço do Lumiar;MA;Telecomunicações - Telefonia Móvel;BANCO DO BRASIL;Atraso na entrega;Resolvido;N/A;55
+303;2023-07-13;Roberto Almeida;748.554.527-64;Chapecó;SC;Eletrônicos e Celulares;Vivo;Voo cancelado sem aviso;Não Resolvido;4;83
+304;9/7/2024;Vanessa Gomes;223.218.526-25;Caracaraí;RR;Transporte por Aplicativo;TIM Celular;Erro no aplicativo;Não Resolvido;3;-5
+305;07.10.2024;Pedro Lima;274-847-309-46;Itajaí;SC;Bancos e Financeiras;LATAM AIRLINES;Internet instável;Finalizado não avaliado;N/A;55
+306;9/9/2023;Fernanda Pereira;338.879.301-97;Jaraguá do Sul;SC;Bancos e Financeiras;Claro;Falta de resposta;Finalizado não avaliado;3;11
+307;04.06.2023;Maria Silva;393-453-604-82;Bayeux;PB;Seguros;light;Dificuldade de cancelamento;Não Resolvido;2;84
+308;16/07/2024;Thiago Ferreira;763-129-875-23;Cariacica;ES;Viagens e Turismo;amazon brasil;Propaganda enganosa;Em andamento;4;
+309;15-11-2023;ROBERTO ALMEIDA;506-680-177-51;Vitória da Conquista;BA;Energia Elétrica;oi fixo;Erro no aplicativo;Em andamento;5;15
+310;17/3/2023;Fernanda Pereira;790 301 545 60;Criciúma;SC;Bancos e Financeiras;Caixa Econômica;Serviço não prestado;Em andamento;N/A;77
+311;10/10/2024;Camila Rodrigues;816 604 165 75;Vitória da Conquista;BA;Transporte Aéreo;CPFL ENERGIA;Propaganda enganosa;Não Resolvido;5;
+312;2023-09-17;Amanda Dias;703 831 720 77;Rio Largo;AL;Comércio Eletrônico;cpfl energia;Produto não entregue;Em análise;N/A;69
+313;24/3/2024;Lucas Nascimento;364 525 820 63;Maracanaú;CE;Telecomunicações - Telefonia Móvel;samsung;Cobrança indevida;Em andamento;3;2
+314;18.09.2024;Bruno Carvalho;104 936 700 64;Pacaraima;RR;Eletrônicos e Celulares;BRADESCO;Voo cancelado sem aviso;Resolvido;5;88
+315;10-07-2023;Fernanda Pereira;948-684-762-56;Colombo;PR;Energia Elétrica;AMERICANAS;Internet instável;Em andamento;5;86
+316;17/05/2024;Carlos Souza;176.183.329-88;Laranjal do Jari;AP;Telecomunicações - Telefonia Móvel;Light;Cobrança após cancelamento;Finalizado avaliado;2;24
+317;18-08-2023;Camila Rodrigues;936-450-281-56;Abaetetuba;PA;Telecomunicações - TV por Assinatura;CAIXA ECONÔMICA;Dados incorretos na fatura;Em análise;4;61
+318;26/06/2024;Patrícia Mendes;617 265 707 23;Ji-Paraná;RO;Água e Esgoto;CVC VIAGENS;Voo cancelado sem aviso;Em análise;1;28
+319;12.08.2024;Larissa Barbosa;532-215-187-82;Laranjal do Jari;AP;Transporte Aéreo;99;Defeito no produto;Finalizado avaliado;5;67
+320;06/05/2023;Lucas Nascimento;980.917.543-54;Londrina;PR;Correios e Entregas;oi fixo;Dados incorretos na fatura;Em andamento;1;50
+321;03/07/2023;Carlos Souza;718-880-354-95;São Gonçalo;RJ;Alimentação - Delivery;CORREIOS;Internet instável;Resolvido;2;12
+322;21-08-2023;Bruno Carvalho;554.627.950-98;Duque de Caxias;RJ;Transporte Aéreo;itau;Dados incorretos na fatura;Em andamento;1;51
+323;2023-11-10;Vanessa Gomes;148 881 925 38;Teresina;PI;Água e Esgoto;CPFL Energia;Cobrança indevida;Em andamento;2;-2
+324;11/02/2023;Bruno Carvalho;151-880-216-52;Três Lagoas;MS;Bancos e Financeiras;rappi;Propaganda enganosa;Finalizado avaliado;5;13
+325;19/12/2023;Camila Rodrigues;97763370051;Teresina;PI;Telecomunicações - Internet;bradesco;Cobrança após cancelamento;Finalizado avaliado;2;76
+326;2023-05-11;Roberto Almeida;736-301-413-39;Marabá;PA;Água e Esgoto;americanas;Estorno não realizado;Não Resolvido;5;
+327;22.03.2024;Ana Oliveira;562.318.977-30;Lauro de Freitas;BA;Alimentação - Delivery;SABESP;Atendimento precário;Finalizado não avaliado;1;7
+328;2023-08-13;Juliana Costa;843 102 949 84;Ribeirão das Neves;MG;Telecomunicações - TV por Assinatura;enel;Qualidade abaixo do esperado;Finalizado avaliado;2;15
+329;13.05.2024;Pedro Lima;418.497.639-67;Santa Rita;PB;Água e Esgoto;caixa econômica;Atendimento precário;Resolvido;2;73
+330;15/3/2023;João Santos;790-347-514-90;Lauro de Freitas;BA;Seguros;iFood;Serviço não prestado;Finalizado não avaliado;1;N/A
+331;10.01.2023;Ana Oliveira;751-526-289-22;Caruaru;PE;Eletrônicos e Celulares;MOTOROLA;Produto diferente do anunciado;Resolvido;4;67
+332;2023-10-26;Larissa Barbosa;16522477778;São Cristóvão;SE;Transporte Aéreo;Mercadolivre;Propaganda enganosa;Em análise;2;0
+333;04.10.2023;Bruno Carvalho;40992846930;Londrina;PR;Correios e Entregas;SAMSUNG;Dificuldade de cancelamento;Não Resolvido;5;5
+334;23-06-2024;LUCAS NASCIMENTO;464-245-705-86;Sorocaba;SP;Seguros;tim;Falta de resposta;Resolvido;2;27
+335;2024-07-23;Camila Rodrigues;292-290-952-33;Montes Claros;MG;Telecomunicações - Internet;Vivo S.A.;Produto não entregue;Em análise;1;63
+336;08.08.2024;Pedro Lima;925.783.452-24;Abaetetuba;PA;Seguros;LATAM AIRLINES;Atraso na entrega;Resolvido;1;87
+337;11.12.2023;Juliana Costa;839-695-808-37;Goiânia;GO;Seguros;oi fixo;Voo cancelado sem aviso;Em andamento;3;90
+338;2024-04-19;Thiago Ferreira;434.367.379-63;Sorriso;MT;Seguros;Rappi;Falta de resposta;Em análise;5;
+339;15.02.2023;Pedro Lima;231 754 429 35;Juazeiro;BA;Eletrônicos e Celulares;MAGAZINE LUIZA;Produto não entregue;Não Resolvido;4;24
+340;26/11/2024;Thiago Ferreira;751 305 183 71;Olinda;PE;Bancos e Financeiras;Sky Brasil;Falta de resposta;Em análise;4;21
+341;04/11/2024;Patrícia Mendes;578 521 246 66;Nova Iguaçu;RJ;Comércio Eletrônico;claro / net;Estorno não realizado;Finalizado não avaliado;N/A;1
+342;04.07.2024;Rafael Martins;147-849-686-11;Cabo de Santo Agostinho;PE;Transporte por Aplicativo;MercadoLivre;Estorno não realizado;Resolvido;2;60
+343;2/8/2024;Fernanda Pereira;196-552-255-39;Ribeirão das Neves;MG;Viagens e Turismo;uber;Voo cancelado sem aviso;Resolvido;N/A;N/A
+344;06/06/2024;Daniela Araújo;225.248.724-54;Itabuna;BA;Energia Elétrica;Enel;Propaganda enganosa;Em andamento;2;66
+345;2023-12-25;Roberto Almeida;959-790-271-88;Salvador;BA;Correios e Entregas;Banco do Brasil;Serviço não prestado;Finalizado avaliado;2;21
+346;12/11/2023;GUSTAVO ROCHA;930 762 327 42;Cabo de Santo Agostinho;PE;Água e Esgoto;Mercadolivre;Produto diferente do anunciado;Finalizado avaliado;1;17
+347;10.03.2024;Patrícia Mendes;950.570.409-99;Mossoró;RN;Transporte por Aplicativo;Claro/Net;Conta contestada;Não Resolvido;5;31
+348;13.06.2024;Lucas Nascimento;50999076068;Itacoatiara;AM;Transporte Aéreo;enel;Cobrança após cancelamento;Em andamento;1;36
+349;25-08-2024;Thiago Ferreira;40464339467;Penedo;AL;Seguros;Banco do Brasil;Propaganda enganosa;Em análise;4;
+350;09/06/2024;João Santos;22481265560;Crato;CE;Alimentação - Delivery;Banco Bradesco;Internet instável;Em análise;5;72
+351;2024-08-26;Roberto Almeida;832 378 528 65;Sena Madureira;AC;Viagens e Turismo;Americanas S.A.;Dados incorretos na fatura;Resolvido;4;30
+352;05-05-2023;Gustavo Rocha;279.904.839-40;Campo Grande;MS;Telecomunicações - TV por Assinatura;light;Defeito no produto;Finalizado não avaliado;3;48
+353;23-06-2024;Lucas Nascimento;464-245-705-86;Sorocaba;SP;Seguros;tim;Falta de resposta;Resolvido;2;27
+354;11.07.2024;GUSTAVO ROCHA;83036420572;Tangará da Serra;MT;Transporte por Aplicativo;BRADESCO;Propaganda enganosa;Resolvido;1;N/A
+355;2023-02-01;João Santos;187-966-367-89;Porto Alegre;RS;Água e Esgoto;LIGHT;Qualidade abaixo do esperado;Resolvido;5;N/A
+356;26-12-2023;João Santos;253.856.972-21;Penedo;AL;Telecomunicações - Telefonia Móvel;Rappi;Defeito no produto;Em análise;;49
+357;01/12/2023;Pedro Lima;522.429.257-10;Nova Iguaçu;RJ;Comércio Eletrônico;Samsung;Erro no aplicativo;Em andamento;3;6
+358;1/12/2024;Bruno Carvalho;334.511.874-55;Uberlândia;MG;Viagens e Turismo;LATAM Airlines;Propaganda enganosa;Não Resolvido;1;
+359;10/6/2024;João Santos;595 689 584 60;Abaetetuba;PA;Telecomunicações - Internet;Oi Fixo;Qualidade abaixo do esperado;Não Resolvido;3;60
+360;24.04.2023;Roberto Almeida;980.350.689-75;Maceió;AL;Telecomunicações - Telefonia Móvel;sky brasil;Atendimento precário;Em análise;3;49
+361;12.11.2023;Vanessa Gomes;604 290 245 77;Santa Rita;PB;Telecomunicações - Telefonia Móvel;apple;Internet instável;Não Resolvido;;36
+362;27/11/2024;Pedro Lima;69630589165;São José;SC;Telecomunicações - Telefonia Móvel;SABESP;Voo cancelado sem aviso;Finalizado não avaliado;4;12
+363;08/03/2024;Larissa Barbosa;887.607.694-27;Arapiraca;AL;Água e Esgoto;Casas bahia;Dados incorretos na fatura;Em andamento;5;85
+364;17/11/2024;Vanessa Gomes;259-173-989-27;Pacaraima;RR;Cartões de Crédito/Débito;oi fixo;Propaganda enganosa;Finalizado não avaliado;3;64
+365;2024-03-26;Thiago Ferreira;81350926376;Taguatinga;DF;Energia Elétrica;Sky Brasil;Dificuldade de cancelamento;Resolvido;3;23
+366;19/02/2023;Fernanda Pereira;89956973935;Pacaraima;RR;Cartões de Crédito/Débito;latam airlines;Qualidade abaixo do esperado;Resolvido;5;32
+367;04/05/2024;Lucas Nascimento;947 231 102 34;Juazeiro do Norte;CE;Viagens e Turismo;IFOOD;Atendimento precário;Finalizado não avaliado;;N/A
+368;2023-01-22;Fernanda Pereira;345-889-580-71;Picos;PI;Alimentação - Delivery;AMAZON BRASIL;Internet instável;Finalizado não avaliado;1;64
+369;12/02/2023;Pedro Lima;628 103 700 26;Santarém;PA;Transporte Aéreo;sky brasil;Serviço não prestado;Finalizado não avaliado;2;3
+370;04-08-2023;Camila Rodrigues;193.595.541-17;Petrolina;PE;Cartões de Crédito/Débito;B2W - Americanas;Dados incorretos na fatura;Resolvido;2;85
+371;18.05.2023;Fernanda Pereira;291.828.282-89;Pacaraima;RR;Bancos e Financeiras;rappi;Qualidade abaixo do esperado;Resolvido;2;N/A
+372;2024-05-12;Amanda Dias;655 604 907 36;Itabaiana;SE;Eletrônicos e Celulares;Caixa Econômica;Serviço não prestado;Finalizado não avaliado;2;9
+373;19.12.2023;Fernanda Pereira;425 492 427 88;Cuiabá;MT;Telecomunicações - Telefonia Móvel;LATAM Airlines;Atendimento precário;Finalizado avaliado;N/A;0
+374;6/12/2023;Felipe Ribeiro;712-121-441-26;Gurupi;TO;Cartões de Crédito/Débito;SAMSUNG;Produto diferente do anunciado;Não Resolvido;4;-5
+375;2023-05-06;Roberto Almeida;899 261 110 27;Maracanaú;CE;Correios e Entregas;Rappi;Falta de resposta;Finalizado avaliado;4;
+376;24/10/2024;Maria Silva;272-895-561-65;Montes Claros;MG;Cartões de Crédito/Débito;Samsung;Propaganda enganosa;Finalizado avaliado;3;N/A
+377;03/04/2023;Daniela Araújo;340 573 178 48;Colombo;PR;Bancos e Financeiras;Bradesco;Conta contestada;Em andamento;;5
+378;2024-10-02;Roberto Almeida;82432268465;Penedo;AL;Correios e Entregas;GOL Linhas Aéreas;Dados incorretos na fatura;Finalizado não avaliado;;
+379;18-03-2024;Juliana Costa;106.165.731-67;Dourados;MS;Transporte por Aplicativo;Itaú Unibanco;Defeito no produto;Finalizado avaliado;2;87
+380;2024-10-08;Vanessa Gomes;918.825.188-10;Cruzeiro do Sul;AC;Transporte por Aplicativo;MOTOROLA;Estorno não realizado;Finalizado avaliado;4;N/A
+381;15/07/2023;João Santos;614 469 524 10;Rio de Janeiro;RJ;Transporte por Aplicativo;MAGAZINE LUIZA;Voo cancelado sem aviso;Resolvido;2;65
+382;17/12/2023;Patrícia Mendes;57317789119;Recife;PE;Telecomunicações - Telefonia Móvel;amazon brasil;Defeito no produto;Não Resolvido;5;59
+383;2024-03-03;Maria Silva;26974397580;Santa Maria;RS;Seguros;T.I.M.;Serviço não prestado;Finalizado não avaliado;;67
+384;09.02.2023;Larissa Barbosa;572-576-943-72;Sena Madureira;AC;Correios e Entregas;correios;Internet instável;Resolvido;3;90
+385;20-06-2024;Amanda Dias;457 673 685 36;Rio Branco;AC;Telecomunicações - TV por Assinatura;99;Erro no aplicativo;Finalizado não avaliado;5;27
+386;25-04-2023;Ana Oliveira;73735261183;Criciúma;SC;Telecomunicações - TV por Assinatura;SAMSUNG;Falta de resposta;Não Resolvido;1;89
+387;27.02.2024;Maria Silva;360.467.921-78;Luziânia;GO;Bancos e Financeiras;Samsung;Atendimento precário;Em análise;3;40
+388;2024-01-05;Amanda Dias;84624189953;Juiz de Fora;MG;Bancos e Financeiras;T.I.M.;Cobrança indevida;Finalizado não avaliado;1;N/A
+389;11.08.2023;Pedro Lima;182-368-540-20;Cascavel;PR;Alimentação - Delivery;LATAM AIRLINES;Defeito no produto;Finalizado avaliado;1;
+390;2024-06-12;Ana Oliveira;233.139.509-39;Goiânia;GO;Transporte por Aplicativo;MERCADO LIVRE;Cobrança após cancelamento;Em análise;4;62
+391;18/10/2024;Ana Oliveira;787-829-202-16;São Luís;MA;Energia Elétrica;IFOOD;Serviço não prestado;Não Resolvido;4;41
+392;13-12-2024;Fernanda Pereira;767-749-776-94;Sena Madureira;AC;Água e Esgoto;CVC Viagens;Falta de resposta;Finalizado avaliado;2;
+393;17.12.2024;Carlos Souza;309-477-510-40;Araguaína;TO;Cartões de Crédito/Débito;Sky Brasil;Internet instável;Finalizado avaliado;1;6
+394;20.07.2023;Gustavo Rocha;859.288.711-85;São José;SC;Telecomunicações - Internet;Casas bahia;Voo cancelado sem aviso;Finalizado não avaliado;2;20
+395;23-05-2023;Pedro Lima;790 182 766 34;Itajaí;SC;Água e Esgoto;latam airlines;Cobrança indevida;Finalizado avaliado;5;
+396;2023-11-15;Vanessa Gomes;52122061295;Vila Velha;ES;Cartões de Crédito/Débito;TIM;Produto não entregue;Não Resolvido;4;89
+397;16-01-2024;Patrícia Mendes;152 229 517 37;Três Lagoas;MS;Água e Esgoto;Casas bahia;Produto diferente do anunciado;Não Resolvido;3;
+398;17.12.2024;Carlos Souza;309-477-510-40;Araguaína;TO;Cartões de Crédito/Débito;Sky Brasil;Internet instável;Finalizado avaliado;1;6
+399;16-12-2024;Juliana Costa;43815798297;Ribeirão Preto;SP;Telecomunicações - Telefonia Móvel;OI FIXO;Voo cancelado sem aviso;Em andamento;5;49
+400;21-03-2023;Lucas Nascimento;769 247 300 88;Osasco;SP;Transporte Aéreo;Via - Casas Bahia;Conta contestada;Em análise;5;
+401;24/09/2024;Camila Rodrigues;659-974-519-52;Feira de Santana;BA;Telecomunicações - Internet;Rappi;Cobrança indevida;Finalizado avaliado;4;69
+402;2023-12-02;Carlos Souza;701.325.418-78;Caucaia;CE;Viagens e Turismo;Uber;Dificuldade de cancelamento;Em análise;N/A;
+403;19.11.2023;Pedro Lima;256 400 876 70;Caucaia;CE;Telecomunicações - Internet;AMAZON BRASIL;Atendimento precário;Em análise;3;59
+404;06.08.2024;Carlos Souza;867.894.375-42;Picos;PI;Telecomunicações - Internet;NET;Conta contestada;Resolvido;1;40
+405;2/1/2024;Maria Silva;511.141.861-74;Camaçari;BA;Telecomunicações - Internet;Bradesco S.A.;Estorno não realizado;Finalizado avaliado;1;78
+406;27/6/2024;Roberto Almeida;19651730422;Manacapuru;AM;Transporte Aéreo;bradesco;Serviço não prestado;Resolvido;3;
+407;2023-06-27;Gustavo Rocha;893.177.139-79;Castanhal;PA;Cartões de Crédito/Débito;Apple;Qualidade abaixo do esperado;Resolvido;2;36
+408;10/7/2024;Gustavo Rocha;764.342.771-90;Vitória da Conquista;BA;Seguros;Light;Cobrança indevida;Em análise;3;89
+409;2024-05-13;Vanessa Gomes;670 727 292 57;Juazeiro;BA;Eletrônicos e Celulares;Net Virtua;Cobrança indevida;Resolvido;5;69
+410;2024-02-19;Felipe Ribeiro;950 467 600 84;Jaraguá do Sul;SC;Bancos e Financeiras;correios;Voo cancelado sem aviso;Resolvido;2;58
+411;5/2/2023;Thiago Ferreira;38966059296;Campinas;SP;Telecomunicações - Internet;CPFL ENERGIA;Produto diferente do anunciado;Em análise;4;-3
+412;23-01-2023;Camila Rodrigues;675-378-293-70;Serra;ES;Correios e Entregas;cpfl energia;Atraso na entrega;Em andamento;1;63
+413;26.03.2024;Roberto Almeida;59645141815;Ribeirão das Neves;MG;Água e Esgoto;amazon brasil;Defeito no produto;Em análise;3;61
+414;2024-08-13;Juliana Costa;21286791756;Montes Claros;MG;Transporte Aéreo;LATAM Airlines;Atendimento precário;Em análise;3;26
+415;12-01-2023;Rafael Martins;183.977.597-99;São José dos Campos;SP;Transporte por Aplicativo;iFood;Propaganda enganosa;Em análise;4;8
+416;22/08/2023;Pedro Lima;210.664.677-41;Rio Verde;GO;Telecomunicações - Internet;ENEL;Conta contestada;Resolvido;5;42
+417;07.12.2023;Carlos Souza;145.180.391-63;Teresina;PI;Telecomunicações - Telefonia Móvel;azul;Internet instável;Finalizado não avaliado;1;66
+418;7/1/2023;Vanessa Gomes;377 610 588 83;Parnaíba;PI;Transporte por Aplicativo;99;Serviço não prestado;Não Resolvido;2;17
+419;25/4/2024;Daniela Araújo;38989499154;Caracaraí;RR;Transporte por Aplicativo;B2W - Americanas;Falta de resposta;Em andamento;4;69
+420;24-05-2024;Amanda Dias;904.380.894-23;Sorocaba;SP;Telecomunicações - Internet;NET;Falta de resposta;Resolvido;5;70
+421;13/3/2024;Carlos Souza;82364033214;Niterói;RJ;Viagens e Turismo;BRADESCO;Atraso na entrega;Em andamento;3;68
+422;06-05-2023;Maria Silva;143-923-797-82;São Gonçalo;RJ;Correios e Entregas;99;Serviço não prestado;Não Resolvido;2;60
+423;2024-01-02;Vanessa Gomes;385.964.685-10;Palmas;TO;Telecomunicações - Internet;samsung;Defeito no produto;Finalizado não avaliado;N/A;64
+424;05-12-2023;Gustavo Rocha;631-541-505-12;Macapá;AP;Comércio Eletrônico;Apple;Dificuldade de cancelamento;Em andamento;2;
+425;21.05.2023;Amanda Dias;71544118688;Nossa Senhora do Socorro;SE;Água e Esgoto;ifood;Estorno não realizado;Finalizado não avaliado;5;19
+426;10-05-2023;Maria Silva;112-214-524-18;Ilhéus;BA;Energia Elétrica;CASAS BAHIA;Defeito no produto;Não Resolvido;4;37
+427;27/5/2023;ANA OLIVEIRA;297 578 139 50;Plano Piloto;DF;Eletrônicos e Celulares;uber;Erro no aplicativo;Não Resolvido;N/A;88
+428;2023-09-18;Bruno Carvalho;14660015968;Caracaraí;RR;Água e Esgoto;gol linhas aéreas;Estorno não realizado;Resolvido;2;11
+429;12/02/2023;Gustavo Rocha;450-612-820-22;Lauro de Freitas;BA;Comércio Eletrônico;Rappi;Falta de resposta;Em andamento;5;73
+430;28-10-2024;Patrícia Mendes;755-335-988-86;Vilhena;RO;Correios e Entregas;latam airlines;Conta contestada;Em andamento;5;33
+431;26/06/2024;Vanessa Gomes;171 942 242 85;Uberaba;MG;Bancos e Financeiras;uber;Produto diferente do anunciado;Finalizado não avaliado;4;57
+432;22/06/2024;Patrícia Mendes;180-818-142-32;Curitiba;PR;Telecomunicações - Telefonia Móvel;Rappi;Cobrança indevida;Resolvido;1;3
+433;8/11/2024;Rafael Martins;891 979 483 88;Cabo de Santo Agostinho;PE;Alimentação - Delivery;RAPPI;Dificuldade de cancelamento;Finalizado avaliado;5;43
+434;02/07/2024;Rafael Martins;138-975-293-48;Porto Velho;RO;Cartões de Crédito/Débito;Oi Fixo;Defeito no produto;Finalizado avaliado;5;
+435;26.07.2024;Vanessa Gomes;760-705-948-96;Camaçari;BA;Viagens e Turismo;Vivo S.A.;Produto diferente do anunciado;Não Resolvido;N/A;N/A
+436;14/01/2023;Maria Silva;742.595.590-56;Juiz de Fora;MG;Viagens e Turismo;Vivo;Dados incorretos na fatura;Finalizado não avaliado;1;20
+437;19/8/2023;Bruno Carvalho;151.915.910-41;Boa Vista;RR;Telecomunicações - Telefonia Móvel;azul;Cobrança após cancelamento;Em andamento;1;25
+438;13/8/2023;Amanda Dias;537.100.406-85;Betim;MG;Comércio Eletrônico;amazon brasil;Internet instável;Em andamento;3;59
+439;2023-04-16;Camila Rodrigues;692 137 872 15;Manacapuru;AM;Cartões de Crédito/Débito;apple;Atraso na entrega;Finalizado não avaliado;4;38
+440;13.01.2023;Ana Oliveira;807.285.524-26;Curitiba;PR;Telecomunicações - Internet;Mercadolivre;Falta de resposta;Em andamento;N/A;48
+441;21/02/2023;Fernanda Pereira;220-503-126-35;Vitória;ES;Alimentação - Delivery;CPFL ENERGIA;Cobrança indevida;Não Resolvido;2;-2
+442;2024-05-18;Felipe Ribeiro;607 778 237 11;Lauro de Freitas;BA;Cartões de Crédito/Débito;Caixa Econômica;Dados incorretos na fatura;Resolvido;5;N/A
+443;13-06-2023;Daniela Araújo;112-323-827-77;Paulista;PE;Seguros;Banco Bradesco;Dados incorretos na fatura;Em análise;5;14
+444;22-06-2024;Amanda Dias;37842258526;Brasília;DF;Alimentação - Delivery;CAIXA ECONÔMICA;Cobrança indevida;Não Resolvido;4;7
+445;18/10/2024;Felipe Ribeiro;10057439884;Ceará-Mirim;RN;Energia Elétrica;sabesp;Qualidade abaixo do esperado;Não Resolvido;1;44
+446;28.03.2024;Patrícia Mendes;63371632637;Rio de Janeiro;RJ;Telecomunicações - Internet;Vivo;Atendimento precário;Finalizado não avaliado;3;85
+447;23/05/2024;Juliana Costa;505.231.197-94;Ponta Porã;MS;Cartões de Crédito/Débito;Bradesco;Internet instável;Resolvido;2;34
+448;18-04-2023;Bruno Carvalho;714 277 893 31;Sorriso;MT;Água e Esgoto;Mercadolivre;Dados incorretos na fatura;Não Resolvido;1;
+449;2023-04-14;Amanda Dias;145 259 906 77;Ponta Porã;MS;Transporte Aéreo;oi fixo;Cobrança indevida;Em análise;2;84
+450;16/11/2023;Larissa Barbosa;55718084095;São José dos Pinhais;PR;Eletrônicos e Celulares;MAGAZINE LUIZA;Conta contestada;Finalizado não avaliado;2;88
+451;25/12/2023;Larissa Barbosa;564 496 205 96;Criciúma;SC;Comércio Eletrônico;LIGHT;Atraso na entrega;Em andamento;4;37
+452;19/04/2023;Carlos Souza;263-714-286-40;Palmeira dos Índios;AL;Correios e Entregas;T.I.M.;Erro no aplicativo;Em análise;1;63
+453;23/10/2023;Patrícia Mendes;431-764-345-98;Montes Claros;MG;Seguros;Americanas;Produto diferente do anunciado;Resolvido;3;39
+454;15/6/2024;Roberto Almeida;608 701 391 88;Porto Alegre;RS;Transporte por Aplicativo;Motorola;Produto não entregue;Finalizado avaliado;5;40
+455;22-11-2023;João Santos;820.306.261-28;Vitória da Conquista;BA;Transporte por Aplicativo;uber;Falta de resposta;Em andamento;;35
+456;21.08.2024;Pedro Lima;526 366 322 87;Maringá;PR;Transporte Aéreo;TIM;Cobrança indevida;Finalizado avaliado;2;51
+457;2024-05-06;Felipe Ribeiro;916 328 322 52;Porto Velho;RO;Telecomunicações - TV por Assinatura;99;Atraso na entrega;Finalizado não avaliado;4;
+458;15.08.2023;Pedro Lima;936-432-427-74;Manaus;AM;Alimentação - Delivery;CORREIOS;Voo cancelado sem aviso;Finalizado avaliado;4;23
+459;2023-04-22;Pedro Lima;877-165-388-82;São José dos Pinhais;PR;Bancos e Financeiras;motorola;Falta de resposta;Em análise;N/A;36
+460;04.05.2024;Bruno Carvalho;464 906 425 19;Anápolis;GO;Água e Esgoto;BANCO DO BRASIL;Cobrança indevida;Resolvido;3;68
+461;17/8/2024;Patrícia Mendes;526.781.916-80;Nossa Senhora do Socorro;SE;Transporte por Aplicativo;correios;Falta de resposta;Em andamento;N/A;28
+462;21.09.2023;Juliana Costa;477 513 451 86;Salvador;BA;Eletrônicos e Celulares;AZUL;Atendimento precário;Resolvido;1;22
+463;19.08.2024;Gustavo Rocha;94813166330;Uberlândia;MG;Alimentação - Delivery;Itaú Unibanco;Cobrança indevida;Não Resolvido;1;53
+464;8/9/2023;Felipe Ribeiro;737 782 794 52;Bayeux;PB;Viagens e Turismo;BANCO DO BRASIL;Internet instável;Não Resolvido;3;75
+465;2023-07-18;Gustavo Rocha;170.855.984-57;São Gonçalo do Amarante;RN;Telecomunicações - Internet;LATAM Airlines;Defeito no produto;Resolvido;4;60
+466;28.10.2024;João Santos;504 526 179 50;Maringá;PR;Energia Elétrica;UBER;Serviço não prestado;Em análise;2;52
+467;2023-01-06;Juliana Costa;444-258-563-51;Floriano;PI;Telecomunicações - TV por Assinatura;ENEL;Produto diferente do anunciado;Resolvido;2;
+468;09-02-2024;Carlos Souza;870-571-288-33;Contagem;MG;Telecomunicações - Internet;iFood;Cobrança indevida;Resolvido;N/A;43
+469;25-08-2024;Juliana Costa;779 256 557 66;Uberlândia;MG;Energia Elétrica;Light;Defeito no produto;Em análise;4;64
+470;05.10.2024;Lucas Nascimento;27939135581;Penedo;AL;Alimentação - Delivery;AMAZON BRASIL;Atraso na entrega;Resolvido;2;3
+471;24.09.2023;Bruno Carvalho;845 433 100 93;Ribeirão das Neves;MG;Transporte Aéreo;RAPPI;Falta de resposta;Em andamento;3;3
+472;2024-08-28;Gustavo Rocha;76865791848;Dourados;MS;Telecomunicações - Telefonia Móvel;cvc viagens;Falta de resposta;Finalizado avaliado;1;78
+473;9/9/2023;Ana Oliveira;525-172-966-84;Aracaju;SE;Transporte Aéreo;tim;Propaganda enganosa;Resolvido;N/A;80
+474;7/1/2024;Camila Rodrigues;57430712675;Vilhena;RO;Seguros;cvc viagens;Voo cancelado sem aviso;Não Resolvido;4;31
+475;11/01/2024;Vanessa Gomes;194-733-217-74;Ji-Paraná;RO;Seguros;gol linhas aéreas;Atendimento precário;Em análise;1;27
+476;2024-03-08;Ana Oliveira;68523314725;Salvador;BA;Cartões de Crédito/Débito;Apple;Cobrança após cancelamento;Finalizado não avaliado;5;
+477;05.01.2024;Ana Oliveira;823.358.124-79;Feira de Santana;BA;Comércio Eletrônico;99;Dados incorretos na fatura;Finalizado avaliado;2;55
+478;22-03-2023;Felipe Ribeiro;758 707 220 55;Goiânia;GO;Transporte por Aplicativo;Banco do Brasil;Estorno não realizado;Não Resolvido;2;21
+479;08.07.2024;Vanessa Gomes;25761172142;Campinas;SP;Água e Esgoto;OI FIXO;Dificuldade de cancelamento;Não Resolvido;1;
+480;22-07-2024;João Santos;817.630.480-98;São Gonçalo;RJ;Telecomunicações - Internet;Oi Fixo;Atraso na entrega;Finalizado não avaliado;5;79
+481;14/11/2024;Ana Oliveira;790 254 300 38;Chapecó;SC;Energia Elétrica;Banco do Brasil;Internet instável;Finalizado avaliado;3;
+482;25.02.2023;CARLOS SOUZA;284 321 569 10;Santos;SP;Cartões de Crédito/Débito;cpfl energia;Produto diferente do anunciado;Em análise;5;80
+483;2023-03-19;Thiago Ferreira;117-602-818-22;Itapipoca;CE;Seguros;cpfl energia;Cobrança após cancelamento;Finalizado não avaliado;2;18
+484;25/04/2024;Larissa Barbosa;660.239.999-27;Mossoró;RN;Alimentação - Delivery;Sky Brasil;Conta contestada;Resolvido;4;51
+485;06.05.2023;Juliana Costa;32220446761;Brasília;DF;Seguros;99;Cobrança após cancelamento;Finalizado avaliado;2;2
+486;02/01/2023;Felipe Ribeiro;829.880.952-35;Abaetetuba;PA;Transporte Aéreo;Motorola;Voo cancelado sem aviso;Finalizado não avaliado;4;68
+487;2023-07-22;Camila Rodrigues;19680473177;Ji-Paraná;RO;Eletrônicos e Celulares;Motorola;Cobrança indevida;Resolvido;1;31
+488;13/01/2024;João Santos;331-578-312-39;Tangará da Serra;MT;Telecomunicações - TV por Assinatura;Rappi;Erro no aplicativo;Em análise;2;N/A
+489;13-05-2023;Gustavo Rocha;56274669565;Lauro de Freitas;BA;Bancos e Financeiras;B2W - Americanas;Conta contestada;Finalizado avaliado;2;55
+490;21/01/2024;Pedro Lima;305-985-793-26;Pacaraima;RR;Cartões de Crédito/Débito;AMERICANAS;Voo cancelado sem aviso;Resolvido;5;5
+491;11/12/2024;Pedro Lima;21893144615;Joinville;SC;Telecomunicações - TV por Assinatura;Amazon Brasil;Voo cancelado sem aviso;Em andamento;4;53
+492;06-04-2024;Daniela Araújo;584.473.637-70;Picos;PI;Telecomunicações - Telefonia Móvel;Banco do Brasil;Cobrança após cancelamento;Em análise;5;79
+493;23/6/2023;Lucas Nascimento;97494364415;Bayeux;PB;Telecomunicações - Telefonia Móvel;oi fixo;Produto não entregue;Finalizado não avaliado;1;70
+494;28/12/2024;Rafael Martins;23914974452;Itajaí;SC;Telecomunicações - TV por Assinatura;motorola;Propaganda enganosa;Em andamento;4;9
+495;20/8/2023;Carlos Souza;419.314.451-39;Belo Horizonte;MG;Energia Elétrica;LATAM Airlines;Atendimento precário;Finalizado avaliado;5;88
+496;20/10/2024;Gustavo Rocha;624 243 770 34;Vitória;ES;Eletrônicos e Celulares;Telefonica Brasil;Conta contestada;Finalizado avaliado;5;
+497;16/01/2023;João Santos;123 462 232 20;Caruaru;PE;Telecomunicações - Telefonia Móvel;Rappi;Estorno não realizado;Resolvido;3;56
+498;12/12/2023;João Santos;597.889.629-19;Juazeiro;BA;Alimentação - Delivery;banco do brasil;Cobrança após cancelamento;Resolvido;2;29
+499;23/04/2023;Bruno Carvalho;552 887 939 18;Paulista;PE;Água e Esgoto;cvc viagens;Estorno não realizado;Em andamento;4;59
+500;01.01.2024;Fernanda Pereira;690 840 715 17;Linhares;ES;Transporte Aéreo;SKY BRASIL;Propaganda enganosa;Finalizado avaliado;1;32
+501;2024-06-13;Rafael Martins;108-927-669-42;Vila Velha;ES;Transporte Aéreo;latam airlines;Dados incorretos na fatura;Em andamento;4;22
+502;20-07-2024;Roberto Almeida;600-954-474-96;Juazeiro do Norte;CE;Bancos e Financeiras;Casas bahia;Produto diferente do anunciado;Finalizado não avaliado;N/A;34
+503;01.01.2024;Amanda Dias;636 975 340 34;Santarém;PA;Água e Esgoto;Vivo S.A.;Produto diferente do anunciado;Não Resolvido;5;N/A
+504;13-03-2024;Thiago Ferreira;34535369293;Pelotas;RS;Bancos e Financeiras;UBER;Falta de resposta;Em análise;4;N/A
+505;2023-06-11;Juliana Costa;92261347315;Picos;PI;Eletrônicos e Celulares;AMAZON BRASIL;Atraso na entrega;Em análise;4;3
+506;13/9/2023;Vanessa Gomes;635.410.822-96;Foz do Iguaçu;PR;Alimentação - Delivery;Casas Bahia;Estorno não realizado;Finalizado não avaliado;3;67
+507;08/11/2023;Patrícia Mendes;425 366 774 16;Jaboatão dos Guararapes;PE;Eletrônicos e Celulares;cpfl energia;Produto não entregue;Em andamento;3;64
+508;14/11/2024;João Santos;461-445-168-26;Piripiri;PI;Telecomunicações - Telefonia Móvel;uber;Serviço não prestado;Não Resolvido;4;78
+509;17/08/2024;Ana Oliveira;673 645 729 37;Vilhena;RO;Correios e Entregas;99;Atendimento precário;Em andamento;5;53
+510;22/4/2024;Patrícia Mendes;727.168.459-47;Araguaína;TO;Eletrônicos e Celulares;GOL Linhas Aéreas;Falta de resposta;Em análise;1;13
+511;06/05/2024;Pedro Lima;515-797-796-83;Porto Velho;RO;Cartões de Crédito/Débito;CVC Viagens;Atraso na entrega;Em análise;2;51
+512;11/4/2023;Patrícia Mendes;39052626610;Juazeiro do Norte;CE;Seguros;CPFL ENERGIA;Propaganda enganosa;Em andamento;5;80
+513;16/10/2024;João Santos;968-947-591-52;Cabedelo;PB;Correios e Entregas;SAMSUNG;Atraso na entrega;Não Resolvido;4;58
+514;16/01/2023;João Santos;228 354 941 26;Rio Largo;AL;Transporte Aéreo;Correios;Falta de resposta;Resolvido;3;46
+515;2024-11-05;Bruno Carvalho;11743772789;Joinville;SC;Cartões de Crédito/Débito;99;Propaganda enganosa;Finalizado não avaliado;1;16
+516;23/8/2024;Roberto Almeida;329.526.307-40;Timon;MA;Eletrônicos e Celulares;CVC VIAGENS;Produto não entregue;Resolvido;4;25
+517;02-08-2023;Ana Oliveira;452 496 120 53;São Bernardo do Campo;SP;Energia Elétrica;CPFL Energia;Produto diferente do anunciado;Finalizado avaliado;4;
+518;12.08.2024;Maria Silva;133-364-811-40;Araguaína;TO;Energia Elétrica;Sky Brasil;Falta de resposta;Em andamento;2;54
+519;01/04/2023;Vanessa Gomes;462.790.520-64;Caracaraí;RR;Viagens e Turismo;CAIXA ECONÔMICA;Propaganda enganosa;Finalizado avaliado;1;0
+520;24-03-2024;Roberto Almeida;40662481621;Aparecida de Goiânia;GO;Energia Elétrica;Azul;Serviço não prestado;Em análise;3;62
+521;17-10-2024;Amanda Dias;52431370683;Ceará-Mirim;RN;Energia Elétrica;SABESP;Voo cancelado sem aviso;Em análise;1;67
+522;26.08.2024;Fernanda Pereira;239-860-339-20;Sena Madureira;AC;Eletrônicos e Celulares;ENEL;Qualidade abaixo do esperado;Em andamento;5;37
+523;04-12-2023;Bruno Carvalho;754.584.293-56;Cabedelo;PB;Energia Elétrica;caixa econômica;Produto diferente do anunciado;Finalizado avaliado;5;34
+524;28.09.2023;Fernanda Pereira;599.674.619-19;Castanhal;PA;Transporte Aéreo;Magazine luiza;Defeito no produto;Em andamento;4;75
+525;11.02.2023;Patrícia Mendes;487-380-752-68;Rorainópolis;RR;Transporte Aéreo;VIVO;Qualidade abaixo do esperado;Resolvido;4;
+526;22/9/2023;Bruno Carvalho;373-141-607-14;Campo Grande;MS;Viagens e Turismo;Sabesp;Cobrança indevida;Não Resolvido;3;-1
+527;04.03.2024;Felipe Ribeiro;543-609-307-87;Ponta Porã;MS;Telecomunicações - Telefonia Móvel;BRADESCO;Serviço não prestado;Finalizado não avaliado;4;16
+528;05-06-2023;Carlos Souza;223 999 878 74;Ribeirão Preto;SP;Seguros;RAPPI;Produto não entregue;Resolvido;4;50
+529;2024-07-19;Patrícia Mendes;971 186 591 49;Santarém;PA;Seguros;iFood;Defeito no produto;Em andamento;5;45
+530;03.02.2024;Thiago Ferreira;944-531-179-20;Arapiraca;AL;Água e Esgoto;CPFL ENERGIA;Qualidade abaixo do esperado;Em análise;1;41
+531;9/4/2024;Patrícia Mendes;98512844078;Manacapuru;AM;Eletrônicos e Celulares;Light;Atraso na entrega;Finalizado avaliado;4;9
+532;04-09-2024;Vanessa Gomes;862 581 194 67;Rorainópolis;RR;Seguros;Light;Internet instável;Finalizado avaliado;3;57
+533;5/7/2024;Ana Oliveira;52981546271;Penedo;AL;Água e Esgoto;Magazine Luiza;Propaganda enganosa;Não Resolvido;5;52
+534;07-12-2023;Thiago Ferreira;612 487 590 85;São Cristóvão;SE;Bancos e Financeiras;Via - Casas Bahia;Dificuldade de cancelamento;Não Resolvido;2;64
+535;27-05-2023;Thiago Ferreira;589.685.424-84;Rio Largo;AL;Telecomunicações - TV por Assinatura;gol linhas aéreas;Atendimento precário;Não Resolvido;4;33
+536;2023-03-11;Daniela Araújo;697 366 719 89;Santana;AP;Bancos e Financeiras;ML;Erro no aplicativo;Em análise;;54
+537;25-12-2024;Vanessa Gomes;12516383755;Ponta Grossa;PR;Água e Esgoto;rappi;Serviço não prestado;Não Resolvido;4;27
+538;18.08.2024;Maria Silva;31941863131;Natal;RN;Transporte Aéreo;sabesp;Conta contestada;Finalizado não avaliado;;71
+539;7/5/2024;Roberto Almeida;983.954.122-64;Vilhena;RO;Bancos e Financeiras;Bradesco S.A.;Falta de resposta;Finalizado não avaliado;3;84
+540;2024-05-15;Ana Oliveira;644 497 485 14;Rio Largo;AL;Seguros;TIM;Erro no aplicativo;Em análise;2;76
+541;26/06/2024;Patrícia Mendes;987.648.132-55;Linhares;ES;Eletrônicos e Celulares;amazon brasil;Cobrança após cancelamento;Finalizado avaliado;3;5
+542;03.11.2024;Felipe Ribeiro;608 473 856 79;Imperatriz;MA;Água e Esgoto;MAGAZINE LUIZA;Produto não entregue;Em andamento;4;12
+543;13-04-2024;Daniela Araújo;53827779162;São José de Ribamar;MA;Transporte por Aplicativo;LIGHT;Dados incorretos na fatura;Finalizado não avaliado;4;90
+544;14/6/2023;Ana Oliveira;220-784-853-75;Santa Maria;RS;Cartões de Crédito/Débito;IFOOD;Falta de resposta;Em análise;1;74
+545;16/02/2023;Maria Silva;614 527 877 16;Campo Grande;MS;Telecomunicações - Internet;Magazine luiza;Atraso na entrega;Não Resolvido;3;43
+546;18/6/2023;Maria Silva;347-675-129-18;Ariquemes;RO;Correios e Entregas;latam airlines;Cobrança indevida;Em análise;1;5
+547;14-08-2023;Carlos Souza;246-938-788-16;Tangará da Serra;MT;Viagens e Turismo;CORREIOS;Cobrança indevida;Finalizado não avaliado;1;30
+548;16.05.2023;Vanessa Gomes;123-190-200-34;Ji-Paraná;RO;Viagens e Turismo;Sabesp;Cobrança indevida;Não Resolvido;2;58
+549;05.06.2024;Fernanda Pereira;193-606-809-27;Rorainópolis;RR;Telecomunicações - Telefonia Móvel;Enel;Defeito no produto;Em andamento;1;51
+550;08-01-2024;Larissa Barbosa;725 507 422 39;Porto Velho;RO;Comércio Eletrônico;uber;Produto não entregue;Finalizado avaliado;5;45
+551;2024-12-24;Gustavo Rocha;70818990024;Betim;MG;Telecomunicações - Internet;Amazon Brasil;Voo cancelado sem aviso;Não Resolvido;2;65
+552;22-03-2024;Juliana Costa;49994412575;Abaetetuba;PA;Viagens e Turismo;B2W - Americanas;Voo cancelado sem aviso;Não Resolvido;2;N/A
+553;2023-12-19;Gustavo Rocha;506.128.795-33;Castanhal;PA;Transporte por Aplicativo;99;Produto não entregue;Resolvido;1;N/A
+554;01/06/2023;Lucas Nascimento;125 662 958 34;Santarém;PA;Transporte Aéreo;APPLE;Internet instável;Finalizado avaliado;;38
+555;12/4/2024;Carlos Souza;27887988043;Bayeux;PB;Seguros;99;Voo cancelado sem aviso;Finalizado não avaliado;1;52
+556;2023-12-17;Maria Silva;65614347060;Blumenau;SC;Telecomunicações - Telefonia Móvel;BRADESCO;Dados incorretos na fatura;Não Resolvido;4;22
+557;03.06.2024;João Santos;545-488-639-75;Rio Verde;GO;Água e Esgoto;RAPPI;Produto diferente do anunciado;Em análise;2;63
+558;26.01.2024;Carlos Souza;911.933.383-99;Anápolis;GO;Bancos e Financeiras;sabesp;Dificuldade de cancelamento;Em andamento;;63
+559;23-11-2024;Juliana Costa;637-745-510-25;Maceió;AL;Transporte por Aplicativo;MercadoLivre;Propaganda enganosa;Em andamento;5;N/A
+560;1/11/2024;LUCAS NASCIMENTO;581-559-535-21;Sinop;MT;Eletrônicos e Celulares;tim;Conta contestada;Finalizado não avaliado;5;75
+561;23.02.2023;Roberto Almeida;271 536 877 67;Manaus;AM;Telecomunicações - Telefonia Móvel;CPFL ENERGIA;Produto não entregue;Resolvido;1;63
+562;21.09.2024;Gustavo Rocha;350 293 188 83;Itacoatiara;AM;Telecomunicações - TV por Assinatura;Vivo / Telefônica;Atendimento precário;Em análise;5;73
+563;26.06.2024;Bruno Carvalho;754-607-614-12;Codó;MA;Transporte por Aplicativo;CPFL ENERGIA;Atraso na entrega;Finalizado não avaliado;2;35
+564;21/4/2024;Felipe Ribeiro;510-413-544-13;Belford Roxo;RJ;Correios e Entregas;amazon brasil;Internet instável;Finalizado não avaliado;N/A;47
+565;05/05/2024;Thiago Ferreira;361-391-727-59;Laranjal do Jari;AP;Água e Esgoto;Enel;Estorno não realizado;Finalizado avaliado;N/A;
+566;10/1/2023;Daniela Araújo;23653636737;Petrolina;PE;Alimentação - Delivery;ENEL;Produto não entregue;Finalizado avaliado;4;56
+567;2024-08-21;Gustavo Rocha;867.725.719-32;Itabuna;BA;Telecomunicações - Telefonia Móvel;correios;Voo cancelado sem aviso;Resolvido;2;12
+568;23/10/2024;João Santos;73337862714;Penedo;AL;Telecomunicações - TV por Assinatura;SKY BRASIL;Cobrança após cancelamento;Não Resolvido;3;46
+569;10.05.2024;Fernanda Pereira;964 131 918 61;Ceilândia;DF;Comércio Eletrônico;ITAÚ;Defeito no produto;Não Resolvido;4;71
+570;2024-01-06;Roberto Almeida;700 260 612 15;Aracaju;SE;Viagens e Turismo;Bradesco;Internet instável;Finalizado não avaliado;1;13
+571;08/11/2024;João Santos;380 284 766 39;Vilhena;RO;Transporte por Aplicativo;99;Voo cancelado sem aviso;Resolvido;4;78
+572;20/3/2023;Patrícia Mendes;96343928264;Ribeirão Preto;SP;Bancos e Financeiras;AMERICANAS;Internet instável;Resolvido;5;63
+573;12/11/2024;Gustavo Rocha;60666872714;Lauro de Freitas;BA;Bancos e Financeiras;azul;Conta contestada;Resolvido;1;41
+574;10.01.2023;Daniela Araújo;441 873 611 43;Sorocaba;SP;Eletrônicos e Celulares;azul;Qualidade abaixo do esperado;Em andamento;2;69
+575;13/2/2024;Felipe Ribeiro;954.902.828-64;Pacaraima;RR;Alimentação - Delivery;Rappi;Conta contestada;Finalizado avaliado;5;56
+576;28-12-2023;Maria Silva;39923130520;Coari;AM;Telecomunicações - Telefonia Móvel;CORREIOS;Internet instável;Em andamento;;17
+577;18.03.2023;Lucas Nascimento;948-681-690-96;Timon;MA;Telecomunicações - Internet;AMAZON BRASIL;Cobrança indevida;Não Resolvido;3;
+578;22.04.2024;Daniela Araújo;98076655365;Salvador;BA;Cartões de Crédito/Débito;Magazine luiza;Estorno não realizado;Não Resolvido;2;52
+579;21/08/2024;Lucas Nascimento;52063371899;Arapiraca;AL;Cartões de Crédito/Débito;Casas bahia;Dados incorretos na fatura;Finalizado não avaliado;2;14
+580;09-07-2023;Larissa Barbosa;332-215-715-60;Porto Velho;RO;Comércio Eletrônico;AMERICANAS;Dados incorretos na fatura;Finalizado não avaliado;1;33
+581;13-10-2024;Lucas Nascimento;331 330 534 80;Palmeira dos Índios;AL;Telecomunicações - Telefonia Móvel;CPFL ENERGIA;Produto não entregue;Em análise;4;83
+582;08.06.2023;Juliana Costa;785 408 316 48;Manacapuru;AM;Telecomunicações - Internet;Magalu;Falta de resposta;Em análise;;10
+583;09.05.2023;João Santos;919-471-633-48;Ribeirão Preto;SP;Correios e Entregas;Magazine luiza;Atraso na entrega;Finalizado não avaliado;4;66
+584;10/07/2024;João Santos;379 255 255 92;São José dos Campos;SP;Eletrônicos e Celulares;caixa econômica;Estorno não realizado;Resolvido;1;80
+585;2024-07-21;Vanessa Gomes;394.825.476-25;Ananindeua;PA;Viagens e Turismo;Itaú;Serviço não prestado;Em análise;2;53
+586;25-05-2023;Bruno Carvalho;238 494 755 53;Tangará da Serra;MT;Eletrônicos e Celulares;Sabesp;Cobrança indevida;Em andamento;5;73
+587;20.06.2023;Fernanda Pereira;161.534.508-69;São Cristóvão;SE;Viagens e Turismo;APPLE;Atendimento precário;Em andamento;2;77
+588;3/5/2024;Camila Rodrigues;730 124 274 21;Oiapoque;AP;Telecomunicações - Telefonia Móvel;CPFL Energia;Atendimento precário;Não Resolvido;2;76
+589;14.07.2024;Fernanda Pereira;41289077886;Itabuna;BA;Alimentação - Delivery;cvc viagens;Serviço não prestado;Em andamento;1;81
+590;18.05.2023;FERNANDA PEREIRA;291.828.282-89;Pacaraima;RR;Bancos e Financeiras;rappi;Qualidade abaixo do esperado;Resolvido;2;N/A
+591;25/7/2023;Vanessa Gomes;718-113-189-10;Mossoró;RN;Comércio Eletrônico;CVC Viagens;Voo cancelado sem aviso;Em análise;5;78
+592;05.01.2024;ANA OLIVEIRA;823.358.124-79;Feira de Santana;BA;Comércio Eletrônico;99;Dados incorretos na fatura;Finalizado avaliado;2;55
+593;17/12/2024;Amanda Dias;922-362-351-20;Oiapoque;AP;Bancos e Financeiras;uber;Cobrança após cancelamento;Resolvido;5;N/A
+594;13-02-2024;Patrícia Mendes;808 609 978 50;Ceará-Mirim;RN;Telecomunicações - Internet;LIGHT;Propaganda enganosa;Em análise;5;23
+595;13.01.2024;Amanda Dias;946 909 571 10;Plano Piloto;DF;Energia Elétrica;OI FIXO;Cobrança após cancelamento;Em análise;5;30
+596;2024-04-19;Vanessa Gomes;301.397.863-57;Sobral;CE;Água e Esgoto;itau;Qualidade abaixo do esperado;Em andamento;5;18
+597;15/6/2024;Vanessa Gomes;925 250 963 52;Oiapoque;AP;Energia Elétrica;enel;Dificuldade de cancelamento;Não Resolvido;4;N/A
+598;2023-10-27;Gustavo Rocha;97225822333;Patos;PB;Telecomunicações - TV por Assinatura;GOL Linhas Aéreas;Dados incorretos na fatura;Não Resolvido;5;
+599;2023-08-05;Roberto Almeida;638.949.207-57;Gurupi;TO;Cartões de Crédito/Débito;motorola;Propaganda enganosa;Finalizado não avaliado;5;N/A
+600;25/11/2023;Lucas Nascimento;125-814-928-51;Novo Hamburgo;RS;Transporte por Aplicativo;AMERICANAS;Serviço não prestado;Em andamento;2;85
+601;2023-08-01;Daniela Araújo;582 840 979 73;Sorocaba;SP;Comércio Eletrônico;UBER;Cobrança indevida;Em andamento;3;53
+602;16.09.2023;Thiago Ferreira;344.794.138-37;Castanhal;PA;Bancos e Financeiras;Samsung;Propaganda enganosa;Finalizado não avaliado;2;42
+603;02-09-2023;Thiago Ferreira;94051131248;Belém;PA;Alimentação - Delivery;B2W - Americanas;Propaganda enganosa;Em análise;2;19
+604;09.03.2023;Bruno Carvalho;386.681.832-16;Salvador;BA;Seguros;UBER;Estorno não realizado;Resolvido;3;N/A
+605;25/9/2023;Thiago Ferreira;851-758-674-88;Foz do Iguaçu;PR;Energia Elétrica;Sabesp;Atendimento precário;Resolvido;5;74
+606;21/1/2023;Pedro Lima;210 470 969 17;Caxias;MA;Transporte por Aplicativo;Mercado Livre;Voo cancelado sem aviso;Não Resolvido;;30
+607;2023-04-12;Pedro Lima;83464910124;Itapipoca;CE;Energia Elétrica;Sabesp;Dados incorretos na fatura;Em andamento;1;66
+608;2024-09-16;Fernanda Pereira;68198941064;Porto Nacional;TO;Transporte por Aplicativo;Banco do Brasil;Estorno não realizado;Finalizado não avaliado;;
+609;25/9/2023;Daniela Araújo;957 839 539 75;Londrina;PR;Bancos e Financeiras;gol linhas aéreas;Propaganda enganosa;Não Resolvido;5;11
+610;02-06-2024;Maria Silva;604-178-362-76;Santo André;SP;Transporte Aéreo;SAMSUNG;Qualidade abaixo do esperado;Não Resolvido;3;20
+611;23-11-2023;João Santos;684 627 340 44;Vila Velha;ES;Alimentação - Delivery;vivo telefonica;Serviço não prestado;Em andamento;3;39
+612;2023-12-21;Roberto Almeida;381 974 553 42;Joinville;SC;Viagens e Turismo;americanas;Defeito no produto;Finalizado não avaliado;2;47
+613;07-12-2024;João Santos;388.185.514-46;Caracaraí;RR;Telecomunicações - TV por Assinatura;latam airlines;Dificuldade de cancelamento;Não Resolvido;2;88
+614;11-08-2024;Thiago Ferreira;710 285 146 51;Gravataí;RS;Correios e Entregas;GOL LINHAS AÉREAS;Dificuldade de cancelamento;Finalizado avaliado;3;78
+615;18-07-2024;Maria Silva;871-902-345-70;Jaraguá do Sul;SC;Seguros;ENEL;Falta de resposta;Finalizado avaliado;2;34
+616;2023-11-23;Maria Silva;611 178 536 73;Maceió;AL;Correios e Entregas;CVC Viagens;Internet instável;Não Resolvido;1;29
+617;23.08.2024;Daniela Araújo;172-426-490-56;Ilhéus;BA;Energia Elétrica;Rappi;Atraso na entrega;Finalizado não avaliado;4;-3
+618;06-10-2023;Juliana Costa;731-504-452-53;Anápolis;GO;Transporte por Aplicativo;amazon brasil;Internet instável;Em andamento;3;11
+619;11-03-2024;Juliana Costa;43025138032;Porto Nacional;TO;Telecomunicações - Internet;Sky Brasil;Erro no aplicativo;Finalizado não avaliado;5;1
+620;2024-12-09;Gustavo Rocha;228-248-623-39;Maracanaú;CE;Seguros;Vivo / Telefônica;Dados incorretos na fatura;Em análise;3;7
+621;16/9/2024;Amanda Dias;982 371 359 77;Cariacica;ES;Telecomunicações - Telefonia Móvel;GOL Linhas Aéreas;Erro no aplicativo;Resolvido;2;15
+622;13-08-2024;Larissa Barbosa;291.623.583-30;Anápolis;GO;Energia Elétrica;AMERICANAS;Propaganda enganosa;Finalizado não avaliado;3;49
+623;17/10/2024;Pedro Lima;309 390 810 36;São José de Ribamar;MA;Correios e Entregas;samsung;Cobrança indevida;Em andamento;1;36
+624;09/07/2023;FELIPE RIBEIRO;368 420 696 85;Tarauacá;AC;Bancos e Financeiras;Sabesp;Atraso na entrega;Não Resolvido;3;4
+625;1/7/2023;Amanda Dias;610.841.857-91;Santos;SP;Água e Esgoto;Itau Unibanco S.A.;Serviço não prestado;Finalizado não avaliado;4;N/A
+626;2023-01-26;João Santos;534-684-339-20;Fortaleza;CE;Seguros;samsung;Serviço não prestado;Em andamento;;N/A
+627;2023-08-22;Bruno Carvalho;56312958998;Ceilândia;DF;Bancos e Financeiras;APPLE;Produto diferente do anunciado;Não Resolvido;5;N/A
+628;13/1/2024;Bruno Carvalho;90519626951;Tarauacá;AC;Comércio Eletrônico;MOTOROLA;Erro no aplicativo;Finalizado avaliado;1;36
+629;07-09-2023;Maria Silva;775 439 498 65;Criciúma;SC;Água e Esgoto;sky brasil;Voo cancelado sem aviso;Finalizado não avaliado;4;39
+630;3/9/2024;Camila Rodrigues;17195371499;Lagarto;SE;Alimentação - Delivery;OI FIXO;Internet instável;Em andamento;5;N/A

@@ -1,51 +1,16 @@
-﻿Nome_Completo;CPF;Email;Telefone;Data_Nascimento;Endereco;Cidade;UF;Preferencia_Compra
-Lucas Martins Martins;829.732.702-16;lucas.martins@outlook.com;(81) 98698-2654;01/09/1965;Rua Santos, 854;Osasco;AC;Viagem
-Lucas Rodrigues Barbosa;866.526.834-15;lucas.barbosa@outlook.com;(86) 92765-1741;23/04/1963;Rua Castro, 943;Aracaju;PB;Livros
-Raquel Carvalho Araújo;229.812.099-57;raquel.araujo@yahoo.com.br;(52) 98185-3895;26/10/1982;Rua Castro, 603;Natal;SP;Eletrônicos
-Felipe Araújo Gomes;098.898.645-65;felipe.gomes@hotmail.com;(29) 91687-4451;24/04/1979;Rua Barbosa, 285;Aparecida de Goiânia;RN;Alimentos
-Marcos Carvalho Ferreira;144.773.244-91;marcos.ferreira@hotmail.com;(96) 95565-3310;21/04/1964;Rua Almeida, 566;Ribeirão Preto;SP;Moda
-Fernando Santos Nascimento;830.705.349-67;fernando.nascimento@uol.com.br;(27) 98435-5832;06/03/2001;Rua Souza, 734;Recife;PB;Livros
-Larissa Oliveira Rodrigues;415.131.528-54;larissa.rodrigues@yahoo.com.br;(91) 99402-2213;15/09/1991;Rua Monteiro, 323;Belo Horizonte;PA;Eletrônicos
-Beatriz Nascimento Vieira;003.296.334-72;beatriz.vieira@yahoo.com.br;(34) 99138-5630;29/11/1965;Rua Almeida, 651;Brasília;PE;Viagem
-João Martins Oliveira;789.320.649-69;joao.oliveira@hotmail.com;(92) 96713-8933;18/10/1983;Rua Vieira, 978;Goiânia;MA;Moda
-Luciana Araújo Teixeira;695.874.131-46;luciana.teixeira@yahoo.com.br;(52) 95053-7960;12/03/1965;Rua Ferreira, 476;Florianópolis;RO;Eletrônicos
-Amanda Monteiro Rodrigues;779.630.448-36;amanda.rodrigues@gmail.com;(82) 96295-5286;12/04/1990;Rua Gomes, 422;Niterói;SE;Livros
-Amanda Lima Santos;473.504.763-92;amanda.santos@uol.com.br;(37) 92807-6401;18/10/1965;Rua Mendes, 553;Rio de Janeiro;SC;Eletrônicos
-Juliana Monteiro Gomes;581.083.583-28;juliana.gomes@yahoo.com.br;(40) 95754-3644;06/11/2000;Rua Costa, 340;Santos;DF;Esportes
-João Santos Silva;818.670.244-03;joao.silva@hotmail.com;(15) 95463-3025;20/06/1996;Rua Ribeiro, 672;Niterói;BA;Viagem
-Juliana Oliveira Oliveira;860.089.219-63;juliana.oliveira@uol.com.br;(50) 96303-7965;25/12/1982;Rua Castro, 24;Teresina;GO;Livros
-Gabriel Lima Teixeira;976.461.368-47;gabriel.teixeira@outlook.com;(79) 99300-5007;25/02/1977;Rua Silva, 509;Niterói;MS;Esportes
-Thiago Pereira Moreira;063.757.914-52;thiago.moreira@gmail.com;(23) 93773-4402;17/10/1998;Rua Araújo, 608;Maceió;AP;Moda
-Vanessa Araújo Barbosa;930.746.452-05;vanessa.barbosa@uol.com.br;(87) 97660-1091;11/01/1972;Rua Monteiro, 215;Juiz de Fora;SE;Livros
-Mariana Teixeira Pereira;577.881.161-62;mariana.pereira@gmail.com;(31) 99518-2990;15/06/1967;Rua Almeida, 449;Recife;AL;Livros
-Patrícia Teixeira Barbosa;728.660.416-44;patricia.barbosa@uol.com.br;(52) 97088-3718;07/05/1966;Rua Carvalho, 536;Campinas;SE;Esportes
-Adriana Mendes Lima;773.522.870-56;adriana.lima@hotmail.com;(30) 98708-2098;28/10/2003;Rua Silva, 320;Guarulhos;DF;Viagem
-Gustavo Rocha Gomes;109.792.158-35;gustavo.gomes@gmail.com;(35) 95498-5656;25/10/1996;Rua Martins, 599;Teresina;MS;Esportes
-Larissa Nascimento Nascimento;319.213.424-91;larissa.nascimento@hotmail.com;(77) 97274-6409;27/10/1985;Rua Moreira, 620;Natal;SE;Viagem
-Beatriz Ferreira Silva;331.922.270-51;beatriz.silva@gmail.com;(28) 99383-8203;30/01/1979;Rua Vieira, 484;Florianópolis;MA;Esportes
-Carlos Nascimento Ribeiro;667.548.581-93;carlos.ribeiro@hotmail.com;(92) 95550-3341;03/09/1997;Rua Martins, 574;Londrina;PR;Viagem
-Fernanda Nascimento Martins;520.575.639-83;fernanda.martins@yahoo.com.br;(58) 93932-1174;13/10/1968;Rua Rocha, 370;São José dos Campos;DF;Eletrônicos
-Mariana Souza Costa;480.940.476-04;mariana.costa@outlook.com;(91) 91937-1498;20/09/1998;Rua Monteiro, 950;Joinville;RN;Viagem
-Luciana Ferreira Araújo;810.509.222-16;luciana.araujo@gmail.com;(18) 98264-2021;04/02/1974;Rua Souza, 879;Feira de Santana;GO;Moda
-Ricardo Vieira Gomes;295.806.601-38;ricardo.gomes@hotmail.com;(45) 92375-3827;21/11/1979;Rua Santos, 283;Guarulhos;RR;Esportes
-Patrícia Teixeira Castro;044.851.579-19;patricia.castro@yahoo.com.br;(22) 92904-2483;09/03/1968;Rua Castro, 89;Goiânia;MT;Esportes
-Mateus Silva Almeida;571.343.240-64;mateus.almeida@hotmail.com;(46) 93300-6169;27/07/1978;Rua Pereira, 856;Guarulhos;GO;Moda
-Felipe Lima Monteiro;741.759.558-72;felipe.monteiro@gmail.com;(85) 97318-3551;17/02/1984;Rua Moreira, 216;Osasco;MS;Viagem
-Beatriz Gomes Monteiro;884.183.437-40;beatriz.monteiro@gmail.com;(77) 94054-8785;09/04/1966;Rua Rocha, 601;Florianópolis;MS;Esportes
-Renata Santos Gomes;150.267.551-25;renata.gomes@outlook.com;(31) 98648-9958;08/05/1968;Rua Silva, 450;Sorocaba;RJ;Esportes
-Amanda Araújo Pereira;459.576.403-81;amanda.pereira@yahoo.com.br;(65) 95413-7565;08/08/1986;Rua Silva, 168;Ribeirão Preto;CE;Alimentos
-Henrique Rodrigues Rodrigues;501.425.762-70;henrique.rodrigues@hotmail.com;(36) 93819-5936;17/10/1973;Rua Oliveira, 190;Maceió;DF;Livros
-Carlos Rodrigues Vieira;850.725.178-63;carlos.vieira@yahoo.com.br;(96) 97165-8593;05/09/1991;Rua Pereira, 782;Curitiba;MG;Moda
-Carla Ribeiro Gomes;469.681.579-03;carla.gomes@uol.com.br;(33) 94852-7047;01/04/1976;Rua Gomes, 514;São Paulo;RN;Esportes
-Juliana Teixeira Pereira;273.034.615-62;juliana.pereira@yahoo.com.br;(30) 95668-6096;08/05/1977;Rua Vieira, 841;Joinville;AL;Alimentos
-Patrícia Ferreira Ribeiro;817.151.602-52;patricia.ribeiro@uol.com.br;(75) 97291-8449;08/07/1960;Rua Araújo, 670;Niterói;PA;Eletrônicos
-Raquel Lima Castro;197.857.585-12;raquel.castro@yahoo.com.br;(79) 97282-2310;29/09/1966;Rua Silva, 346;Maringá;GO;Moda
-Raquel Santos Rocha;401.775.095-46;raquel.rocha@outlook.com;(97) 95852-1385;06/05/1984;Rua Lima, 184;João Pessoa;MS;Livros
-Thiago Gomes Carvalho;091.508.632-18;thiago.carvalho@gmail.com;(27) 93369-9084;04/05/1979;Rua Lima, 354;Sorocaba;RR;Esportes
-Eduardo Moreira Rocha;015.502.916-81;eduardo.rocha@outlook.com;(92) 95947-7922;22/12/1977;Rua Silva, 189;Campo Grande;SC;Viagem
-Diego Souza Almeida;944.988.305-97;diego.almeida@hotmail.com;(66) 95502-4042;01/06/1972;Rua Barbosa, 688;Belo Horizonte;RN;Livros
-Felipe Lima Silva;630.624.479-51;felipe.silva@hotmail.com;(39) 91296-6318;30/11/1969;Rua Oliveira, 627;João Pessoa;SC;Viagem
-Renata Martins Teixeira;958.678.055-55;renata.teixeira@yahoo.com.br;(30) 98568-9175;13/06/1969;Rua Nascimento, 715;Belém;RO;Livros
-Amanda Santos Vieira;917.851.385-44;amanda.vieira@outlook.com;(68) 98657-1484;29/12/1966;Rua Mendes, 599;Belém;RN;Alimentos
-Raquel Silva Carvalho;873.682.691-16;raquel.carvalho@hotmail.com;(38) 92812-5740;05/01/1968;Rua Ferreira, 786;Niterói;PI;Livros
-Beatriz Martins Mendes;455.158.886-36;beatriz.mendes@yahoo.com.br;(70) 95690-8363;15/01/1967;Rua Ferreira, 410;João Pessoa;AC;Esportes
+Nome_Completo;CPF;Email;Telefone;Data_Nascimento;Endereco;Cidade;UF;Preferencia_Compra
+Ana Maria Silva;284.997.564-11;ana.maria.silva@email.com;(32) 92979-7858;1978-09-23;Rua D, 761;São Paulo;SP;Eletrônicos
+João Pedro Santos;229.990.134-65;joao.pedro.santos@email.com;(14) 93735-2196;1974-09-28;Rua E, 941;Rio de Janeiro;RJ;Livros
+Maria Fernanda Oliveira;532.462.230-61;maria.fernanda.oliveira@email.com;(82) 94955-5806;1973-06-27;Rua C, 606;Belo Horizonte;MG;Esportes
+Carlos Eduardo Costa;731.210.839-15;carlos.eduardo.costa@email.com;(20) 96815-8354;1999-07-21;Rua D, 759;Curitiba;PR;Livros
+Juliana Almeida Souza;396.875.588-99;juliana.almeida.souza@email.com;(28) 94005-9345;1972-03-01;Rua E, 608;Salvador;BA;Alimentos
+Roberto Lima Neto;790.764.564-58;roberto.lima.neto@email.com;(52) 98185-3895;1986-12-19;Rua C, 968;Fortaleza;CE;Eletrônicos
+Patrícia Mendes Dias;337.404.605-53;patricia.mendes.dias@email.com;(17) 99481-9604;1988-09-28;Rua D, 293;Brasília;DF;Alimentos
+Fernando Araújo Ribeiro;493.426.875-32;fernando.araujo.ribeiro@email.com;(29) 91687-4451;1983-09-09;Rua E, 901;Recife;PE;Esportes
+Luciana Barbosa;421.201.455-46;luciana.barbosa@email.com;(32) 92942-5716;1978-08-15;Rua B, 907;Porto Alegre;RS;Roupas
+Thiago Nascimento Ramos;395.365.720-23;thiago.nascimento.ramos@email.com;(40) 95565-3310;1973-04-18;Rua G, 521;Manaus;AM;Roupas
+Camila Torres Freitas;128.712.140-79;camila.torres.freitas@email.com;(79) 94197-1109;1985-01-12;Rua B, 289;Goiânia;GO;Esportes
+Bruno Cardoso Pinto;536.849.555-76;bruno.cardoso.pinto@email.com;(27) 98435-5832;1999-02-23;Rua F, 942;Belém;PA;Eletrônicos
+Amanda Vieira Gomes;555.542.605-43;amanda.vieira.gomes@email.com;(22) 93241-5562;1993-11-04;Rua C, 823;Campinas;SP;Eletrônicos
+Ricardo Monteiro Lopes;862.912.327-19;ricardo.monteiro.lopes@email.com;(52) 93567-9307;1980-05-15;Rua F, 754;Natal;RN;Esportes
+Daniela Rocha Martins;788.895.175-98;daniela.rocha.martins@email.com;(51) 91628-8100;1973-12-26;Rua E, 326;Florianópolis;SC;Roupas

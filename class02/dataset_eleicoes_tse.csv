@@ -1,501 +1,501 @@
-﻿ID;Ano;UF;Municipio;Cargo;Candidato;Partido;Numero;Votos;Situacao;Genero;Cor_Raca;Escolaridade
-1;2022;PI;Teresina;Senador;Raquel Teixeira Martins;NOVO;42405;319033;Não Eleito;Masculino;Amarela;Ensino Fundamental
-2;2022;MS;Campo Grande;Governador;Amanda Silva Castro;PT;37297;312401;Eleito;Masculino;Preta;Ensino Médio
-3;2022;ES;Vitória;Deputado Estadual;Maria Monteiro Lima;PSD;67023;291723;Não Eleito;Masculino;Branca;Pós-Graduação
-4;2022;BA;Salvador;Deputado Estadual;Letícia Moreira Pereira;PSDB;33596;425286;Suplente;Masculino;Indígena;Pós-Graduação
-5;2020;SC;Florianópolis;Deputado Federal;Luciana Ferreira Araújo;NOVO;92133;302161;Eleito;Feminino;Branca;Ensino Fundamental
-6;2024;AP;Macapá;Deputado Federal;Letícia Martins Martins;PL;29726;392048;Eleito;Feminino;Branca;Superior Incompleto
-7;2018;MT;Cuiabá;Vereador;Ricardo Barbosa Monteiro;PSDB;20089;26536;2º Turno;Feminino;Indígena;Ensino Fundamental
-8;2018;ES;Vitória;Governador;Amanda Rodrigues Rodrigues;PDT;10829;249534;Eleito;Feminino;Preta;Ensino Médio
-9;2024;PE;Recife;Governador;Rafael Araújo Nascimento;PSDB;63954;207310;Não Eleito;Masculino;Parda;Ensino Médio
-10;2022;SP;São Paulo;Governador;Renata Oliveira Souza;PSOL;54219;222107;Suplente;Feminino;Parda;Superior Incompleto
-11;2022;RN;Natal;Prefeito;Felipe Ferreira Costa;PODE;57971;326776;Não Eleito;Feminino;Branca;Superior Completo
-12;2020;RO;Porto Velho;Senador;Lucas Souza Castro;PT;31866;497568;Não Eleito;Feminino;Branca;Superior Incompleto
-13;2018;MA;São Luís;Governador;Maria Gomes Almeida;NOVO;70527;111133;Não Eleito;Feminino;Indígena;Pós-Graduação
-14;2020;RR;Boa Vista;Prefeito;Paulo Moreira Vieira;PSD;5709;133982;Não Eleito;Masculino;Preta;Superior Completo
-15;2022;AL;Maceió;Governador;Lucas Ribeiro Vieira;PP;86908;446786;Suplente;Masculino;Branca;Superior Incompleto
-16;2024;ES;Vitória;Governador;Ricardo Araújo Mendes;PSD;11547;97786;Não Eleito;Feminino;Indígena;Ensino Médio
-17;2018;ES;Vitória;Vereador;Mariana Araújo Ribeiro;NOVO;20588;9682;Suplente;Feminino;Preta;Superior Incompleto
-18;2020;PE;Recife;Senador;André Ribeiro Silva;PSD;36735;118320;Não Eleito;Feminino;Amarela;Superior Completo
-19;2018;SC;Florianópolis;Governador;Diego Pereira Moreira;MDB;55907;163828;Suplente;Feminino;Indígena;Superior Completo
-20;2020;RS;Porto Alegre;Deputado Estadual;Rafael Carvalho Monteiro;NOVO;68666;476922;Não Eleito;Feminino;Parda;Ensino Fundamental
-21;2020;MT;Cuiabá;Deputado Federal;Mateus Gomes Rodrigues;NOVO;3874;401358;Suplente;Feminino;Amarela;Superior Incompleto
-22;2024;SC;Florianópolis;Prefeito;Carla Almeida Souza;MDB;24225;13785;Suplente;Masculino;Indígena;Superior Completo
-23;2020;RO;Porto Velho;Deputado Federal;Juliana Monteiro Araújo;MDB;65850;443670;2º Turno;Feminino;Parda;Pós-Graduação
-24;2024;PR;Curitiba;Deputado Estadual;Bruno Pereira Santos;UNIÃO;1977;485244;Suplente;Feminino;Parda;Superior Completo
-25;2020;AP;Macapá;Deputado Estadual;Vanessa Araújo Monteiro;PDT;59981;465401;Não Eleito;Feminino;Amarela;Ensino Médio
-26;2024;SC;Florianópolis;Senador;Vanessa Castro Moreira;PODE;70285;275422;Eleito;Masculino;Amarela;Pós-Graduação
-27;2018;ES;Vitória;Vereador;Ana Nascimento Ribeiro;PSD;82670;25895;Não Eleito;Feminino;Amarela;Pós-Graduação
-28;2022;SP;São Paulo;Senador;Patrícia Martins Carvalho;PODE;7159;361784;Não Eleito;Feminino;Amarela;Ensino Médio
-29;2018;CE;Fortaleza;Vereador;Paulo Martins Gomes;PSB;3275;93833;2º Turno;Masculino;Amarela;Ensino Médio
-30;2022;MT;Cuiabá;Prefeito;Gabriel Oliveira Souza;NOVO;58913;332486;Suplente;Masculino;Indígena;Pós-Graduação
-31;2020;MG;Belo Horizonte;Vereador;Ana Ferreira Gomes;PODE;86455;452338;Não Eleito;Masculino;Parda;Superior Completo
-32;2018;PA;Belém;Senador;Carolina Carvalho Teixeira;MDB;15418;471144;Não Eleito;Masculino;Branca;Ensino Fundamental
-33;2022;AC;Rio Branco;Governador;Luciana Nascimento Silva;PODE;64689;124766;Não Eleito;Feminino;Amarela;Pós-Graduação
-34;2024;AP;Macapá;Vereador;Carlos Nascimento Lima;PODE;82406;292366;Não Eleito;Masculino;Parda;Superior Completo
-35;2018;RS;Porto Alegre;Senador;Rafael Santos Vieira;PODE;79083;156519;Suplente;Masculino;Branca;Ensino Médio
-36;2024;CE;Fortaleza;Deputado Estadual;Vanessa Vieira Monteiro;NOVO;77993;300090;Não Eleito;Feminino;Indígena;Superior Incompleto
-37;2018;AP;Macapá;Senador;Letícia Ribeiro Oliveira;REDE;56020;442187;Eleito;Feminino;Amarela;Superior Completo
-38;2018;RR;Boa Vista;Senador;Adriana Martins Barbosa;PSDB;91213;109652;Eleito;Masculino;Indígena;Ensino Fundamental
-39;2018;PR;Curitiba;Prefeito;Raquel Mendes Gomes;PP;68874;301590;Suplente;Masculino;Indígena;Ensino Fundamental
-40;2024;PE;Recife;Prefeito;Luciana Ferreira Mendes;PSDB;92885;152349;Não Eleito;Masculino;Branca;Ensino Médio
-41;2024;RS;Porto Alegre;Deputado Federal;Fernando Martins Martins;PT;43760;183367;Não Eleito;Masculino;Parda;Superior Incompleto
-42;2022;SE;Aracaju;Deputado Federal;Isabela Barbosa Nascimento;PDT;813;59733;Suplente;Feminino;Amarela;Ensino Fundamental
-43;2018;TO;Palmas;Deputado Estadual;Ricardo Gomes Vieira;PSB;62203;418040;Eleito;Masculino;Amarela;Superior Completo
-44;2024;PI;Teresina;Senador;Raquel Castro Santos;PSD;39245;296242;Suplente;Masculino;Parda;Ensino Fundamental
-45;2022;SE;Aracaju;Senador;Rafael Lima Silva;PDT;49193;328522;Não Eleito;Feminino;Parda;Ensino Fundamental
-46;2018;SE;Aracaju;Senador;Ana Lima Martins;PL;65159;459876;Não Eleito;Feminino;Amarela;Superior Incompleto
-47;2020;PE;Recife;Senador;Gabriel Costa Santos;REDE;26499;478910;Eleito;Feminino;Indígena;Ensino Médio
-48;2024;PE;Recife;Deputado Estadual;Ricardo Araújo Castro;PSD;40689;406652;Suplente;Masculino;Branca;Ensino Fundamental
-49;2020;DF;Brasília;Prefeito;Thiago Ribeiro Monteiro;PSD;15192;2204;Suplente;Masculino;Indígena;Ensino Médio
-50;2022;PB;João Pessoa;Deputado Federal;Eduardo Vieira Castro;PP;2956;302857;Suplente;Masculino;Preta;Superior Completo
-51;2020;MA;São Luís;Senador;Carolina Vieira Souza;PP;19581;82623;Suplente;Masculino;Branca;Ensino Fundamental
-52;2018;DF;Brasília;Vereador;Tatiana Gomes Lima;MDB;92331;421579;Suplente;Masculino;Parda;Ensino Médio
-53;2022;RN;Natal;Senador;Ana Rodrigues Silva;PSB;88548;26503;Eleito;Feminino;Branca;Ensino Médio
-54;2024;MG;Belo Horizonte;Deputado Estadual;Vanessa Costa Carvalho;PDT;25981;373814;Eleito;Feminino;Indígena;Superior Completo
-55;2018;TO;Palmas;Prefeito;Fernanda Rocha Carvalho;PSOL;84475;372407;2º Turno;Feminino;Parda;Superior Completo
-56;2020;RN;Natal;Senador;Amanda Ferreira Monteiro;PSOL;43306;413597;Suplente;Feminino;Amarela;Ensino Médio
-57;2018;PR;Curitiba;Deputado Federal;Luciana Rocha Ferreira;PP;45703;316950;Não Eleito;Masculino;Amarela;Ensino Médio
-58;2022;PI;Teresina;Prefeito;Felipe Nascimento Rocha;UNIÃO;77412;216812;Não Eleito;Masculino;Indígena;Superior Completo
-59;2024;MG;Belo Horizonte;Deputado Federal;Beatriz Monteiro Moreira;UNIÃO;57072;297432;Suplente;Masculino;Parda;Ensino Médio
-60;2024;AM;Manaus;Vereador;Mariana Nascimento Souza;PSB;23101;161549;2º Turno;Masculino;Indígena;Ensino Médio
-61;2024;MT;Cuiabá;Governador;Lucas Almeida Rodrigues;PODE;98967;333566;Eleito;Masculino;Parda;Pós-Graduação
-62;2022;MG;Belo Horizonte;Vereador;Beatriz Almeida Vieira;PDT;39296;299039;Suplente;Feminino;Preta;Ensino Médio
-63;2018;RN;Natal;Vereador;Carla Carvalho Santos;PDT;71953;27904;Eleito;Feminino;Branca;Superior Incompleto
-64;2018;ES;Vitória;Governador;Mariana Monteiro Ribeiro;UNIÃO;50022;228214;Não Eleito;Masculino;Amarela;Superior Completo
-65;2020;PI;Teresina;Governador;Raquel Rodrigues Carvalho;PSOL;16465;70450;Eleito;Masculino;Branca;Superior Completo
-66;2024;RO;Porto Velho;Governador;Lucas Rodrigues Teixeira;REDE;54517;451017;2º Turno;Feminino;Indígena;Superior Completo
-67;2024;PE;Recife;Governador;Amanda Costa Pereira;MDB;55685;317020;Eleito;Feminino;Parda;Ensino Fundamental
-68;2022;PA;Belém;Vereador;Ana Santos Moreira;PSB;92400;193291;Eleito;Feminino;Branca;Superior Completo
-69;2022;PB;João Pessoa;Vereador;Eduardo Mendes Oliveira;PSDB;61935;330698;Eleito;Feminino;Indígena;Ensino Médio
-70;2022;PI;Teresina;Deputado Federal;Carolina Barbosa Araújo;PODE;96192;173858;2º Turno;Feminino;Preta;Superior Incompleto
-71;2020;AL;Maceió;Prefeito;Renata Lima Santos;PSOL;62028;303162;Não Eleito;Masculino;Preta;Ensino Fundamental
-72;2018;MA;São Luís;Governador;Rafael Barbosa Oliveira;REDE;36428;132197;Não Eleito;Feminino;Preta;Superior Incompleto
-73;2018;SC;Florianópolis;Deputado Federal;Henrique Castro Rodrigues;PSOL;58553;193914;Não Eleito;Feminino;Parda;Pós-Graduação
-74;2020;SE;Aracaju;Vereador;Ricardo Oliveira Rodrigues;PODE;20214;439201;2º Turno;Feminino;Amarela;Superior Completo
-75;2024;SC;Florianópolis;Prefeito;Bruno Moreira Castro;PDT;7130;336779;Suplente;Masculino;Branca;Superior Completo
-76;2024;MG;Belo Horizonte;Governador;Luciana Castro Nascimento;PSDB;49791;358406;2º Turno;Feminino;Preta;Superior Completo
-77;2024;AC;Rio Branco;Senador;Amanda Vieira Gomes;PSD;89515;21555;Eleito;Feminino;Amarela;Ensino Fundamental
-78;2022;MT;Cuiabá;Senador;Fernanda Lima Teixeira;PODE;51279;241803;Não Eleito;Masculino;Indígena;Superior Incompleto
-79;2020;MT;Cuiabá;Vereador;João Oliveira Silva;UNIÃO;12815;275439;Eleito;Feminino;Preta;Superior Completo
-80;2022;GO;Goiânia;Deputado Estadual;João Mendes Oliveira;PT;77884;344300;Não Eleito;Masculino;Branca;Ensino Médio
-81;2020;MG;Belo Horizonte;Prefeito;Gabriel Monteiro Ferreira;PP;38619;244869;Eleito;Feminino;Preta;Pós-Graduação
-82;2022;GO;Goiânia;Deputado Estadual;André Santos Ribeiro;UNIÃO;43611;31538;Suplente;Feminino;Parda;Pós-Graduação
-83;2018;PR;Curitiba;Deputado Estadual;Patrícia Teixeira Araújo;PL;18867;283496;2º Turno;Masculino;Indígena;Ensino Médio
-84;2024;RR;Boa Vista;Senador;Pedro Oliveira Oliveira;PODE;95370;131434;2º Turno;Masculino;Amarela;Superior Completo
-85;2018;AL;Maceió;Prefeito;Larissa Rodrigues Monteiro;PDT;51302;301326;Eleito;Feminino;Amarela;Pós-Graduação
-86;2024;SC;Florianópolis;Deputado Federal;João Ribeiro Monteiro;REDE;63195;63595;Suplente;Feminino;Preta;Pós-Graduação
-87;2018;RS;Porto Alegre;Prefeito;Marcos Nascimento Gomes;PL;60255;398746;Suplente;Masculino;Parda;Ensino Fundamental
-88;2018;MG;Belo Horizonte;Prefeito;Felipe Monteiro Ribeiro;PL;82666;361201;Suplente;Feminino;Branca;Pós-Graduação
-89;2020;BA;Salvador;Deputado Federal;João Castro Moreira;PSDB;64134;203876;Eleito;Feminino;Amarela;Ensino Fundamental
-90;2024;AC;Rio Branco;Deputado Federal;Ana Gomes Castro;PT;53160;62014;Não Eleito;Feminino;Indígena;Superior Completo
-91;2020;AP;Macapá;Deputado Federal;Leonardo Teixeira Silva;PSB;81061;24063;Não Eleito;Masculino;Branca;Superior Completo
-92;2018;MA;São Luís;Deputado Federal;Vanessa Ferreira Moreira;PL;13947;59913;2º Turno;Masculino;Branca;Superior Completo
-93;2024;MT;Cuiabá;Prefeito;Mariana Souza Vieira;PODE;71560;72050;Suplente;Masculino;Branca;Ensino Fundamental
-94;2020;MT;Cuiabá;Deputado Federal;André Rodrigues Martins;MDB;91274;193998;Não Eleito;Feminino;Parda;Ensino Fundamental
-95;2018;BA;Salvador;Deputado Federal;Patrícia Silva Araújo;PL;842;3837;Não Eleito;Masculino;Indígena;Superior Incompleto
-96;2024;RR;Boa Vista;Governador;Bruno Rodrigues Teixeira;PP;68572;236199;2º Turno;Masculino;Parda;Ensino Fundamental
-97;2018;RN;Natal;Deputado Estadual;Vanessa Oliveira Teixeira;REDE;39488;182425;2º Turno;Masculino;Indígena;Superior Completo
-98;2020;AM;Manaus;Vereador;Fernando Costa Nascimento;PSD;28750;243432;Não Eleito;Feminino;Branca;Superior Completo
-99;2018;SE;Aracaju;Deputado Estadual;Luciana Ferreira Ferreira;PSOL;5661;28376;Suplente;Feminino;Parda;Pós-Graduação
-100;2022;MT;Cuiabá;Vereador;Ana Souza Castro;PT;70442;92265;Não Eleito;Masculino;Amarela;Ensino Fundamental
-101;2018;AP;Macapá;Deputado Estadual;Renata Moreira Gomes;UNIÃO;26060;391738;Suplente;Masculino;Branca;Superior Incompleto
-102;2020;AM;Manaus;Deputado Estadual;Beatriz Ribeiro Pereira;PL;61743;306806;2º Turno;Masculino;Amarela;Superior Completo
-103;2020;RN;Natal;Governador;Paulo Costa Rodrigues;PSB;94358;101843;Suplente;Feminino;Parda;Superior Incompleto
-104;2020;AL;Maceió;Prefeito;André Rodrigues Souza;PSB;60116;219319;Não Eleito;Feminino;Parda;Superior Incompleto
-105;2020;SE;Aracaju;Prefeito;Henrique Nascimento Pereira;PL;53971;449351;2º Turno;Masculino;Indígena;Pós-Graduação
-106;2024;GO;Goiânia;Deputado Federal;Camila Pereira Gomes;UNIÃO;75961;116655;Não Eleito;Masculino;Amarela;Ensino Médio
-107;2018;PR;Curitiba;Prefeito;Diego Barbosa Ribeiro;PSB;91321;430643;Eleito;Feminino;Amarela;Superior Completo
-108;2018;PI;Teresina;Deputado Federal;Beatriz Rodrigues Costa;PP;31344;339599;Eleito;Masculino;Amarela;Superior Incompleto
-109;2020;RR;Boa Vista;Governador;Thiago Rocha Rodrigues;NOVO;53141;97014;Suplente;Feminino;Branca;Ensino Médio
-110;2024;RR;Boa Vista;Senador;Felipe Martins Lima;NOVO;80291;284442;Não Eleito;Masculino;Indígena;Superior Incompleto
-111;2018;PE;Recife;Prefeito;Ana Souza Ribeiro;PDT;61004;324654;Eleito;Feminino;Preta;Superior Completo
-112;2018;PI;Teresina;Prefeito;Rafael Gomes Pereira;PSD;14894;340333;2º Turno;Masculino;Parda;Superior Incompleto
-113;2022;GO;Goiânia;Vereador;Larissa Santos Oliveira;PDT;45259;237243;2º Turno;Masculino;Amarela;Ensino Fundamental
-114;2022;PB;João Pessoa;Vereador;Juliana Almeida Rocha;PL;10518;204880;Não Eleito;Feminino;Branca;Ensino Médio
-115;2020;GO;Goiânia;Deputado Federal;Leonardo Rodrigues Almeida;PSD;82228;11946;Suplente;Feminino;Indígena;Superior Completo
-116;2024;MS;Campo Grande;Governador;Maria Carvalho Almeida;PL;2898;457120;Não Eleito;Feminino;Amarela;Ensino Fundamental
-117;2022;RS;Porto Alegre;Prefeito;Luciana Moreira Vieira;NOVO;69499;441452;2º Turno;Feminino;Preta;Ensino Fundamental
-118;2020;SE;Aracaju;Senador;André Pereira Araújo;PDT;37777;403620;Eleito;Masculino;Preta;Superior Incompleto
-119;2024;CE;Fortaleza;Vereador;Gustavo Carvalho Ferreira;MDB;92823;363307;Não Eleito;Masculino;Parda;Ensino Médio
-120;2018;MT;Cuiabá;Vereador;Thiago Lima Costa;MDB;26900;294955;Eleito;Feminino;Preta;Superior Completo
-121;2022;PB;João Pessoa;Vereador;Gustavo Carvalho Souza;PT;53036;488198;2º Turno;Masculino;Amarela;Superior Incompleto
-122;2020;AC;Rio Branco;Prefeito;Isabela Araújo Carvalho;REDE;75209;349691;Não Eleito;Feminino;Preta;Ensino Médio
-123;2024;AL;Maceió;Deputado Estadual;Felipe Silva Ribeiro;PODE;28893;233868;Suplente;Masculino;Preta;Ensino Médio
-124;2020;RJ;Rio de Janeiro;Vereador;André Almeida Silva;PL;70580;445407;2º Turno;Masculino;Indígena;Pós-Graduação
-125;2020;PR;Curitiba;Senador;Marcos Ribeiro Rodrigues;NOVO;56061;193842;2º Turno;Feminino;Branca;Superior Incompleto
-126;2022;MS;Campo Grande;Senador;Tatiana Oliveira Almeida;NOVO;58234;388824;2º Turno;Feminino;Preta;Superior Completo
-127;2024;SC;Florianópolis;Governador;Henrique Mendes Oliveira;MDB;27244;159030;2º Turno;Feminino;Branca;Ensino Fundamental
-128;2024;AP;Macapá;Deputado Federal;Larissa Martins Ferreira;PSD;60580;372423;Não Eleito;Masculino;Parda;Pós-Graduação
-129;2022;PI;Teresina;Governador;Felipe Moreira Carvalho;PSB;73316;387947;2º Turno;Masculino;Branca;Ensino Médio
-130;2020;GO;Goiânia;Senador;Fernanda Teixeira Vieira;PP;54687;94092;2º Turno;Masculino;Branca;Ensino Médio
-131;2022;PR;Curitiba;Deputado Federal;Renata Araújo Moreira;UNIÃO;33814;329300;2º Turno;Masculino;Preta;Ensino Fundamental
-132;2018;GO;Goiânia;Deputado Estadual;Rafael Gomes Rocha;NOVO;17769;187422;Não Eleito;Masculino;Preta;Superior Incompleto
-133;2024;RS;Porto Alegre;Senador;Felipe Carvalho Barbosa;PSOL;10079;269464;Não Eleito;Masculino;Branca;Ensino Fundamental
-134;2020;PI;Teresina;Senador;Isabela Lima Vieira;NOVO;90232;190116;Eleito;Feminino;Parda;Ensino Médio
-135;2020;PE;Recife;Senador;Luciana Martins Gomes;MDB;13434;114279;Não Eleito;Masculino;Parda;Ensino Fundamental
-136;2018;PA;Belém;Governador;Gabriel Rodrigues Silva;PSB;45650;163404;Suplente;Masculino;Amarela;Ensino Fundamental
-137;2022;CE;Fortaleza;Prefeito;Maria Castro Souza;PSDB;16880;449267;Não Eleito;Masculino;Preta;Superior Completo
-138;2020;BA;Salvador;Deputado Federal;Fernanda Oliveira Silva;REDE;63482;397111;2º Turno;Masculino;Parda;Ensino Médio
-139;2018;SE;Aracaju;Prefeito;Leonardo Souza Lima;PT;8693;158199;Eleito;Masculino;Branca;Ensino Fundamental
-140;2020;RJ;Rio de Janeiro;Deputado Estadual;Marcos Silva Oliveira;MDB;97815;493848;Suplente;Feminino;Preta;Superior Completo
-141;2020;PE;Recife;Vereador;Gabriel Moreira Silva;PSD;28452;375341;Não Eleito;Feminino;Parda;Ensino Fundamental
-142;2018;SC;Florianópolis;Deputado Federal;Eduardo Monteiro Araújo;PDT;91515;309055;Não Eleito;Feminino;Branca;Superior Completo
-143;2022;MG;Belo Horizonte;Governador;Eduardo Pereira Martins;PL;99809;164823;Eleito;Feminino;Branca;Ensino Fundamental
-144;2020;PR;Curitiba;Senador;Tatiana Castro Santos;PL;43016;258897;Eleito;Feminino;Preta;Pós-Graduação
-145;2022;RO;Porto Velho;Governador;Gustavo Martins Carvalho;UNIÃO;24754;449246;Eleito;Feminino;Preta;Superior Completo
-146;2018;RO;Porto Velho;Governador;Paulo Rocha Barbosa;PSOL;88682;44617;Eleito;Masculino;Amarela;Pós-Graduação
-147;2018;SC;Florianópolis;Deputado Estadual;Marcos Almeida Gomes;PSDB;77992;442564;2º Turno;Masculino;Parda;Pós-Graduação
-148;2024;GO;Goiânia;Prefeito;Amanda Costa Araújo;PSOL;79068;498196;2º Turno;Feminino;Indígena;Superior Incompleto
-149;2020;SP;São Paulo;Governador;Gabriel Lima Araújo;PSB;30264;329497;Não Eleito;Masculino;Branca;Ensino Médio
-150;2018;PR;Curitiba;Prefeito;Mateus Ribeiro Mendes;PSOL;42864;80127;Suplente;Masculino;Branca;Ensino Fundamental
-151;2024;SE;Aracaju;Governador;Felipe Vieira Araújo;PSB;66174;137237;Suplente;Masculino;Branca;Pós-Graduação
-152;2018;MG;Belo Horizonte;Governador;Amanda Rocha Rocha;PT;4316;92780;Suplente;Masculino;Amarela;Pós-Graduação
-153;2020;MA;São Luís;Prefeito;Luciana Souza Moreira;PSOL;64307;346121;2º Turno;Feminino;Indígena;Superior Completo
-154;2018;MG;Belo Horizonte;Senador;Renata Ribeiro Mendes;PSOL;46247;401901;Suplente;Feminino;Branca;Ensino Médio
-155;2018;BA;Salvador;Senador;Renata Silva Teixeira;PDT;49892;51089;2º Turno;Feminino;Preta;Pós-Graduação
-156;2022;AL;Maceió;Prefeito;Carlos Pereira Teixeira;PP;77674;44583;Eleito;Feminino;Branca;Superior Incompleto
-157;2020;AC;Rio Branco;Vereador;Ana Rocha Vieira;UNIÃO;74465;269932;2º Turno;Feminino;Branca;Pós-Graduação
-158;2018;MT;Cuiabá;Governador;Mariana Moreira Souza;REDE;64020;52508;Não Eleito;Feminino;Amarela;Ensino Fundamental
-159;2022;CE;Fortaleza;Vereador;Letícia Martins Almeida;PSB;83298;444297;Eleito;Masculino;Preta;Superior Incompleto
-160;2018;MA;São Luís;Vereador;Camila Mendes Castro;PL;94081;442647;Eleito;Feminino;Preta;Ensino Médio
-161;2024;PA;Belém;Deputado Estadual;Juliana Teixeira Carvalho;PSD;39319;227019;Suplente;Masculino;Amarela;Pós-Graduação
-162;2022;RN;Natal;Vereador;Tatiana Ferreira Silva;PSOL;92197;270700;Não Eleito;Feminino;Parda;Pós-Graduação
-163;2022;RS;Porto Alegre;Vereador;Renata Castro Teixeira;PT;68464;105247;Suplente;Feminino;Parda;Superior Completo
-164;2020;SC;Florianópolis;Prefeito;Raquel Martins Gomes;PL;83100;106773;2º Turno;Feminino;Preta;Superior Completo
-165;2022;RO;Porto Velho;Vereador;Paulo Pereira Souza;MDB;25164;14574;Não Eleito;Feminino;Amarela;Pós-Graduação
-166;2024;PA;Belém;Prefeito;Bruno Ferreira Lima;MDB;3829;135524;Suplente;Masculino;Branca;Pós-Graduação
-167;2018;AL;Maceió;Deputado Federal;Vanessa Carvalho Oliveira;UNIÃO;47646;352199;Eleito;Feminino;Parda;Superior Completo
-168;2018;RJ;Rio de Janeiro;Prefeito;Eduardo Vieira Moreira;REDE;68856;132069;2º Turno;Masculino;Parda;Ensino Fundamental
-169;2018;SP;São Paulo;Senador;Renata Castro Ribeiro;REDE;98100;390098;Não Eleito;Feminino;Parda;Superior Completo
-170;2018;CE;Fortaleza;Deputado Estadual;Carolina Martins Lima;PODE;7340;257139;Suplente;Masculino;Preta;Ensino Fundamental
-171;2024;PR;Curitiba;Prefeito;André Rodrigues Costa;PSB;93814;192851;Suplente;Masculino;Indígena;Ensino Médio
-172;2018;RR;Boa Vista;Prefeito;André Nascimento Ribeiro;PP;83758;367374;Suplente;Masculino;Indígena;Superior Completo
-173;2024;MG;Belo Horizonte;Deputado Federal;Larissa Carvalho Oliveira;REDE;30872;155985;Não Eleito;Masculino;Amarela;Superior Incompleto
-174;2024;SE;Aracaju;Deputado Federal;Juliana Araújo Araújo;NOVO;54137;485801;Suplente;Feminino;Branca;Superior Completo
-175;2022;PE;Recife;Deputado Federal;Raquel Mendes Castro;PSD;96713;171370;2º Turno;Masculino;Branca;Superior Completo
-176;2024;SE;Aracaju;Prefeito;João Ribeiro Almeida;PSOL;40058;164530;Eleito;Masculino;Parda;Superior Completo
-177;2020;RN;Natal;Prefeito;Mariana Rocha Araújo;NOVO;17509;136721;Não Eleito;Feminino;Preta;Superior Completo
-178;2018;PA;Belém;Senador;Paulo Ribeiro Moreira;PSDB;2727;497132;Eleito;Masculino;Branca;Pós-Graduação
-179;2020;GO;Goiânia;Prefeito;Pedro Ribeiro Mendes;UNIÃO;78704;136447;Não Eleito;Masculino;Preta;Superior Completo
-180;2018;AC;Rio Branco;Prefeito;Carolina Vieira Araújo;PL;29433;374162;Não Eleito;Masculino;Preta;Superior Incompleto
-181;2024;MG;Belo Horizonte;Deputado Estadual;Beatriz Mendes Almeida;PP;95261;355091;Não Eleito;Feminino;Parda;Pós-Graduação
-182;2020;AC;Rio Branco;Senador;Camila Mendes Rocha;PSDB;48459;305659;2º Turno;Masculino;Branca;Pós-Graduação
-183;2020;MT;Cuiabá;Prefeito;Beatriz Monteiro Ribeiro;NOVO;55491;385980;Suplente;Masculino;Branca;Ensino Fundamental
-184;2018;AL;Maceió;Senador;Leonardo Costa Mendes;PSOL;78421;372066;Eleito;Masculino;Preta;Ensino Fundamental
-185;2024;MA;São Luís;Governador;Carla Nascimento Santos;PODE;23520;136517;Não Eleito;Feminino;Preta;Pós-Graduação
-186;2020;AP;Macapá;Senador;Carla Lima Souza;PDT;5798;67091;2º Turno;Feminino;Preta;Pós-Graduação
-187;2022;GO;Goiânia;Vereador;Adriana Gomes Martins;MDB;41368;386381;2º Turno;Masculino;Indígena;Pós-Graduação
-188;2018;DF;Brasília;Deputado Estadual;Carlos Ferreira Santos;PSB;34118;85799;2º Turno;Feminino;Branca;Pós-Graduação
-189;2018;PB;João Pessoa;Senador;Carolina Araújo Souza;NOVO;19415;64880;Suplente;Masculino;Parda;Superior Incompleto
-190;2020;TO;Palmas;Deputado Estadual;Renata Vieira Moreira;PSDB;76496;2213;Não Eleito;Feminino;Branca;Superior Completo
-191;2024;RO;Porto Velho;Deputado Federal;Maria Carvalho Vieira;PSOL;15999;206708;Suplente;Masculino;Preta;Superior Completo
-192;2018;AP;Macapá;Governador;Carolina Teixeira Lima;PODE;86256;3093;Suplente;Masculino;Indígena;Pós-Graduação
-193;2022;SC;Florianópolis;Prefeito;Bruno Santos Teixeira;PP;42368;418508;Eleito;Masculino;Indígena;Ensino Fundamental
-194;2024;AP;Macapá;Governador;Patrícia Pereira Ribeiro;PL;2698;446924;Não Eleito;Masculino;Amarela;Pós-Graduação
-195;2022;RS;Porto Alegre;Prefeito;Gabriel Carvalho Araújo;REDE;56680;385867;Suplente;Masculino;Preta;Ensino Médio
-196;2022;PE;Recife;Deputado Estadual;Carolina Ribeiro Araújo;PP;73811;314801;2º Turno;Masculino;Amarela;Superior Incompleto
-197;2020;PA;Belém;Prefeito;Juliana Santos Barbosa;PDT;60765;354699;Não Eleito;Masculino;Amarela;Ensino Fundamental
-198;2018;MA;São Luís;Governador;Juliana Araújo Carvalho;MDB;16759;358827;Suplente;Masculino;Indígena;Pós-Graduação
-199;2022;RJ;Rio de Janeiro;Deputado Federal;Pedro Barbosa Souza;PSD;55704;216591;Eleito;Feminino;Indígena;Superior Incompleto
-200;2022;GO;Goiânia;Vereador;Eduardo Silva Souza;NOVO;86724;242731;Não Eleito;Masculino;Amarela;Ensino Médio
-201;2018;PA;Belém;Prefeito;Mariana Moreira Castro;PSB;99277;351459;2º Turno;Feminino;Preta;Superior Completo
-202;2020;CE;Fortaleza;Deputado Federal;Fernanda Martins Nascimento;PT;776;207109;Eleito;Masculino;Parda;Pós-Graduação
-203;2024;RR;Boa Vista;Governador;Isabela Mendes Mendes;PDT;90536;353316;2º Turno;Feminino;Branca;Superior Completo
-204;2020;AC;Rio Branco;Deputado Estadual;João Monteiro Almeida;PT;27434;252293;Não Eleito;Masculino;Amarela;Ensino Fundamental
-205;2020;AP;Macapá;Senador;Carla Araújo Martins;PT;15274;87137;Não Eleito;Feminino;Amarela;Pós-Graduação
-206;2018;PB;João Pessoa;Vereador;Bruno Carvalho Moreira;UNIÃO;6684;175083;Eleito;Masculino;Amarela;Pós-Graduação
-207;2024;SC;Florianópolis;Vereador;Ana Araújo Ribeiro;PSB;67296;309924;2º Turno;Masculino;Branca;Ensino Fundamental
-208;2018;PA;Belém;Vereador;Tatiana Oliveira Lima;PSOL;54685;466215;2º Turno;Masculino;Amarela;Ensino Fundamental
-209;2022;PB;João Pessoa;Prefeito;Maria Ferreira Carvalho;NOVO;25202;246067;Suplente;Feminino;Parda;Ensino Fundamental
-210;2020;RJ;Rio de Janeiro;Prefeito;Vanessa Monteiro Vieira;PSB;17201;463087;Suplente;Feminino;Amarela;Superior Incompleto
-211;2024;SE;Aracaju;Deputado Estadual;Felipe Monteiro Castro;PL;87442;253223;Não Eleito;Masculino;Parda;Superior Completo
-212;2024;AM;Manaus;Governador;Isabela Pereira Almeida;PSD;6176;9555;Suplente;Feminino;Preta;Superior Completo
-213;2020;TO;Palmas;Vereador;Lucas Gomes Martins;PL;80955;118900;Eleito;Masculino;Amarela;Superior Incompleto
-214;2022;SE;Aracaju;Senador;Gustavo Lima Rodrigues;NOVO;67562;316871;Eleito;Masculino;Amarela;Pós-Graduação
-215;2018;AM;Manaus;Vereador;Gustavo Santos Barbosa;PL;21905;330312;Eleito;Masculino;Preta;Superior Completo
-216;2022;RR;Boa Vista;Governador;Fernanda Rodrigues Teixeira;PDT;43867;429526;Não Eleito;Masculino;Parda;Pós-Graduação
-217;2024;SP;São Paulo;Deputado Federal;Leonardo Gomes Carvalho;PSD;22457;44737;Suplente;Feminino;Amarela;Superior Incompleto
-218;2020;BA;Salvador;Vereador;Camila Rodrigues Martins;UNIÃO;53658;470894;2º Turno;Feminino;Branca;Pós-Graduação
-219;2020;SP;São Paulo;Deputado Federal;Lucas Gomes Gomes;UNIÃO;21548;227628;Eleito;Feminino;Branca;Superior Completo
-220;2018;RS;Porto Alegre;Prefeito;Raquel Ribeiro Vieira;NOVO;72572;458039;Suplente;Feminino;Preta;Ensino Médio
-221;2022;PE;Recife;Vereador;Paulo Rocha Teixeira;PSDB;71368;327394;2º Turno;Feminino;Amarela;Superior Completo
-222;2022;AP;Macapá;Deputado Federal;Amanda Castro Castro;NOVO;16525;272926;Suplente;Masculino;Branca;Ensino Fundamental
-223;2022;PE;Recife;Senador;João Silva Nascimento;PODE;33917;126581;Suplente;Feminino;Indígena;Ensino Médio
-224;2018;TO;Palmas;Senador;Adriana Costa Souza;PT;99173;341341;Eleito;Feminino;Preta;Ensino Fundamental
-225;2018;PB;João Pessoa;Senador;Henrique Moreira Monteiro;PSOL;87241;279646;Não Eleito;Feminino;Preta;Superior Incompleto
-226;2020;RR;Boa Vista;Governador;Gabriel Gomes Barbosa;PODE;25248;431456;Suplente;Feminino;Branca;Superior Completo
-227;2024;TO;Palmas;Governador;Lucas Santos Martins;MDB;62433;112658;2º Turno;Masculino;Preta;Ensino Fundamental
-228;2024;RJ;Rio de Janeiro;Vereador;Larissa Moreira Araújo;PSOL;55508;230778;2º Turno;Feminino;Parda;Superior Completo
-229;2020;PR;Curitiba;Prefeito;Carla Monteiro Barbosa;PSD;15484;364152;Não Eleito;Feminino;Amarela;Ensino Médio
-230;2020;PI;Teresina;Senador;Fernando Martins Souza;PL;48452;299819;Suplente;Masculino;Indígena;Superior Completo
-231;2018;MS;Campo Grande;Senador;Isabela Carvalho Araújo;PT;18736;74572;2º Turno;Masculino;Preta;Superior Incompleto
-232;2020;CE;Fortaleza;Prefeito;Maria Souza Nascimento;PDT;8865;456404;Eleito;Feminino;Amarela;Ensino Fundamental
-233;2022;RJ;Rio de Janeiro;Governador;Amanda Araújo Castro;PODE;17417;399531;Não Eleito;Feminino;Amarela;Pós-Graduação
-234;2020;SC;Florianópolis;Senador;Fernando Vieira Mendes;UNIÃO;50765;122115;2º Turno;Feminino;Indígena;Ensino Médio
-235;2024;SC;Florianópolis;Senador;Mateus Monteiro Silva;PODE;82599;417466;Suplente;Masculino;Indígena;Ensino Médio
-236;2020;RN;Natal;Vereador;Henrique Barbosa Almeida;REDE;62378;263577;Eleito;Masculino;Indígena;Superior Completo
-237;2018;GO;Goiânia;Deputado Estadual;Henrique Rocha Oliveira;REDE;69942;318216;Suplente;Feminino;Indígena;Ensino Médio
-238;2024;AC;Rio Branco;Senador;Patrícia Martins Silva;PSD;41609;200333;Suplente;Masculino;Branca;Ensino Médio
-239;2020;MA;São Luís;Deputado Estadual;André Oliveira Rodrigues;PP;53392;355836;Não Eleito;Masculino;Indígena;Superior Incompleto
-240;2020;AC;Rio Branco;Prefeito;Felipe Ribeiro Souza;PDT;18682;216488;Suplente;Feminino;Amarela;Ensino Médio
-241;2018;DF;Brasília;Deputado Estadual;Leonardo Barbosa Barbosa;UNIÃO;15093;141234;Eleito;Feminino;Amarela;Ensino Fundamental
-242;2024;AP;Macapá;Governador;Diego Teixeira Pereira;PT;35289;290545;Eleito;Masculino;Indígena;Superior Completo
-243;2022;RJ;Rio de Janeiro;Governador;Juliana Teixeira Barbosa;PSDB;18670;195769;Não Eleito;Masculino;Indígena;Pós-Graduação
-244;2024;AL;Maceió;Deputado Federal;Vanessa Carvalho Teixeira;MDB;81;31599;2º Turno;Feminino;Indígena;Superior Incompleto
-245;2024;MS;Campo Grande;Prefeito;Henrique Barbosa Carvalho;PT;21167;387594;Eleito;Feminino;Branca;Pós-Graduação
-246;2018;TO;Palmas;Deputado Estadual;Raquel Almeida Mendes;PSD;41730;463484;Suplente;Feminino;Amarela;Superior Incompleto
-247;2020;RO;Porto Velho;Senador;Beatriz Rocha Mendes;PDT;2090;479258;Não Eleito;Masculino;Indígena;Pós-Graduação
-248;2018;AC;Rio Branco;Prefeito;Diego Nascimento Monteiro;NOVO;64101;399801;2º Turno;Masculino;Branca;Ensino Fundamental
-249;2018;TO;Palmas;Prefeito;Fernanda Costa Ribeiro;PODE;46929;202818;Não Eleito;Masculino;Branca;Pós-Graduação
-250;2022;DF;Brasília;Governador;Carlos Castro Silva;REDE;36858;356856;Suplente;Masculino;Branca;Ensino Fundamental
-251;2022;SE;Aracaju;Prefeito;Carlos Araújo Costa;PT;36809;258438;Não Eleito;Masculino;Parda;Pós-Graduação
-252;2018;GO;Goiânia;Vereador;Patrícia Nascimento Almeida;PSOL;96847;296643;Não Eleito;Masculino;Indígena;Superior Completo
-253;2018;BA;Salvador;Senador;Eduardo Castro Lima;PSDB;88874;12170;Suplente;Feminino;Branca;Pós-Graduação
-254;2018;MT;Cuiabá;Governador;Larissa Souza Vieira;PSD;61166;259873;Suplente;Masculino;Parda;Ensino Médio
-255;2022;PA;Belém;Vereador;Mariana Silva Ribeiro;PSDB;43880;42941;Eleito;Masculino;Amarela;Ensino Médio
-256;2020;DF;Brasília;Deputado Estadual;Isabela Oliveira Teixeira;PSOL;12688;14663;2º Turno;Feminino;Branca;Ensino Fundamental
-257;2022;TO;Palmas;Senador;Gabriel Araújo Pereira;PDT;7144;430822;Suplente;Masculino;Branca;Ensino Fundamental
-258;2024;SP;São Paulo;Deputado Federal;Renata Souza Oliveira;PT;4380;197913;Suplente;Masculino;Parda;Ensino Médio
-259;2024;AL;Maceió;Senador;Juliana Souza Vieira;PT;73313;27419;Suplente;Feminino;Amarela;Ensino Médio
-260;2024;ES;Vitória;Vereador;Thiago Ribeiro Rocha;REDE;56122;461391;Eleito;Feminino;Branca;Pós-Graduação
-261;2022;RJ;Rio de Janeiro;Deputado Estadual;Gabriel Silva Mendes;NOVO;8863;310893;Não Eleito;Masculino;Indígena;Superior Incompleto
-262;2022;PA;Belém;Governador;Patrícia Pereira Rodrigues;REDE;5786;31764;Não Eleito;Feminino;Indígena;Pós-Graduação
-263;2022;MA;São Luís;Vereador;Rafael Araújo Carvalho;PODE;44954;152651;Suplente;Masculino;Indígena;Ensino Fundamental
-264;2020;AL;Maceió;Deputado Estadual;Diego Costa Almeida;PSDB;83968;476365;Não Eleito;Masculino;Preta;Superior Completo
-265;2024;RR;Boa Vista;Prefeito;Vanessa Monteiro Gomes;PODE;74209;176032;Suplente;Feminino;Preta;Superior Completo
-266;2018;PB;João Pessoa;Deputado Federal;Camila Silva Teixeira;PSDB;90871;120779;2º Turno;Masculino;Parda;Pós-Graduação
-267;2022;SE;Aracaju;Prefeito;Beatriz Ribeiro Ferreira;PT;47565;5236;Eleito;Feminino;Branca;Ensino Fundamental
-268;2018;BA;Salvador;Senador;Beatriz Teixeira Moreira;REDE;47184;23068;Eleito;Masculino;Parda;Superior Incompleto
-269;2020;ES;Vitória;Senador;Ricardo Nascimento Pereira;MDB;25698;11318;Não Eleito;Feminino;Branca;Ensino Médio
-270;2020;MG;Belo Horizonte;Prefeito;Ricardo Almeida Carvalho;PSB;31486;193848;Suplente;Masculino;Indígena;Ensino Fundamental
-271;2024;RR;Boa Vista;Deputado Federal;Rafael Rodrigues Almeida;PSDB;69813;198333;Suplente;Feminino;Indígena;Pós-Graduação
-272;2020;AL;Maceió;Vereador;Gustavo Carvalho Rodrigues;PDT;32407;27973;Suplente;Masculino;Indígena;Ensino Fundamental
-273;2024;DF;Brasília;Prefeito;Leonardo Vieira Mendes;PL;21955;266710;2º Turno;Feminino;Amarela;Ensino Fundamental
-274;2024;CE;Fortaleza;Senador;Adriana Monteiro Araújo;NOVO;64863;248435;Suplente;Feminino;Indígena;Ensino Médio
-275;2020;ES;Vitória;Deputado Estadual;Camila Ribeiro Almeida;PP;55718;465989;2º Turno;Masculino;Preta;Superior Incompleto
-276;2018;BA;Salvador;Deputado Federal;Carolina Barbosa Costa;PSDB;76551;21620;2º Turno;Feminino;Amarela;Pós-Graduação
-277;2024;PA;Belém;Governador;Luciana Gomes Lima;UNIÃO;3249;94194;2º Turno;Masculino;Preta;Ensino Médio
-278;2022;AP;Macapá;Senador;André Pereira Souza;PL;9361;188917;Eleito;Masculino;Preta;Superior Completo
-279;2022;GO;Goiânia;Senador;Beatriz Monteiro Mendes;MDB;98626;375537;Suplente;Masculino;Preta;Superior Incompleto
-280;2022;SE;Aracaju;Governador;Renata Teixeira Silva;PSB;85743;268824;Não Eleito;Feminino;Parda;Superior Completo
-281;2020;PR;Curitiba;Deputado Estadual;Carolina Gomes Oliveira;PDT;24631;224861;2º Turno;Masculino;Amarela;Pós-Graduação
-282;2018;MS;Campo Grande;Deputado Estadual;Felipe Castro Silva;PSB;86366;437462;Suplente;Feminino;Parda;Pós-Graduação
-283;2024;RO;Porto Velho;Governador;Mariana Moreira Silva;PODE;4231;483519;Não Eleito;Masculino;Preta;Ensino Fundamental
-284;2024;MG;Belo Horizonte;Deputado Estadual;Juliana Nascimento Ribeiro;PSDB;62240;57007;Suplente;Feminino;Preta;Ensino Médio
-285;2020;AM;Manaus;Prefeito;Pedro Monteiro Mendes;PSB;3527;97930;Não Eleito;Masculino;Amarela;Superior Incompleto
-286;2020;ES;Vitória;Senador;Thiago Santos Costa;PSD;1457;90136;Suplente;Feminino;Amarela;Superior Completo
-287;2018;BA;Salvador;Vereador;Luciana Castro Oliveira;UNIÃO;27073;68171;Não Eleito;Feminino;Amarela;Pós-Graduação
-288;2020;RN;Natal;Vereador;Renata Almeida Barbosa;NOVO;89772;240675;Suplente;Masculino;Branca;Superior Completo
-289;2024;AP;Macapá;Governador;Eduardo Gomes Moreira;PSB;60329;242635;Eleito;Masculino;Preta;Pós-Graduação
-290;2022;RR;Boa Vista;Prefeito;Amanda Mendes Ferreira;UNIÃO;32664;94200;2º Turno;Feminino;Amarela;Superior Completo
-291;2018;MG;Belo Horizonte;Prefeito;Carlos Ferreira Lima;PSOL;70492;153084;Eleito;Masculino;Amarela;Pós-Graduação
-292;2018;MS;Campo Grande;Deputado Federal;Eduardo Gomes Martins;PSB;21615;132572;Não Eleito;Masculino;Amarela;Ensino Médio
-293;2018;RS;Porto Alegre;Prefeito;Amanda Gomes Castro;UNIÃO;25490;208021;Eleito;Masculino;Preta;Ensino Médio
-294;2020;MT;Cuiabá;Prefeito;Luciana Rocha Oliveira;PL;71893;344519;Não Eleito;Feminino;Parda;Pós-Graduação
-295;2022;TO;Palmas;Deputado Estadual;João Mendes Souza;MDB;38564;65141;2º Turno;Masculino;Branca;Ensino Médio
-296;2022;BA;Salvador;Governador;Patrícia Almeida Monteiro;PT;88489;279127;Não Eleito;Feminino;Branca;Ensino Fundamental
-297;2018;MG;Belo Horizonte;Prefeito;Carolina Santos Mendes;PT;6388;405015;2º Turno;Masculino;Parda;Superior Incompleto
-298;2020;DF;Brasília;Deputado Federal;Diego Silva Silva;PDT;25195;356544;Eleito;Masculino;Branca;Superior Completo
-299;2020;AL;Maceió;Governador;Ricardo Gomes Nascimento;PSOL;24854;327558;Não Eleito;Feminino;Amarela;Ensino Médio
-300;2020;DF;Brasília;Deputado Federal;Mariana Ferreira Silva;UNIÃO;85730;165850;Eleito;Feminino;Parda;Pós-Graduação
-301;2020;AP;Macapá;Prefeito;Vanessa Costa Santos;PL;28657;215583;Suplente;Feminino;Branca;Ensino Fundamental
-302;2020;GO;Goiânia;Deputado Federal;Amanda Vieira Monteiro;MDB;43532;91973;Suplente;Feminino;Branca;Superior Incompleto
-303;2018;RN;Natal;Vereador;Amanda Barbosa Teixeira;NOVO;30474;263987;Eleito;Masculino;Branca;Ensino Fundamental
-304;2018;MA;São Luís;Deputado Estadual;Camila Mendes Oliveira;PT;18039;196408;2º Turno;Feminino;Parda;Superior Completo
-305;2024;DF;Brasília;Prefeito;Carlos Castro Mendes;PSB;96905;460024;Suplente;Masculino;Preta;Superior Incompleto
-306;2018;PE;Recife;Governador;Maria Pereira Castro;PDT;44932;127058;Não Eleito;Masculino;Parda;Superior Completo
-307;2024;PE;Recife;Senador;Thiago Teixeira Silva;PL;64450;36742;Não Eleito;Masculino;Parda;Superior Completo
-308;2020;AP;Macapá;Deputado Estadual;Carlos Barbosa Oliveira;UNIÃO;95035;244931;Suplente;Masculino;Parda;Superior Completo
-309;2024;CE;Fortaleza;Vereador;Felipe Carvalho Moreira;PSB;83319;105642;Suplente;Feminino;Branca;Superior Incompleto
-310;2024;MG;Belo Horizonte;Deputado Estadual;Carolina Martins Barbosa;PODE;96338;227292;Não Eleito;Feminino;Branca;Pós-Graduação
-311;2024;AP;Macapá;Senador;Gustavo Castro Ferreira;PP;49876;243136;Suplente;Feminino;Preta;Pós-Graduação
-312;2024;AP;Macapá;Senador;Leonardo Almeida Rodrigues;PSDB;557;6778;Suplente;Feminino;Amarela;Pós-Graduação
-313;2024;SC;Florianópolis;Senador;Luciana Carvalho Teixeira;PODE;9346;214372;Eleito;Masculino;Amarela;Ensino Fundamental
-314;2020;DF;Brasília;Governador;Letícia Barbosa Monteiro;PSB;83238;361016;Suplente;Masculino;Amarela;Pós-Graduação
-315;2020;ES;Vitória;Governador;Marcos Teixeira Monteiro;PSOL;3713;365725;Não Eleito;Feminino;Indígena;Pós-Graduação
-316;2020;GO;Goiânia;Deputado Estadual;João Souza Oliveira;PSOL;93282;480760;2º Turno;Feminino;Indígena;Ensino Médio
-317;2020;PA;Belém;Deputado Estadual;Larissa Monteiro Carvalho;PSD;69897;345286;2º Turno;Feminino;Amarela;Ensino Médio
-318;2018;RS;Porto Alegre;Vereador;Carla Lima Castro;PSDB;98089;208701;Suplente;Masculino;Parda;Pós-Graduação
-319;2018;AM;Manaus;Deputado Federal;Adriana Martins Teixeira;PP;96091;225991;Não Eleito;Masculino;Preta;Superior Completo
-320;2020;DF;Brasília;Governador;Eduardo Souza Rocha;PODE;27872;97377;Não Eleito;Masculino;Parda;Superior Completo
-321;2022;PA;Belém;Governador;Mateus Oliveira Carvalho;PL;49519;65419;Suplente;Masculino;Preta;Ensino Médio
-322;2020;PR;Curitiba;Governador;João Santos Lima;REDE;957;348870;Eleito;Masculino;Parda;Ensino Fundamental
-323;2018;MG;Belo Horizonte;Vereador;Luciana Araújo Gomes;PODE;56299;176499;Suplente;Feminino;Preta;Superior Completo
-324;2022;RO;Porto Velho;Governador;Vanessa Santos Costa;PDT;13140;1667;2º Turno;Feminino;Parda;Ensino Médio
-325;2018;PE;Recife;Senador;Marcos Rocha Mendes;PSOL;86370;456103;2º Turno;Feminino;Parda;Ensino Médio
-326;2022;AC;Rio Branco;Prefeito;Ana Castro Gomes;PSOL;58246;122501;2º Turno;Feminino;Indígena;Ensino Médio
-327;2022;PA;Belém;Governador;Paulo Carvalho Mendes;PSDB;93325;75107;Eleito;Masculino;Amarela;Ensino Médio
-328;2022;TO;Palmas;Prefeito;Patrícia Rocha Souza;PSB;86863;283515;Não Eleito;Masculino;Parda;Superior Completo
-329;2018;AM;Manaus;Governador;Mateus Gomes Ribeiro;REDE;36757;115590;Suplente;Feminino;Branca;Superior Completo
-330;2024;AP;Macapá;Prefeito;Camila Moreira Mendes;PL;84418;179999;2º Turno;Feminino;Indígena;Pós-Graduação
-331;2020;ES;Vitória;Senador;Felipe Oliveira Souza;PL;44605;388327;Não Eleito;Masculino;Indígena;Superior Incompleto
-332;2020;MT;Cuiabá;Governador;Felipe Santos Moreira;PSD;24895;444184;2º Turno;Feminino;Preta;Superior Incompleto
-333;2020;PE;Recife;Prefeito;Gabriel Ribeiro Silva;PSD;60382;165686;Não Eleito;Feminino;Parda;Pós-Graduação
-334;2024;BA;Salvador;Vereador;Carla Castro Vieira;REDE;92149;18056;Suplente;Feminino;Indígena;Ensino Médio
-335;2022;RR;Boa Vista;Vereador;Beatriz Araújo Carvalho;NOVO;49385;30884;Suplente;Masculino;Parda;Superior Completo
-336;2018;SP;São Paulo;Deputado Estadual;Amanda Carvalho Vieira;MDB;2836;287329;2º Turno;Feminino;Amarela;Pós-Graduação
-337;2022;SP;São Paulo;Governador;Juliana Barbosa Castro;PP;37020;365151;Não Eleito;Feminino;Branca;Superior Completo
-338;2022;SP;São Paulo;Vereador;Felipe Rocha Teixeira;MDB;75659;72171;2º Turno;Feminino;Preta;Superior Completo
-339;2020;DF;Brasília;Prefeito;João Costa Castro;PODE;13372;355683;Não Eleito;Feminino;Amarela;Superior Completo
-340;2018;AM;Manaus;Senador;Patrícia Santos Souza;PSD;85219;177514;2º Turno;Masculino;Amarela;Superior Completo
-341;2018;AM;Manaus;Deputado Estadual;Luciana Carvalho Monteiro;PODE;22618;342303;2º Turno;Masculino;Amarela;Pós-Graduação
-342;2022;RS;Porto Alegre;Prefeito;Letícia Silva Souza;PL;10841;64040;2º Turno;Masculino;Branca;Ensino Fundamental
-343;2024;GO;Goiânia;Prefeito;Henrique Ferreira Ribeiro;PSB;84498;368486;2º Turno;Feminino;Indígena;Superior Completo
-344;2018;MT;Cuiabá;Deputado Federal;Paulo Monteiro Silva;UNIÃO;72893;428635;2º Turno;Masculino;Indígena;Ensino Fundamental
-345;2018;SP;São Paulo;Deputado Estadual;Mateus Mendes Monteiro;MDB;707;290883;2º Turno;Feminino;Branca;Ensino Médio
-346;2020;RJ;Rio de Janeiro;Deputado Estadual;Lucas Nascimento Lima;REDE;4598;44410;Eleito;Feminino;Preta;Ensino Fundamental
-347;2020;PA;Belém;Prefeito;Carlos Carvalho Santos;PSD;38466;345638;2º Turno;Masculino;Indígena;Pós-Graduação
-348;2022;PE;Recife;Senador;Gabriel Vieira Santos;PSDB;4824;98654;Não Eleito;Feminino;Parda;Superior Completo
-349;2020;RJ;Rio de Janeiro;Senador;Carla Castro Mendes;UNIÃO;9756;288329;Suplente;Feminino;Amarela;Superior Completo
-350;2024;PB;João Pessoa;Deputado Federal;Raquel Monteiro Rodrigues;PSD;26717;37042;Suplente;Masculino;Preta;Ensino Fundamental
-351;2020;PA;Belém;Deputado Estadual;Raquel Ribeiro Silva;PODE;32450;40695;Suplente;Masculino;Indígena;Ensino Médio
-352;2024;AP;Macapá;Senador;Marcos Gomes Lima;MDB;29601;143519;Eleito;Masculino;Amarela;Superior Completo
-353;2024;AM;Manaus;Deputado Federal;Eduardo Castro Carvalho;PODE;64185;50140;Suplente;Feminino;Indígena;Superior Incompleto
-354;2018;AL;Maceió;Deputado Estadual;Amanda Ferreira Costa;REDE;97173;355418;2º Turno;Feminino;Indígena;Superior Completo
-355;2022;AC;Rio Branco;Prefeito;Rafael Rodrigues Ribeiro;PODE;96403;140228;Eleito;Feminino;Parda;Ensino Fundamental
-356;2024;RR;Boa Vista;Governador;Thiago Costa Rocha;PSD;37604;144660;2º Turno;Masculino;Preta;Ensino Médio
-357;2022;PA;Belém;Senador;Lucas Oliveira Castro;PSDB;12282;86616;Eleito;Masculino;Preta;Ensino Fundamental
-358;2024;SE;Aracaju;Deputado Federal;Adriana Castro Rodrigues;PSB;65258;270064;Eleito;Feminino;Branca;Ensino Fundamental
-359;2020;TO;Palmas;Prefeito;Diego Monteiro Nascimento;NOVO;45237;128094;Eleito;Feminino;Parda;Ensino Fundamental
-360;2020;CE;Fortaleza;Deputado Federal;Carla Barbosa Costa;PT;55417;259838;2º Turno;Masculino;Preta;Ensino Médio
-361;2022;RO;Porto Velho;Deputado Estadual;Felipe Carvalho Araújo;PP;34711;111757;Eleito;Feminino;Parda;Superior Incompleto
-362;2018;PB;João Pessoa;Vereador;Ana Costa Silva;PODE;60349;172305;Suplente;Feminino;Branca;Ensino Médio
-363;2022;SC;Florianópolis;Deputado Estadual;Letícia Silva Souza;UNIÃO;64503;103620;Eleito;Masculino;Amarela;Ensino Médio
-364;2024;AC;Rio Branco;Deputado Estadual;Camila Araújo Ribeiro;PDT;39237;191150;2º Turno;Masculino;Indígena;Superior Incompleto
-365;2018;PB;João Pessoa;Prefeito;Patrícia Rodrigues Costa;NOVO;56890;3096;Suplente;Masculino;Branca;Superior Completo
-366;2022;AL;Maceió;Deputado Estadual;Raquel Castro Gomes;PT;21022;349333;Não Eleito;Feminino;Preta;Ensino Médio
-367;2024;PR;Curitiba;Vereador;Carla Gomes Ribeiro;PSD;95167;484262;2º Turno;Masculino;Branca;Ensino Médio
-368;2018;BA;Salvador;Deputado Estadual;Adriana Silva Vieira;PSDB;6830;355679;Suplente;Feminino;Indígena;Ensino Médio
-369;2024;PR;Curitiba;Senador;Luciana Oliveira Martins;PSDB;80961;80001;Não Eleito;Masculino;Preta;Ensino Médio
-370;2022;RR;Boa Vista;Deputado Estadual;Beatriz Araújo Monteiro;REDE;13518;367651;Não Eleito;Masculino;Indígena;Superior Completo
-371;2020;AM;Manaus;Deputado Estadual;Ana Lima Almeida;MDB;55886;9309;Não Eleito;Masculino;Branca;Pós-Graduação
-372;2024;PE;Recife;Senador;Carlos Gomes Martins;PSB;8051;267365;2º Turno;Masculino;Preta;Ensino Médio
-373;2022;MS;Campo Grande;Senador;Raquel Pereira Gomes;PT;23832;21487;Eleito;Masculino;Preta;Superior Completo
-374;2022;PR;Curitiba;Senador;Diego Ferreira Lima;PSB;47665;175310;Suplente;Masculino;Branca;Ensino Médio
-375;2020;MT;Cuiabá;Senador;Renata Barbosa Mendes;PDT;31238;340967;Suplente;Masculino;Indígena;Pós-Graduação
-376;2018;AM;Manaus;Deputado Estadual;Pedro Moreira Teixeira;PSDB;25297;369494;2º Turno;Masculino;Branca;Ensino Fundamental
-377;2022;MA;São Luís;Prefeito;Beatriz Nascimento Castro;MDB;5752;67070;Não Eleito;Feminino;Indígena;Superior Incompleto
-378;2022;MS;Campo Grande;Governador;Diego Oliveira Araújo;UNIÃO;68660;488336;Eleito;Masculino;Indígena;Superior Incompleto
-379;2020;MA;São Luís;Deputado Federal;Bruno Castro Ribeiro;PSB;89754;279217;Eleito;Masculino;Amarela;Ensino Fundamental
-380;2024;PI;Teresina;Governador;Vanessa Lima Almeida;MDB;481;83937;Não Eleito;Masculino;Indígena;Pós-Graduação
-381;2022;MA;São Luís;Deputado Estadual;Larissa Nascimento Souza;MDB;29360;23964;Não Eleito;Feminino;Branca;Superior Completo
-382;2022;BA;Salvador;Senador;Carlos Almeida Nascimento;PL;193;340127;Suplente;Feminino;Preta;Ensino Médio
-383;2022;SC;Florianópolis;Deputado Estadual;Vanessa Carvalho Gomes;PT;82055;427828;Eleito;Feminino;Parda;Superior Incompleto
-384;2020;GO;Goiânia;Deputado Federal;Paulo Teixeira Lima;PSOL;83149;316899;Não Eleito;Feminino;Parda;Superior Incompleto
-385;2022;DF;Brasília;Vereador;Carla Rocha Pereira;NOVO;95205;227540;Suplente;Masculino;Amarela;Ensino Médio
-386;2024;CE;Fortaleza;Governador;Mateus Almeida Moreira;PSB;95624;94635;Suplente;Masculino;Preta;Superior Completo
-387;2020;TO;Palmas;Governador;Lucas Rodrigues Oliveira;UNIÃO;32155;238613;2º Turno;Masculino;Indígena;Superior Completo
-388;2018;RN;Natal;Deputado Federal;Amanda Silva Souza;PT;84483;490090;Eleito;Masculino;Parda;Ensino Médio
-389;2022;BA;Salvador;Prefeito;João Souza Nascimento;NOVO;44363;447120;Eleito;Masculino;Parda;Pós-Graduação
-390;2024;TO;Palmas;Deputado Estadual;Mariana Araújo Rodrigues;PSDB;7333;285014;Suplente;Masculino;Branca;Ensino Médio
-391;2018;PI;Teresina;Senador;Eduardo Martins Rodrigues;PT;29411;12633;Não Eleito;Feminino;Amarela;Superior Completo
-392;2022;RS;Porto Alegre;Senador;Paulo Vieira Monteiro;PL;64473;88947;Eleito;Masculino;Branca;Superior Incompleto
-393;2022;AP;Macapá;Vereador;Fernanda Costa Oliveira;PT;79243;79271;Não Eleito;Feminino;Indígena;Superior Incompleto
-394;2020;RO;Porto Velho;Governador;Felipe Mendes Carvalho;PDT;13631;142180;2º Turno;Feminino;Preta;Ensino Médio
-395;2018;BA;Salvador;Prefeito;Ricardo Rodrigues Ribeiro;PSB;94557;417829;2º Turno;Masculino;Branca;Ensino Fundamental
-396;2024;SC;Florianópolis;Senador;Lucas Gomes Rodrigues;MDB;50475;184918;Suplente;Feminino;Amarela;Pós-Graduação
-397;2024;RN;Natal;Prefeito;Carla Teixeira Pereira;UNIÃO;54884;288061;2º Turno;Feminino;Indígena;Ensino Fundamental
-398;2020;MG;Belo Horizonte;Deputado Federal;Adriana Moreira Monteiro;REDE;98089;115044;Eleito;Masculino;Preta;Ensino Médio
-399;2020;AC;Rio Branco;Senador;Carla Souza Santos;PDT;47308;445040;Não Eleito;Feminino;Amarela;Superior Completo
-400;2024;ES;Vitória;Deputado Estadual;Pedro Castro Rodrigues;PL;91207;369129;Não Eleito;Feminino;Branca;Pós-Graduação
-401;2022;AL;Maceió;Prefeito;Henrique Oliveira Araújo;PODE;20742;15876;Não Eleito;Feminino;Parda;Ensino Médio
-402;2020;AP;Macapá;Deputado Federal;Carla Ferreira Araújo;NOVO;18374;392273;Suplente;Feminino;Amarela;Superior Incompleto
-403;2024;SE;Aracaju;Prefeito;Felipe Souza Rodrigues;PT;84217;16889;Não Eleito;Masculino;Branca;Pós-Graduação
-404;2024;RO;Porto Velho;Governador;Renata Barbosa Carvalho;NOVO;29804;222175;Não Eleito;Feminino;Branca;Ensino Fundamental
-405;2024;BA;Salvador;Prefeito;Paulo Mendes Santos;PSDB;51428;96358;Eleito;Feminino;Amarela;Superior Incompleto
-406;2024;TO;Palmas;Governador;Pedro Costa Teixeira;UNIÃO;25533;141565;Eleito;Masculino;Branca;Superior Incompleto
-407;2022;AC;Rio Branco;Deputado Estadual;Patrícia Nascimento Souza;PL;27785;313108;Eleito;Feminino;Parda;Ensino Fundamental
-408;2020;RS;Porto Alegre;Deputado Federal;André Oliveira Moreira;PODE;5891;295611;2º Turno;Masculino;Branca;Superior Incompleto
-409;2018;MA;São Luís;Deputado Federal;Isabela Ribeiro Barbosa;PSDB;41228;394231;2º Turno;Feminino;Parda;Ensino Médio
-410;2022;PA;Belém;Prefeito;Eduardo Rodrigues Silva;PODE;50094;250110;Eleito;Feminino;Parda;Superior Completo
-411;2024;AP;Macapá;Prefeito;Carlos Almeida Vieira;PSOL;18473;403136;Não Eleito;Feminino;Amarela;Superior Completo
-412;2022;MA;São Luís;Senador;Ana Monteiro Vieira;UNIÃO;31350;109532;Eleito;Masculino;Indígena;Pós-Graduação
-413;2018;SE;Aracaju;Deputado Federal;Felipe Nascimento Oliveira;PSB;12345;238500;Suplente;Masculino;Preta;Superior Completo
-414;2018;GO;Goiânia;Vereador;Letícia Oliveira Oliveira;MDB;93156;404769;2º Turno;Feminino;Amarela;Superior Incompleto
-415;2024;RS;Porto Alegre;Deputado Estadual;Henrique Araújo Santos;PDT;37578;210257;2º Turno;Masculino;Amarela;Superior Incompleto
-416;2022;MS;Campo Grande;Deputado Federal;Adriana Rocha Lima;PSOL;5603;325430;Eleito;Masculino;Indígena;Ensino Médio
-417;2020;AM;Manaus;Senador;Patrícia Moreira Ribeiro;PL;29245;203590;2º Turno;Masculino;Preta;Pós-Graduação
-418;2024;RS;Porto Alegre;Vereador;Fernanda Oliveira Ferreira;NOVO;14211;481063;2º Turno;Feminino;Parda;Pós-Graduação
-419;2022;AP;Macapá;Senador;Vanessa Araújo Almeida;NOVO;97171;249726;Eleito;Feminino;Amarela;Ensino Médio
-420;2020;PR;Curitiba;Deputado Estadual;Ricardo Moreira Santos;PODE;49854;32765;Suplente;Feminino;Amarela;Superior Completo
-421;2018;DF;Brasília;Deputado Federal;Larissa Lima Teixeira;MDB;10966;74361;Eleito;Feminino;Amarela;Ensino Médio
-422;2022;RR;Boa Vista;Governador;Adriana Almeida Vieira;PP;24137;435496;Eleito;Masculino;Amarela;Superior Incompleto
-423;2022;CE;Fortaleza;Deputado Estadual;Raquel Araújo Araújo;PSD;90296;411017;Não Eleito;Feminino;Preta;Ensino Fundamental
-424;2024;TO;Palmas;Deputado Federal;Lucas Castro Vieira;PODE;80817;75871;Suplente;Feminino;Branca;Superior Completo
-425;2024;BA;Salvador;Governador;Fernanda Vieira Martins;PP;68258;378735;Eleito;Feminino;Parda;Pós-Graduação
-426;2018;AL;Maceió;Deputado Estadual;Diego Monteiro Nascimento;REDE;21781;315117;2º Turno;Masculino;Preta;Superior Completo
-427;2020;RO;Porto Velho;Vereador;Marcos Costa Silva;PP;40244;263287;Eleito;Feminino;Amarela;Pós-Graduação
-428;2024;MS;Campo Grande;Senador;Adriana Gomes Souza;MDB;60148;224646;Suplente;Masculino;Indígena;Ensino Fundamental
-429;2020;PI;Teresina;Governador;Isabela Vieira Monteiro;PSOL;57353;332504;Suplente;Masculino;Branca;Ensino Médio
-430;2018;RS;Porto Alegre;Deputado Federal;Fernanda Araújo Castro;REDE;81776;486184;Eleito;Feminino;Indígena;Ensino Fundamental
-431;2018;RO;Porto Velho;Senador;Beatriz Pereira Rocha;PSD;49958;60081;Não Eleito;Feminino;Branca;Superior Incompleto
-432;2024;PA;Belém;Prefeito;Maria Costa Pereira;PSD;37182;140354;Suplente;Feminino;Amarela;Superior Completo
-433;2018;PA;Belém;Deputado Federal;João Rodrigues Costa;PSD;97166;314594;Suplente;Feminino;Parda;Ensino Fundamental
-434;2024;ES;Vitória;Vereador;Beatriz Mendes Teixeira;UNIÃO;6770;420178;2º Turno;Masculino;Amarela;Superior Completo
-435;2024;MT;Cuiabá;Vereador;Diego Pereira Souza;NOVO;16568;264425;Eleito;Feminino;Preta;Ensino Fundamental
-436;2020;MT;Cuiabá;Deputado Estadual;Lucas Silva Martins;PT;82440;403768;Não Eleito;Masculino;Indígena;Ensino Fundamental
-437;2018;RJ;Rio de Janeiro;Governador;Rafael Rocha Teixeira;PSOL;46949;97858;Não Eleito;Masculino;Preta;Superior Completo
-438;2020;SC;Florianópolis;Governador;Ana Lima Oliveira;MDB;82249;12182;Eleito;Masculino;Amarela;Ensino Fundamental
-439;2018;AM;Manaus;Deputado Estadual;Larissa Ferreira Oliveira;PL;64791;442876;Suplente;Masculino;Amarela;Ensino Médio
-440;2024;SE;Aracaju;Deputado Federal;Juliana Araújo Teixeira;PL;27573;360412;2º Turno;Feminino;Preta;Pós-Graduação
-441;2020;CE;Fortaleza;Senador;Mateus Vieira Moreira;PSOL;79525;448216;Eleito;Masculino;Preta;Superior Incompleto
-442;2024;RN;Natal;Vereador;Mateus Barbosa Castro;PP;15947;101156;Eleito;Masculino;Indígena;Ensino Fundamental
-443;2020;DF;Brasília;Senador;Bruno Silva Gomes;MDB;28814;43798;Não Eleito;Feminino;Preta;Pós-Graduação
-444;2020;AP;Macapá;Senador;Carolina Castro Araújo;UNIÃO;67204;496207;2º Turno;Masculino;Preta;Superior Completo
-445;2020;RO;Porto Velho;Prefeito;Amanda Souza Moreira;REDE;77025;163410;Não Eleito;Masculino;Amarela;Pós-Graduação
-446;2024;PA;Belém;Vereador;Mariana Mendes Souza;PODE;50216;225133;Não Eleito;Feminino;Preta;Ensino Médio
-447;2024;CE;Fortaleza;Deputado Federal;Renata Martins Carvalho;PODE;84564;498321;Suplente;Feminino;Branca;Ensino Médio
-448;2020;SE;Aracaju;Senador;Patrícia Costa Pereira;PL;28214;344483;Suplente;Feminino;Parda;Superior Incompleto
-449;2018;AC;Rio Branco;Senador;Ricardo Almeida Rocha;PODE;42157;471250;Não Eleito;Masculino;Amarela;Superior Incompleto
-450;2020;PE;Recife;Deputado Estadual;Gustavo Lima Monteiro;PODE;88004;39279;2º Turno;Feminino;Preta;Superior Incompleto
-451;2020;DF;Brasília;Deputado Federal;Luciana Santos Lima;UNIÃO;15641;65110;2º Turno;Masculino;Indígena;Superior Incompleto
-452;2024;ES;Vitória;Vereador;Felipe Silva Teixeira;REDE;75475;2486;2º Turno;Feminino;Parda;Pós-Graduação
-453;2018;PI;Teresina;Vereador;Ricardo Teixeira Silva;PL;61599;49920;2º Turno;Feminino;Preta;Superior Incompleto
-454;2022;MG;Belo Horizonte;Deputado Federal;Luciana Mendes Santos;UNIÃO;39127;365194;2º Turno;Feminino;Branca;Superior Incompleto
-455;2018;AC;Rio Branco;Deputado Estadual;João Rodrigues Souza;PDT;90134;379767;2º Turno;Masculino;Parda;Ensino Médio
-456;2020;SC;Florianópolis;Senador;Pedro Lima Santos;PL;6301;496626;Suplente;Masculino;Preta;Superior Incompleto
-457;2024;GO;Goiânia;Prefeito;Rafael Moreira Rocha;PL;16562;167472;Não Eleito;Feminino;Amarela;Ensino Médio
-458;2020;RJ;Rio de Janeiro;Governador;Larissa Gomes Castro;PSB;29610;48179;Suplente;Feminino;Branca;Superior Incompleto
-459;2020;RO;Porto Velho;Prefeito;Lucas Oliveira Araújo;PT;27859;6932;Não Eleito;Feminino;Amarela;Superior Completo
-460;2024;AM;Manaus;Senador;Henrique Barbosa Barbosa;PDT;99688;495177;Suplente;Feminino;Parda;Ensino Fundamental
-461;2018;BA;Salvador;Deputado Estadual;Amanda Rocha Mendes;PSD;26620;409005;2º Turno;Masculino;Branca;Superior Incompleto
-462;2024;CE;Fortaleza;Prefeito;Renata Teixeira Souza;MDB;60428;459429;Eleito;Masculino;Parda;Ensino Médio
-463;2024;CE;Fortaleza;Senador;Leonardo Vieira Barbosa;PSB;46141;139289;Eleito;Masculino;Preta;Pós-Graduação
-464;2020;BA;Salvador;Governador;Adriana Gomes Santos;PSB;35738;193921;Eleito;Masculino;Amarela;Pós-Graduação
-465;2020;MA;São Luís;Deputado Estadual;Patrícia Mendes Lima;PSD;79629;258847;2º Turno;Masculino;Branca;Superior Completo
-466;2018;ES;Vitória;Deputado Federal;Pedro Moreira Lima;PSDB;8640;279040;Eleito;Feminino;Parda;Ensino Fundamental
-467;2024;MG;Belo Horizonte;Governador;Carlos Castro Monteiro;PP;64913;107898;Não Eleito;Masculino;Preta;Superior Incompleto
-468;2022;SC;Florianópolis;Deputado Federal;Mateus Barbosa Monteiro;PODE;62499;387546;Suplente;Masculino;Parda;Superior Incompleto
-469;2018;CE;Fortaleza;Deputado Estadual;Carolina Rodrigues Silva;PSOL;62216;224404;Suplente;Masculino;Parda;Superior Incompleto
-470;2018;CE;Fortaleza;Prefeito;Fernando Costa Araújo;PODE;141;256063;Não Eleito;Feminino;Branca;Ensino Médio
-471;2018;RJ;Rio de Janeiro;Prefeito;Camila Barbosa Barbosa;MDB;98968;76901;Eleito;Masculino;Preta;Superior Incompleto
-472;2024;PR;Curitiba;Prefeito;Tatiana Lima Vieira;PSB;33241;191042;2º Turno;Masculino;Preta;Superior Incompleto
-473;2022;PE;Recife;Prefeito;Fernanda Lima Vieira;PSD;95458;335489;Eleito;Masculino;Amarela;Superior Completo
-474;2020;MS;Campo Grande;Governador;Carlos Moreira Castro;NOVO;56465;188489;Não Eleito;Masculino;Parda;Pós-Graduação
-475;2018;GO;Goiânia;Prefeito;Adriana Ferreira Lima;PSOL;45733;465615;Suplente;Feminino;Indígena;Pós-Graduação
-476;2022;MA;São Luís;Deputado Estadual;Henrique Barbosa Monteiro;PDT;80274;64517;2º Turno;Feminino;Indígena;Superior Incompleto
-477;2022;AM;Manaus;Deputado Federal;Carla Rocha Vieira;MDB;68585;151979;Não Eleito;Feminino;Amarela;Superior Incompleto
-478;2018;SE;Aracaju;Senador;Thiago Santos Almeida;PP;77745;64765;Eleito;Feminino;Preta;Ensino Médio
-479;2024;MS;Campo Grande;Prefeito;Pedro Lima Rodrigues;PDT;37138;411754;Não Eleito;Masculino;Preta;Superior Completo
-480;2020;PA;Belém;Vereador;Felipe Pereira Santos;PSB;46492;130455;2º Turno;Feminino;Amarela;Ensino Médio
-481;2022;MA;São Luís;Vereador;Patrícia Moreira Martins;PSOL;42278;421776;Não Eleito;Masculino;Preta;Superior Completo
-482;2024;PI;Teresina;Deputado Estadual;Isabela Oliveira Carvalho;PODE;82365;241827;Não Eleito;Feminino;Amarela;Ensino Médio
-483;2020;PE;Recife;Governador;Adriana Vieira Monteiro;PDT;61401;185749;2º Turno;Feminino;Amarela;Pós-Graduação
-484;2024;AC;Rio Branco;Vereador;Diego Oliveira Rodrigues;PODE;39644;412471;Não Eleito;Feminino;Parda;Ensino Fundamental
-485;2022;AL;Maceió;Governador;Paulo Vieira Silva;PSB;67906;241338;Eleito;Masculino;Branca;Superior Incompleto
-486;2018;MT;Cuiabá;Vereador;Felipe Moreira Araújo;NOVO;43435;453199;Eleito;Masculino;Indígena;Ensino Fundamental
-487;2018;RR;Boa Vista;Deputado Estadual;Gustavo Castro Araújo;MDB;29310;469315;Não Eleito;Feminino;Preta;Ensino Médio
-488;2024;RN;Natal;Prefeito;Gabriel Oliveira Silva;MDB;79150;461370;Eleito;Masculino;Parda;Superior Completo
-489;2018;PR;Curitiba;Deputado Federal;Amanda Santos Souza;PP;53036;253658;Não Eleito;Masculino;Indígena;Superior Incompleto
-490;2024;RO;Porto Velho;Vereador;Diego Rodrigues Teixeira;PT;24233;74334;Não Eleito;Masculino;Indígena;Ensino Fundamental
-491;2020;PR;Curitiba;Governador;Isabela Vieira Souza;PODE;64623;192641;Suplente;Feminino;Amarela;Ensino Médio
-492;2024;PA;Belém;Governador;João Carvalho Rocha;PL;73962;204223;Eleito;Feminino;Branca;Ensino Fundamental
-493;2024;AL;Maceió;Senador;Thiago Castro Rocha;PP;1205;83052;Suplente;Masculino;Preta;Ensino Fundamental
-494;2024;PE;Recife;Deputado Federal;Rafael Costa Teixeira;NOVO;73822;177936;2º Turno;Masculino;Preta;Superior Incompleto
-495;2024;AP;Macapá;Prefeito;Amanda Araújo Mendes;PSOL;23652;302060;Suplente;Masculino;Preta;Ensino Fundamental
-496;2022;RJ;Rio de Janeiro;Vereador;Juliana Santos Silva;NOVO;20873;121529;Eleito;Masculino;Amarela;Pós-Graduação
-497;2022;SP;São Paulo;Deputado Estadual;Gabriel Ferreira Castro;UNIÃO;99076;220280;Eleito;Masculino;Indígena;Superior Incompleto
-498;2018;AL;Maceió;Prefeito;Thiago Costa Mendes;PSOL;3871;484256;Não Eleito;Feminino;Branca;Pós-Graduação
-499;2024;BA;Salvador;Prefeito;Bruno Lima Araújo;PSB;88988;150043;Não Eleito;Masculino;Parda;Pós-Graduação
-500;2020;AP;Macapá;Vereador;Gabriel Almeida Santos;REDE;18433;468391;Eleito;Feminino;Amarela;Ensino Fundamental
+ID;Ano;UF;Municipio;Cargo;Candidato;Partido;Numero;Votos;Situacao;Genero;Cor_Raca;Escolaridade
+1;2022;SP;São Paulo;Deputado Federal;Guilherme Boulos;PSOL;5000;612000;Eleito;Masculino;Branca;Superior Completo
+2;2022;SP;São Paulo;Deputado Federal;Kim Kataguiri;UNIÃO;1740;380000;Eleito;Masculino;Amarela;Superior Completo
+3;2022;SP;São Paulo;Deputado Federal;Tabata Amaral;PSB;2525;340000;Eleita;Feminino;Parda;Superior Completo
+4;2022;RJ;Rio de Janeiro;Deputado Federal;Marcelo Freixo;PSB;4050;340000;Eleito;Masculino;Branca;Superior Completo
+5;2022;MG;Belo Horizonte;Deputado Federal;Nikolas Ferreira;PL;1400;1492000;Eleito;Masculino;Branca;Superior Completo
+6;2022;SP;São Paulo;Deputado Federal;Eduardo Bolsonaro;PL;2525;740000;Eleito;Masculino;Branca;Superior Completo
+7;2022;RJ;Rio de Janeiro;Deputado Federal;Talíria Petrone;PSOL;5000;220000;Eleita;Feminino;Preta;Superior Completo
+8;2022;CE;Fortaleza;Deputado Federal;André Fernandes;PL;2222;230000;Eleito;Masculino;Parda;Superior Incompleto
+9;2022;BA;Salvador;Deputado Federal;Alice Portugal;PCdoB;6565;120000;Eleita;Feminino;Branca;Superior Completo
+10;2022;PE;Recife;Deputado Federal;Túlio Gadêlha;REDE;1818;220000;Eleito;Masculino;Parda;Superior Completo
+11;2022;CE;Caucaia;Deputado Estadual;Antônio Mendes;PODEMOS;4433;228393;Não Eleito;Masculino;Parda;Pós-Graduação
+12;2022;PB;João Pessoa;Deputado Federal;Gustavo Rocha;PSD;3589;412324;Eleito;Masculino;Parda;Fundamental Completo
+13;2022;ES;Linhares;Deputado Estadual;Francisco Ribeiro;REPUBLICANOS;6336;121119;Não Eleito;Masculino;Branca;Fundamental Completo
+14;2022;SC;Itajaí;Senador;Paulo Rodrigues;UNIÃO;8716;4938109;Não Eleito;Masculino;Parda;Médio Incompleto
+15;2022;RN;São Gonçalo do Amarante;Deputado Federal;Bruno Ferreira;PRTB;4181;331861;Não Eleito;Masculino;Branca;Médio Completo
+16;2022;AL;Penedo;Deputado Federal;Bruno Ferreira;NOVO;7852;90258;Não Eleito;Masculino;Branca;Médio Completo
+17;2022;CE;Itapipoca;Deputado Estadual;Camila Pereira;REDE;4763;45837;Não Eleito;Feminino;Parda;Superior Completo
+18;2022;DF;Plano Piloto;Deputado Estadual;Carlos Silva;PRTB;8014;386469;Suplente;Masculino;Branca;Superior Incompleto
+19;2022;ES;Cachoeiro de Itapemirim;Governador;Maria Santos;SOLIDARIEDADE;1724;386036;2º Turno;Feminino;Parda;Superior Completo
+20;2022;PA;Castanhal;Deputado Federal;Fernanda Lima;NOVO;9114;126597;Eleito;Feminino;Parda;Superior Completo
+21;2022;PA;Ananindeua;Deputado Federal;Pedro Oliveira;PL;8860;351267;Não Eleito;Masculino;Parda;Superior Completo
+22;2022;SC;Florianópolis;Governador;Marcos Pereira;PMN;7641;1601437;Não Eleito;Masculino;Branca;Superior Incompleto
+23;2022;RO;Porto Velho;Senador;Roberto Carvalho;CIDADANIA;1535;2517977;Não Eleito;Masculino;Branca;Pós-Graduação
+24;2022;PR;Ponta Grossa;Deputado Estadual;Roberto Carvalho;PRTB;1898;270370;Suplente;Masculino;Parda;Pós-Graduação
+25;2022;AP;Oiapoque;Deputado Federal;Antônio Mendes;PSOL;3871;340329;Não Eleito;Masculino;Branca;Superior Completo
+26;2022;DF;Ceilândia;Governador;Lucas Souza;PTB;8839;6235592;Suplente;Masculino;Parda;Pós-Graduação
+27;2022;DF;Ceilândia;Deputado Federal;Luciana Rocha;DC;7929;145803;Eleito;Feminino;Branca;Superior Incompleto
+28;2022;PI;Floriano;Senador;Gustavo Rocha;DC;9730;2481691;Não Eleito;Masculino;Branca;Superior Completo
+29;2022;RS;Caxias do Sul;Deputado Federal;Juliana Costa;UNIÃO;7400;471282;Não Eleito;Feminino;Amarela;Fundamental Completo
+30;2022;CE;Juazeiro do Norte;Deputado Federal;Marcos Pereira;REPUBLICANOS;9530;499677;Não Eleito;Masculino;Branca;Pós-Graduação
+31;2022;PR;Maringá;Deputado Estadual;Carlos Silva;PODEMOS;4097;33503;Eleito;Masculino;Parda;Superior Completo
+32;2022;PI;Picos;Deputado Estadual;Roberto Carvalho;PCdoB;9686;441902;Não Eleito;Masculino;Parda;Superior Completo
+33;2022;SP;Santo André;Deputado Federal;Diego Martins;PSOL;5720;404070;Não Eleito;Masculino;Branca;Médio Completo
+34;2022;CE;Sobral;Governador;Carla Silva;PSD;3873;7090824;Não Eleito;Feminino;Preta;Superior Completo
+35;2022;CE;Caucaia;Deputado Federal;Mônica Dias;MDB;8223;137028;Não Eleito;Feminino;Branca;Superior Completo
+36;2022;RR;Caracaraí;Governador;Bruno Ferreira;PV;3663;4526521;Não Eleito;Masculino;Preta;Superior Incompleto
+37;2022;PE;Cabo de Santo Agostinho;Deputado Federal;Roberto Carvalho;MDB;1070;387684;Não Eleito;Masculino;Parda;Superior Completo
+38;2022;MA;Timon;Senador;Mônica Dias;DC;3409;4771505;Não Eleito;Feminino;Preta;Médio Completo
+39;2022;AP;Oiapoque;Governador;Gustavo Rocha;PP;6047;258000;Não Eleito;Masculino;Parda;Superior Incompleto
+40;2022;AM;Itacoatiara;Deputado Federal;Felipe Gomes;CIDADANIA;4639;410117;Suplente;Masculino;Branca;Fundamental Incompleto
+41;2022;PR;São José dos Pinhais;Deputado Estadual;Luciana Rocha;AVANTE;4185;257645;Não Eleito;Feminino;Parda;Pós-Graduação
+42;2022;RR;Caracaraí;Deputado Federal;Vanessa Ferreira;PSOL;7326;195970;Eleito;Feminino;Branca;Médio Completo
+43;2022;PB;Bayeux;Deputado Federal;Cristina Martins;PRTB;7809;421862;Não Eleito;Feminino;Branca;Superior Completo
+44;2022;PA;Parauapebas;Senador;Felipe Gomes;PROS;2410;1234933;Não Eleito;Masculino;Parda;Superior Completo
+45;2022;MG;Uberlândia;Governador;José Araújo;UNIÃO;1108;3484804;Não Eleito;Masculino;Branca;Médio Incompleto
+46;2022;PB;Cabedelo;Deputado Estadual;Amanda Rodrigues;PSD;7254;152262;Não Eleito;Feminino;Branca;Superior Completo
+47;2022;TO;Paraíso do Tocantins;Deputado Federal;Bruno Ferreira;PDT;1439;415326;Eleito;Masculino;Branca;Pós-Graduação
+48;2022;TO;Porto Nacional;Deputado Federal;Carla Silva;SOLIDARIEDADE;3938;258390;Suplente;Feminino;Parda;Fundamental Incompleto
+49;2022;SE;Lagarto;Deputado Estadual;Adriana Carvalho;PRTB;6927;305145;Não Eleito;Feminino;Parda;Médio Completo
+50;2022;RR;Pacaraima;Governador;Roberta Araújo;CIDADANIA;1287;7140723;Não Eleito;Feminino;Parda;Médio Incompleto
+51;2022;PB;Cabedelo;Deputado Federal;Ricardo Almeida;PSOL;7873;334076;Suplente;Masculino;Branca;Médio Completo
+52;2022;PI;Teresina;Deputado Estadual;Camila Pereira;UP;2548;314423;Não Eleito;Feminino;Parda;Superior Completo
+53;2022;TO;Gurupi;Deputado Federal;Roberta Araújo;PP;9755;304611;Não Eleito;Feminino;Branca;Médio Incompleto
+54;2022;MA;São José de Ribamar;Deputado Estadual;Rafael Costa;PP;4569;81531;Não Eleito;Masculino;Parda;Superior Completo
+55;2022;PR;Londrina;Deputado Estadual;Fernanda Lima;MDB;1284;251905;Não Eleito;Feminino;Parda;Médio Incompleto
+56;2022;PB;Bayeux;Deputado Estadual;Camila Pereira;PMN;5991;15578;Não Eleito;Feminino;Branca;Fundamental Completo
+57;2022;RS;Pelotas;Deputado Estadual;André Lima;MDB;2287;223220;Não Eleito;Masculino;Parda;Fundamental Completo
+58;2022;SE;Itabaiana;Deputado Estadual;Lucas Souza;PT;9412;311495;Eleito;Masculino;Branca;Médio Completo
+59;2022;AM;Itacoatiara;Deputado Estadual;Fernanda Lima;PROS;4365;308573;Suplente;Feminino;Branca;Médio Completo
+60;2022;AM;Parintins;Senador;Mônica Dias;PSOL;6770;1376852;Suplente;Feminino;Parda;Superior Completo
+61;2022;PI;Floriano;Deputado Federal;Maria Santos;CIDADANIA;4555;375791;Não Eleito;Feminino;Branca;Pós-Graduação
+62;2022;PR;Curitiba;Governador;André Lima;CIDADANIA;8777;3124114;Não Eleito;Masculino;Branca;Superior Completo
+63;2022;AP;Santana;Senador;Vanessa Ferreira;REPUBLICANOS;9425;1938863;Não Eleito;Feminino;Parda;Médio Completo
+64;2022;PB;João Pessoa;Deputado Estadual;Antônio Mendes;PMN;5723;292597;Não Eleito;Masculino;Branca;Superior Completo
+65;2022;MT;Rondonópolis;Deputado Estadual;Cristina Martins;PDT;7672;152852;2º Turno;Feminino;Branca;Superior Completo
+66;2022;TO;Porto Nacional;Governador;Carlos Silva;DC;9055;5687945;Eleito;Masculino;Parda;Superior Completo
+67;2022;AM;Manaus;Deputado Federal;Felipe Gomes;PP;3764;34426;Não Eleito;Masculino;Branca;Médio Completo
+68;2022;MT;Cuiabá;Deputado Federal;Diego Martins;PSDB;5472;397020;Não Eleito;Masculino;Parda;Superior Incompleto
+69;2022;PE;Paulista;Deputado Estadual;Diego Martins;CIDADANIA;5569;77766;Não Eleito;Masculino;Branca;Médio Completo
+70;2022;PE;Jaboatão dos Guararapes;Deputado Estadual;Lucas Souza;PRTB;1865;435822;Eleito;Masculino;Parda;Pós-Graduação
+71;2022;MT;Tangará da Serra;Deputado Estadual;Leandro Dias;PROS;2578;399048;Eleito;Masculino;Parda;Superior Completo
+72;2022;SP;Ribeirão Preto;Deputado Federal;Mariana Barbosa;CIDADANIA;5287;284893;Não Eleito;Feminino;Parda;Superior Completo
+73;2022;SE;Aracaju;Governador;Fernanda Lima;AVANTE;8374;2688713;Suplente;Feminino;Parda;Fundamental Incompleto
+74;2022;CE;Sobral;Deputado Estadual;Camila Pereira;PCdoB;8056;71010;Não Eleito;Feminino;Branca;Superior Completo
+75;2022;RJ;Petrópolis;Deputado Estadual;Mônica Dias;PCdoB;8797;295283;Suplente;Feminino;Parda;Superior Incompleto
+76;2022;PE;Petrolina;Governador;Antônio Mendes;UP;5660;2738404;Eleito;Masculino;Parda;Fundamental Completo
+77;2022;MS;Três Lagoas;Senador;Roberto Carvalho;AVANTE;2594;3621567;Não Eleito;Masculino;Branca;Médio Completo
+78;2022;RR;Rorainópolis;Deputado Federal;Felipe Gomes;UNIÃO;2073;456074;Não Eleito;Masculino;Branca;Fundamental Incompleto
+79;2022;MG;Belo Horizonte;Deputado Estadual;Mônica Dias;CIDADANIA;7900;140285;Eleito;Feminino;Parda;Fundamental Incompleto
+80;2022;MG;Ribeirão das Neves;Deputado Estadual;Lucas Souza;PCdoB;2639;362711;Não Eleito;Masculino;Branca;Superior Completo
+81;2022;SE;Lagarto;Deputado Federal;Francisco Ribeiro;REPUBLICANOS;9142;333655;Não Eleito;Masculino;Parda;Superior Completo
+82;2022;PR;Ponta Grossa;Deputado Federal;Felipe Gomes;AVANTE;4700;327955;Não Eleito;Masculino;Branca;Superior Completo
+83;2022;AP;Laranjal do Jari;Deputado Federal;Thiago Barbosa;PCdoB;7997;110463;Não Eleito;Masculino;Branca;Superior Completo
+84;2022;PI;Picos;Deputado Estadual;André Lima;SOLIDARIEDADE;7591;132235;Não Eleito;Masculino;Parda;Superior Completo
+85;2022;CE;Fortaleza;Deputado Estadual;Rafael Costa;REDE;9178;112148;Não Eleito;Masculino;Parda;Pós-Graduação
+86;2022;GO;Águas Lindas de Goiás;Deputado Estadual;Francisco Ribeiro;REDE;1981;274319;Não Eleito;Masculino;Parda;Médio Completo
+87;2022;SC;São José;Senador;Pedro Oliveira;PTB;4335;3489783;Não Eleito;Masculino;Branca;Médio Incompleto
+88;2022;RR;Rorainópolis;Deputado Estadual;André Lima;PL;5023;418381;Não Eleito;Masculino;Parda;Superior Completo
+89;2022;PA;Marabá;Deputado Estadual;Rafael Costa;PSDB;3235;15778;Não Eleito;Masculino;Parda;Superior Completo
+90;2022;CE;Crato;Senador;Mariana Barbosa;PL;1906;734052;Não Eleito;Feminino;Branca;Fundamental Completo
+91;2022;PA;Santarém;Deputado Estadual;Tatiana Ribeiro;PRTB;3302;124253;Eleito;Feminino;Parda;Pós-Graduação
+92;2022;PI;Floriano;Governador;Larissa Nascimento;PCdoB;2478;2047133;Não Eleito;Feminino;Parda;Médio Completo
+93;2022;TO;Paraíso do Tocantins;Deputado Estadual;Bruna Almeida;SOLIDARIEDADE;4571;76143;Eleito;Feminino;Branca;Médio Completo
+94;2022;PA;Santarém;Senador;Gustavo Rocha;PSOL;2850;2684910;Não Eleito;Masculino;Parda;Médio Completo
+95;2022;GO;Aparecida de Goiânia;Deputado Federal;Carla Silva;PL;1570;441674;Não Eleito;Feminino;Parda;Fundamental Completo
+96;2022;SP;São Bernardo do Campo;Deputado Federal;Antônio Mendes;DC;2999;280947;Suplente;Masculino;Parda;Superior Incompleto
+97;2022;MT;Rondonópolis;Deputado Federal;Bruna Almeida;PODEMOS;4446;451081;Suplente;Feminino;Preta;Superior Completo
+98;2022;SP;Sorocaba;Deputado Estadual;Pedro Oliveira;UP;9055;247487;Não Eleito;Masculino;Preta;Médio Completo
+99;2022;PA;Abaetetuba;Deputado Federal;Ricardo Almeida;CIDADANIA;2087;184974;Não Eleito;Masculino;Parda;Superior Completo
+100;2022;MG;Uberaba;Deputado Estadual;Camila Pereira;PTB;8264;415221;Não Eleito;Feminino;Branca;Médio Completo
+101;2022;MA;São José de Ribamar;Deputado Estadual;Paulo Rodrigues;CIDADANIA;3131;444551;Não Eleito;Masculino;Branca;Pós-Graduação
+102;2022;PB;Patos;Senador;Rafael Costa;DC;6367;2393887;Não Eleito;Masculino;Branca;Médio Completo
+103;2022;MT;Tangará da Serra;Deputado Federal;Sandra Gomes;PTB;4747;475947;Eleito;Feminino;Parda;Médio Completo
+104;2022;CE;Fortaleza;Deputado Estadual;Ricardo Almeida;MDB;2459;193396;Não Eleito;Masculino;Parda;Fundamental Incompleto
+105;2022;PI;Piripiri;Deputado Estadual;Mariana Barbosa;PP;4677;374612;Não Eleito;Feminino;Preta;Superior Completo
+106;2022;GO;Anápolis;Deputado Estadual;Francisco Ribeiro;REPUBLICANOS;4531;432559;Não Eleito;Masculino;Parda;Superior Incompleto
+107;2022;PA;Abaetetuba;Deputado Federal;Ricardo Almeida;PDT;8388;476201;Não Eleito;Masculino;Parda;Superior Completo
+108;2022;AM;Manaus;Deputado Estadual;Tatiana Ribeiro;DC;4476;374493;Não Eleito;Feminino;Branca;Superior Completo
+109;2022;AM;Manaus;Deputado Estadual;Paulo Rodrigues;PCdoB;6804;318414;Suplente;Masculino;Amarela;Superior Completo
+110;2022;SC;Florianópolis;Deputado Federal;José Araújo;PODEMOS;7466;352434;Não Eleito;Masculino;Amarela;Superior Completo
+111;2022;RJ;Duque de Caxias;Deputado Federal;Roberto Carvalho;NOVO;3161;47501;Não Eleito;Masculino;Parda;Médio Incompleto
+112;2022;AP;Laranjal do Jari;Deputado Federal;Ricardo Almeida;PRTB;6907;486114;Não Eleito;Masculino;Preta;Médio Completo
+113;2022;TO;Gurupi;Deputado Estadual;Rafael Costa;PSB;9049;400885;2º Turno;Masculino;Parda;Pós-Graduação
+114;2022;RO;Vilhena;Deputado Federal;Paulo Rodrigues;PSD;1587;247045;Não Eleito;Masculino;Parda;Superior Incompleto
+115;2022;PE;Recife;Deputado Estadual;Sandra Gomes;PCdoB;8499;258967;Eleito;Feminino;Parda;Médio Incompleto
+116;2022;MS;Campo Grande;Deputado Federal;Rafael Costa;PRTB;9335;431764;Não Eleito;Masculino;Parda;Superior Completo
+117;2022;RJ;Rio de Janeiro;Deputado Estadual;Francisco Ribeiro;UNIÃO;5033;403286;Não Eleito;Masculino;Branca;Médio Completo
+118;2022;MA;Codó;Governador;Antônio Mendes;REDE;2737;7071073;Não Eleito;Masculino;Branca;Superior Incompleto
+119;2022;RS;Novo Hamburgo;Deputado Estadual;Adriana Carvalho;DC;1095;173214;2º Turno;Feminino;Parda;Pós-Graduação
+120;2022;MG;Contagem;Deputado Federal;Fernando Nascimento;PSB;1909;390465;Eleito;Masculino;Amarela;Superior Incompleto
+121;2022;MT;Rondonópolis;Deputado Federal;Tatiana Ribeiro;UNIÃO;1336;447374;Não Eleito;Feminino;Branca;Superior Incompleto
+122;2022;RO;Ji-Paraná;Deputado Federal;Francisco Ribeiro;PRTB;6080;474317;Não Eleito;Masculino;Branca;Superior Completo
+123;2022;TO;Gurupi;Deputado Estadual;José Araújo;PCdoB;5398;295704;Não Eleito;Masculino;Branca;Superior Incompleto
+124;2022;MS;Ponta Porã;Deputado Federal;Pedro Oliveira;PT;9410;179672;2º Turno;Masculino;Parda;Superior Completo
+125;2022;RS;Pelotas;Governador;Thiago Barbosa;UNIÃO;5762;3977707;Não Eleito;Masculino;Preta;Superior Incompleto
+126;2022;BA;Vitória da Conquista;Deputado Estadual;Paulo Rodrigues;CIDADANIA;8007;155417;Não Eleito;Masculino;Parda;Pós-Graduação
+127;2022;PI;Teresina;Deputado Estadual;Bruno Ferreira;DC;5151;186862;Não Eleito;Masculino;Branca;Superior Completo
+128;2022;AP;Oiapoque;Deputado Federal;José Araújo;PT;2364;218735;Suplente;Masculino;Branca;Superior Completo
+129;2022;PB;Cabedelo;Deputado Estadual;Daniela Mendes;PSD;4458;97539;Eleito;Feminino;Indígena;Médio Completo
+130;2022;RR;Boa Vista;Deputado Estadual;José Araújo;PP;1217;90538;Não Eleito;Masculino;Parda;Superior Incompleto
+131;2022;RR;Pacaraima;Deputado Federal;Adriana Carvalho;PSOL;7471;422363;Não Eleito;Feminino;Branca;Fundamental Incompleto
+132;2022;AP;Macapá;Deputado Estadual;Carlos Silva;REPUBLICANOS;8882;340565;Eleito;Masculino;Branca;Superior Completo
+133;2022;SP;Santos;Deputado Federal;Bruno Ferreira;MDB;8765;221686;Eleito;Masculino;Branca;Médio Incompleto
+134;2022;RS;Novo Hamburgo;Governador;Bruno Ferreira;REDE;4975;1738949;Não Eleito;Masculino;Parda;Superior Incompleto
+135;2022;MG;Belo Horizonte;Deputado Federal;Vanessa Ferreira;SOLIDARIEDADE;9121;386941;Não Eleito;Feminino;Parda;Pós-Graduação
+136;2022;AL;Palmeira dos Índios;Deputado Federal;Leandro Dias;DC;8993;122085;Não Eleito;Masculino;Parda;Superior Incompleto
+137;2022;MG;Uberlândia;Deputado Federal;Diego Martins;PP;9106;326972;Suplente;Masculino;Branca;Superior Completo
+138;2022;AC;Cruzeiro do Sul;Deputado Federal;Antônio Mendes;NOVO;4802;266647;Não Eleito;Masculino;Preta;Médio Completo
+139;2022;RN;Ceará-Mirim;Deputado Estadual;Fernando Nascimento;PRTB;7395;219055;Não Eleito;Masculino;Parda;Superior Completo
+140;2022;SP;Ribeirão Preto;Deputado Estadual;Adriana Carvalho;REPUBLICANOS;5627;362624;Não Eleito;Feminino;Parda;Fundamental Completo
+141;2022;DF;Ceilândia;Deputado Estadual;Francisco Ribeiro;PCdoB;5975;123560;Não Eleito;Masculino;Branca;Fundamental Incompleto
+142;2022;GO;Anápolis;Deputado Estadual;Thiago Barbosa;PT;2043;177570;Não Eleito;Masculino;Parda;Fundamental Completo
+143;2022;ES;Cariacica;Deputado Federal;Antônio Mendes;UP;1764;404251;Suplente;Masculino;Branca;Médio Incompleto
+144;2022;RS;Caxias do Sul;Deputado Estadual;Cristina Martins;NOVO;2817;56017;Não Eleito;Feminino;Parda;Superior Completo
+145;2022;AP;Macapá;Deputado Estadual;Lucas Souza;REPUBLICANOS;6925;82830;Não Eleito;Masculino;Parda;Superior Completo
+146;2022;PE;Paulista;Senador;Antônio Mendes;PSB;3257;1061660;Não Eleito;Masculino;Parda;Superior Incompleto
+147;2022;SE;Aracaju;Deputado Federal;Daniela Mendes;PODEMOS;9274;90290;Eleito;Feminino;Branca;Superior Completo
+148;2022;MS;Dourados;Deputado Federal;Vanessa Ferreira;PDT;3260;420857;Não Eleito;Feminino;Preta;Pós-Graduação
+149;2022;PI;Picos;Governador;Carlos Silva;PMN;9476;7965849;Eleito;Masculino;Branca;Superior Incompleto
+150;2022;SE;Nossa Senhora do Socorro;Deputado Estadual;João Santos;DC;3473;473675;Não Eleito;Masculino;Amarela;Pós-Graduação
+151;2022;SP;Santos;Governador;Gustavo Rocha;PODEMOS;6139;7677181;Não Eleito;Masculino;Parda;Pós-Graduação
+152;2022;RN;Mossoró;Deputado Estadual;André Lima;PV;8244;366175;Não Eleito;Masculino;Parda;Superior Completo
+153;2022;SE;Nossa Senhora do Socorro;Senador;Gustavo Rocha;PSB;7389;1087011;Não Eleito;Masculino;Parda;Médio Completo
+154;2022;PI;Floriano;Deputado Federal;Rafael Costa;PL;1456;467283;Não Eleito;Masculino;Parda;Médio Completo
+155;2022;SE;Lagarto;Deputado Estadual;Fernanda Lima;PRTB;1982;441732;Não Eleito;Feminino;Parda;Médio Completo
+156;2022;AL;Maceió;Deputado Estadual;Carlos Silva;NOVO;6553;124282;Não Eleito;Masculino;Indígena;Superior Completo
+157;2022;RO;Cacoal;Senador;Fernando Nascimento;PODEMOS;3293;3198089;Não Eleito;Masculino;Branca;Médio Completo
+158;2022;RJ;Nova Iguaçu;Senador;Lucas Souza;MDB;7974;3486550;Eleito;Masculino;Branca;Pós-Graduação
+159;2022;PE;Jaboatão dos Guararapes;Deputado Estadual;Thiago Barbosa;AVANTE;9502;408828;Não Eleito;Masculino;Branca;Superior Completo
+160;2022;PA;Marabá;Deputado Estadual;Vanessa Ferreira;PSD;3364;265677;Eleito;Feminino;Parda;Fundamental Completo
+161;2022;RS;Caxias do Sul;Deputado Estadual;João Santos;PRTB;3569;495464;Não Eleito;Masculino;Preta;Fundamental Completo
+162;2022;PA;Belém;Deputado Federal;João Santos;CIDADANIA;3511;62230;Não Eleito;Masculino;Indígena;Médio Completo
+163;2022;PE;Recife;Deputado Estadual;Felipe Gomes;SOLIDARIEDADE;1797;491663;Suplente;Masculino;Parda;Médio Completo
+164;2022;TO;Porto Nacional;Deputado Federal;Pedro Oliveira;PT;7841;252775;Não Eleito;Masculino;Parda;Pós-Graduação
+165;2022;SP;Sorocaba;Deputado Estadual;Adriana Carvalho;MDB;3269;265141;Não Eleito;Feminino;Parda;Superior Completo
+166;2022;BA;Juazeiro;Deputado Federal;Leandro Dias;SOLIDARIEDADE;7344;122565;Suplente;Masculino;Branca;Fundamental Incompleto
+167;2022;RR;Pacaraima;Deputado Estadual;Rafael Costa;PMN;1406;300390;Não Eleito;Masculino;Parda;Médio Completo
+168;2022;RO;Porto Velho;Deputado Estadual;Leandro Dias;PV;1866;299472;Não Eleito;Masculino;Parda;Superior Completo
+169;2022;AC;Rio Branco;Deputado Estadual;Carlos Silva;PSDB;4371;129100;Não Eleito;Masculino;Parda;Superior Completo
+170;2022;AM;Coari;Deputado Estadual;João Santos;PCdoB;1381;178735;Não Eleito;Masculino;Branca;Superior Completo
+171;2022;MG;Ribeirão das Neves;Deputado Federal;Lucas Souza;PV;3755;150106;Eleito;Masculino;Branca;Fundamental Completo
+172;2022;MA;Timon;Deputado Estadual;Roberto Carvalho;PSD;1445;374474;Eleito;Masculino;Branca;Médio Completo
+173;2022;PA;Santarém;Deputado Federal;Fernanda Lima;PT;4318;126131;Não Eleito;Feminino;Parda;Superior Completo
+174;2022;SE;São Cristóvão;Deputado Federal;João Santos;PSB;8615;290494;Não Eleito;Masculino;Parda;Superior Incompleto
+175;2022;ES;Vitória;Deputado Federal;Fernanda Lima;PDT;3057;160204;Não Eleito;Feminino;Parda;Superior Completo
+176;2022;PI;Parnaíba;Deputado Estadual;Gustavo Rocha;PSD;5016;282323;2º Turno;Masculino;Amarela;Superior Completo
+177;2022;AL;Maceió;Senador;Adriana Carvalho;PODEMOS;3742;34554;Eleito;Feminino;Preta;Médio Completo
+178;2022;GO;Águas Lindas de Goiás;Deputado Federal;André Lima;REDE;9361;147988;Eleito;Masculino;Parda;Superior Completo
+179;2022;MA;São Luís;Deputado Federal;Marcos Pereira;PRTB;5578;460971;Não Eleito;Masculino;Parda;Pós-Graduação
+180;2022;MG;Montes Claros;Deputado Estadual;Cristina Martins;PSDB;5029;347723;2º Turno;Feminino;Branca;Superior Incompleto
+181;2022;RN;Parnamirim;Deputado Federal;Maria Santos;PROS;8807;2743;Suplente;Feminino;Parda;Superior Incompleto
+182;2022;RS;Novo Hamburgo;Deputado Estadual;Pedro Oliveira;PV;1507;468464;Não Eleito;Masculino;Parda;Superior Completo
+183;2022;MS;Corumbá;Senador;Rafael Costa;UP;1138;1076595;Não Eleito;Masculino;Preta;Superior Incompleto
+184;2022;ES;Linhares;Deputado Federal;Antônio Mendes;REPUBLICANOS;2474;428466;Não Eleito;Masculino;Branca;Superior Completo
+185;2022;ES;Cariacica;Governador;Diego Martins;PMN;4425;109856;Não Eleito;Masculino;Parda;Superior Incompleto
+186;2022;GO;Luziânia;Deputado Estadual;André Lima;DC;3875;34767;Não Eleito;Masculino;Parda;Fundamental Completo
+187;2022;RJ;Nova Iguaçu;Senador;Larissa Nascimento;REPUBLICANOS;1378;4500637;Não Eleito;Feminino;Parda;Pós-Graduação
+188;2022;AC;Tarauacá;Deputado Estadual;Ana Oliveira;PSB;8086;443178;2º Turno;Feminino;Branca;Superior Completo
+189;2022;PB;Patos;Deputado Federal;Bruna Almeida;PT;5553;482001;Não Eleito;Feminino;Parda;Fundamental Incompleto
+190;2022;DF;Taguatinga;Deputado Federal;Carlos Silva;PRTB;4696;362022;Não Eleito;Masculino;Branca;Médio Completo
+191;2022;CE;Juazeiro do Norte;Deputado Federal;Lucas Souza;PL;8863;226965;Não Eleito;Masculino;Parda;Superior Completo
+192;2022;MG;Betim;Deputado Federal;Roberto Carvalho;PT;6465;272959;Não Eleito;Masculino;Preta;Superior Completo
+193;2022;RN;São Gonçalo do Amarante;Deputado Estadual;Felipe Gomes;PP;2401;32317;Suplente;Masculino;Branca;Pós-Graduação
+194;2022;RS;Caxias do Sul;Deputado Estadual;Bruno Ferreira;PT;5939;320702;Não Eleito;Masculino;Branca;Superior Completo
+195;2022;PR;Curitiba;Deputado Federal;Lucas Souza;PROS;7735;122717;Suplente;Masculino;Parda;Superior Completo
+196;2022;PB;Patos;Deputado Estadual;Leandro Dias;PROS;2659;178556;Não Eleito;Masculino;Parda;Fundamental Incompleto
+197;2022;PI;Picos;Deputado Estadual;Carlos Silva;PROS;2106;311343;Não Eleito;Masculino;Branca;Superior Completo
+198;2022;RO;Cacoal;Deputado Federal;Leandro Dias;NOVO;4046;127981;Eleito;Masculino;Branca;Fundamental Completo
+199;2022;RJ;Campos dos Goytacazes;Deputado Estadual;Roberta Araújo;PODEMOS;9866;407083;Eleito;Feminino;Parda;Superior Completo
+200;2022;MA;São José de Ribamar;Governador;Marcos Pereira;PT;4889;4303929;Não Eleito;Masculino;Parda;Fundamental Completo
+201;2022;MS;Dourados;Governador;André Lima;UNIÃO;6595;1638429;Não Eleito;Masculino;Parda;Pós-Graduação
+202;2022;RN;Ceará-Mirim;Deputado Federal;Roberto Carvalho;PROS;5909;220016;Não Eleito;Masculino;Branca;Superior Completo
+203;2022;AL;Palmeira dos Índios;Deputado Federal;Paulo Rodrigues;PMN;4772;245099;Não Eleito;Masculino;Branca;Superior Completo
+204;2022;TO;Gurupi;Senador;José Araújo;PSD;1110;3073530;Eleito;Masculino;Branca;Superior Completo
+205;2022;BA;Itabuna;Deputado Estadual;Antônio Mendes;PT;1486;104897;Não Eleito;Masculino;Branca;Pós-Graduação
+206;2022;SC;Blumenau;Deputado Federal;Rafael Costa;REPUBLICANOS;1352;92815;Não Eleito;Masculino;Preta;Fundamental Incompleto
+207;2022;RR;Rorainópolis;Deputado Federal;Fernanda Lima;PSB;4444;160445;Não Eleito;Feminino;Branca;Médio Completo
+208;2022;CE;Sobral;Governador;Vanessa Ferreira;PMN;2071;1043994;Eleito;Feminino;Preta;Superior Completo
+209;2022;DF;Plano Piloto;Deputado Federal;Leandro Dias;SOLIDARIEDADE;5006;483376;Eleito;Masculino;Parda;Médio Completo
+210;2022;PR;Cascavel;Deputado Estadual;João Santos;PTB;5588;458125;Eleito;Masculino;Parda;Superior Completo
+211;2022;PE;Jaboatão dos Guararapes;Deputado Estadual;Adriana Carvalho;UNIÃO;3743;267160;Não Eleito;Feminino;Parda;Superior Completo
+212;2022;MS;Corumbá;Deputado Estadual;Antônio Mendes;CIDADANIA;8918;375706;2º Turno;Masculino;Parda;Superior Completo
+213;2022;RO;Cacoal;Deputado Estadual;André Lima;NOVO;4840;208065;Não Eleito;Masculino;Branca;Médio Completo
+214;2022;CE;Itapipoca;Deputado Federal;Marcos Pereira;UP;2376;155190;Não Eleito;Masculino;Branca;Superior Completo
+215;2022;PB;Bayeux;Deputado Estadual;Bruno Ferreira;SOLIDARIEDADE;7700;193182;Não Eleito;Masculino;Branca;Superior Incompleto
+216;2022;CE;Maracanaú;Deputado Federal;Antônio Mendes;UNIÃO;5825;442266;Não Eleito;Masculino;Parda;Fundamental Completo
+217;2022;GO;Aparecida de Goiânia;Deputado Federal;João Santos;PV;4281;175485;Não Eleito;Masculino;Branca;Médio Completo
+218;2022;TO;Gurupi;Deputado Federal;Marcos Pereira;UP;9898;478851;Não Eleito;Masculino;Parda;Médio Completo
+219;2022;MS;Corumbá;Governador;Maria Santos;PCdoB;9399;6435077;2º Turno;Feminino;Parda;Médio Completo
+220;2022;SC;Chapecó;Deputado Estadual;Gustavo Rocha;UP;8679;379303;Não Eleito;Masculino;Branca;Fundamental Completo
+221;2022;DF;Samambaia;Deputado Estadual;Amanda Rodrigues;NOVO;8372;447688;Não Eleito;Feminino;Branca;Superior Completo
+222;2022;BA;Itabuna;Governador;Antônio Mendes;PSB;4694;3566062;Não Eleito;Masculino;Parda;Superior Completo
+223;2022;RS;Santa Maria;Deputado Federal;João Santos;MDB;3518;499956;2º Turno;Masculino;Parda;Superior Completo
+224;2022;RN;Macaíba;Senador;Amanda Rodrigues;AVANTE;2043;4513631;Não Eleito;Feminino;Parda;Médio Completo
+225;2022;PB;Cabedelo;Senador;Lucas Souza;DC;3910;298931;Não Eleito;Masculino;Parda;Fundamental Incompleto
+226;2022;DF;Brasília;Governador;André Lima;PDT;5769;5582873;Não Eleito;Masculino;Parda;Médio Completo
+227;2022;AC;Cruzeiro do Sul;Deputado Federal;Tatiana Ribeiro;PSD;2814;68205;Não Eleito;Feminino;Parda;Fundamental Completo
+228;2022;DF;Ceilândia;Senador;Diego Martins;PSD;6084;4958239;Não Eleito;Masculino;Parda;Superior Incompleto
+229;2022;DF;Brasília;Governador;José Araújo;PROS;5044;4461204;Não Eleito;Masculino;Parda;Superior Completo
+230;2022;PB;Bayeux;Deputado Federal;Bruno Ferreira;PSOL;5873;205543;Não Eleito;Masculino;Parda;Médio Incompleto
+231;2022;ES;Vila Velha;Senador;Cristina Martins;AVANTE;4005;4799890;Eleito;Feminino;Parda;Fundamental Incompleto
+232;2022;CE;Juazeiro do Norte;Senador;Pedro Oliveira;PMN;4559;4169673;Não Eleito;Masculino;Parda;Fundamental Completo
+233;2022;MS;Campo Grande;Deputado Estadual;Roberto Carvalho;SOLIDARIEDADE;8388;86923;Não Eleito;Masculino;Parda;Superior Incompleto
+234;2022;AM;Tefé;Deputado Estadual;Tatiana Ribeiro;PSB;7542;449171;Não Eleito;Feminino;Branca;Médio Completo
+235;2022;RS;Pelotas;Deputado Federal;Mariana Barbosa;NOVO;2117;43779;Não Eleito;Feminino;Branca;Pós-Graduação
+236;2022;BA;Ilhéus;Senador;Camila Pereira;PL;2646;1516768;Não Eleito;Feminino;Parda;Superior Incompleto
+237;2022;AM;Tefé;Deputado Estadual;Patrícia Souza;NOVO;6866;93791;Não Eleito;Feminino;Branca;Superior Completo
+238;2022;DF;Samambaia;Deputado Estadual;Luciana Rocha;PTB;2684;205296;Não Eleito;Feminino;Parda;Superior Completo
+239;2022;AL;Palmeira dos Índios;Deputado Estadual;Roberta Araújo;PDT;4276;48412;Eleito;Feminino;Branca;Fundamental Incompleto
+240;2022;TO;Araguaína;Deputado Estadual;Lucas Souza;DC;3750;380090;Não Eleito;Masculino;Branca;Fundamental Completo
+241;2022;MG;Montes Claros;Deputado Estadual;André Lima;PV;7472;492766;Não Eleito;Masculino;Branca;Fundamental Completo
+242;2022;MG;Contagem;Deputado Federal;Maria Santos;AVANTE;4485;241030;Não Eleito;Feminino;Parda;Médio Completo
+243;2022;RN;Parnamirim;Deputado Federal;Vanessa Ferreira;PODEMOS;9185;53879;Não Eleito;Feminino;Parda;Pós-Graduação
+244;2022;RJ;Duque de Caxias;Deputado Federal;Roberto Carvalho;PTB;7366;355915;Suplente;Masculino;Parda;Médio Incompleto
+245;2022;CE;Crato;Deputado Estadual;Mariana Barbosa;UNIÃO;6490;9753;Não Eleito;Feminino;Parda;Superior Incompleto
+246;2022;RO;Ji-Paraná;Deputado Estadual;Maria Santos;PDT;1347;323644;Não Eleito;Feminino;Branca;Médio Completo
+247;2022;PA;Abaetetuba;Deputado Federal;Marcos Pereira;PSOL;9171;156011;Não Eleito;Masculino;Branca;Superior Completo
+248;2022;ES;Linhares;Deputado Estadual;Daniela Mendes;MDB;5556;166981;Não Eleito;Feminino;Parda;Superior Completo
+249;2022;PA;Parauapebas;Senador;Bruna Almeida;PRTB;6427;2905014;Não Eleito;Feminino;Parda;Pós-Graduação
+250;2022;RR;Rorainópolis;Senador;Bruna Almeida;PROS;7250;4404423;Não Eleito;Feminino;Parda;Fundamental Incompleto
+251;2022;PE;Recife;Governador;Marcos Pereira;REPUBLICANOS;3057;819733;Não Eleito;Masculino;Parda;Superior Completo
+252;2022;DF;Ceilândia;Deputado Estadual;Bruno Ferreira;PODEMOS;3689;378864;Não Eleito;Masculino;Branca;Superior Completo
+253;2022;MA;São José de Ribamar;Deputado Estadual;Amanda Rodrigues;PSDB;8883;42451;2º Turno;Feminino;Branca;Médio Completo
+254;2022;PE;Caruaru;Deputado Estadual;Francisco Ribeiro;UP;3553;430208;2º Turno;Masculino;Parda;Superior Completo
+255;2022;PA;Abaetetuba;Deputado Federal;Carla Silva;PROS;9801;80610;Não Eleito;Feminino;Branca;Superior Incompleto
+256;2022;MA;Timon;Deputado Federal;Diego Martins;UNIÃO;6459;72147;Não Eleito;Masculino;Branca;Pós-Graduação
+257;2022;AC;Rio Branco;Senador;Roberta Araújo;PCdoB;7628;3518152;Suplente;Feminino;Amarela;Médio Completo
+258;2022;PE;Olinda;Deputado Estadual;Francisco Ribeiro;PT;3039;202259;Suplente;Masculino;Branca;Superior Completo
+259;2022;GO;Águas Lindas de Goiás;Deputado Federal;Roberta Araújo;PMN;1945;341762;Não Eleito;Feminino;Branca;Médio Completo
+260;2022;PE;Recife;Governador;Carlos Silva;PMN;3422;2242200;Não Eleito;Masculino;Preta;Médio Incompleto
+261;2022;ES;Cachoeiro de Itapemirim;Deputado Estadual;Camila Pereira;PL;2912;404711;Eleito;Feminino;Parda;Superior Incompleto
+262;2022;RS;Caxias do Sul;Deputado Estadual;Francisco Ribeiro;PSD;7993;133077;Não Eleito;Masculino;Parda;Superior Completo
+263;2022;MT;Tangará da Serra;Deputado Federal;Pedro Oliveira;PP;6642;427389;Eleito;Masculino;Parda;Pós-Graduação
+264;2022;MT;Sorriso;Deputado Federal;Mariana Barbosa;PL;2587;37117;Não Eleito;Feminino;Branca;Superior Incompleto
+265;2022;MA;Codó;Deputado Estadual;Rafael Costa;PMN;3200;104319;Não Eleito;Masculino;Parda;Fundamental Completo
+266;2022;RJ;Nova Iguaçu;Deputado Federal;Rafael Costa;UP;4143;136475;2º Turno;Masculino;Parda;Superior Incompleto
+267;2022;RN;Natal;Senador;Fernando Nascimento;UNIÃO;7188;1075904;Não Eleito;Masculino;Branca;Superior Completo
+268;2022;PE;Caruaru;Deputado Estadual;João Santos;PSDB;1118;349320;Não Eleito;Masculino;Indígena;Fundamental Completo
+269;2022;PI;Teresina;Deputado Federal;Ricardo Almeida;PCdoB;8753;397339;Não Eleito;Masculino;Branca;Médio Completo
+270;2022;MG;Montes Claros;Senador;Tatiana Ribeiro;AVANTE;1937;3016589;Suplente;Feminino;Parda;Fundamental Incompleto
+271;2022;RS;Viamão;Deputado Estadual;Patrícia Souza;PL;3013;456109;Não Eleito;Feminino;Amarela;Superior Completo
+272;2022;ES;Serra;Deputado Estadual;Mariana Barbosa;CIDADANIA;7768;346649;Não Eleito;Feminino;Indígena;Pós-Graduação
+273;2022;TO;Gurupi;Deputado Federal;João Santos;PRTB;6333;355930;Não Eleito;Masculino;Parda;Superior Incompleto
+274;2022;RN;Natal;Deputado Federal;Mariana Barbosa;DC;2645;385473;Não Eleito;Feminino;Parda;Superior Completo
+275;2022;PI;Floriano;Deputado Estadual;Ana Oliveira;MDB;9158;418263;Eleito;Feminino;Parda;Pós-Graduação
+276;2022;PB;Campina Grande;Senador;Mariana Barbosa;DC;9858;2050829;Não Eleito;Feminino;Branca;Pós-Graduação
+277;2022;RS;Caxias do Sul;Deputado Federal;Maria Santos;PSD;6349;473747;Não Eleito;Feminino;Branca;Superior Completo
+278;2022;RR;Pacaraima;Governador;Patrícia Souza;PV;9060;808680;Não Eleito;Feminino;Branca;Médio Completo
+279;2022;RJ;São Gonçalo;Deputado Estadual;José Araújo;PTB;8159;424359;Não Eleito;Masculino;Branca;Médio Completo
+280;2022;AP;Macapá;Deputado Federal;André Lima;PRTB;2902;300832;Não Eleito;Masculino;Parda;Pós-Graduação
+281;2022;RJ;Rio de Janeiro;Deputado Federal;André Lima;AVANTE;7941;168084;Não Eleito;Masculino;Parda;Pós-Graduação
+282;2022;BA;Camaçari;Deputado Federal;Bruno Ferreira;PSB;3370;428396;Suplente;Masculino;Parda;Superior Completo
+283;2022;PB;Campina Grande;Deputado Estadual;João Santos;PROS;6245;162448;Não Eleito;Masculino;Parda;Médio Completo
+284;2022;RS;Novo Hamburgo;Deputado Estadual;Fernando Nascimento;PMN;7171;31334;2º Turno;Masculino;Branca;Superior Completo
+285;2022;DF;Ceilândia;Deputado Estadual;Rafael Costa;PCdoB;7419;157315;2º Turno;Masculino;Parda;Superior Completo
+286;2022;AC;Tarauacá;Deputado Federal;Roberta Araújo;UP;7412;205529;Eleito;Feminino;Parda;Médio Completo
+287;2022;DF;Plano Piloto;Deputado Federal;Felipe Gomes;PT;5981;240378;Não Eleito;Masculino;Parda;Superior Incompleto
+288;2022;PE;Olinda;Senador;André Lima;PRTB;1149;3068570;Não Eleito;Masculino;Parda;Superior Completo
+289;2022;BA;Lauro de Freitas;Governador;Rafael Costa;PT;2573;3032853;2º Turno;Masculino;Branca;Fundamental Completo
+290;2022;PI;Picos;Deputado Estadual;Tatiana Ribeiro;PDT;1556;62786;Não Eleito;Feminino;Parda;Superior Completo
+291;2022;CE;Crato;Deputado Estadual;Juliana Costa;UP;8596;453954;Não Eleito;Feminino;Branca;Superior Completo
+292;2022;PB;Santa Rita;Deputado Federal;Lucas Souza;PCdoB;9351;118430;Eleito;Masculino;Parda;Superior Completo
+293;2022;GO;Águas Lindas de Goiás;Deputado Estadual;Camila Pereira;AVANTE;8932;338454;Não Eleito;Feminino;Branca;Fundamental Completo
+294;2022;MG;Uberlândia;Deputado Estadual;Sandra Gomes;PSD;7640;426676;Não Eleito;Feminino;Branca;Superior Completo
+295;2022;SP;Santos;Deputado Estadual;Felipe Gomes;PV;3033;395555;Não Eleito;Masculino;Amarela;Pós-Graduação
+296;2022;CE;Itapipoca;Deputado Estadual;Gustavo Rocha;NOVO;6149;65011;Eleito;Masculino;Parda;Superior Completo
+297;2022;AM;Coari;Deputado Federal;Juliana Costa;PP;9292;157040;Não Eleito;Feminino;Parda;Superior Incompleto
+298;2022;RR;Boa Vista;Deputado Federal;Thiago Barbosa;PODEMOS;9750;233766;Eleito;Masculino;Parda;Médio Completo
+299;2022;MS;Ponta Porã;Deputado Estadual;Lucas Souza;DC;1732;124808;Eleito;Masculino;Branca;Superior Completo
+300;2022;DF;Ceilândia;Deputado Estadual;Antônio Mendes;PSDB;3105;382760;Não Eleito;Masculino;Branca;Médio Completo
+301;2022;MT;Sorriso;Governador;Pedro Oliveira;PSDB;7968;7936963;Não Eleito;Masculino;Parda;Fundamental Completo
+302;2022;SC;São José;Governador;Amanda Rodrigues;PMN;7097;4778173;Não Eleito;Feminino;Parda;Superior Completo
+303;2022;PA;Abaetetuba;Deputado Federal;Vanessa Ferreira;AVANTE;1424;316964;Não Eleito;Feminino;Branca;Superior Completo
+304;2022;RR;Pacaraima;Deputado Federal;Antônio Mendes;PSB;5476;77218;Suplente;Masculino;Branca;Fundamental Incompleto
+305;2022;MT;Várzea Grande;Deputado Federal;Lucas Souza;PSD;9625;382353;Suplente;Masculino;Parda;Superior Completo
+306;2022;AP;Laranjal do Jari;Deputado Estadual;Sandra Gomes;PSDB;2623;470561;Eleito;Feminino;Branca;Superior Completo
+307;2022;CE;Juazeiro do Norte;Senador;Sandra Gomes;PV;7597;4030207;Não Eleito;Feminino;Branca;Superior Completo
+308;2022;RS;Pelotas;Deputado Estadual;Felipe Gomes;PRTB;5380;28216;Suplente;Masculino;Parda;Médio Completo
+309;2022;SE;Nossa Senhora do Socorro;Deputado Estadual;Bruno Ferreira;PSD;8191;186098;Não Eleito;Masculino;Parda;Médio Completo
+310;2022;PA;Castanhal;Governador;Bruna Almeida;PODEMOS;2424;7997825;Não Eleito;Feminino;Parda;Superior Completo
+311;2022;RO;Porto Velho;Deputado Federal;Pedro Oliveira;PSD;1940;44846;Não Eleito;Masculino;Parda;Superior Completo
+312;2022;AC;Tarauacá;Deputado Estadual;Patrícia Souza;PCdoB;9156;270514;Não Eleito;Feminino;Parda;Superior Completo
+313;2022;AP;Oiapoque;Deputado Federal;Carlos Silva;PMN;7962;368860;Não Eleito;Masculino;Branca;Pós-Graduação
+314;2022;RR;Boa Vista;Deputado Estadual;Luciana Rocha;PDT;3864;39885;Não Eleito;Feminino;Branca;Médio Completo
+315;2022;AL;Palmeira dos Índios;Deputado Estadual;Lucas Souza;PSB;5092;436564;Não Eleito;Masculino;Parda;Fundamental Completo
+316;2022;MA;Timon;Deputado Federal;Felipe Gomes;AVANTE;4562;484447;Não Eleito;Masculino;Preta;Superior Completo
+317;2022;TO;Palmas;Governador;Mariana Barbosa;PT;6828;99418;Não Eleito;Feminino;Branca;Médio Completo
+318;2022;AC;Sena Madureira;Senador;Antônio Mendes;PL;2660;3643844;Não Eleito;Masculino;Branca;Superior Completo
+319;2022;BA;Lauro de Freitas;Deputado Federal;Marcos Pereira;UP;5098;119039;Não Eleito;Masculino;Branca;Médio Completo
+320;2022;CE;Sobral;Senador;Bruno Ferreira;DC;8198;1387564;Eleito;Masculino;Parda;Fundamental Incompleto
+321;2022;RS;Canoas;Deputado Federal;Marcos Pereira;AVANTE;7898;390530;Não Eleito;Masculino;Branca;Superior Completo
+322;2022;PE;Paulista;Governador;Diego Martins;PV;9119;6759377;Não Eleito;Masculino;Branca;Superior Completo
+323;2022;SE;Itabaiana;Deputado Estadual;Tatiana Ribeiro;MDB;2797;57059;Não Eleito;Feminino;Branca;Médio Completo
+324;2022;AC;Cruzeiro do Sul;Deputado Federal;Vanessa Ferreira;PROS;1131;228213;Não Eleito;Feminino;Branca;Fundamental Completo
+325;2022;PA;Ananindeua;Deputado Estadual;Camila Pereira;PDT;5606;402486;Eleito;Feminino;Branca;Superior Completo
+326;2022;RR;Pacaraima;Deputado Federal;Fernanda Lima;PMN;9230;320892;Não Eleito;Feminino;Indígena;Superior Completo
+327;2022;RO;Ji-Paraná;Deputado Federal;João Santos;PSDB;4148;487615;Eleito;Masculino;Branca;Médio Completo
+328;2022;AL;Palmeira dos Índios;Deputado Estadual;Paulo Rodrigues;PDT;6507;223886;Não Eleito;Masculino;Parda;Superior Completo
+329;2022;MA;São Luís;Deputado Federal;Antônio Mendes;PMN;7849;129982;Não Eleito;Masculino;Branca;Fundamental Incompleto
+330;2022;AL;Rio Largo;Deputado Federal;Leandro Dias;PP;8059;97409;Não Eleito;Masculino;Parda;Médio Completo
+331;2022;AP;Macapá;Deputado Estadual;Patrícia Souza;PSB;6907;389150;Não Eleito;Feminino;Parda;Superior Completo
+332;2022;RN;Parnamirim;Deputado Federal;Felipe Gomes;AVANTE;2429;465645;Eleito;Masculino;Parda;Superior Completo
+333;2022;AL;Penedo;Governador;Amanda Rodrigues;REPUBLICANOS;8303;7813662;Eleito;Feminino;Preta;Superior Completo
+334;2022;MA;Codó;Deputado Estadual;Sandra Gomes;PRTB;3517;23469;Eleito;Feminino;Branca;Superior Completo
+335;2022;SE;São Cristóvão;Governador;Cristina Martins;PTB;2923;7690756;Não Eleito;Feminino;Parda;Superior Completo
+336;2022;PI;Teresina;Deputado Federal;Marcos Pereira;PODEMOS;1744;297338;Eleito;Masculino;Amarela;Médio Completo
+337;2022;TO;Porto Nacional;Deputado Estadual;Thiago Barbosa;UNIÃO;3711;230004;Não Eleito;Masculino;Branca;Superior Completo
+338;2022;MT;Tangará da Serra;Deputado Federal;Rafael Costa;REDE;4568;310937;Não Eleito;Masculino;Parda;Superior Completo
+339;2022;PB;Bayeux;Deputado Estadual;Fernando Nascimento;PDT;5855;371829;Não Eleito;Masculino;Branca;Médio Completo
+340;2022;PR;Ponta Grossa;Deputado Federal;Ricardo Almeida;MDB;5430;458404;Não Eleito;Masculino;Parda;Médio Completo
+341;2022;TO;Araguaína;Deputado Estadual;Antônio Mendes;PTB;7047;170663;Eleito;Masculino;Parda;Superior Completo
+342;2022;SC;Blumenau;Deputado Estadual;Roberto Carvalho;PT;1170;432477;Não Eleito;Masculino;Parda;Médio Completo
+343;2022;GO;Goiânia;Deputado Estadual;Mônica Dias;PP;7258;496296;Não Eleito;Feminino;Parda;Superior Completo
+344;2022;PR;Ponta Grossa;Senador;Ricardo Almeida;REPUBLICANOS;7479;1335615;Não Eleito;Masculino;Parda;Superior Incompleto
+345;2022;BA;Ilhéus;Deputado Federal;Rafael Costa;PSD;4094;299164;Não Eleito;Masculino;Parda;Superior Completo
+346;2022;AC;Sena Madureira;Deputado Federal;José Araújo;DC;4077;36913;Eleito;Masculino;Branca;Superior Incompleto
+347;2022;RO;Vilhena;Deputado Federal;Carlos Silva;PROS;2633;198615;Não Eleito;Masculino;Branca;Fundamental Incompleto
+348;2022;TO;Palmas;Deputado Federal;Larissa Nascimento;MDB;1221;415946;2º Turno;Feminino;Amarela;Fundamental Completo
+349;2022;SC;Criciúma;Senador;Marcos Pereira;PCdoB;8279;1398554;Não Eleito;Masculino;Parda;Médio Completo
+350;2022;PR;Cascavel;Deputado Estadual;João Santos;PP;9923;156076;Eleito;Masculino;Parda;Superior Incompleto
+351;2022;AC;Cruzeiro do Sul;Deputado Federal;Marcos Pereira;PSOL;5699;118928;Suplente;Masculino;Parda;Superior Completo
+352;2022;RS;Caxias do Sul;Deputado Estadual;Bruna Almeida;PP;5617;187832;Eleito;Feminino;Branca;Médio Completo
+353;2022;AM;Manaus;Deputado Estadual;Thiago Barbosa;PSB;3971;356718;Não Eleito;Masculino;Parda;Superior Completo
+354;2022;RN;Parnamirim;Deputado Federal;Diego Martins;DC;7047;489598;Não Eleito;Masculino;Preta;Superior Completo
+355;2022;SP;São Paulo;Senador;Patrícia Souza;PSB;3421;3306586;Não Eleito;Feminino;Parda;Pós-Graduação
+356;2022;TO;Palmas;Deputado Federal;Ricardo Almeida;MDB;2481;169873;2º Turno;Masculino;Branca;Superior Incompleto
+357;2022;MG;Uberaba;Deputado Estadual;Vanessa Ferreira;PROS;6463;72967;Não Eleito;Feminino;Parda;Médio Completo
+358;2022;PA;Castanhal;Deputado Estadual;Gustavo Rocha;PV;4770;202155;Eleito;Masculino;Parda;Superior Completo
+359;2022;SE;Nossa Senhora do Socorro;Deputado Estadual;Carlos Silva;REPUBLICANOS;1281;190501;Não Eleito;Masculino;Amarela;Pós-Graduação
+360;2022;AL;Rio Largo;Deputado Federal;Patrícia Souza;PODEMOS;8543;76070;Não Eleito;Feminino;Parda;Pós-Graduação
+361;2022;PA;Ananindeua;Deputado Federal;Marcos Pereira;PP;3344;198398;Não Eleito;Masculino;Parda;Superior Incompleto
+362;2022;AL;Maceió;Deputado Estadual;Leandro Dias;PSD;1494;77510;Não Eleito;Masculino;Branca;Fundamental Completo
+363;2022;RJ;Campos dos Goytacazes;Deputado Federal;Marcos Pereira;PRTB;9641;366748;Suplente;Masculino;Parda;Superior Completo
+364;2022;PB;Cabedelo;Deputado Estadual;Marcos Pereira;PT;1526;317260;Não Eleito;Masculino;Parda;Fundamental Incompleto
+365;2022;TO;Porto Nacional;Deputado Estadual;Sandra Gomes;PMN;5227;482399;Não Eleito;Feminino;Branca;Médio Completo
+366;2022;CE;Juazeiro do Norte;Governador;Marcos Pereira;PRTB;4471;3408818;Não Eleito;Masculino;Branca;Médio Completo
+367;2022;SC;Joinville;Senador;Roberto Carvalho;PTB;7637;3221614;Não Eleito;Masculino;Parda;Superior Completo
+368;2022;DF;Taguatinga;Deputado Federal;Leandro Dias;UP;6496;15205;Não Eleito;Masculino;Branca;Fundamental Completo
+369;2022;DF;Plano Piloto;Deputado Federal;Amanda Rodrigues;PV;4305;335199;Suplente;Feminino;Branca;Fundamental Completo
+370;2022;RJ;Rio de Janeiro;Deputado Estadual;Ana Oliveira;PT;6154;49369;Suplente;Feminino;Branca;Médio Completo
+371;2022;MA;Timon;Deputado Estadual;José Araújo;PRTB;6830;68404;Não Eleito;Masculino;Branca;Superior Incompleto
+372;2022;SC;Joinville;Deputado Estadual;Maria Santos;REDE;7260;250560;Não Eleito;Feminino;Parda;Médio Completo
+373;2022;BA;Ilhéus;Deputado Federal;Paulo Rodrigues;REPUBLICANOS;3307;403586;Não Eleito;Masculino;Indígena;Superior Completo
+374;2022;SC;Criciúma;Deputado Estadual;Fernando Nascimento;PSOL;8059;21478;Suplente;Masculino;Parda;Superior Incompleto
+375;2022;DF;Plano Piloto;Deputado Estadual;Mônica Dias;PTB;9151;51568;Não Eleito;Feminino;Branca;Superior Completo
+376;2022;PR;Londrina;Deputado Estadual;Rafael Costa;PODEMOS;3645;36236;Não Eleito;Masculino;Branca;Fundamental Completo
+377;2022;CE;Crato;Deputado Estadual;Diego Martins;PSDB;8242;341440;Suplente;Masculino;Preta;Pós-Graduação
+378;2022;PE;Recife;Deputado Federal;Francisco Ribeiro;PROS;3113;231620;Não Eleito;Masculino;Parda;Pós-Graduação
+379;2022;MS;Campo Grande;Deputado Estadual;Ricardo Almeida;DC;1699;325880;2º Turno;Masculino;Branca;Superior Completo
+380;2022;RS;Porto Alegre;Deputado Federal;José Araújo;PSD;7541;448152;Eleito;Masculino;Branca;Superior Incompleto
+381;2022;AM;Itacoatiara;Deputado Estadual;Bruno Ferreira;PP;2406;95015;Não Eleito;Masculino;Preta;Pós-Graduação
+382;2022;SE;Itabaiana;Deputado Federal;Roberto Carvalho;PSB;8967;111982;Não Eleito;Masculino;Parda;Médio Completo
+383;2022;AL;Penedo;Deputado Federal;André Lima;PSB;1513;315637;Não Eleito;Masculino;Branca;Superior Completo
+384;2022;SP;Sorocaba;Governador;André Lima;PL;7929;2313650;Não Eleito;Masculino;Branca;Médio Incompleto
+385;2022;GO;Rio Verde;Deputado Federal;Cristina Martins;SOLIDARIEDADE;9597;112752;Não Eleito;Feminino;Branca;Superior Completo
+386;2022;AM;Manacapuru;Deputado Federal;Camila Pereira;REPUBLICANOS;6722;494348;Não Eleito;Feminino;Parda;Superior Completo
+387;2022;CE;Crato;Deputado Estadual;Mônica Dias;AVANTE;1162;294577;Não Eleito;Feminino;Parda;Fundamental Completo
+388;2022;RR;Rorainópolis;Deputado Federal;Daniela Mendes;PL;3465;470524;Não Eleito;Feminino;Branca;Superior Completo
+389;2022;AP;Oiapoque;Deputado Federal;Cristina Martins;MDB;8361;335476;2º Turno;Feminino;Branca;Médio Completo
+390;2022;DF;Samambaia;Deputado Estadual;Adriana Carvalho;AVANTE;4541;182997;Não Eleito;Feminino;Branca;Superior Completo
+391;2022;AC;Sena Madureira;Senador;Fernando Nascimento;CIDADANIA;3043;4217011;Não Eleito;Masculino;Parda;Superior Incompleto
+392;2022;MS;Ponta Porã;Deputado Estadual;Daniela Mendes;PP;3880;241055;Não Eleito;Feminino;Branca;Superior Completo
+393;2022;PR;Colombo;Deputado Federal;Vanessa Ferreira;PTB;5640;368598;Não Eleito;Feminino;Preta;Superior Completo
+394;2022;AM;Manaus;Deputado Federal;Francisco Ribeiro;PP;9133;393686;Não Eleito;Masculino;Preta;Fundamental Completo
+395;2022;PB;Bayeux;Deputado Estadual;Fernando Nascimento;SOLIDARIEDADE;4471;117352;Não Eleito;Masculino;Parda;Fundamental Completo
+396;2022;PE;Recife;Deputado Federal;Cristina Martins;SOLIDARIEDADE;7484;4487;Suplente;Feminino;Parda;Superior Completo
+397;2022;GO;Águas Lindas de Goiás;Deputado Federal;Vanessa Ferreira;DC;4957;2679;Suplente;Feminino;Branca;Fundamental Incompleto
+398;2022;BA;Juazeiro;Senador;Leandro Dias;PSB;6490;1459508;2º Turno;Masculino;Indígena;Médio Completo
+399;2022;MT;Várzea Grande;Deputado Estadual;João Santos;REDE;8030;68065;Suplente;Masculino;Branca;Superior Completo
+400;2022;MT;Rondonópolis;Deputado Estadual;Lucas Souza;PMN;3069;264875;Eleito;Masculino;Parda;Superior Incompleto
+401;2022;SE;Lagarto;Senador;Roberto Carvalho;REPUBLICANOS;2527;812366;Eleito;Masculino;Branca;Superior Completo
+402;2022;BA;Salvador;Deputado Estadual;Pedro Oliveira;REDE;7265;13759;Não Eleito;Masculino;Branca;Superior Incompleto
+403;2022;RO;Ariquemes;Deputado Federal;Bruna Almeida;PODEMOS;4175;281212;Não Eleito;Feminino;Parda;Superior Completo
+404;2022;MT;Rondonópolis;Deputado Estadual;Marcos Pereira;PTB;1379;335198;2º Turno;Masculino;Parda;Fundamental Completo
+405;2022;RN;Natal;Deputado Federal;Rafael Costa;UNIÃO;2267;259626;Não Eleito;Masculino;Preta;Médio Completo
+406;2022;AP;Oiapoque;Deputado Estadual;Diego Martins;PTB;2250;110755;Não Eleito;Masculino;Branca;Médio Completo
+407;2022;PB;Campina Grande;Deputado Federal;Rafael Costa;DC;1515;61950;2º Turno;Masculino;Indígena;Superior Completo
+408;2022;RN;Macaíba;Deputado Estadual;Ricardo Almeida;PP;4159;318276;Eleito;Masculino;Branca;Superior Completo
+409;2022;BA;Camaçari;Senador;André Lima;PL;6366;1192367;Não Eleito;Masculino;Parda;Pós-Graduação
+410;2022;GO;Anápolis;Deputado Estadual;Roberta Araújo;PMN;5822;245365;Não Eleito;Feminino;Parda;Superior Completo
+411;2022;MT;Várzea Grande;Deputado Federal;Ricardo Almeida;AVANTE;2685;306499;Não Eleito;Masculino;Parda;Médio Incompleto
+412;2022;DF;Samambaia;Deputado Estadual;Leandro Dias;PRTB;5451;428262;Não Eleito;Masculino;Branca;Superior Incompleto
+413;2022;DF;Plano Piloto;Deputado Federal;Juliana Costa;NOVO;3740;466827;Eleito;Feminino;Parda;Superior Completo
+414;2022;MA;Caxias;Senador;Thiago Barbosa;PSOL;7525;281154;Eleito;Masculino;Parda;Superior Incompleto
+415;2022;CE;Juazeiro do Norte;Deputado Federal;Antônio Mendes;PSOL;3376;409190;Não Eleito;Masculino;Branca;Superior Completo
+416;2022;RS;Gravataí;Deputado Federal;Roberto Carvalho;PDT;2085;202660;Não Eleito;Masculino;Branca;Médio Completo
+417;2022;PR;Cascavel;Deputado Estadual;Juliana Costa;REDE;7909;358133;Não Eleito;Feminino;Branca;Médio Completo
+418;2022;DF;Brasília;Senador;Ricardo Almeida;SOLIDARIEDADE;2953;1070964;Não Eleito;Masculino;Parda;Superior Completo
+419;2022;ES;Cachoeiro de Itapemirim;Deputado Federal;Felipe Gomes;PL;8565;149589;Eleito;Masculino;Amarela;Fundamental Incompleto
+420;2022;PR;Curitiba;Deputado Federal;Diego Martins;PP;7800;379693;Não Eleito;Masculino;Branca;Médio Completo
+421;2022;AM;Coari;Deputado Estadual;João Santos;AVANTE;5889;365644;2º Turno;Masculino;Parda;Superior Completo
+422;2022;AP;Laranjal do Jari;Governador;Paulo Rodrigues;PT;1170;1213788;Eleito;Masculino;Branca;Superior Completo
+423;2022;PA;Ananindeua;Deputado Federal;Antônio Mendes;PV;1080;490242;Não Eleito;Masculino;Branca;Pós-Graduação
+424;2022;AL;Maceió;Deputado Federal;Ricardo Almeida;PSB;7218;142011;Não Eleito;Masculino;Preta;Superior Completo
+425;2022;AP;Santana;Deputado Federal;Felipe Gomes;SOLIDARIEDADE;8320;350847;Eleito;Masculino;Parda;Superior Completo
+426;2022;RR;Pacaraima;Governador;Diego Martins;PDT;2504;2263015;Não Eleito;Masculino;Parda;Médio Completo
+427;2022;TO;Araguaína;Deputado Estadual;Amanda Rodrigues;PMN;2278;39897;2º Turno;Feminino;Branca;Fundamental Incompleto
+428;2022;DF;Samambaia;Senador;Lucas Souza;PSB;4418;4983666;Não Eleito;Masculino;Parda;Médio Completo
+429;2022;MA;Codó;Deputado Estadual;Thiago Barbosa;PP;3130;115206;Suplente;Masculino;Branca;Superior Incompleto
+430;2022;RN;Macaíba;Deputado Federal;Pedro Oliveira;PSDB;7931;86586;Não Eleito;Masculino;Amarela;Superior Completo
+431;2022;AP;Santana;Deputado Estadual;Lucas Souza;PDT;1271;469264;Não Eleito;Masculino;Branca;Superior Incompleto
+432;2022;PI;Piripiri;Deputado Federal;Gustavo Rocha;UNIÃO;6806;226716;Não Eleito;Masculino;Branca;Superior Incompleto
+433;2022;MG;Belo Horizonte;Deputado Estadual;João Santos;PTB;7267;384279;Suplente;Masculino;Branca;Médio Completo
+434;2022;CE;Sobral;Deputado Federal;Thiago Barbosa;SOLIDARIEDADE;2788;357624;Eleito;Masculino;Branca;Fundamental Completo
+435;2022;AP;Macapá;Senador;Paulo Rodrigues;UNIÃO;9718;877517;Não Eleito;Masculino;Parda;Superior Completo
+436;2022;MT;Sinop;Deputado Federal;Ricardo Almeida;PCdoB;4370;90168;Não Eleito;Masculino;Branca;Médio Completo
+437;2022;RN;Parnamirim;Deputado Estadual;Thiago Barbosa;PMN;8811;387996;Não Eleito;Masculino;Preta;Médio Completo
+438;2022;MG;Uberlândia;Deputado Federal;Bruno Ferreira;MDB;1208;349692;Não Eleito;Masculino;Branca;Médio Incompleto
+439;2022;GO;Goiânia;Deputado Federal;Maria Santos;PROS;6769;248923;Não Eleito;Feminino;Parda;Médio Completo
+440;2022;AP;Macapá;Senador;Fernando Nascimento;PDT;9606;4250698;Não Eleito;Masculino;Branca;Fundamental Completo
+441;2022;MA;Paço do Lumiar;Deputado Estadual;Antônio Mendes;PV;5216;348317;Não Eleito;Masculino;Branca;Fundamental Incompleto
+442;2022;MS;Três Lagoas;Deputado Estadual;Adriana Carvalho;PCdoB;2847;142024;Não Eleito;Feminino;Parda;Fundamental Incompleto
+443;2022;PA;Abaetetuba;Deputado Federal;Roberta Araújo;PCdoB;1506;128619;Não Eleito;Feminino;Parda;Superior Incompleto
+444;2022;DF;Brasília;Deputado Federal;Fernanda Lima;PSDB;9927;471950;Suplente;Feminino;Indígena;Superior Completo
+445;2022;CE;Juazeiro do Norte;Governador;Roberto Carvalho;AVANTE;7836;7979470;2º Turno;Masculino;Branca;Fundamental Incompleto
+446;2022;PI;Picos;Senador;Bruno Ferreira;REDE;6685;2449346;Eleito;Masculino;Branca;Pós-Graduação
+447;2022;BA;Ilhéus;Deputado Estadual;Fernando Nascimento;PROS;3664;159697;Não Eleito;Masculino;Branca;Médio Completo
+448;2022;PB;João Pessoa;Deputado Federal;Fernanda Lima;PT;9001;160838;Eleito;Feminino;Branca;Superior Completo
+449;2022;AL;Rio Largo;Deputado Federal;Luciana Rocha;DC;3540;45590;Não Eleito;Feminino;Branca;Superior Completo
+450;2022;PA;Castanhal;Governador;João Santos;PCdoB;6810;2136485;Não Eleito;Masculino;Parda;Superior Incompleto
+451;2022;AP;Laranjal do Jari;Governador;Rafael Costa;REDE;8140;5745220;Suplente;Masculino;Parda;Médio Incompleto
+452;2022;SE;Nossa Senhora do Socorro;Deputado Federal;André Lima;PODEMOS;5997;45377;Não Eleito;Masculino;Preta;Superior Incompleto
+453;2022;CE;Maracanaú;Deputado Estadual;Fernanda Lima;MDB;9627;232183;Não Eleito;Feminino;Parda;Superior Completo
+454;2022;MS;Corumbá;Deputado Federal;Francisco Ribeiro;NOVO;1453;478943;Não Eleito;Masculino;Amarela;Superior Incompleto
+455;2022;SE;Nossa Senhora do Socorro;Deputado Estadual;Paulo Rodrigues;REDE;9391;196117;Eleito;Masculino;Parda;Superior Completo
+456;2022;MA;São Luís;Deputado Estadual;José Araújo;DC;1097;243144;Não Eleito;Masculino;Parda;Superior Incompleto
+457;2022;AL;Maceió;Deputado Federal;Fernanda Lima;PSB;2595;431433;Não Eleito;Feminino;Parda;Médio Completo
+458;2022;AL;Maceió;Deputado Estadual;Ana Oliveira;PMN;4359;271171;Eleito;Feminino;Parda;Superior Completo
+459;2022;ES;Linhares;Deputado Estadual;Fernando Nascimento;PRTB;1105;422875;Não Eleito;Masculino;Parda;Fundamental Completo
+460;2022;AC;Cruzeiro do Sul;Deputado Estadual;Lucas Souza;PDT;4347;54819;Não Eleito;Masculino;Parda;Superior Incompleto
+461;2022;AL;Maceió;Deputado Federal;Rafael Costa;PDT;9957;136957;Não Eleito;Masculino;Parda;Superior Completo
+462;2022;RN;Natal;Deputado Estadual;Rafael Costa;MDB;4943;90035;Não Eleito;Masculino;Parda;Médio Completo
+463;2022;PE;Olinda;Deputado Federal;Felipe Gomes;PCdoB;7018;350566;Não Eleito;Masculino;Branca;Superior Completo
+464;2022;PB;Patos;Senador;Fernando Nascimento;NOVO;2968;4762928;Não Eleito;Masculino;Parda;Fundamental Incompleto
+465;2022;RO;Cacoal;Deputado Estadual;Roberta Araújo;MDB;8666;463144;Não Eleito;Feminino;Branca;Pós-Graduação
+466;2022;MS;Ponta Porã;Senador;Antônio Mendes;PMN;9602;3306794;Não Eleito;Masculino;Branca;Médio Incompleto
+467;2022;RO;Cacoal;Deputado Federal;Patrícia Souza;PSDB;5963;484667;Não Eleito;Feminino;Preta;Superior Completo
+468;2022;MT;Sinop;Deputado Estadual;Thiago Barbosa;UP;9608;136409;Eleito;Masculino;Branca;Pós-Graduação
+469;2022;MS;Ponta Porã;Deputado Estadual;João Santos;PL;3607;121979;Eleito;Masculino;Branca;Pós-Graduação
+470;2022;PE;Olinda;Deputado Estadual;Bruna Almeida;PP;3850;382267;Suplente;Feminino;Parda;Superior Incompleto
+471;2022;AM;Manaus;Deputado Estadual;Pedro Oliveira;NOVO;7132;318498;Não Eleito;Masculino;Branca;Médio Incompleto
+472;2022;AP;Oiapoque;Deputado Federal;Mônica Dias;PV;4272;103112;Não Eleito;Feminino;Parda;Médio Completo
+473;2022;DF;Ceilândia;Deputado Estadual;André Lima;UNIÃO;1397;330337;2º Turno;Masculino;Branca;Fundamental Incompleto
+474;2022;BA;Salvador;Deputado Federal;Gustavo Rocha;UNIÃO;6582;97652;Não Eleito;Masculino;Amarela;Superior Completo
+475;2022;PI;Piripiri;Deputado Federal;Diego Martins;CIDADANIA;6768;187400;Não Eleito;Masculino;Parda;Médio Incompleto
+476;2022;AM;Manacapuru;Deputado Estadual;Pedro Oliveira;REDE;2280;67185;Não Eleito;Masculino;Branca;Fundamental Completo
+477;2022;ES;Vitória;Deputado Estadual;Paulo Rodrigues;PODEMOS;5118;205195;Não Eleito;Masculino;Branca;Superior Completo
+478;2022;MA;São Luís;Deputado Estadual;Thiago Barbosa;PROS;9192;164203;Não Eleito;Masculino;Branca;Superior Completo
+479;2022;AP;Oiapoque;Governador;Maria Santos;PT;6538;3585007;Não Eleito;Feminino;Branca;Superior Completo
+480;2022;BA;Camaçari;Deputado Estadual;Ana Oliveira;PDT;9086;38726;Não Eleito;Feminino;Parda;Superior Completo
+481;2022;TO;Palmas;Deputado Federal;Francisco Ribeiro;PROS;2320;465815;Não Eleito;Masculino;Preta;Médio Completo
+482;2022;AL;Maceió;Deputado Federal;Antônio Mendes;SOLIDARIEDADE;8824;159578;Não Eleito;Masculino;Parda;Médio Completo
+483;2022;AL;Maceió;Deputado Estadual;Sandra Gomes;PROS;7215;358033;Não Eleito;Feminino;Branca;Superior Completo
+484;2022;MT;Sinop;Deputado Estadual;Francisco Ribeiro;PV;3257;61098;Não Eleito;Masculino;Parda;Pós-Graduação
+485;2022;MS;Três Lagoas;Deputado Federal;João Santos;PDT;4801;48729;Não Eleito;Masculino;Branca;Superior Completo
+486;2022;SP;Santos;Deputado Estadual;Maria Santos;PRTB;5094;426547;Eleito;Feminino;Branca;Superior Incompleto
+487;2022;MA;São Luís;Deputado Federal;Paulo Rodrigues;PODEMOS;3125;318283;Não Eleito;Masculino;Parda;Superior Completo
+488;2022;AM;Itacoatiara;Governador;Antônio Mendes;PDT;8266;6032200;Não Eleito;Masculino;Branca;Superior Completo
+489;2022;RO;Ji-Paraná;Deputado Estadual;Gustavo Rocha;CIDADANIA;2710;28810;Não Eleito;Masculino;Branca;Pós-Graduação
+490;2022;PE;Olinda;Deputado Federal;Luciana Rocha;PDT;5996;389473;Não Eleito;Feminino;Branca;Superior Completo
+491;2022;SP;Campinas;Deputado Federal;Bruno Ferreira;PTB;8434;60393;Eleito;Masculino;Parda;Médio Completo
+492;2022;RJ;Campos dos Goytacazes;Deputado Federal;Ana Oliveira;PSDB;7290;260209;Eleito;Feminino;Branca;Superior Incompleto
+493;2022;ES;Vila Velha;Deputado Federal;Sandra Gomes;PT;5999;16913;Não Eleito;Feminino;Branca;Fundamental Incompleto
+494;2022;RN;Parnamirim;Governador;Mônica Dias;REPUBLICANOS;1448;2910048;Não Eleito;Feminino;Parda;Superior Completo
+495;2022;SP;São Paulo;Senador;Fernando Nascimento;PV;8594;3585385;Não Eleito;Masculino;Parda;Superior Completo
+496;2022;CE;Maracanaú;Deputado Estadual;Bruna Almeida;MDB;1248;147667;Não Eleito;Feminino;Amarela;Fundamental Completo
+497;2022;ES;Cachoeiro de Itapemirim;Deputado Federal;João Santos;PROS;5493;190132;Não Eleito;Masculino;Branca;Superior Completo
+498;2022;SE;São Cristóvão;Deputado Federal;Roberto Carvalho;PSDB;3929;233183;Não Eleito;Masculino;Parda;Superior Incompleto
+499;2022;MS;Corumbá;Deputado Estadual;Francisco Ribeiro;PT;2303;145437;Suplente;Masculino;Parda;Pós-Graduação
+500;2022;PB;Campina Grande;Deputado Federal;Larissa Nascimento;PCdoB;3084;119733;Não Eleito;Feminino;Branca;Superior Completo

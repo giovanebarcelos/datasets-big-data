@@ -1,501 +1,501 @@
-﻿ID;Data;Emissora;Programa;Faixa_Horaria;Share_%;Audiencia_Pontos;Faixa_Etaria_Predominante;Genero_Predominante;Praca;Dia_Semana
-1;01/01/2023;Globo;Altas Horas;14h-17h;11,0;28,0;55-64;Feminino;Grande BH;Terça
-2;06/08/2023;SBT;Faustão na Band;09h-12h;27,6;18,6;55-64;Masculino;Nacional;Sábado
-3;09/05/2024;SBT;Mais Você;09h-12h;15,4;9,8;35-44;Masculino;Grande POA;Segunda
-4;29/03/2024;SBT;Altas Horas;09h-12h;9,9;33,6;18-24;Masculino;Grande SP;Sábado
-5;07/02/2024;GloboNews;Encontro;14h-17h;10,4;5,8;45-54;Equilibrado;Grande Salvador;Domingo
-6;04/06/2023;Record;Faustão na Band;00h-06h;21,6;8,0;18-24;Feminino;Grande Salvador;Sexta
-7;17/12/2024;Globo;Roda Viva;22h-00h;41,9;25,7;18-24;Feminino;Grande SP;Terça
-8;25/07/2024;SBT;Fantástico;14h-17h;17,7;1,7;55-64;Feminino;Grande RJ;Sexta
-9;30/05/2024;GloboNews;Encontro;12h-14h;28,7;3,4;18-24;Equilibrado;Grande POA;Domingo
-10;26/12/2024;SBT;Fantástico;12h-14h;40,5;9,8;65+;Equilibrado;Nacional;Quinta
-11;29/04/2024;GloboNews;Saia Justa;12h-14h;19,8;15,0;35-44;Equilibrado;Grande SP;Domingo
-12;16/03/2024;GloboNews;Balanço Geral;06h-09h;38,1;9,0;45-54;Masculino;Nacional;Sexta
-13;09/11/2024;SBT;Roda Viva;17h-20h;42,6;25,6;35-44;Equilibrado;Grande POA;Quarta
-14;19/11/2023;RedeTV!;Faustão na Band;14h-17h;5,6;32,4;55-64;Equilibrado;Nacional;Sexta
-15;26/11/2024;Band;Caldeirão;09h-12h;12,3;32,0;55-64;Feminino;Grande SP;Sexta
-16;27/09/2024;SBT;Mais Você;06h-09h;39,1;21,1;65+;Masculino;Grande RJ;Domingo
-17;02/03/2024;GloboNews;Altas Horas;17h-20h;10,5;5,0;25-34;Equilibrado;Grande BH;Quinta
-18;14/04/2023;Record;Globo Repórter;12h-14h;32,6;20,7;55-64;Equilibrado;Grande SP;Sábado
-19;17/04/2023;SBT;Encontro;20h-22h;11,0;1,1;65+;Masculino;Grande RJ;Sábado
-20;06/04/2024;Band;Balanço Geral;12h-14h;41,0;28,7;55-64;Equilibrado;Grande BH;Quinta
-21;04/11/2023;Record;Balanço Geral;20h-22h;18,5;16,4;55-64;Equilibrado;Grande POA;Segunda
-22;09/06/2024;GloboNews;Cidade Alerta;12h-14h;10,0;18,6;55-64;Equilibrado;Grande POA;Segunda
-23;04/12/2023;TV Cultura;Encontro;09h-12h;18,1;2,2;65+;Masculino;Grande Salvador;Terça
-24;15/12/2024;TV Cultura;Caldeirão;20h-22h;18,6;16,6;55-64;Equilibrado;Grande Recife;Domingo
-25;05/10/2023;Band;Jornal Nacional;20h-22h;23,7;24,2;55-64;Feminino;Grande Recife;Domingo
-26;01/02/2024;Record;Domingo Legal;06h-09h;38,7;30,1;45-54;Masculino;Grande RJ;Quinta
-27;03/05/2023;Globo;Fantástico;12h-14h;19,4;13,8;25-34;Masculino;Grande SP;Quinta
-28;27/11/2023;SBT;Mais Você;00h-06h;31,1;14,5;35-44;Feminino;Grande POA;Sábado
-29;19/06/2024;Band;Mais Você;20h-22h;34,1;12,9;45-54;Feminino;Grande SP;Terça
-30;18/09/2023;Band;Altas Horas;17h-20h;1,3;2,3;55-64;Feminino;Grande BH;Sexta
-31;29/02/2024;GloboNews;Cidade Alerta;17h-20h;31,1;12,8;45-54;Feminino;Grande BH;Quarta
-32;29/11/2023;Globo;Cidade Alerta;12h-14h;40,2;30,2;35-44;Masculino;Nacional;Sexta
-33;25/08/2024;RedeTV!;Faustão na Band;17h-20h;1,2;28,2;25-34;Masculino;Grande Recife;Quinta
-34;01/07/2024;Band;Jornal Nacional;14h-17h;37,8;28,8;18-24;Equilibrado;Grande SP;Quinta
-35;21/01/2023;Record;Altas Horas;14h-17h;3,0;22,0;35-44;Masculino;Grande RJ;Sexta
-36;20/10/2024;Band;Fantástico;12h-14h;3,0;24,4;65+;Masculino;Grande Recife;Sexta
-37;01/07/2024;Record;Jornal Nacional;17h-20h;33,9;7,8;65+;Equilibrado;Grande SP;Sexta
-38;19/03/2024;TV Cultura;Big Brother Brasil;00h-06h;27,2;30,4;55-64;Feminino;Grande RJ;Domingo
-39;07/10/2023;SBT;Cidade Alerta;17h-20h;5,8;13,0;55-64;Feminino;Grande Recife;Segunda
-40;02/11/2023;SBT;Fantástico;00h-06h;10,0;26,5;45-54;Equilibrado;Grande POA;Quarta
-41;05/06/2024;Globo;Mais Você;00h-06h;29,2;33,4;55-64;Feminino;Grande Salvador;Segunda
-42;11/12/2023;RedeTV!;Fantástico;12h-14h;29,9;15,4;25-34;Equilibrado;Grande Recife;Quarta
-43;04/10/2023;Record;Fantástico;14h-17h;43,7;12,7;55-64;Equilibrado;Nacional;Terça
-44;07/12/2023;RedeTV!;Caldeirão;06h-09h;21,6;29,6;25-34;Masculino;Grande RJ;Segunda
-45;31/07/2024;TV Cultura;The Voice Brasil;00h-06h;21,7;18,9;45-54;Feminino;Grande Recife;Quarta
-46;27/04/2023;TV Cultura;Encontro;09h-12h;23,6;15,2;35-44;Equilibrado;Grande Recife;Sábado
-47;12/06/2023;Record;Jornal Nacional;12h-14h;37,9;11,5;65+;Equilibrado;Nacional;Quinta
-48;14/12/2024;RedeTV!;Caldeirão;09h-12h;26,1;6,0;65+;Masculino;Grande RJ;Quinta
-49;01/02/2023;TV Cultura;Saia Justa;22h-00h;32,5;26,6;25-34;Feminino;Grande POA;Domingo
-50;07/05/2024;SBT;Jornal da Record;09h-12h;38,4;15,8;65+;Masculino;Grande POA;Quinta
-51;06/07/2023;GloboNews;Jornal da Record;09h-12h;17,3;34,4;55-64;Masculino;Grande POA;Sexta
-52;27/05/2024;Record;Encontro;12h-14h;40,0;28,9;35-44;Equilibrado;Grande BH;Quinta
-53;29/09/2024;RedeTV!;Jornal Nacional;22h-00h;41,8;8,6;45-54;Equilibrado;Grande RJ;Terça
-54;31/10/2024;Band;Globo Repórter;00h-06h;28,5;33,1;18-24;Masculino;Grande RJ;Terça
-55;27/04/2024;TV Cultura;Fantástico;06h-09h;32,2;28,0;45-54;Feminino;Nacional;Quarta
-56;09/07/2024;TV Cultura;The Voice Brasil;06h-09h;30,5;19,6;45-54;Feminino;Grande Recife;Quarta
-57;21/12/2024;SBT;Big Brother Brasil;00h-06h;19,5;11,3;25-34;Equilibrado;Grande Recife;Segunda
-58;11/07/2024;RedeTV!;Fantástico;00h-06h;34,0;16,5;18-24;Feminino;Grande Recife;Segunda
-59;25/11/2023;Band;Fantástico;17h-20h;17,3;34,6;65+;Equilibrado;Grande POA;Terça
-60;19/02/2024;GloboNews;Jornal da Record;17h-20h;25,2;15,8;25-34;Equilibrado;Grande SP;Domingo
-61;09/06/2023;Globo;Faustão na Band;22h-00h;4,5;8,7;45-54;Equilibrado;Grande SP;Terça
-62;28/04/2023;TV Cultura;Jornal Nacional;20h-22h;33,5;19,4;55-64;Masculino;Grande RJ;Sexta
-63;24/10/2024;GloboNews;Roda Viva;09h-12h;23,5;5,1;18-24;Equilibrado;Nacional;Quinta
-64;08/01/2023;Band;Roda Viva;06h-09h;39,4;2,1;55-64;Masculino;Grande RJ;Quinta
-65;31/05/2023;RedeTV!;Cidade Alerta;22h-00h;25,3;31,3;25-34;Feminino;Grande Salvador;Sexta
-66;09/11/2024;GloboNews;Altas Horas;17h-20h;27,7;16,2;18-24;Masculino;Grande Salvador;Quarta
-67;15/02/2023;Band;Faustão na Band;20h-22h;21,3;21,7;55-64;Equilibrado;Nacional;Terça
-68;15/07/2023;SBT;Saia Justa;00h-06h;1,6;17,3;25-34;Equilibrado;Grande SP;Domingo
-69;24/06/2023;GloboNews;Jornal da Record;09h-12h;15,2;12,2;18-24;Equilibrado;Nacional;Domingo
-70;22/11/2023;Band;Fantástico;20h-22h;6,6;3,7;45-54;Equilibrado;Grande Recife;Sábado
-71;16/08/2023;RedeTV!;Caldeirão;17h-20h;12,6;11,2;55-64;Equilibrado;Grande RJ;Segunda
-72;20/03/2023;SBT;Big Brother Brasil;17h-20h;40,1;33,3;65+;Equilibrado;Grande SP;Domingo
-73;06/06/2023;Record;Mais Você;06h-09h;9,7;19,0;45-54;Masculino;Grande BH;Sábado
-74;07/02/2024;GloboNews;Big Brother Brasil;06h-09h;26,6;15,6;45-54;Equilibrado;Grande POA;Sexta
-75;24/02/2023;GloboNews;Cidade Alerta;14h-17h;29,1;10,9;65+;Feminino;Grande BH;Quinta
-76;08/06/2024;SBT;Caldeirão;22h-00h;44,0;20,3;35-44;Masculino;Nacional;Terça
-77;09/03/2024;TV Cultura;Altas Horas;17h-20h;36,8;2,8;25-34;Masculino;Grande Recife;Quarta
-78;06/05/2024;Record;Faustão na Band;14h-17h;39,2;12,7;45-54;Feminino;Grande POA;Sábado
-79;14/06/2023;RedeTV!;Cidade Alerta;00h-06h;11,3;18,1;55-64;Equilibrado;Grande RJ;Sábado
-80;08/02/2023;Record;Big Brother Brasil;20h-22h;25,6;32,3;65+;Feminino;Grande Salvador;Terça
-81;21/08/2023;Record;Balanço Geral;17h-20h;5,0;30,0;65+;Feminino;Grande SP;Sexta
-82;22/12/2023;TV Cultura;Caldeirão;14h-17h;26,7;28,0;18-24;Feminino;Grande RJ;Quarta
-83;26/10/2023;GloboNews;Roda Viva;00h-06h;32,2;13,9;65+;Masculino;Grande BH;Sábado
-84;09/10/2024;RedeTV!;Saia Justa;17h-20h;29,6;32,3;45-54;Feminino;Grande Salvador;Sexta
-85;28/04/2023;Band;Big Brother Brasil;00h-06h;1,1;1,0;25-34;Masculino;Grande SP;Sexta
-86;11/11/2024;Globo;Roda Viva;09h-12h;29,4;33,0;18-24;Masculino;Nacional;Domingo
-87;04/11/2023;GloboNews;Caldeirão;00h-06h;18,0;31,2;65+;Equilibrado;Grande BH;Domingo
-88;29/07/2024;Record;Faustão na Band;00h-06h;13,7;25,9;25-34;Equilibrado;Nacional;Sábado
-89;09/05/2023;RedeTV!;Roda Viva;17h-20h;30,2;34,9;25-34;Masculino;Nacional;Terça
-90;10/03/2024;GloboNews;Saia Justa;06h-09h;26,3;22,8;45-54;Equilibrado;Nacional;Terça
-91;30/04/2023;RedeTV!;Jornal da Record;22h-00h;17,6;16,4;55-64;Equilibrado;Grande POA;Quinta
-92;28/02/2024;Band;Big Brother Brasil;06h-09h;7,1;11,3;45-54;Masculino;Grande BH;Terça
-93;02/02/2023;Record;Cidade Alerta;12h-14h;30,9;34,3;35-44;Equilibrado;Grande Recife;Sexta
-94;10/02/2023;Globo;Jornal da Record;00h-06h;43,8;19,6;45-54;Feminino;Grande BH;Sexta
-95;17/01/2023;Globo;Faustão na Band;00h-06h;28,0;11,8;65+;Feminino;Grande BH;Domingo
-96;18/02/2024;Globo;Caldeirão;17h-20h;2,2;6,2;25-34;Feminino;Grande SP;Quinta
-97;08/11/2023;GloboNews;Roda Viva;20h-22h;20,1;11,1;45-54;Masculino;Grande SP;Sexta
-98;28/01/2024;Record;Faustão na Band;12h-14h;17,7;2,8;55-64;Feminino;Grande Salvador;Sábado
-99;26/01/2024;RedeTV!;Mais Você;20h-22h;26,6;5,9;25-34;Feminino;Grande Salvador;Quinta
-100;20/01/2024;GloboNews;Caldeirão;09h-12h;14,1;2,1;25-34;Equilibrado;Grande BH;Segunda
-101;03/07/2023;TV Cultura;Mais Você;20h-22h;3,8;25,4;25-34;Feminino;Nacional;Quarta
-102;30/11/2024;SBT;Roda Viva;00h-06h;7,2;18,9;55-64;Masculino;Grande Recife;Segunda
-103;04/11/2023;Band;Domingo Legal;14h-17h;3,9;32,4;35-44;Feminino;Grande Salvador;Sábado
-104;13/12/2024;Globo;Saia Justa;00h-06h;13,9;29,1;25-34;Feminino;Grande SP;Segunda
-105;24/09/2023;TV Cultura;The Voice Brasil;00h-06h;26,9;11,4;18-24;Masculino;Nacional;Sábado
-106;09/01/2023;SBT;Jornal Nacional;20h-22h;13,6;15,7;65+;Feminino;Grande POA;Segunda
-107;10/06/2024;Record;Fantástico;20h-22h;23,1;2,6;65+;Equilibrado;Grande Recife;Quinta
-108;07/09/2023;Globo;Encontro;14h-17h;26,6;11,7;18-24;Feminino;Grande RJ;Quinta
-109;07/05/2024;RedeTV!;Altas Horas;12h-14h;28,8;33,1;18-24;Feminino;Nacional;Sexta
-110;21/03/2023;RedeTV!;The Voice Brasil;09h-12h;3,0;23,7;65+;Equilibrado;Grande BH;Quinta
-111;05/11/2023;Record;Mais Você;00h-06h;37,9;14,5;55-64;Equilibrado;Nacional;Segunda
-112;27/05/2023;GloboNews;Altas Horas;14h-17h;11,8;28,4;18-24;Feminino;Grande BH;Terça
-113;24/12/2024;TV Cultura;Jornal da Record;06h-09h;18,8;2,3;25-34;Masculino;Grande RJ;Sexta
-114;18/03/2024;GloboNews;Mais Você;20h-22h;41,0;1,2;35-44;Masculino;Grande RJ;Quarta
-115;08/04/2023;Globo;Encontro;12h-14h;2,2;14,6;18-24;Masculino;Grande BH;Segunda
-116;20/09/2023;SBT;Cidade Alerta;06h-09h;5,2;30,2;45-54;Masculino;Grande RJ;Domingo
-117;15/06/2024;Record;Cidade Alerta;12h-14h;38,5;10,1;18-24;Feminino;Grande RJ;Domingo
-118;24/08/2024;Record;Balanço Geral;12h-14h;3,1;13,5;65+;Masculino;Grande SP;Sábado
-119;20/09/2024;GloboNews;Fantástico;09h-12h;6,0;7,7;55-64;Feminino;Grande RJ;Terça
-120;12/08/2024;Globo;Jornal da Record;14h-17h;29,2;13,0;55-64;Feminino;Grande SP;Domingo
-121;08/08/2023;Record;Domingo Legal;17h-20h;15,8;30,2;65+;Feminino;Grande BH;Terça
-122;10/08/2023;SBT;Balanço Geral;22h-00h;14,1;28,2;55-64;Feminino;Grande POA;Domingo
-123;06/01/2023;Record;Caldeirão;22h-00h;19,9;9,7;65+;Masculino;Grande Salvador;Domingo
-124;20/08/2024;SBT;Domingo Legal;22h-00h;34,0;22,5;45-54;Equilibrado;Nacional;Domingo
-125;06/09/2023;SBT;Saia Justa;12h-14h;28,4;29,1;35-44;Feminino;Nacional;Domingo
-126;05/04/2023;SBT;Balanço Geral;22h-00h;44,2;14,4;35-44;Equilibrado;Nacional;Segunda
-127;01/10/2023;Band;Roda Viva;12h-14h;17,3;9,0;65+;Equilibrado;Grande SP;Sexta
-128;02/03/2024;Band;Encontro;09h-12h;12,7;27,5;35-44;Masculino;Grande RJ;Quinta
-129;18/08/2024;TV Cultura;Saia Justa;12h-14h;13,7;15,7;35-44;Feminino;Grande POA;Sábado
-130;22/11/2023;TV Cultura;Domingo Legal;20h-22h;10,2;20,5;65+;Equilibrado;Grande POA;Terça
-131;11/10/2024;GloboNews;Mais Você;14h-17h;7,8;7,5;65+;Feminino;Grande POA;Sexta
-132;04/06/2023;SBT;Globo Repórter;20h-22h;21,9;5,9;45-54;Equilibrado;Grande Salvador;Quinta
-133;21/07/2023;TV Cultura;Domingo Legal;20h-22h;12,9;32,9;35-44;Feminino;Grande Recife;Quarta
-134;27/05/2024;TV Cultura;Altas Horas;14h-17h;30,4;1,4;18-24;Feminino;Grande Salvador;Sexta
-135;31/05/2023;SBT;Faustão na Band;14h-17h;28,1;26,4;55-64;Equilibrado;Grande SP;Quinta
-136;09/04/2023;SBT;Domingo Legal;09h-12h;5,5;31,4;55-64;Equilibrado;Grande RJ;Sábado
-137;17/04/2024;Globo;Jornal Nacional;14h-17h;2,0;28,3;45-54;Masculino;Grande POA;Segunda
-138;27/04/2024;TV Cultura;Balanço Geral;06h-09h;42,5;9,9;55-64;Feminino;Nacional;Quinta
-139;21/07/2024;TV Cultura;Jornal Nacional;12h-14h;18,0;10,0;25-34;Masculino;Grande RJ;Segunda
-140;20/10/2023;Band;Jornal da Record;17h-20h;35,5;15,7;25-34;Feminino;Grande Salvador;Quarta
-141;28/05/2023;TV Cultura;Balanço Geral;22h-00h;38,1;10,7;45-54;Masculino;Nacional;Terça
-142;04/09/2024;Globo;The Voice Brasil;12h-14h;33,9;20,7;55-64;Equilibrado;Grande BH;Segunda
-143;09/08/2023;Band;Caldeirão;09h-12h;44,7;4,3;65+;Feminino;Grande Salvador;Quinta
-144;27/10/2023;RedeTV!;The Voice Brasil;09h-12h;28,3;16,1;65+;Masculino;Grande POA;Sábado
-145;17/07/2024;Record;Jornal da Record;20h-22h;10,7;4,3;18-24;Feminino;Grande SP;Terça
-146;25/12/2023;GloboNews;Jornal Nacional;09h-12h;18,7;25,3;55-64;Equilibrado;Grande BH;Sábado
-147;22/08/2024;Globo;Big Brother Brasil;14h-17h;11,0;9,9;35-44;Masculino;Grande POA;Sábado
-148;05/03/2024;GloboNews;Faustão na Band;14h-17h;43,1;9,9;18-24;Feminino;Grande SP;Domingo
-149;30/07/2024;RedeTV!;Caldeirão;09h-12h;33,0;33,4;45-54;Feminino;Grande Recife;Terça
-150;08/02/2023;Globo;Caldeirão;09h-12h;5,6;0,9;35-44;Equilibrado;Grande Salvador;Sábado
-151;27/08/2024;TV Cultura;Big Brother Brasil;06h-09h;3,1;11,2;25-34;Masculino;Grande RJ;Sexta
-152;29/07/2024;GloboNews;Altas Horas;22h-00h;41,7;14,4;55-64;Masculino;Grande Salvador;Segunda
-153;27/09/2024;RedeTV!;Fantástico;14h-17h;13,8;4,7;25-34;Feminino;Grande Recife;Sábado
-154;04/12/2023;SBT;Caldeirão;12h-14h;44,8;7,7;25-34;Masculino;Grande POA;Segunda
-155;13/12/2024;Band;Globo Repórter;00h-06h;37,8;32,5;18-24;Masculino;Grande Recife;Quinta
-156;02/03/2023;Globo;Mais Você;00h-06h;5,4;24,7;18-24;Feminino;Grande SP;Terça
-157;19/05/2023;GloboNews;Globo Repórter;17h-20h;41,8;28,7;25-34;Feminino;Grande POA;Sábado
-158;05/01/2023;Record;Big Brother Brasil;17h-20h;5,0;5,1;55-64;Feminino;Nacional;Sábado
-159;03/11/2023;SBT;Cidade Alerta;00h-06h;42,1;3,1;55-64;Masculino;Grande POA;Quinta
-160;06/06/2024;SBT;Faustão na Band;22h-00h;14,0;15,3;55-64;Masculino;Grande RJ;Sexta
-161;23/03/2023;Globo;Faustão na Band;17h-20h;28,0;4,3;45-54;Masculino;Nacional;Sexta
-162;21/10/2023;Record;Domingo Legal;12h-14h;6,2;10,3;18-24;Masculino;Grande Salvador;Terça
-163;26/03/2023;SBT;Jornal da Record;20h-22h;3,3;21,1;45-54;Equilibrado;Grande RJ;Quinta
-164;10/03/2023;Band;Caldeirão;20h-22h;15,8;34,9;25-34;Equilibrado;Grande POA;Sábado
-165;16/11/2023;Globo;Jornal Nacional;12h-14h;28,9;10,3;65+;Masculino;Grande Salvador;Quinta
-166;20/08/2024;RedeTV!;Caldeirão;20h-22h;19,7;21,4;55-64;Equilibrado;Grande Recife;Terça
-167;01/03/2023;Globo;Saia Justa;09h-12h;27,0;22,2;65+;Feminino;Grande POA;Quinta
-168;23/12/2023;TV Cultura;Roda Viva;14h-17h;17,1;27,4;35-44;Masculino;Nacional;Terça
-169;04/04/2024;TV Cultura;Big Brother Brasil;00h-06h;7,9;14,4;65+;Feminino;Grande POA;Quarta
-170;27/01/2023;SBT;Roda Viva;06h-09h;22,0;23,4;18-24;Feminino;Nacional;Sábado
-171;09/10/2023;Globo;Domingo Legal;06h-09h;44,4;13,5;65+;Feminino;Nacional;Terça
-172;24/09/2023;Globo;The Voice Brasil;09h-12h;39,6;0,6;65+;Feminino;Grande POA;Sexta
-173;05/09/2024;Globo;Caldeirão;09h-12h;22,4;19,0;18-24;Feminino;Grande POA;Terça
-174;16/07/2023;RedeTV!;Globo Repórter;09h-12h;16,5;27,8;25-34;Masculino;Grande RJ;Terça
-175;19/07/2024;Record;Balanço Geral;12h-14h;25,5;10,3;55-64;Feminino;Grande POA;Quarta
-176;09/06/2023;RedeTV!;Jornal da Record;20h-22h;45,0;20,9;35-44;Masculino;Grande SP;Quarta
-177;05/04/2023;Globo;Caldeirão;00h-06h;27,6;4,5;35-44;Masculino;Grande Salvador;Segunda
-178;10/09/2023;SBT;Jornal Nacional;20h-22h;9,5;33,9;45-54;Masculino;Grande RJ;Domingo
-179;20/10/2024;RedeTV!;Cidade Alerta;06h-09h;35,8;15,6;18-24;Equilibrado;Grande Salvador;Sábado
-180;04/01/2024;Band;Fantástico;00h-06h;24,1;1,5;55-64;Masculino;Nacional;Segunda
-181;25/01/2023;SBT;Globo Repórter;17h-20h;41,0;25,1;35-44;Masculino;Grande BH;Segunda
-182;19/09/2024;SBT;Cidade Alerta;09h-12h;41,9;9,6;45-54;Equilibrado;Grande POA;Domingo
-183;10/04/2024;SBT;Cidade Alerta;06h-09h;8,7;22,6;65+;Equilibrado;Grande Recife;Terça
-184;24/01/2023;Band;Domingo Legal;20h-22h;22,9;32,0;65+;Equilibrado;Grande SP;Sábado
-185;21/08/2023;Band;Globo Repórter;12h-14h;5,3;28,9;55-64;Equilibrado;Grande Salvador;Quinta
-186;14/09/2023;Record;Roda Viva;06h-09h;15,0;12,0;35-44;Feminino;Grande POA;Domingo
-187;17/01/2024;RedeTV!;Encontro;06h-09h;25,0;10,1;55-64;Equilibrado;Grande SP;Domingo
-188;05/03/2024;RedeTV!;Altas Horas;06h-09h;31,3;12,9;25-34;Equilibrado;Grande Recife;Domingo
-189;10/07/2024;Band;Jornal Nacional;22h-00h;3,9;2,2;35-44;Feminino;Grande POA;Terça
-190;28/08/2023;Band;Caldeirão;20h-22h;20,5;2,0;45-54;Feminino;Grande RJ;Quinta
-191;29/02/2024;Globo;Domingo Legal;22h-00h;30,2;2,9;55-64;Equilibrado;Grande SP;Terça
-192;02/01/2024;Record;Jornal Nacional;17h-20h;9,6;25,4;55-64;Equilibrado;Grande RJ;Sábado
-193;19/09/2024;GloboNews;Roda Viva;17h-20h;12,9;16,4;45-54;Masculino;Grande BH;Domingo
-194;10/01/2023;RedeTV!;Encontro;12h-14h;11,6;5,4;35-44;Masculino;Grande RJ;Quarta
-195;08/06/2024;Globo;Fantástico;17h-20h;4,5;25,0;35-44;Masculino;Grande Salvador;Quarta
-196;17/12/2023;Record;Roda Viva;09h-12h;15,4;12,2;45-54;Feminino;Nacional;Sexta
-197;30/01/2023;Band;Balanço Geral;00h-06h;25,8;13,6;25-34;Feminino;Grande RJ;Quarta
-198;08/04/2024;Globo;Domingo Legal;14h-17h;10,8;5,5;35-44;Equilibrado;Grande Recife;Quarta
-199;03/01/2024;Record;Domingo Legal;09h-12h;15,2;19,1;25-34;Equilibrado;Grande POA;Terça
-200;17/02/2023;SBT;Jornal Nacional;12h-14h;27,6;14,0;65+;Equilibrado;Grande Recife;Segunda
-201;29/03/2024;Record;Globo Repórter;00h-06h;14,0;5,9;25-34;Masculino;Grande SP;Quarta
-202;31/03/2023;Band;The Voice Brasil;12h-14h;40,8;12,9;25-34;Equilibrado;Grande RJ;Quinta
-203;27/01/2024;RedeTV!;Jornal da Record;00h-06h;38,8;29,3;45-54;Masculino;Grande RJ;Domingo
-204;30/12/2023;GloboNews;Fantástico;14h-17h;6,3;8,5;25-34;Equilibrado;Grande SP;Quarta
-205;28/06/2024;GloboNews;Saia Justa;06h-09h;9,1;2,1;18-24;Equilibrado;Grande Recife;Segunda
-206;19/04/2023;RedeTV!;Domingo Legal;14h-17h;10,3;21,9;45-54;Equilibrado;Grande POA;Segunda
-207;10/09/2024;Globo;Jornal Nacional;06h-09h;29,4;6,8;55-64;Equilibrado;Grande BH;Quinta
-208;12/04/2023;Band;Cidade Alerta;12h-14h;38,0;13,5;65+;Equilibrado;Grande BH;Sábado
-209;19/05/2024;Globo;Saia Justa;20h-22h;43,7;11,2;65+;Feminino;Grande Recife;Sexta
-210;27/05/2023;Record;Jornal Nacional;17h-20h;35,9;12,4;25-34;Masculino;Grande Salvador;Terça
-211;26/03/2023;Band;The Voice Brasil;00h-06h;41,3;18,9;18-24;Feminino;Grande BH;Quinta
-212;24/10/2023;Band;Encontro;14h-17h;20,5;27,5;18-24;Equilibrado;Grande BH;Domingo
-213;28/12/2023;Record;Globo Repórter;09h-12h;30,5;34,1;45-54;Feminino;Grande Salvador;Quinta
-214;15/12/2023;Globo;Saia Justa;12h-14h;30,0;22,9;45-54;Masculino;Grande RJ;Segunda
-215;12/08/2024;Record;Big Brother Brasil;20h-22h;22,0;2,4;65+;Masculino;Nacional;Sábado
-216;01/10/2024;Globo;Cidade Alerta;12h-14h;11,8;23,8;45-54;Feminino;Grande Salvador;Sexta
-217;27/11/2024;Band;Jornal Nacional;22h-00h;28,7;17,0;45-54;Masculino;Grande BH;Terça
-218;19/05/2023;Record;Jornal da Record;00h-06h;6,4;12,8;25-34;Masculino;Nacional;Terça
-219;23/01/2024;GloboNews;Encontro;20h-22h;19,2;32,0;18-24;Masculino;Grande BH;Domingo
-220;05/06/2023;RedeTV!;Encontro;14h-17h;1,9;1,5;65+;Masculino;Grande POA;Domingo
-221;11/12/2023;GloboNews;Domingo Legal;12h-14h;39,4;24,8;18-24;Masculino;Grande RJ;Quarta
-222;23/03/2024;SBT;Roda Viva;22h-00h;28,0;4,9;45-54;Equilibrado;Grande Salvador;Quarta
-223;16/04/2023;Band;Jornal da Record;00h-06h;19,2;20,2;35-44;Masculino;Grande Recife;Terça
-224;12/02/2023;Globo;Globo Repórter;17h-20h;30,4;1,5;45-54;Feminino;Grande RJ;Sábado
-225;14/03/2024;Band;Encontro;12h-14h;20,0;30,4;25-34;Feminino;Grande SP;Domingo
-226;28/05/2023;Band;Balanço Geral;17h-20h;14,9;12,4;25-34;Feminino;Nacional;Quarta
-227;19/11/2024;Band;Mais Você;22h-00h;28,0;34,2;35-44;Equilibrado;Grande POA;Sexta
-228;28/10/2023;RedeTV!;Altas Horas;12h-14h;8,2;28,6;55-64;Feminino;Grande Salvador;Quarta
-229;04/05/2023;Globo;Encontro;22h-00h;28,5;11,4;45-54;Equilibrado;Grande RJ;Sexta
-230;04/03/2024;SBT;Roda Viva;20h-22h;38,8;5,4;65+;Masculino;Nacional;Quinta
-231;10/05/2023;GloboNews;The Voice Brasil;22h-00h;32,3;6,7;25-34;Equilibrado;Grande BH;Sábado
-232;23/01/2023;RedeTV!;The Voice Brasil;14h-17h;12,3;30,8;25-34;Masculino;Grande RJ;Sexta
-233;23/04/2023;SBT;Altas Horas;20h-22h;40,6;6,9;25-34;Feminino;Grande POA;Quinta
-234;17/07/2024;GloboNews;Jornal Nacional;17h-20h;41,1;34,1;65+;Equilibrado;Grande POA;Domingo
-235;21/05/2023;SBT;Globo Repórter;17h-20h;31,7;2,3;18-24;Masculino;Grande RJ;Sábado
-236;17/09/2024;RedeTV!;Cidade Alerta;09h-12h;13,9;19,7;25-34;Masculino;Grande RJ;Quinta
-237;22/10/2024;TV Cultura;Cidade Alerta;06h-09h;41,8;24,6;35-44;Feminino;Grande SP;Sábado
-238;09/02/2024;Band;Roda Viva;00h-06h;1,5;7,3;65+;Masculino;Grande Salvador;Terça
-239;16/06/2024;Band;Jornal da Record;06h-09h;6,0;34,6;25-34;Masculino;Nacional;Domingo
-240;20/02/2023;TV Cultura;Encontro;17h-20h;6,6;28,7;55-64;Masculino;Grande RJ;Domingo
-241;06/08/2023;Band;The Voice Brasil;22h-00h;2,0;27,8;25-34;Equilibrado;Grande Recife;Sexta
-242;20/02/2024;Band;Big Brother Brasil;14h-17h;17,8;29,9;65+;Equilibrado;Grande BH;Sexta
-243;20/10/2023;Band;Cidade Alerta;06h-09h;25,7;13,3;45-54;Feminino;Grande Recife;Sábado
-244;23/02/2023;Globo;Jornal da Record;12h-14h;12,5;13,3;18-24;Equilibrado;Grande RJ;Quarta
-245;21/02/2023;GloboNews;Jornal Nacional;09h-12h;5,8;11,9;45-54;Masculino;Grande POA;Quarta
-246;27/06/2024;TV Cultura;Fantástico;06h-09h;10,5;18,6;55-64;Equilibrado;Grande Salvador;Domingo
-247;06/02/2023;SBT;Caldeirão;09h-12h;3,7;2,6;25-34;Masculino;Grande BH;Quinta
-248;30/01/2024;RedeTV!;Mais Você;09h-12h;31,2;29,3;25-34;Equilibrado;Grande Salvador;Sábado
-249;16/04/2023;SBT;Jornal da Record;00h-06h;14,7;11,5;55-64;Masculino;Grande RJ;Segunda
-250;01/10/2024;TV Cultura;Jornal Nacional;09h-12h;41,6;18,3;35-44;Feminino;Grande BH;Quinta
-251;23/04/2023;Band;The Voice Brasil;17h-20h;2,6;33,7;55-64;Masculino;Grande RJ;Quinta
-252;03/11/2024;Globo;Roda Viva;14h-17h;22,3;4,0;18-24;Masculino;Grande BH;Sexta
-253;03/02/2024;Band;Altas Horas;09h-12h;4,7;20,2;45-54;Feminino;Grande BH;Sexta
-254;30/12/2024;RedeTV!;Jornal da Record;14h-17h;8,0;2,8;18-24;Equilibrado;Grande BH;Domingo
-255;29/01/2023;SBT;Jornal da Record;20h-22h;9,3;12,8;55-64;Masculino;Grande Recife;Quarta
-256;08/03/2024;SBT;The Voice Brasil;12h-14h;25,0;9,0;25-34;Masculino;Grande Recife;Sábado
-257;30/08/2024;GloboNews;Balanço Geral;17h-20h;8,0;14,3;25-34;Masculino;Grande POA;Domingo
-258;18/12/2024;Band;Mais Você;06h-09h;3,9;11,9;35-44;Feminino;Grande POA;Sexta
-259;11/05/2024;RedeTV!;Jornal da Record;06h-09h;36,9;27,3;18-24;Masculino;Nacional;Sexta
-260;16/12/2023;Record;Balanço Geral;00h-06h;8,9;26,5;45-54;Equilibrado;Grande Recife;Domingo
-261;24/10/2024;Record;Caldeirão;20h-22h;4,1;13,3;65+;Equilibrado;Grande SP;Terça
-262;24/11/2023;Record;Saia Justa;17h-20h;19,8;33,9;18-24;Equilibrado;Grande POA;Domingo
-263;15/07/2023;Globo;Faustão na Band;12h-14h;40,0;29,6;65+;Feminino;Nacional;Domingo
-264;18/08/2023;RedeTV!;Balanço Geral;00h-06h;35,9;16,7;65+;Masculino;Grande SP;Domingo
-265;28/05/2024;SBT;Cidade Alerta;20h-22h;6,6;25,8;65+;Equilibrado;Grande POA;Terça
-266;02/01/2023;GloboNews;Fantástico;06h-09h;20,5;3,4;18-24;Masculino;Nacional;Terça
-267;13/10/2023;Record;Jornal da Record;17h-20h;30,7;17,4;65+;Masculino;Grande BH;Sábado
-268;05/11/2024;Band;The Voice Brasil;00h-06h;5,1;21,9;65+;Feminino;Grande SP;Sábado
-269;16/08/2024;RedeTV!;Faustão na Band;09h-12h;17,6;25,0;45-54;Feminino;Nacional;Quinta
-270;17/02/2024;GloboNews;The Voice Brasil;22h-00h;14,0;21,5;65+;Equilibrado;Grande POA;Sexta
-271;29/08/2023;Record;Encontro;17h-20h;1,7;21,7;35-44;Masculino;Grande RJ;Domingo
-272;16/10/2023;Record;Roda Viva;20h-22h;9,6;16,3;25-34;Equilibrado;Grande RJ;Terça
-273;01/04/2023;RedeTV!;Big Brother Brasil;17h-20h;11,7;22,0;18-24;Feminino;Grande SP;Quarta
-274;10/12/2024;SBT;Faustão na Band;14h-17h;19,5;26,8;35-44;Feminino;Nacional;Sábado
-275;23/08/2024;Globo;Big Brother Brasil;20h-22h;2,6;24,7;18-24;Masculino;Grande POA;Sábado
-276;05/06/2023;Band;Jornal Nacional;06h-09h;23,2;5,1;35-44;Equilibrado;Grande Recife;Sábado
-277;02/08/2023;TV Cultura;Caldeirão;00h-06h;41,0;21,1;55-64;Masculino;Grande RJ;Quarta
-278;23/10/2023;RedeTV!;Jornal da Record;20h-22h;22,6;3,6;25-34;Masculino;Grande BH;Sexta
-279;17/02/2024;Band;Big Brother Brasil;17h-20h;17,9;34,0;65+;Equilibrado;Grande POA;Sábado
-280;01/02/2024;GloboNews;Encontro;14h-17h;36,7;1,3;25-34;Masculino;Grande POA;Sábado
-281;23/05/2023;GloboNews;Altas Horas;22h-00h;17,1;27,4;25-34;Feminino;Grande POA;Sexta
-282;08/12/2023;SBT;Balanço Geral;00h-06h;30,5;10,5;18-24;Masculino;Grande Salvador;Sábado
-283;22/11/2024;TV Cultura;Cidade Alerta;06h-09h;25,0;23,4;18-24;Feminino;Grande Salvador;Sábado
-284;22/01/2024;GloboNews;Jornal Nacional;20h-22h;4,8;1,3;35-44;Feminino;Grande RJ;Domingo
-285;27/05/2023;Band;Globo Repórter;22h-00h;43,0;7,5;18-24;Equilibrado;Grande Salvador;Sábado
-286;22/07/2023;Record;Mais Você;22h-00h;38,2;31,9;45-54;Equilibrado;Grande Salvador;Domingo
-287;25/07/2023;GloboNews;Jornal Nacional;09h-12h;40,9;2,5;18-24;Equilibrado;Grande SP;Sexta
-288;01/09/2024;RedeTV!;Domingo Legal;09h-12h;25,3;18,5;65+;Masculino;Nacional;Quarta
-289;28/06/2024;Globo;Balanço Geral;14h-17h;15,8;33,3;18-24;Feminino;Grande Recife;Sexta
-290;04/07/2023;RedeTV!;Fantástico;14h-17h;3,2;9,6;25-34;Equilibrado;Grande POA;Quinta
-291;10/03/2024;Globo;Domingo Legal;22h-00h;18,3;18,9;65+;Masculino;Grande Recife;Domingo
-292;26/03/2023;Record;Cidade Alerta;22h-00h;23,9;12,5;55-64;Feminino;Nacional;Quinta
-293;15/12/2024;SBT;The Voice Brasil;06h-09h;39,4;31,9;25-34;Masculino;Nacional;Domingo
-294;01/04/2023;Globo;Saia Justa;14h-17h;30,7;26,1;18-24;Equilibrado;Grande POA;Quinta
-295;27/07/2023;RedeTV!;The Voice Brasil;17h-20h;44,1;3,8;55-64;Masculino;Grande Salvador;Quarta
-296;24/05/2023;TV Cultura;Altas Horas;14h-17h;21,9;14,6;35-44;Equilibrado;Grande SP;Domingo
-297;17/04/2023;Band;Faustão na Band;22h-00h;22,1;30,4;55-64;Feminino;Grande POA;Quinta
-298;09/05/2023;TV Cultura;Jornal da Record;22h-00h;41,8;15,4;55-64;Equilibrado;Grande Salvador;Quarta
-299;26/01/2023;Globo;Roda Viva;12h-14h;21,2;14,4;55-64;Masculino;Grande RJ;Quinta
-300;18/03/2024;Band;The Voice Brasil;06h-09h;26,1;24,2;45-54;Equilibrado;Grande POA;Segunda
-301;09/02/2024;GloboNews;Mais Você;12h-14h;9,2;32,1;55-64;Equilibrado;Grande Salvador;Sexta
-302;15/09/2024;Globo;The Voice Brasil;17h-20h;26,6;8,8;35-44;Equilibrado;Grande Recife;Segunda
-303;19/05/2023;SBT;Mais Você;00h-06h;22,1;5,8;35-44;Equilibrado;Nacional;Quinta
-304;25/01/2024;SBT;Jornal Nacional;14h-17h;41,1;13,2;65+;Equilibrado;Grande SP;Quarta
-305;31/01/2023;Globo;Encontro;09h-12h;35,0;4,3;45-54;Feminino;Grande POA;Sexta
-306;19/08/2024;Record;Big Brother Brasil;12h-14h;27,0;33,2;35-44;Feminino;Grande BH;Domingo
-307;06/04/2023;RedeTV!;The Voice Brasil;09h-12h;29,5;29,5;35-44;Equilibrado;Grande POA;Segunda
-308;27/02/2023;GloboNews;Saia Justa;06h-09h;1,2;21,3;35-44;Feminino;Grande Recife;Sábado
-309;15/10/2024;Record;The Voice Brasil;00h-06h;16,4;16,5;18-24;Equilibrado;Grande RJ;Sábado
-310;18/01/2023;GloboNews;Cidade Alerta;14h-17h;1,8;4,0;25-34;Feminino;Grande Salvador;Segunda
-311;07/03/2023;TV Cultura;Roda Viva;06h-09h;22,7;6,4;18-24;Feminino;Grande Salvador;Sábado
-312;07/09/2024;SBT;Cidade Alerta;12h-14h;8,1;29,9;45-54;Equilibrado;Grande RJ;Domingo
-313;02/05/2023;TV Cultura;Jornal Nacional;22h-00h;8,4;1,9;45-54;Equilibrado;Grande RJ;Segunda
-314;20/05/2023;GloboNews;Caldeirão;12h-14h;40,8;23,0;45-54;Masculino;Grande BH;Sábado
-315;10/08/2024;Band;Saia Justa;14h-17h;21,7;27,8;65+;Feminino;Grande SP;Sábado
-316;01/12/2023;Band;Big Brother Brasil;17h-20h;14,4;33,1;55-64;Feminino;Grande POA;Sábado
-317;22/05/2024;SBT;Fantástico;22h-00h;24,9;17,5;25-34;Feminino;Grande Salvador;Quarta
-318;17/09/2023;SBT;Domingo Legal;17h-20h;15,5;2,8;45-54;Equilibrado;Grande POA;Sexta
-319;03/07/2024;TV Cultura;Altas Horas;20h-22h;41,8;18,2;65+;Equilibrado;Nacional;Quarta
-320;02/06/2024;Record;Encontro;14h-17h;30,1;32,5;65+;Equilibrado;Grande POA;Sábado
-321;13/06/2023;GloboNews;Altas Horas;00h-06h;10,5;34,3;35-44;Equilibrado;Grande BH;Terça
-322;07/06/2023;Globo;The Voice Brasil;00h-06h;17,1;16,7;55-64;Equilibrado;Grande BH;Terça
-323;12/06/2023;GloboNews;Altas Horas;14h-17h;29,9;22,9;35-44;Masculino;Nacional;Sábado
-324;16/03/2024;RedeTV!;Mais Você;06h-09h;16,7;26,8;35-44;Feminino;Nacional;Segunda
-325;05/01/2024;TV Cultura;Fantástico;12h-14h;24,4;14,3;25-34;Equilibrado;Nacional;Segunda
-326;22/02/2023;Band;Jornal da Record;17h-20h;8,6;34,5;55-64;Masculino;Grande Recife;Segunda
-327;14/12/2024;Band;The Voice Brasil;14h-17h;41,2;17,4;25-34;Equilibrado;Grande BH;Quarta
-328;12/10/2024;GloboNews;Saia Justa;06h-09h;11,6;32,4;18-24;Feminino;Grande RJ;Quarta
-329;26/07/2024;SBT;Globo Repórter;20h-22h;2,7;5,1;65+;Equilibrado;Grande SP;Quarta
-330;18/12/2023;Globo;Balanço Geral;09h-12h;14,7;12,3;18-24;Masculino;Grande POA;Sexta
-331;29/09/2023;GloboNews;Domingo Legal;14h-17h;34,0;21,9;35-44;Masculino;Grande SP;Domingo
-332;13/04/2023;Globo;Cidade Alerta;14h-17h;29,9;20,4;35-44;Masculino;Grande POA;Quarta
-333;09/07/2023;Band;Caldeirão;12h-14h;25,3;29,5;45-54;Masculino;Nacional;Sábado
-334;19/12/2023;Globo;Fantástico;20h-22h;22,8;18,7;55-64;Equilibrado;Grande Salvador;Quarta
-335;23/12/2023;SBT;Mais Você;09h-12h;12,4;26,6;18-24;Equilibrado;Nacional;Sábado
-336;24/03/2023;RedeTV!;Domingo Legal;20h-22h;5,1;16,9;35-44;Feminino;Nacional;Quarta
-337;17/11/2023;GloboNews;Domingo Legal;00h-06h;31,7;32,4;45-54;Masculino;Grande POA;Terça
-338;10/07/2024;GloboNews;Globo Repórter;22h-00h;21,0;9,0;35-44;Feminino;Grande SP;Domingo
-339;24/05/2023;GloboNews;Big Brother Brasil;20h-22h;37,5;13,4;45-54;Equilibrado;Grande Salvador;Domingo
-340;20/06/2023;GloboNews;Altas Horas;17h-20h;39,9;6,5;45-54;Masculino;Grande Recife;Quarta
-341;22/06/2024;Globo;The Voice Brasil;22h-00h;8,0;20,8;18-24;Feminino;Grande Recife;Terça
-342;27/03/2023;RedeTV!;Altas Horas;14h-17h;1,9;29,6;55-64;Equilibrado;Grande BH;Segunda
-343;22/03/2024;TV Cultura;Faustão na Band;06h-09h;14,7;1,6;35-44;Equilibrado;Grande Recife;Domingo
-344;27/08/2024;RedeTV!;Cidade Alerta;12h-14h;41,2;24,8;45-54;Feminino;Grande RJ;Sábado
-345;13/04/2023;Record;Jornal da Record;17h-20h;35,4;29,1;55-64;Equilibrado;Grande Recife;Segunda
-346;12/11/2023;RedeTV!;Saia Justa;09h-12h;29,9;22,9;18-24;Masculino;Grande BH;Sexta
-347;06/09/2023;Band;Encontro;20h-22h;3,0;23,9;55-64;Masculino;Nacional;Sábado
-348;01/09/2023;Globo;Domingo Legal;17h-20h;6,8;13,0;35-44;Feminino;Grande POA;Quinta
-349;09/07/2023;RedeTV!;Big Brother Brasil;09h-12h;32,6;10,6;18-24;Equilibrado;Grande BH;Sábado
-350;22/09/2023;Record;Big Brother Brasil;14h-17h;29,5;9,1;55-64;Feminino;Grande RJ;Domingo
-351;28/03/2023;Globo;Balanço Geral;00h-06h;22,3;23,9;18-24;Feminino;Grande SP;Quinta
-352;31/05/2023;TV Cultura;Globo Repórter;00h-06h;27,6;13,9;35-44;Masculino;Grande POA;Terça
-353;15/06/2023;RedeTV!;Globo Repórter;22h-00h;7,2;21,7;65+;Masculino;Grande Salvador;Sexta
-354;15/05/2024;Record;Cidade Alerta;12h-14h;5,3;19,5;45-54;Equilibrado;Grande SP;Domingo
-355;26/11/2023;Band;Jornal da Record;00h-06h;20,1;17,2;18-24;Feminino;Grande RJ;Sexta
-356;10/06/2024;TV Cultura;The Voice Brasil;00h-06h;1,0;22,7;35-44;Equilibrado;Grande Salvador;Sexta
-357;24/03/2023;SBT;Jornal da Record;06h-09h;12,2;11,5;18-24;Masculino;Grande SP;Terça
-358;23/10/2024;Band;Domingo Legal;00h-06h;25,4;1,7;25-34;Equilibrado;Grande BH;Sábado
-359;21/12/2023;Globo;Balanço Geral;20h-22h;23,1;16,1;45-54;Masculino;Grande RJ;Sábado
-360;18/02/2023;SBT;Jornal Nacional;14h-17h;13,0;24,1;45-54;Equilibrado;Grande BH;Quarta
-361;02/10/2024;Globo;Cidade Alerta;14h-17h;35,7;19,2;18-24;Masculino;Grande SP;Terça
-362;16/07/2024;TV Cultura;Cidade Alerta;00h-06h;8,6;2,2;35-44;Masculino;Grande RJ;Terça
-363;15/10/2023;Band;Fantástico;09h-12h;25,0;6,0;18-24;Masculino;Grande RJ;Sexta
-364;04/11/2024;RedeTV!;Balanço Geral;20h-22h;36,0;6,5;55-64;Equilibrado;Grande RJ;Sábado
-365;20/03/2023;GloboNews;Roda Viva;09h-12h;32,8;22,5;25-34;Feminino;Nacional;Segunda
-366;01/09/2023;RedeTV!;Big Brother Brasil;00h-06h;44,6;26,0;55-64;Masculino;Grande POA;Sábado
-367;06/06/2024;RedeTV!;Encontro;00h-06h;19,9;6,9;18-24;Masculino;Grande BH;Terça
-368;24/03/2023;SBT;Globo Repórter;06h-09h;43,5;32,0;45-54;Masculino;Grande POA;Terça
-369;03/10/2023;RedeTV!;Saia Justa;06h-09h;36,0;23,7;55-64;Feminino;Grande SP;Terça
-370;10/08/2023;Band;Jornal Nacional;20h-22h;4,6;4,3;55-64;Masculino;Grande Recife;Quarta
-371;20/10/2024;SBT;Saia Justa;17h-20h;42,1;15,0;45-54;Masculino;Grande Recife;Quinta
-372;19/12/2023;SBT;Roda Viva;09h-12h;27,4;16,1;45-54;Masculino;Grande RJ;Quinta
-373;01/04/2024;TV Cultura;Globo Repórter;22h-00h;34,0;29,7;25-34;Equilibrado;Grande BH;Quinta
-374;20/04/2023;Record;Roda Viva;22h-00h;41,6;15,7;25-34;Masculino;Grande BH;Quarta
-375;21/05/2024;Record;The Voice Brasil;09h-12h;9,6;29,7;55-64;Feminino;Grande Salvador;Quarta
-376;17/02/2023;Record;Cidade Alerta;14h-17h;31,2;32,5;35-44;Equilibrado;Grande POA;Segunda
-377;06/11/2023;SBT;Roda Viva;22h-00h;8,7;15,1;65+;Masculino;Grande SP;Quarta
-378;27/11/2024;Globo;Big Brother Brasil;00h-06h;19,3;3,8;35-44;Masculino;Grande Salvador;Sábado
-379;15/04/2023;SBT;Balanço Geral;17h-20h;23,5;4,4;45-54;Equilibrado;Grande Salvador;Quinta
-380;01/08/2023;Band;Caldeirão;00h-06h;2,2;9,1;35-44;Feminino;Grande Recife;Sexta
-381;01/02/2024;RedeTV!;Faustão na Band;06h-09h;10,5;19,5;25-34;Masculino;Grande SP;Quarta
-382;08/07/2024;Record;Faustão na Band;14h-17h;18,7;8,3;18-24;Feminino;Grande Recife;Terça
-383;29/05/2023;GloboNews;Globo Repórter;12h-14h;22,2;2,5;35-44;Equilibrado;Grande RJ;Quarta
-384;07/03/2023;Globo;Caldeirão;06h-09h;17,6;32,8;25-34;Equilibrado;Grande SP;Segunda
-385;10/07/2024;Band;Balanço Geral;12h-14h;23,6;10,2;18-24;Equilibrado;Grande RJ;Segunda
-386;31/03/2023;RedeTV!;Globo Repórter;00h-06h;31,6;27,2;45-54;Equilibrado;Grande SP;Domingo
-387;06/05/2024;SBT;The Voice Brasil;17h-20h;37,6;17,0;35-44;Equilibrado;Grande Recife;Quinta
-388;01/10/2024;RedeTV!;Fantástico;20h-22h;8,1;30,5;18-24;Feminino;Grande SP;Segunda
-389;13/10/2023;RedeTV!;Altas Horas;20h-22h;44,5;12,8;65+;Masculino;Grande Recife;Sexta
-390;01/07/2024;TV Cultura;Globo Repórter;06h-09h;20,0;17,5;65+;Equilibrado;Nacional;Domingo
-391;24/12/2024;SBT;Altas Horas;14h-17h;5,2;14,6;18-24;Masculino;Grande Recife;Quinta
-392;11/01/2024;GloboNews;Saia Justa;00h-06h;37,0;26,2;45-54;Masculino;Grande POA;Sexta
-393;09/11/2023;RedeTV!;Altas Horas;14h-17h;22,5;19,8;18-24;Masculino;Grande Recife;Domingo
-394;05/08/2023;RedeTV!;Fantástico;22h-00h;24,3;33,2;65+;Masculino;Grande SP;Domingo
-395;01/08/2023;TV Cultura;Jornal Nacional;00h-06h;4,4;34,7;35-44;Masculino;Nacional;Sábado
-396;13/12/2024;Record;Globo Repórter;22h-00h;10,8;34,4;25-34;Feminino;Grande SP;Domingo
-397;05/09/2023;Globo;Faustão na Band;20h-22h;12,8;1,8;18-24;Feminino;Grande Salvador;Sexta
-398;27/02/2023;Record;Faustão na Band;12h-14h;27,5;26,4;35-44;Equilibrado;Nacional;Quarta
-399;30/05/2024;Record;Mais Você;22h-00h;40,8;28,8;25-34;Equilibrado;Grande Recife;Sexta
-400;15/07/2024;GloboNews;Globo Repórter;12h-14h;22,2;10,1;65+;Masculino;Grande Recife;Sábado
-401;07/06/2023;Record;Mais Você;20h-22h;5,7;28,4;18-24;Equilibrado;Grande Salvador;Sábado
-402;08/07/2023;SBT;Big Brother Brasil;17h-20h;37,6;30,4;25-34;Masculino;Nacional;Sábado
-403;06/07/2023;TV Cultura;Jornal da Record;22h-00h;36,7;4,7;55-64;Feminino;Grande RJ;Sexta
-404;04/09/2024;SBT;Saia Justa;17h-20h;5,3;7,7;55-64;Feminino;Grande BH;Terça
-405;07/04/2023;SBT;Roda Viva;14h-17h;35,1;21,3;18-24;Feminino;Grande Recife;Quinta
-406;17/06/2024;TV Cultura;Mais Você;06h-09h;29,6;15,3;65+;Feminino;Grande BH;Domingo
-407;16/08/2024;RedeTV!;The Voice Brasil;12h-14h;28,7;32,1;18-24;Equilibrado;Grande Salvador;Sexta
-408;11/09/2024;GloboNews;Balanço Geral;09h-12h;21,3;22,4;25-34;Feminino;Grande Salvador;Domingo
-409;06/04/2023;Band;Roda Viva;09h-12h;3,9;7,6;55-64;Feminino;Grande RJ;Quinta
-410;08/04/2024;Globo;Faustão na Band;12h-14h;6,3;23,2;65+;Feminino;Grande SP;Sábado
-411;04/07/2023;SBT;Cidade Alerta;12h-14h;29,4;25,9;35-44;Masculino;Grande Salvador;Sexta
-412;21/06/2024;GloboNews;Domingo Legal;06h-09h;19,1;32,0;25-34;Equilibrado;Grande RJ;Quinta
-413;17/11/2023;SBT;Jornal Nacional;09h-12h;40,2;3,9;35-44;Feminino;Grande BH;Terça
-414;31/10/2023;GloboNews;Caldeirão;12h-14h;30,5;23,6;25-34;Equilibrado;Grande BH;Terça
-415;12/01/2024;Globo;Encontro;00h-06h;19,1;24,7;18-24;Masculino;Grande Salvador;Sábado
-416;11/06/2024;Band;Big Brother Brasil;20h-22h;19,3;10,0;55-64;Equilibrado;Grande BH;Segunda
-417;13/11/2023;Band;Saia Justa;14h-17h;28,3;21,9;18-24;Masculino;Grande POA;Segunda
-418;24/11/2023;SBT;Cidade Alerta;17h-20h;37,9;34,7;65+;Equilibrado;Grande Recife;Segunda
-419;04/06/2024;GloboNews;Balanço Geral;22h-00h;38,8;23,5;18-24;Masculino;Grande Salvador;Terça
-420;22/11/2023;Band;Mais Você;17h-20h;9,0;20,4;25-34;Masculino;Grande Salvador;Terça
-421;05/09/2023;Band;Roda Viva;22h-00h;20,0;23,4;45-54;Equilibrado;Grande RJ;Domingo
-422;21/06/2023;RedeTV!;Saia Justa;14h-17h;11,2;13,7;55-64;Feminino;Grande SP;Domingo
-423;08/03/2023;TV Cultura;Jornal da Record;06h-09h;37,8;27,9;35-44;Masculino;Grande BH;Sábado
-424;08/10/2024;GloboNews;Cidade Alerta;17h-20h;1,1;15,2;25-34;Equilibrado;Grande Salvador;Terça
-425;04/10/2023;Band;Jornal da Record;14h-17h;36,5;23,8;55-64;Equilibrado;Grande RJ;Terça
-426;21/09/2023;Record;Faustão na Band;20h-22h;5,5;33,5;55-64;Feminino;Grande POA;Sexta
-427;18/09/2023;TV Cultura;Fantástico;22h-00h;35,1;13,0;35-44;Masculino;Grande BH;Terça
-428;29/07/2024;Record;Roda Viva;12h-14h;25,4;12,4;45-54;Feminino;Grande RJ;Quarta
-429;23/01/2023;RedeTV!;Saia Justa;12h-14h;43,9;29,9;65+;Equilibrado;Nacional;Sexta
-430;18/01/2024;RedeTV!;Caldeirão;00h-06h;38,1;30,4;25-34;Equilibrado;Grande POA;Domingo
-431;11/09/2024;GloboNews;Altas Horas;17h-20h;15,4;11,6;18-24;Feminino;Grande POA;Quarta
-432;15/02/2023;SBT;The Voice Brasil;09h-12h;36,3;18,5;18-24;Masculino;Nacional;Sexta
-433;25/08/2024;SBT;Caldeirão;12h-14h;25,2;33,3;25-34;Feminino;Grande BH;Sábado
-434;17/09/2024;TV Cultura;Roda Viva;22h-00h;23,7;15,5;45-54;Equilibrado;Grande Recife;Sexta
-435;16/08/2024;SBT;The Voice Brasil;06h-09h;19,0;4,2;65+;Equilibrado;Grande SP;Domingo
-436;19/03/2024;RedeTV!;Fantástico;09h-12h;38,2;21,9;18-24;Masculino;Grande SP;Domingo
-437;09/08/2023;GloboNews;Caldeirão;00h-06h;5,5;14,0;35-44;Feminino;Grande POA;Sábado
-438;30/11/2023;Globo;Mais Você;09h-12h;24,9;17,9;18-24;Equilibrado;Grande SP;Quinta
-439;18/05/2024;TV Cultura;Encontro;17h-20h;25,8;25,5;25-34;Masculino;Grande BH;Sábado
-440;01/08/2023;SBT;Altas Horas;20h-22h;1,8;34,2;35-44;Feminino;Nacional;Segunda
-441;23/10/2024;SBT;Altas Horas;22h-00h;38,7;20,4;25-34;Feminino;Grande BH;Quarta
-442;16/02/2023;Record;Caldeirão;12h-14h;36,0;15,5;45-54;Equilibrado;Grande Recife;Sexta
-443;21/06/2023;SBT;The Voice Brasil;09h-12h;14,2;1,6;25-34;Feminino;Grande SP;Domingo
-444;29/11/2024;GloboNews;Domingo Legal;20h-22h;39,3;35,0;45-54;Equilibrado;Grande RJ;Domingo
-445;21/01/2024;GloboNews;Encontro;09h-12h;28,7;26,7;25-34;Equilibrado;Grande Salvador;Quarta
-446;09/08/2024;Record;Altas Horas;06h-09h;30,5;7,3;55-64;Feminino;Grande RJ;Segunda
-447;28/03/2023;Globo;Big Brother Brasil;12h-14h;20,3;20,4;55-64;Feminino;Grande SP;Domingo
-448;17/09/2024;TV Cultura;Jornal da Record;06h-09h;34,4;22,7;55-64;Feminino;Grande RJ;Domingo
-449;26/12/2024;Band;The Voice Brasil;20h-22h;24,1;26,7;18-24;Masculino;Grande POA;Quarta
-450;29/02/2024;Record;Fantástico;14h-17h;33,9;7,9;35-44;Equilibrado;Grande BH;Terça
-451;05/10/2024;RedeTV!;Caldeirão;22h-00h;23,4;21,1;65+;Equilibrado;Grande Salvador;Terça
-452;27/08/2023;Globo;Big Brother Brasil;12h-14h;9,6;13,3;65+;Feminino;Grande SP;Quinta
-453;18/02/2023;Band;Domingo Legal;09h-12h;40,0;10,9;35-44;Feminino;Grande POA;Quinta
-454;27/06/2023;TV Cultura;Altas Horas;12h-14h;18,1;33,0;45-54;Equilibrado;Grande BH;Sábado
-455;12/02/2023;RedeTV!;Faustão na Band;00h-06h;12,7;17,6;35-44;Equilibrado;Grande BH;Sábado
-456;21/10/2023;TV Cultura;Domingo Legal;17h-20h;37,9;25,1;25-34;Equilibrado;Grande BH;Domingo
-457;14/07/2023;Band;The Voice Brasil;17h-20h;39,6;30,5;25-34;Feminino;Grande POA;Quinta
-458;05/03/2024;RedeTV!;Faustão na Band;17h-20h;2,1;30,6;18-24;Feminino;Grande POA;Quinta
-459;30/12/2023;Globo;Encontro;00h-06h;16,4;10,8;18-24;Feminino;Nacional;Quinta
-460;01/08/2023;TV Cultura;Jornal da Record;06h-09h;28,4;2,5;18-24;Equilibrado;Grande Salvador;Segunda
-461;07/08/2024;GloboNews;Caldeirão;06h-09h;36,0;13,4;35-44;Equilibrado;Grande Recife;Terça
-462;05/09/2023;TV Cultura;Encontro;17h-20h;16,1;18,6;35-44;Equilibrado;Grande Salvador;Quinta
-463;10/01/2024;Record;Mais Você;12h-14h;41,2;30,3;25-34;Feminino;Grande POA;Segunda
-464;08/10/2024;TV Cultura;Jornal Nacional;06h-09h;12,5;1,5;55-64;Equilibrado;Grande SP;Segunda
-465;03/03/2023;TV Cultura;Domingo Legal;17h-20h;26,7;26,5;35-44;Feminino;Grande SP;Segunda
-466;06/09/2024;TV Cultura;Roda Viva;20h-22h;44,7;3,5;18-24;Equilibrado;Grande BH;Sexta
-467;09/08/2023;TV Cultura;The Voice Brasil;17h-20h;18,7;3,1;65+;Feminino;Grande POA;Quinta
-468;11/03/2024;Globo;Altas Horas;00h-06h;30,4;10,2;45-54;Equilibrado;Grande Recife;Quinta
-469;14/02/2024;TV Cultura;Roda Viva;12h-14h;32,2;1,0;35-44;Equilibrado;Grande RJ;Quarta
-470;18/02/2024;SBT;Saia Justa;06h-09h;24,2;21,8;35-44;Equilibrado;Grande RJ;Sábado
-471;27/08/2023;TV Cultura;Domingo Legal;06h-09h;33,1;20,3;25-34;Feminino;Grande POA;Quarta
-472;18/01/2023;SBT;Caldeirão;00h-06h;30,9;22,0;45-54;Masculino;Grande RJ;Segunda
-473;17/09/2023;Globo;Saia Justa;09h-12h;10,5;3,5;45-54;Feminino;Grande SP;Quarta
-474;11/05/2024;SBT;The Voice Brasil;14h-17h;10,4;20,9;18-24;Feminino;Grande POA;Sábado
-475;27/05/2024;SBT;Balanço Geral;17h-20h;21,0;30,3;25-34;Masculino;Grande RJ;Quarta
-476;12/09/2024;SBT;Encontro;09h-12h;1,7;31,5;65+;Masculino;Grande Salvador;Terça
-477;31/05/2024;Band;Domingo Legal;20h-22h;44,7;19,0;65+;Equilibrado;Grande Salvador;Domingo
-478;21/02/2024;Band;Encontro;00h-06h;22,1;3,8;18-24;Masculino;Grande BH;Segunda
-479;01/06/2024;TV Cultura;Jornal da Record;06h-09h;7,2;18,2;25-34;Feminino;Grande POA;Domingo
-480;22/11/2023;RedeTV!;Big Brother Brasil;20h-22h;10,2;22,0;55-64;Equilibrado;Grande BH;Sábado
-481;21/06/2023;TV Cultura;Globo Repórter;00h-06h;25,2;11,8;55-64;Equilibrado;Grande SP;Domingo
-482;14/08/2024;RedeTV!;Encontro;09h-12h;41,3;34,0;55-64;Feminino;Grande BH;Quarta
-483;15/06/2024;GloboNews;Globo Repórter;22h-00h;21,3;26,6;25-34;Masculino;Grande Recife;Terça
-484;10/04/2023;RedeTV!;Domingo Legal;17h-20h;24,4;33,4;18-24;Equilibrado;Grande Salvador;Domingo
-485;12/02/2023;TV Cultura;Fantástico;14h-17h;43,3;2,7;35-44;Feminino;Grande RJ;Quarta
-486;11/05/2023;TV Cultura;Balanço Geral;17h-20h;41,2;4,0;55-64;Feminino;Grande Recife;Quinta
-487;05/09/2023;GloboNews;Fantástico;09h-12h;8,6;18,3;25-34;Feminino;Grande RJ;Quarta
-488;03/04/2023;Globo;Encontro;22h-00h;4,9;9,1;35-44;Equilibrado;Grande BH;Quarta
-489;20/07/2023;GloboNews;Fantástico;09h-12h;15,1;1,8;18-24;Feminino;Grande BH;Segunda
-490;05/04/2024;Band;Big Brother Brasil;09h-12h;40,3;21,8;65+;Feminino;Grande BH;Sexta
-491;16/07/2024;SBT;Mais Você;20h-22h;21,1;26,1;65+;Feminino;Grande RJ;Sábado
-492;09/11/2023;SBT;Encontro;09h-12h;35,5;26,1;25-34;Equilibrado;Grande Recife;Segunda
-493;25/05/2023;Band;Caldeirão;20h-22h;7,7;14,9;65+;Masculino;Grande Recife;Sábado
-494;16/04/2023;Globo;Altas Horas;09h-12h;41,4;26,3;65+;Feminino;Grande Salvador;Sexta
-495;06/04/2023;Globo;Fantástico;12h-14h;8,0;9,1;65+;Masculino;Grande POA;Sexta
-496;25/05/2023;Band;Cidade Alerta;12h-14h;31,2;22,3;45-54;Feminino;Grande Salvador;Quinta
-497;24/06/2023;TV Cultura;Roda Viva;22h-00h;43,0;1,6;25-34;Equilibrado;Grande BH;Quinta
-498;09/08/2024;GloboNews;Big Brother Brasil;06h-09h;1,5;20,1;25-34;Equilibrado;Nacional;Sábado
-499;10/10/2024;TV Cultura;Saia Justa;00h-06h;6,7;5,1;65+;Feminino;Grande SP;Sábado
-500;26/07/2023;Record;Cidade Alerta;06h-09h;3,1;22,8;45-54;Feminino;Grande Recife;Quarta
+ID;Data;Emissora;Programa;Faixa_Horaria;Share_%;Audiencia_Pontos;Faixa_Etaria_Predominante;Genero_Predominante;Praca;Dia_Semana
+1;2024-10-22;Record TV;Balanço Geral;00h-06h;17.3;9.8;65+;Equilibrado;Porto Alegre;Sábado
+2;2024-10-10;TV Cultura;Café Filosófico;00h-06h;3.2;1.4;18-24;Feminino;Salvador;Sexta
+3;2024-12-20;TV Globo;Globo Esporte;06h-12h;18.3;12.5;25-34;Masculino;Fortaleza;Quarta
+4;2024-02-14;TV Globo;Bom Dia Brasil;06h-12h;25.5;13.3;18-24;Masculino;Campinas;Sexta
+5;2024-07-23;Band;Os Donos da Bola;00h-06h;2.4;0.9;25-34;Masculino;Brasília;Sexta
+6;2024-01-20;TV Globo;Globo Esporte;06h-12h;26.4;13.3;65+;Feminino;Belo Horizonte;Quarta
+7;2024-07-13;SBT;Fofocalizando;18h-00h;7.3;3.6;35-49;Equilibrado;Brasília;Sexta
+8;2024-05-06;SBT;SBT Brasil;00h-06h;5.7;3.6;18-24;Feminino;Salvador;Quinta
+9;2024-10-15;RedeTV!;Opinião no Ar;00h-06h;3.4;1.9;35-49;Feminino;Porto Alegre;Terça
+10;2024-06-09;Band;Os Donos da Bola;06h-12h;4.0;1.5;50-64;Feminino;Belo Horizonte;Domingo
+11;2024-07-21;Record TV;Balanço Geral;18h-00h;14.1;5.9;35-49;Equilibrado;Campinas;Quarta
+12;2024-03-28;TV Globo;Jornal Nacional;06h-12h;35.8;25.2;25-34;Masculino;Belo Horizonte;Terça
+13;2024-11-16;TV Globo;Jornal Hoje;00h-06h;43.9;28.3;35-49;Feminino;Belo Horizonte;Domingo
+14;2024-05-23;TV Globo;Fantástico;00h-06h;15.8;8.3;18-24;Masculino;Salvador;Domingo
+15;2024-09-01;SBT;Domingo Legal;00h-06h;17.9;7.2;18-24;Feminino;Campinas;Sexta
+16;2024-02-06;TV Cultura;Café Filosófico;00h-06h;7.9;2.7;65+;Equilibrado;Salvador;Quinta
+17;2024-07-26;TV Cultura;Roda Viva;18h-00h;4.1;2.5;35-49;Masculino;Recife;Segunda
+18;2024-04-24;TV Globo;Fantástico;12h-18h;16.6;10.9;50-64;Feminino;Porto Alegre;Quinta
+19;2024-11-06;TV Globo;Bom Dia Brasil;06h-12h;28.8;17.4;35-49;Feminino;Brasília;Terça
+20;2024-06-26;TV Globo;Fantástico;12h-18h;30.1;23.0;35-49;Masculino;São Paulo;Sábado
+21;2024-08-11;TV Cultura;Jornal da Cultura;18h-00h;5.6;2.2;25-34;Masculino;Rio de Janeiro;Segunda
+22;2024-05-25;TV Globo;Caldeirão;12h-18h;43.0;34.2;65+;Equilibrado;Fortaleza;Sábado
+23;2024-04-08;TV Cultura;Roda Viva;00h-06h;4.1;2.2;35-49;Equilibrado;Belo Horizonte;Quinta
+24;2024-08-12;TV Globo;Caldeirão;00h-06h;35.6;26.6;18-24;Equilibrado;Brasília;Segunda
+25;2024-05-11;Band;Jornal da Band;00h-06h;7.7;4.2;25-34;Masculino;Recife;Sexta
+26;2024-03-09;TV Cultura;Metrópolis;18h-00h;6.0;2.7;65+;Masculino;Salvador;Domingo
+27;2024-12-26;TV Globo;Domingão;06h-12h;16.1;12.5;18-24;Equilibrado;Rio de Janeiro;Sábado
+28;2024-02-27;RedeTV!;Opinião no Ar;00h-06h;4.5;2.0;50-64;Feminino;Belo Horizonte;Quarta
+29;2024-09-07;TV Globo;Globo Esporte;18h-00h;22.9;11.8;65+;Feminino;Rio de Janeiro;Quinta
+30;2024-01-21;Record TV;Domingo Espetacular;00h-06h;14.2;8.0;35-49;Masculino;Campinas;Segunda
+31;2024-10-19;TV Globo;Jornal Hoje;18h-00h;41.2;29.7;65+;Feminino;Campinas;Sexta
+32;2024-08-19;SBT;Roda a Roda;06h-12h;9.0;6.3;25-34;Feminino;Rio de Janeiro;Quarta
+33;2024-02-28;Band;Brasil Urgente;18h-00h;3.6;1.1;65+;Equilibrado;Recife;Sábado
+34;2024-11-08;TV Globo;Domingão;12h-18h;42.1;31.6;65+;Feminino;Belo Horizonte;Sexta
+35;2024-11-18;TV Globo;Fantástico;12h-18h;44.3;35.2;50-64;Masculino;Recife;Domingo
+36;2024-01-23;TV Globo;Caldeirão;12h-18h;30.5;20.0;65+;Equilibrado;Porto Alegre;Terça
+37;2024-01-01;TV Globo;Jornal Nacional;06h-12h;15.4;8.8;18-24;Equilibrado;Brasília;Quinta
+38;2024-11-20;SBT;SBT Brasil;06h-12h;5.6;2.3;65+;Equilibrado;Fortaleza;Sábado
+39;2024-07-26;TV Globo;Jornal Nacional;06h-12h;39.5;22.0;18-24;Feminino;São Paulo;Sábado
+40;2024-02-19;TV Globo;Domingão;18h-00h;34.5;23.9;65+;Masculino;Fortaleza;Quarta
+41;2024-10-11;SBT;Fofocalizando;12h-18h;7.5;3.7;18-24;Masculino;São Paulo;Terça
+42;2024-03-01;Record TV;Jornal da Record;00h-06h;15.9;8.3;35-49;Feminino;Salvador;Sábado
+43;2024-01-14;SBT;SBT Brasil;06h-12h;9.3;6.2;50-64;Equilibrado;Recife;Quinta
+44;2024-06-10;TV Globo;Fantástico;06h-12h;42.1;26.0;18-24;Equilibrado;Rio de Janeiro;Sábado
+45;2024-06-04;Band;Brasil Urgente;18h-00h;1.0;0.4;50-64;Equilibrado;Campinas;Quarta
+46;2024-09-25;Band;Faustão na Band;06h-12h;4.7;1.4;25-34;Feminino;Recife;Sexta
+47;2024-10-13;TV Globo;Big Brother Brasil;00h-06h;31.0;20.8;25-34;Feminino;Campinas;Quinta
+48;2024-09-21;Band;Os Donos da Bola;12h-18h;4.8;2.2;65+;Masculino;Fortaleza;Sexta
+49;2024-10-14;TV Cultura;Café Filosófico;06h-12h;3.5;1.4;25-34;Feminino;Fortaleza;Domingo
+50;2024-03-01;TV Globo;Jornal Hoje;00h-06h;15.7;10.7;18-24;Masculino;Recife;Sábado
+51;2024-10-18;Band;Masterchef Brasil;00h-06h;6.9;3.4;25-34;Feminino;São Paulo;Quarta
+52;2024-08-12;TV Cultura;Roda Viva;18h-00h;7.5;4.4;35-49;Equilibrado;Salvador;Segunda
+53;2024-03-16;SBT;SBT Brasil;18h-00h;14.2;8.5;35-49;Feminino;Campinas;Terça
+54;2024-10-13;Band;Jornal da Band;12h-18h;3.0;1.4;25-34;Feminino;Curitiba;Terça
+55;2024-01-26;TV Globo;Jornal Hoje;18h-00h;30.4;15.9;35-49;Equilibrado;Salvador;Quarta
+56;2024-01-11;RedeTV!;Superpop;18h-00h;5.8;2.4;50-64;Equilibrado;Belo Horizonte;Segunda
+57;2024-01-23;Band;Brasil Urgente;12h-18h;6.9;2.8;65+;Masculino;São Paulo;Segunda
+58;2024-08-06;Record TV;Domingo Espetacular;18h-00h;10.3;7.1;25-34;Masculino;Curitiba;Domingo
+59;2024-12-26;RedeTV!;TV Fama;12h-18h;7.4;3.6;35-49;Masculino;São Paulo;Segunda
+60;2024-08-08;SBT;Casos de Família;12h-18h;7.1;3.4;18-24;Masculino;Recife;Segunda
+61;2024-06-18;TV Globo;Globo Esporte;06h-12h;29.4;15.2;18-24;Masculino;Rio de Janeiro;Sexta
+62;2024-02-27;TV Globo;Jornal Nacional;12h-18h;40.3;30.9;18-24;Feminino;Belo Horizonte;Quinta
+63;2024-08-02;TV Globo;Jornal Nacional;18h-00h;21.8;16.2;65+;Masculino;Porto Alegre;Segunda
+64;2024-01-16;TV Globo;Fantástico;00h-06h;32.8;23.1;35-49;Equilibrado;Rio de Janeiro;Sexta
+65;2024-11-05;SBT;Domingo Legal;18h-00h;14.1;6.6;65+;Equilibrado;Fortaleza;Quinta
+66;2024-03-20;SBT;Fofocalizando;12h-18h;16.2;8.5;35-49;Feminino;Fortaleza;Domingo
+67;2024-05-26;TV Globo;Fantástico;12h-18h;44.3;24.8;65+;Masculino;Porto Alegre;Domingo
+68;2024-06-25;Record TV;Jornal da Record;06h-12h;8.4;3.5;65+;Equilibrado;Campinas;Quinta
+69;2024-12-12;TV Globo;Big Brother Brasil;06h-12h;29.0;17.1;50-64;Feminino;Brasília;Domingo
+70;2024-09-02;RedeTV!;TV Fama;18h-00h;7.1;2.5;50-64;Feminino;Brasília;Quinta
+71;2024-12-09;TV Globo;Bom Dia Brasil;00h-06h;20.8;13.8;35-49;Equilibrado;Brasília;Terça
+72;2024-11-28;SBT;Roda a Roda;18h-00h;15.4;7.9;35-49;Feminino;Belo Horizonte;Sexta
+73;2024-05-23;TV Globo;Globo Esporte;06h-12h;28.4;18.0;18-24;Feminino;Salvador;Quinta
+74;2024-04-19;Record TV;Cidade Alerta;06h-12h;9.7;5.0;25-34;Equilibrado;São Paulo;Sexta
+75;2024-12-10;TV Globo;Globo Esporte;18h-00h;18.2;11.8;18-24;Equilibrado;Campinas;Segunda
+76;2024-09-13;RedeTV!;Superpop;06h-12h;8.0;3.5;18-24;Equilibrado;São Paulo;Terça
+77;2024-12-06;TV Globo;Domingão;00h-06h;35.5;18.3;25-34;Equilibrado;São Paulo;Quinta
+78;2024-05-23;Record TV;Cidade Alerta;12h-18h;9.1;6.2;18-24;Equilibrado;Belo Horizonte;Segunda
+79;2024-10-12;RedeTV!;TV Fama;12h-18h;4.1;1.6;18-24;Masculino;Belo Horizonte;Domingo
+80;2024-04-28;SBT;Casos de Família;06h-12h;6.0;2.6;25-34;Feminino;Campinas;Quarta
+81;2024-08-04;SBT;Fofocalizando;18h-00h;5.4;2.6;50-64;Equilibrado;Porto Alegre;Domingo
+82;2024-06-21;TV Globo;Jornal Nacional;18h-00h;36.2;24.5;18-24;Masculino;Rio de Janeiro;Segunda
+83;2024-05-25;TV Globo;Bom Dia Brasil;18h-00h;43.7;30.0;18-24;Masculino;Campinas;Segunda
+84;2024-07-02;TV Globo;Globo Esporte;12h-18h;43.1;32.9;65+;Equilibrado;Curitiba;Segunda
+85;2024-06-20;TV Globo;Domingão;06h-12h;43.7;34.8;65+;Masculino;Brasília;Quarta
+86;2024-01-12;TV Globo;Caldeirão;18h-00h;35.6;21.4;50-64;Masculino;São Paulo;Segunda
+87;2024-07-27;SBT;SBT Brasil;06h-12h;13.4;7.0;65+;Masculino;Rio de Janeiro;Sexta
+88;2024-04-16;TV Globo;Jornal Hoje;00h-06h;22.9;16.8;65+;Feminino;Belo Horizonte;Sábado
+89;2024-10-23;RedeTV!;TV Fama;12h-18h;5.0;1.9;35-49;Masculino;São Paulo;Segunda
+90;2024-06-11;TV Globo;Jornal Hoje;00h-06h;37.8;28.5;18-24;Masculino;Belo Horizonte;Sábado
+91;2024-06-09;TV Globo;Jornal Nacional;06h-12h;29.8;23.7;25-34;Feminino;Belo Horizonte;Quarta
+92;2024-11-19;TV Globo;Domingão;12h-18h;32.5;22.4;25-34;Masculino;Porto Alegre;Quarta
+93;2024-10-02;TV Globo;Fantástico;06h-12h;15.5;11.4;50-64;Equilibrado;São Paulo;Quarta
+94;2024-02-03;TV Globo;Bom Dia Brasil;18h-00h;22.3;12.2;50-64;Feminino;Fortaleza;Terça
+95;2024-08-11;Band;Os Donos da Bola;06h-12h;3.0;1.5;65+;Equilibrado;Brasília;Quinta
+96;2024-07-10;TV Globo;Big Brother Brasil;06h-12h;20.1;14.5;25-34;Feminino;São Paulo;Terça
+97;2024-01-23;TV Cultura;Metrópolis;00h-06h;5.7;3.2;25-34;Feminino;Salvador;Quarta
+98;2024-01-23;SBT;Programa Silvio Santos;18h-00h;11.0;5.9;65+;Masculino;São Paulo;Quinta
+99;2024-01-06;TV Globo;Globo Esporte;12h-18h;21.8;15.8;25-34;Feminino;Belo Horizonte;Segunda
+100;2024-09-26;Record TV;A Fazenda;12h-18h;5.9;4.0;18-24;Equilibrado;Campinas;Quinta
+101;2024-02-17;Record TV;Hora do Faro;18h-00h;12.4;6.6;50-64;Masculino;Brasília;Quarta
+102;2024-08-06;TV Globo;Fantástico;18h-00h;32.1;20.5;18-24;Feminino;Brasília;Sexta
+103;2024-12-20;TV Globo;Jornal Nacional;18h-00h;42.5;27.4;25-34;Masculino;Brasília;Quinta
+104;2024-05-11;Record TV;Domingo Espetacular;00h-06h;16.7;10.7;35-49;Masculino;Rio de Janeiro;Sexta
+105;2024-04-20;TV Globo;Jornal Hoje;12h-18h;15.0;8.3;35-49;Equilibrado;Belo Horizonte;Sábado
+106;2024-05-03;RedeTV!;TV Fama;12h-18h;5.6;1.9;35-49;Feminino;Fortaleza;Quarta
+107;2024-12-04;Record TV;Hora do Faro;12h-18h;17.0;11.2;18-24;Feminino;Salvador;Sexta
+108;2024-12-01;Record TV;Domingo Espetacular;06h-12h;13.8;8.6;25-34;Masculino;Porto Alegre;Segunda
+109;2024-08-16;TV Globo;Big Brother Brasil;12h-18h;40.6;21.9;35-49;Masculino;Rio de Janeiro;Terça
+110;2024-09-03;TV Globo;Caldeirão;06h-12h;42.0;30.6;50-64;Feminino;São Paulo;Quinta
+111;2024-06-23;TV Globo;Caldeirão;06h-12h;35.5;26.5;65+;Masculino;Fortaleza;Quinta
+112;2024-02-22;SBT;SBT Brasil;06h-12h;12.9;6.0;18-24;Equilibrado;Belo Horizonte;Sexta
+113;2024-01-28;TV Globo;Fantástico;00h-06h;24.0;18.2;25-34;Equilibrado;Brasília;Terça
+114;2024-09-27;TV Globo;Jornal Nacional;18h-00h;22.4;17.7;35-49;Masculino;Campinas;Quinta
+115;2024-02-14;TV Globo;Big Brother Brasil;06h-12h;39.0;21.9;50-64;Masculino;Brasília;Segunda
+116;2024-08-25;TV Globo;Globo Esporte;00h-06h;40.2;31.0;18-24;Feminino;Porto Alegre;Sábado
+117;2024-06-12;TV Globo;Big Brother Brasil;06h-12h;32.1;23.8;18-24;Feminino;Campinas;Quarta
+118;2024-07-13;Band;Masterchef Brasil;18h-00h;5.6;2.4;25-34;Equilibrado;Curitiba;Sexta
+119;2024-10-13;Band;Brasil Urgente;00h-06h;3.4;1.3;25-34;Feminino;Porto Alegre;Terça
+120;2024-02-10;Band;Faustão na Band;12h-18h;4.0;2.2;25-34;Feminino;Porto Alegre;Domingo
+121;2024-06-09;SBT;Roda a Roda;18h-00h;17.2;9.7;25-34;Masculino;Brasília;Domingo
+122;2024-11-20;SBT;Programa Silvio Santos;00h-06h;17.3;10.0;18-24;Equilibrado;Campinas;Quinta
+123;2024-11-20;TV Globo;Caldeirão;18h-00h;42.2;30.1;65+;Equilibrado;Recife;Quarta
+124;2024-05-15;TV Globo;Globo Esporte;12h-18h;41.6;29.8;25-34;Feminino;São Paulo;Quarta
+125;2024-01-26;SBT;Roda a Roda;12h-18h;8.4;3.9;25-34;Masculino;Rio de Janeiro;Sábado
+126;2024-12-09;Band;Os Donos da Bola;00h-06h;3.8;1.6;35-49;Feminino;Recife;Sábado
+127;2024-10-23;SBT;Domingo Legal;00h-06h;9.3;5.0;35-49;Equilibrado;Salvador;Terça
+128;2024-05-13;TV Globo;Caldeirão;00h-06h;26.1;16.7;50-64;Equilibrado;Campinas;Domingo
+129;2024-02-06;SBT;Programa Silvio Santos;00h-06h;7.7;3.7;35-49;Feminino;Salvador;Segunda
+130;2024-05-17;SBT;Programa Silvio Santos;18h-00h;17.0;11.6;18-24;Feminino;Belo Horizonte;Domingo
+131;2024-07-13;TV Globo;Big Brother Brasil;18h-00h;38.6;23.6;35-49;Feminino;Belo Horizonte;Segunda
+132;2024-03-08;RedeTV!;TV Fama;06h-12h;4.2;2.5;35-49;Equilibrado;Campinas;Segunda
+133;2024-11-09;TV Globo;Bom Dia Brasil;06h-12h;43.0;25.2;65+;Equilibrado;Porto Alegre;Terça
+134;2024-06-10;Band;Brasil Urgente;00h-06h;6.7;2.6;25-34;Equilibrado;São Paulo;Quinta
+135;2024-11-01;SBT;Roda a Roda;00h-06h;7.9;5.4;18-24;Equilibrado;Rio de Janeiro;Quinta
+136;2024-06-24;TV Cultura;Jornal da Cultura;12h-18h;2.0;0.7;65+;Feminino;Rio de Janeiro;Sexta
+137;2024-05-24;TV Globo;Big Brother Brasil;12h-18h;25.9;20.5;25-34;Feminino;Brasília;Domingo
+138;2024-11-06;SBT;Domingo Legal;00h-06h;5.6;3.1;18-24;Equilibrado;Brasília;Quinta
+139;2024-03-19;Band;Brasil Urgente;12h-18h;7.3;3.2;50-64;Feminino;Salvador;Quinta
+140;2024-11-27;TV Globo;Jornal Hoje;06h-12h;18.3;14.2;18-24;Equilibrado;Salvador;Domingo
+141;2024-06-21;TV Globo;Jornal Hoje;06h-12h;15.7;12.3;65+;Equilibrado;São Paulo;Segunda
+142;2024-03-03;TV Globo;Big Brother Brasil;00h-06h;40.7;22.5;35-49;Masculino;Salvador;Quinta
+143;2024-04-19;Record TV;Domingo Espetacular;06h-12h;10.5;6.1;18-24;Masculino;Recife;Sexta
+144;2024-04-04;Band;Jornal da Band;00h-06h;8.0;4.6;25-34;Feminino;Campinas;Quarta
+145;2024-10-21;TV Globo;Big Brother Brasil;00h-06h;20.3;14.5;25-34;Equilibrado;Fortaleza;Domingo
+146;2024-11-22;TV Globo;Big Brother Brasil;18h-00h;44.0;26.6;25-34;Masculino;Belo Horizonte;Terça
+147;2024-09-20;TV Globo;Jornal Hoje;12h-18h;36.0;20.1;65+;Masculino;São Paulo;Quarta
+148;2024-04-14;TV Globo;Jornal Hoje;12h-18h;38.5;21.9;50-64;Masculino;Brasília;Quarta
+149;2024-08-02;TV Cultura;Café Filosófico;00h-06h;1.6;0.5;65+;Masculino;Recife;Sexta
+150;2024-01-04;SBT;Programa Silvio Santos;12h-18h;15.8;7.3;18-24;Feminino;Rio de Janeiro;Terça
+151;2024-09-21;TV Globo;Globo Esporte;12h-18h;41.8;27.9;25-34;Equilibrado;Rio de Janeiro;Domingo
+152;2024-09-28;SBT;Casos de Família;00h-06h;17.0;10.7;35-49;Feminino;Fortaleza;Terça
+153;2024-04-23;TV Globo;Domingão;12h-18h;19.4;15.4;25-34;Masculino;Belo Horizonte;Sábado
+154;2024-03-12;SBT;Casos de Família;06h-12h;14.8;7.2;65+;Equilibrado;Campinas;Terça
+155;2024-07-02;Record TV;Hora do Faro;12h-18h;7.3;5.0;50-64;Masculino;Campinas;Quarta
+156;2024-12-16;TV Globo;Jornal Nacional;00h-06h;22.3;17.2;25-34;Masculino;Rio de Janeiro;Sexta
+157;2024-01-16;TV Globo;Bom Dia Brasil;00h-06h;23.3;17.4;35-49;Masculino;Brasília;Quarta
+158;2024-02-08;Band;Os Donos da Bola;18h-00h;2.0;1.1;50-64;Masculino;Recife;Sábado
+159;2024-08-22;TV Globo;Domingão;00h-06h;21.9;16.4;35-49;Feminino;Rio de Janeiro;Quarta
+160;2024-02-26;Record TV;Balanço Geral;06h-12h;9.7;4.6;25-34;Equilibrado;Rio de Janeiro;Quarta
+161;2024-11-11;TV Globo;Domingão;06h-12h;17.3;12.6;35-49;Feminino;Curitiba;Segunda
+162;2024-04-19;SBT;Casos de Família;06h-12h;12.5;6.4;35-49;Feminino;Brasília;Quinta
+163;2024-03-01;TV Globo;Big Brother Brasil;06h-12h;29.3;14.7;35-49;Masculino;Recife;Terça
+164;2024-02-05;Record TV;Jornal da Record;00h-06h;6.2;3.8;35-49;Masculino;Porto Alegre;Sexta
+165;2024-08-13;TV Globo;Bom Dia Brasil;00h-06h;28.9;19.4;18-24;Equilibrado;Brasília;Quinta
+166;2024-02-26;TV Globo;Big Brother Brasil;00h-06h;29.7;19.2;65+;Masculino;Belo Horizonte;Quinta
+167;2024-10-17;Record TV;Hora do Faro;06h-12h;11.0;5.5;65+;Equilibrado;Fortaleza;Sábado
+168;2024-11-22;SBT;Domingo Legal;12h-18h;15.9;10.8;65+;Equilibrado;Curitiba;Terça
+169;2024-09-22;TV Globo;Fantástico;00h-06h;24.9;13.9;65+;Equilibrado;Salvador;Terça
+170;2024-06-27;TV Globo;Big Brother Brasil;06h-12h;19.8;13.4;18-24;Feminino;Fortaleza;Domingo
+171;2024-01-23;TV Globo;Domingão;00h-06h;39.0;22.8;18-24;Masculino;Belo Horizonte;Quinta
+172;2024-07-16;TV Cultura;Café Filosófico;00h-06h;3.1;1.4;50-64;Feminino;Campinas;Quinta
+173;2024-06-14;SBT;Domingo Legal;06h-12h;10.5;4.8;18-24;Feminino;Salvador;Segunda
+174;2024-04-02;TV Globo;Caldeirão;18h-00h;24.4;13.8;65+;Equilibrado;Recife;Quarta
+175;2024-02-21;SBT;Fofocalizando;12h-18h;17.5;9.3;65+;Equilibrado;Salvador;Terça
+176;2024-06-19;SBT;SBT Brasil;12h-18h;9.2;3.8;50-64;Equilibrado;São Paulo;Terça
+177;2024-11-07;TV Globo;Fantástico;12h-18h;30.9;19.7;50-64;Feminino;Porto Alegre;Segunda
+178;2024-05-14;RedeTV!;Leitura Dinâmica;18h-00h;5.3;2.1;50-64;Masculino;Curitiba;Quarta
+179;2024-02-26;Band;Masterchef Brasil;12h-18h;3.2;1.2;35-49;Equilibrado;Rio de Janeiro;Quinta
+180;2024-12-28;SBT;Fofocalizando;12h-18h;14.8;7.0;35-49;Feminino;Campinas;Quinta
+181;2024-11-27;TV Globo;Domingão;00h-06h;22.9;15.1;65+;Masculino;Belo Horizonte;Terça
+182;2024-12-07;TV Globo;Globo Esporte;00h-06h;18.8;13.5;65+;Equilibrado;Brasília;Sábado
+183;2024-01-25;Band;Os Donos da Bola;18h-00h;1.7;0.6;65+;Feminino;Belo Horizonte;Segunda
+184;2024-05-28;Record TV;Jornal da Record;00h-06h;14.9;8.1;65+;Feminino;Porto Alegre;Quarta
+185;2024-03-28;Record TV;Balanço Geral;18h-00h;9.4;6.0;25-34;Masculino;Porto Alegre;Segunda
+186;2024-02-05;TV Globo;Domingão;00h-06h;40.4;24.8;65+;Masculino;Campinas;Segunda
+187;2024-04-24;Band;Brasil Urgente;18h-00h;1.7;0.9;50-64;Feminino;Recife;Domingo
+188;2024-11-27;TV Globo;Bom Dia Brasil;12h-18h;24.9;15.0;50-64;Masculino;Brasília;Quinta
+189;2024-06-18;TV Cultura;Roda Viva;12h-18h;7.6;2.9;35-49;Masculino;Curitiba;Sábado
+190;2024-09-18;TV Globo;Bom Dia Brasil;12h-18h;17.5;9.9;35-49;Masculino;Porto Alegre;Quarta
+191;2024-03-02;RedeTV!;TV Fama;00h-06h;2.1;1.1;25-34;Masculino;Curitiba;Quinta
+192;2024-05-08;TV Globo;Domingão;00h-06h;21.2;11.3;50-64;Equilibrado;Campinas;Quinta
+193;2024-01-02;SBT;Casos de Família;00h-06h;15.2;8.5;65+;Equilibrado;Salvador;Sábado
+194;2024-01-05;Record TV;Domingo Espetacular;18h-00h;10.0;5.7;18-24;Equilibrado;Fortaleza;Quinta
+195;2024-05-07;RedeTV!;Superpop;00h-06h;2.8;1.7;35-49;Masculino;Belo Horizonte;Terça
+196;2024-10-09;SBT;Domingo Legal;06h-12h;7.1;4.6;50-64;Feminino;Salvador;Terça
+197;2024-03-20;SBT;Domingo Legal;12h-18h;7.6;3.3;25-34;Masculino;Belo Horizonte;Segunda
+198;2024-04-01;TV Globo;Bom Dia Brasil;06h-12h;21.5;16.4;25-34;Masculino;Curitiba;Quinta
+199;2024-08-12;SBT;Programa Silvio Santos;06h-12h;13.7;7.2;18-24;Feminino;Recife;Terça
+200;2024-12-02;Band;Os Donos da Bola;18h-00h;6.3;2.5;25-34;Feminino;Salvador;Terça
+201;2024-05-27;TV Globo;Big Brother Brasil;12h-18h;37.0;24.7;50-64;Masculino;Porto Alegre;Segunda
+202;2024-02-26;TV Globo;Big Brother Brasil;06h-12h;18.8;11.1;65+;Equilibrado;São Paulo;Segunda
+203;2024-01-12;SBT;Roda a Roda;12h-18h;13.6;6.0;18-24;Feminino;Recife;Domingo
+204;2024-11-23;TV Globo;Jornal Hoje;06h-12h;40.0;25.7;50-64;Feminino;Curitiba;Quinta
+205;2024-09-08;TV Globo;Big Brother Brasil;18h-00h;16.5;10.0;65+;Feminino;Belo Horizonte;Domingo
+206;2024-02-06;Record TV;Hora do Faro;12h-18h;9.4;6.2;25-34;Feminino;Campinas;Segunda
+207;2024-05-23;Band;Os Donos da Bola;18h-00h;3.7;2.0;35-49;Equilibrado;Belo Horizonte;Terça
+208;2024-02-26;SBT;Casos de Família;12h-18h;10.9;6.9;25-34;Masculino;Belo Horizonte;Segunda
+209;2024-01-08;TV Globo;Jornal Nacional;06h-12h;30.9;24.4;35-49;Equilibrado;Brasília;Quinta
+210;2024-02-15;Band;Os Donos da Bola;06h-12h;5.7;3.2;18-24;Feminino;Curitiba;Sábado
+211;2024-10-20;TV Globo;Caldeirão;12h-18h;25.6;17.3;35-49;Equilibrado;Salvador;Terça
+212;2024-03-16;SBT;Casos de Família;06h-12h;11.4;5.2;50-64;Equilibrado;Curitiba;Terça
+213;2024-05-05;TV Globo;Jornal Hoje;12h-18h;19.9;12.1;25-34;Masculino;Recife;Terça
+214;2024-04-07;TV Globo;Globo Esporte;18h-00h;32.7;22.7;18-24;Equilibrado;Brasília;Domingo
+215;2024-01-10;TV Globo;Domingão;18h-00h;24.1;18.4;65+;Equilibrado;Fortaleza;Sexta
+216;2024-03-01;SBT;Domingo Legal;06h-12h;8.5;3.5;35-49;Equilibrado;Recife;Domingo
+217;2024-04-26;SBT;Domingo Legal;06h-12h;13.0;8.6;50-64;Feminino;Curitiba;Sexta
+218;2024-03-20;Record TV;Domingo Espetacular;00h-06h;10.6;6.3;35-49;Feminino;Porto Alegre;Quarta
+219;2024-06-19;TV Globo;Jornal Hoje;00h-06h;24.6;13.6;25-34;Masculino;Recife;Segunda
+220;2024-01-21;RedeTV!;Leitura Dinâmica;06h-12h;2.0;1.0;35-49;Equilibrado;Belo Horizonte;Terça
+221;2024-07-07;SBT;Programa Silvio Santos;06h-12h;9.2;6.1;18-24;Masculino;Campinas;Quarta
+222;2024-12-26;TV Globo;Bom Dia Brasil;12h-18h;28.1;18.0;25-34;Equilibrado;Recife;Terça
+223;2024-06-22;Band;Masterchef Brasil;12h-18h;1.3;0.5;35-49;Equilibrado;Brasília;Segunda
+224;2024-02-08;Record TV;A Fazenda;18h-00h;6.3;2.9;65+;Masculino;São Paulo;Quarta
+225;2024-03-28;SBT;Roda a Roda;12h-18h;5.8;3.4;25-34;Masculino;Belo Horizonte;Domingo
+226;2024-07-18;TV Globo;Domingão;06h-12h;36.3;24.0;50-64;Equilibrado;Fortaleza;Quinta
+227;2024-06-09;TV Globo;Jornal Nacional;06h-12h;37.9;20.2;65+;Equilibrado;São Paulo;Quinta
+228;2024-01-26;TV Globo;Domingão;12h-18h;40.1;28.2;50-64;Masculino;Campinas;Sexta
+229;2024-06-17;RedeTV!;Opinião no Ar;00h-06h;5.5;2.4;35-49;Equilibrado;Recife;Sábado
+230;2024-07-24;SBT;SBT Brasil;18h-00h;15.1;6.6;25-34;Masculino;Curitiba;Sábado
+231;2024-04-06;TV Globo;Big Brother Brasil;00h-06h;39.3;21.8;18-24;Feminino;Rio de Janeiro;Segunda
+232;2024-12-16;TV Globo;Domingão;12h-18h;38.9;20.8;65+;Equilibrado;Rio de Janeiro;Segunda
+233;2024-10-20;SBT;Fofocalizando;00h-06h;7.0;4.4;65+;Equilibrado;Curitiba;Sexta
+234;2024-12-18;Record TV;Jornal da Record;12h-18h;11.7;5.4;18-24;Masculino;Porto Alegre;Quinta
+235;2024-06-07;SBT;Programa Silvio Santos;12h-18h;14.2;5.9;25-34;Equilibrado;Salvador;Terça
+236;2024-06-26;SBT;Roda a Roda;06h-12h;5.1;3.0;25-34;Feminino;Porto Alegre;Sexta
+237;2024-07-27;RedeTV!;Superpop;18h-00h;4.9;1.7;65+;Masculino;Campinas;Domingo
+238;2024-03-27;Record TV;Jornal da Record;00h-06h;10.2;6.2;50-64;Feminino;Porto Alegre;Domingo
+239;2024-04-07;TV Globo;Caldeirão;00h-06h;35.2;26.9;50-64;Feminino;Rio de Janeiro;Sexta
+240;2024-04-14;TV Globo;Fantástico;00h-06h;20.3;12.9;65+;Feminino;Rio de Janeiro;Segunda
+241;2024-04-08;TV Cultura;Metrópolis;12h-18h;5.6;3.0;65+;Masculino;Rio de Janeiro;Sábado
+242;2024-12-20;SBT;Fofocalizando;12h-18h;9.5;4.3;18-24;Equilibrado;Fortaleza;Quarta
+243;2024-08-13;Record TV;Hora do Faro;06h-12h;10.3;6.9;18-24;Equilibrado;São Paulo;Quinta
+244;2024-09-17;Band;Masterchef Brasil;12h-18h;1.0;0.6;18-24;Equilibrado;Curitiba;Terça
+245;2024-07-04;Band;Os Donos da Bola;12h-18h;4.3;1.9;50-64;Equilibrado;Rio de Janeiro;Quarta
+246;2024-11-16;TV Cultura;Café Filosófico;12h-18h;4.8;1.9;25-34;Equilibrado;São Paulo;Sábado
+247;2024-07-18;Band;Brasil Urgente;00h-06h;3.6;1.8;50-64;Masculino;Campinas;Domingo
+248;2024-10-17;TV Globo;Fantástico;12h-18h;24.7;13.9;65+;Equilibrado;Belo Horizonte;Quarta
+249;2024-08-24;TV Globo;Domingão;00h-06h;33.8;17.0;35-49;Masculino;Campinas;Domingo
+250;2024-10-14;Record TV;Balanço Geral;18h-00h;13.2;5.8;50-64;Equilibrado;Curitiba;Segunda
+251;2024-09-26;Band;Os Donos da Bola;00h-06h;4.4;2.1;65+;Feminino;Curitiba;Sábado
+252;2024-05-13;Record TV;Cidade Alerta;18h-00h;13.9;9.1;35-49;Masculino;Brasília;Terça
+253;2024-05-27;Band;Os Donos da Bola;18h-00h;1.8;0.8;50-64;Equilibrado;Salvador;Terça
+254;2024-01-09;TV Globo;Fantástico;00h-06h;23.8;16.1;35-49;Feminino;São Paulo;Domingo
+255;2024-03-04;Record TV;Hora do Faro;00h-06h;16.4;8.2;18-24;Masculino;Recife;Terça
+256;2024-01-01;TV Cultura;Roda Viva;00h-06h;3.8;1.8;65+;Masculino;Curitiba;Sexta
+257;2024-09-19;Band;Masterchef Brasil;06h-12h;6.4;1.9;65+;Masculino;São Paulo;Quarta
+258;2024-05-27;SBT;Casos de Família;12h-18h;13.0;8.1;18-24;Equilibrado;Salvador;Quinta
+259;2024-06-01;TV Cultura;Metrópolis;06h-12h;2.0;1.2;18-24;Masculino;Porto Alegre;Segunda
+260;2024-10-28;Record TV;Hora do Faro;00h-06h;14.9;7.8;65+;Feminino;Porto Alegre;Segunda
+261;2024-10-07;RedeTV!;Leitura Dinâmica;00h-06h;3.0;1.4;50-64;Equilibrado;Curitiba;Quinta
+262;2024-11-04;SBT;Programa Silvio Santos;00h-06h;16.9;11.4;65+;Feminino;Belo Horizonte;Quinta
+263;2024-07-12;RedeTV!;Superpop;06h-12h;1.8;0.9;18-24;Masculino;Porto Alegre;Quarta
+264;2024-01-13;RedeTV!;Leitura Dinâmica;18h-00h;1.9;0.9;50-64;Feminino;Salvador;Quinta
+265;2024-07-05;SBT;SBT Brasil;18h-00h;7.1;4.8;25-34;Masculino;Salvador;Quarta
+266;2024-03-06;Record TV;Balanço Geral;00h-06h;6.8;4.6;25-34;Masculino;Campinas;Segunda
+267;2024-08-10;TV Globo;Caldeirão;18h-00h;28.2;14.3;50-64;Feminino;Curitiba;Sexta
+268;2024-06-06;TV Globo;Globo Esporte;18h-00h;32.9;22.4;18-24;Masculino;Brasília;Terça
+269;2024-12-12;TV Globo;Jornal Hoje;06h-12h;44.1;25.9;25-34;Masculino;Belo Horizonte;Sábado
+270;2024-03-22;Band;Os Donos da Bola;06h-12h;1.0;0.4;25-34;Masculino;Rio de Janeiro;Sábado
+271;2024-03-14;Band;Brasil Urgente;12h-18h;5.4;2.4;35-49;Equilibrado;Brasília;Sábado
+272;2024-06-06;TV Globo;Globo Esporte;18h-00h;36.4;21.7;25-34;Equilibrado;Curitiba;Terça
+273;2024-07-04;Record TV;Cidade Alerta;12h-18h;14.3;7.1;65+;Feminino;Fortaleza;Quarta
+274;2024-09-28;Record TV;Balanço Geral;06h-12h;5.7;3.8;18-24;Feminino;Curitiba;Sexta
+275;2024-06-21;TV Globo;Jornal Hoje;00h-06h;24.2;15.5;25-34;Feminino;Belo Horizonte;Quarta
+276;2024-08-04;SBT;Fofocalizando;18h-00h;6.5;4.1;35-49;Equilibrado;Curitiba;Sábado
+277;2024-10-07;Band;Os Donos da Bola;00h-06h;2.4;0.9;18-24;Feminino;Porto Alegre;Quinta
+278;2024-07-03;SBT;Programa Silvio Santos;12h-18h;7.5;4.2;18-24;Equilibrado;Porto Alegre;Terça
+279;2024-08-17;Band;Os Donos da Bola;12h-18h;4.0;1.2;65+;Masculino;Brasília;Segunda
+280;2024-05-27;TV Globo;Big Brother Brasil;00h-06h;31.3;17.5;65+;Feminino;Belo Horizonte;Quarta
+281;2024-07-11;Record TV;Cidade Alerta;12h-18h;6.6;4.0;25-34;Feminino;Porto Alegre;Quinta
+282;2024-02-12;Band;Os Donos da Bola;06h-12h;1.7;0.8;50-64;Equilibrado;Fortaleza;Terça
+283;2024-12-13;TV Globo;Bom Dia Brasil;00h-06h;17.6;11.3;25-34;Equilibrado;Recife;Sexta
+284;2024-10-20;TV Cultura;Jornal da Cultura;12h-18h;2.5;1.0;65+;Feminino;Recife;Sábado
+285;2024-10-26;Band;Masterchef Brasil;18h-00h;1.4;0.7;18-24;Equilibrado;São Paulo;Segunda
+286;2024-04-27;TV Globo;Globo Esporte;00h-06h;21.8;11.0;35-49;Masculino;Rio de Janeiro;Sábado
+287;2024-05-13;TV Globo;Bom Dia Brasil;18h-00h;42.1;23.2;35-49;Equilibrado;Brasília;Domingo
+288;2024-09-12;SBT;Fofocalizando;00h-06h;12.6;6.7;50-64;Feminino;Campinas;Quarta
+289;2024-03-03;Band;Brasil Urgente;06h-12h;6.9;2.2;50-64;Equilibrado;Campinas;Quinta
+290;2024-09-07;Record TV;A Fazenda;06h-12h;15.7;7.7;65+;Feminino;Rio de Janeiro;Quinta
+291;2024-06-26;TV Globo;Globo Esporte;18h-00h;42.5;24.6;18-24;Feminino;Porto Alegre;Quinta
+292;2024-03-24;SBT;Roda a Roda;00h-06h;17.8;7.7;25-34;Equilibrado;São Paulo;Terça
+293;2024-02-19;SBT;Domingo Legal;00h-06h;16.0;6.9;25-34;Equilibrado;Fortaleza;Domingo
+294;2024-01-24;SBT;Domingo Legal;18h-00h;12.5;8.3;65+;Equilibrado;Campinas;Sábado
+295;2024-06-05;Band;Jornal da Band;00h-06h;4.3;1.4;65+;Feminino;Recife;Sexta
+296;2024-12-17;TV Globo;Globo Esporte;06h-12h;33.8;23.6;65+;Masculino;Fortaleza;Sábado
+297;2024-12-24;TV Globo;Globo Esporte;12h-18h;18.8;11.6;18-24;Masculino;Campinas;Terça
+298;2024-03-28;Band;Jornal da Band;06h-12h;2.7;1.5;65+;Feminino;Curitiba;Terça
+299;2024-01-19;Record TV;Cidade Alerta;18h-00h;6.6;4.1;18-24;Equilibrado;Brasília;Quarta
+300;2024-03-10;Band;Jornal da Band;06h-12h;1.3;0.5;25-34;Equilibrado;Fortaleza;Terça
+301;2024-03-15;SBT;Domingo Legal;00h-06h;7.7;4.8;18-24;Masculino;Salvador;Sexta
+302;2024-10-02;Record TV;Balanço Geral;12h-18h;7.7;3.6;18-24;Equilibrado;Salvador;Sexta
+303;2024-08-22;TV Globo;Bom Dia Brasil;06h-12h;26.0;20.5;25-34;Masculino;Salvador;Domingo
+304;2024-06-12;TV Globo;Bom Dia Brasil;12h-18h;32.5;21.8;18-24;Masculino;Recife;Quarta
+305;2024-08-16;TV Globo;Jornal Nacional;12h-18h;40.1;31.0;25-34;Feminino;São Paulo;Domingo
+306;2024-04-10;TV Globo;Bom Dia Brasil;00h-06h;27.3;16.5;25-34;Equilibrado;Rio de Janeiro;Quinta
+307;2024-02-02;Band;Masterchef Brasil;06h-12h;6.7;3.4;18-24;Equilibrado;Fortaleza;Quarta
+308;2024-05-14;Record TV;Domingo Espetacular;18h-00h;12.0;7.7;35-49;Masculino;Salvador;Segunda
+309;2024-05-05;TV Globo;Jornal Nacional;12h-18h;29.7;16.8;50-64;Feminino;Porto Alegre;Quinta
+310;2024-08-04;TV Globo;Fantástico;18h-00h;34.0;23.9;65+;Equilibrado;Porto Alegre;Sexta
+311;2024-01-14;TV Globo;Caldeirão;06h-12h;32.3;21.7;50-64;Feminino;Curitiba;Sábado
+312;2024-09-25;Band;Os Donos da Bola;06h-12h;5.0;1.8;35-49;Equilibrado;Brasília;Quinta
+313;2024-06-18;Band;Masterchef Brasil;18h-00h;1.8;0.9;50-64;Masculino;Fortaleza;Segunda
+314;2024-09-18;SBT;Roda a Roda;06h-12h;13.3;7.0;18-24;Masculino;Recife;Domingo
+315;2024-10-17;Band;Masterchef Brasil;06h-12h;2.4;1.4;65+;Masculino;Brasília;Quinta
+316;2024-09-08;TV Globo;Jornal Hoje;00h-06h;34.6;21.0;25-34;Masculino;Recife;Quarta
+317;2024-12-01;Band;Faustão na Band;06h-12h;6.8;2.2;65+;Masculino;Campinas;Segunda
+318;2024-07-01;TV Cultura;Jornal da Cultura;12h-18h;4.6;2.3;25-34;Equilibrado;Belo Horizonte;Quinta
+319;2024-02-21;TV Globo;Domingão;12h-18h;44.1;34.3;25-34;Masculino;Rio de Janeiro;Sexta
+320;2024-05-03;TV Globo;Globo Esporte;00h-06h;28.9;14.5;18-24;Masculino;Fortaleza;Sábado
+321;2024-05-12;SBT;Casos de Família;18h-00h;6.3;2.9;25-34;Equilibrado;Rio de Janeiro;Segunda
+322;2024-03-05;Record TV;Hora do Faro;18h-00h;6.3;3.7;35-49;Equilibrado;Fortaleza;Segunda
+323;2024-05-28;SBT;Casos de Família;00h-06h;7.0;3.6;65+;Feminino;Porto Alegre;Terça
+324;2024-03-10;TV Globo;Fantástico;00h-06h;40.3;29.7;18-24;Feminino;Porto Alegre;Terça
+325;2024-09-14;SBT;Programa Silvio Santos;06h-12h;5.5;2.7;18-24;Equilibrado;Recife;Terça
+326;2024-11-06;TV Globo;Jornal Nacional;12h-18h;31.4;19.9;18-24;Masculino;São Paulo;Segunda
+327;2024-03-03;SBT;Roda a Roda;00h-06h;16.6;8.7;65+;Feminino;Porto Alegre;Quinta
+328;2024-06-01;TV Cultura;Roda Viva;06h-12h;3.4;1.5;18-24;Masculino;Fortaleza;Terça
+329;2024-08-03;TV Globo;Jornal Nacional;06h-12h;39.0;22.0;25-34;Masculino;Fortaleza;Terça
+330;2024-01-24;TV Globo;Fantástico;12h-18h;31.2;19.2;65+;Feminino;Rio de Janeiro;Sábado
+331;2024-05-11;TV Globo;Big Brother Brasil;12h-18h;18.6;13.8;35-49;Equilibrado;Recife;Domingo
+332;2024-02-16;TV Globo;Jornal Hoje;06h-12h;32.1;21.3;18-24;Feminino;Curitiba;Quarta
+333;2024-05-28;TV Globo;Jornal Nacional;12h-18h;39.8;29.0;25-34;Masculino;Salvador;Terça
+334;2024-10-09;TV Globo;Bom Dia Brasil;06h-12h;19.3;10.7;18-24;Masculino;São Paulo;Sexta
+335;2024-01-07;TV Globo;Jornal Hoje;00h-06h;41.5;25.4;25-34;Feminino;Salvador;Quarta
+336;2024-10-27;TV Globo;Big Brother Brasil;00h-06h;27.3;19.0;35-49;Equilibrado;Brasília;Segunda
+337;2024-06-19;TV Cultura;Metrópolis;18h-00h;7.6;4.2;65+;Feminino;Rio de Janeiro;Quinta
+338;2024-09-19;TV Globo;Fantástico;06h-12h;32.2;17.2;18-24;Masculino;Recife;Sexta
+339;2024-09-22;RedeTV!;Leitura Dinâmica;00h-06h;2.8;1.3;50-64;Masculino;Porto Alegre;Quinta
+340;2024-08-09;TV Globo;Jornal Nacional;06h-12h;30.0;17.4;18-24;Equilibrado;Porto Alegre;Quinta
+341;2024-01-16;Band;Os Donos da Bola;06h-12h;7.8;2.6;35-49;Equilibrado;Campinas;Terça
+342;2024-12-25;TV Globo;Domingão;06h-12h;16.5;11.1;65+;Masculino;Recife;Sexta
+343;2024-05-18;TV Cultura;Metrópolis;12h-18h;6.5;3.9;35-49;Equilibrado;Recife;Quarta
+344;2024-09-14;SBT;Programa Silvio Santos;12h-18h;6.5;3.7;35-49;Feminino;Recife;Terça
+345;2024-12-24;TV Globo;Jornal Nacional;12h-18h;17.0;9.3;50-64;Equilibrado;Belo Horizonte;Domingo
+346;2024-01-02;TV Globo;Globo Esporte;06h-12h;41.4;30.2;18-24;Masculino;Brasília;Sexta
+347;2024-10-01;TV Globo;Domingão;00h-06h;28.6;19.4;18-24;Equilibrado;Brasília;Sexta
+348;2024-01-01;Band;Os Donos da Bola;06h-12h;1.8;0.6;65+;Masculino;Recife;Sexta
+349;2024-08-24;Band;Brasil Urgente;12h-18h;2.0;0.9;65+;Equilibrado;Brasília;Domingo
+350;2024-12-11;SBT;SBT Brasil;06h-12h;10.0;5.6;35-49;Equilibrado;Rio de Janeiro;Domingo
+351;2024-01-02;RedeTV!;Opinião no Ar;00h-06h;8.0;3.3;18-24;Equilibrado;Campinas;Sexta
+352;2024-12-27;TV Globo;Caldeirão;12h-18h;28.0;21.5;25-34;Feminino;Rio de Janeiro;Segunda
+353;2024-11-12;SBT;Programa Silvio Santos;18h-00h;6.2;3.6;35-49;Feminino;Brasília;Terça
+354;2024-05-26;Band;Masterchef Brasil;12h-18h;7.8;2.8;18-24;Masculino;Salvador;Terça
+355;2024-06-13;TV Globo;Caldeirão;18h-00h;27.4;13.9;65+;Equilibrado;Campinas;Quarta
+356;2024-01-04;TV Globo;Domingão;00h-06h;28.0;15.2;18-24;Equilibrado;Belo Horizonte;Quarta
+357;2024-02-23;RedeTV!;Superpop;12h-18h;5.9;2.7;65+;Masculino;Belo Horizonte;Sábado
+358;2024-07-05;TV Globo;Jornal Hoje;18h-00h;44.0;24.0;18-24;Equilibrado;Salvador;Sexta
+359;2024-08-08;RedeTV!;Opinião no Ar;18h-00h;5.8;3.3;35-49;Equilibrado;Porto Alegre;Quinta
+360;2024-05-03;TV Globo;Caldeirão;18h-00h;44.9;22.7;25-34;Equilibrado;Rio de Janeiro;Domingo
+361;2024-07-03;SBT;Roda a Roda;18h-00h;6.4;2.8;25-34;Equilibrado;Salvador;Quarta
+362;2024-08-20;SBT;Domingo Legal;00h-06h;6.5;2.7;25-34;Masculino;São Paulo;Quarta
+363;2024-09-05;SBT;Programa Silvio Santos;06h-12h;6.1;3.5;50-64;Masculino;São Paulo;Segunda
+364;2024-10-24;Record TV;Hora do Faro;12h-18h;7.6;5.1;50-64;Masculino;Salvador;Segunda
+365;2024-07-25;TV Globo;Domingão;18h-00h;15.3;11.0;35-49;Masculino;Curitiba;Quarta
+366;2024-08-14;TV Globo;Jornal Nacional;18h-00h;34.7;26.7;25-34;Equilibrado;Curitiba;Quinta
+367;2024-01-12;Band;Jornal da Band;06h-12h;5.4;2.2;50-64;Equilibrado;Porto Alegre;Sábado
+368;2024-07-03;TV Globo;Big Brother Brasil;18h-00h;22.0;14.7;50-64;Feminino;Brasília;Terça
+369;2024-08-22;TV Globo;Globo Esporte;06h-12h;37.5;20.2;25-34;Feminino;Fortaleza;Segunda
+370;2024-07-05;SBT;SBT Brasil;00h-06h;17.2;11.7;25-34;Feminino;Rio de Janeiro;Sexta
+371;2024-10-10;RedeTV!;Opinião no Ar;00h-06h;4.6;2.5;50-64;Feminino;Rio de Janeiro;Sábado
+372;2024-02-26;TV Globo;Jornal Nacional;12h-18h;25.8;13.2;65+;Feminino;Brasília;Sexta
+373;2024-05-26;SBT;Domingo Legal;12h-18h;6.6;3.3;25-34;Feminino;São Paulo;Quarta
+374;2024-03-03;Record TV;Hora do Faro;00h-06h;12.1;8.3;35-49;Equilibrado;Recife;Domingo
+375;2024-03-01;TV Globo;Globo Esporte;12h-18h;25.7;17.3;50-64;Equilibrado;Curitiba;Domingo
+376;2024-08-25;TV Globo;Fantástico;06h-12h;18.0;12.8;25-34;Equilibrado;Brasília;Segunda
+377;2024-04-10;SBT;SBT Brasil;12h-18h;5.0;3.0;25-34;Feminino;Campinas;Domingo
+378;2024-07-18;TV Globo;Big Brother Brasil;06h-12h;30.8;18.0;18-24;Feminino;Recife;Quarta
+379;2024-01-06;RedeTV!;Superpop;18h-00h;6.9;3.8;18-24;Masculino;Salvador;Quarta
+380;2024-01-04;TV Globo;Domingão;06h-12h;39.1;21.7;50-64;Masculino;Curitiba;Sexta
+381;2024-08-05;Record TV;A Fazenda;00h-06h;5.1;3.5;18-24;Equilibrado;Brasília;Quinta
+382;2024-04-04;TV Globo;Jornal Nacional;12h-18h;19.9;15.9;65+;Feminino;Brasília;Domingo
+383;2024-01-01;SBT;Fofocalizando;06h-12h;6.0;3.9;25-34;Feminino;Fortaleza;Domingo
+384;2024-08-25;TV Globo;Fantástico;00h-06h;37.4;25.3;65+;Feminino;São Paulo;Domingo
+385;2024-06-22;Record TV;Hora do Faro;00h-06h;16.5;7.4;65+;Masculino;Brasília;Quarta
+386;2024-06-01;TV Globo;Domingão;00h-06h;39.6;23.7;18-24;Masculino;Porto Alegre;Quinta
+387;2024-03-18;TV Globo;Globo Esporte;12h-18h;36.2;18.3;65+;Equilibrado;Fortaleza;Sexta
+388;2024-01-23;Record TV;Balanço Geral;12h-18h;15.1;8.8;25-34;Feminino;Rio de Janeiro;Quinta
+389;2024-03-05;TV Globo;Jornal Nacional;06h-12h;38.4;24.6;25-34;Equilibrado;Campinas;Domingo
+390;2024-09-07;SBT;SBT Brasil;18h-00h;11.3;7.1;50-64;Feminino;Porto Alegre;Segunda
+391;2024-05-18;SBT;SBT Brasil;06h-12h;16.7;6.7;18-24;Equilibrado;Brasília;Quarta
+392;2024-11-28;Band;Faustão na Band;06h-12h;1.1;0.5;35-49;Masculino;Belo Horizonte;Terça
+393;2024-10-02;RedeTV!;TV Fama;12h-18h;7.8;2.6;50-64;Equilibrado;Recife;Sexta
+394;2024-07-26;TV Globo;Jornal Hoje;18h-00h;27.0;17.3;50-64;Equilibrado;Salvador;Segunda
+395;2024-06-23;SBT;Casos de Família;06h-12h;8.2;5.4;25-34;Masculino;Salvador;Segunda
+396;2024-01-16;Record TV;Balanço Geral;18h-00h;15.7;8.1;18-24;Masculino;Porto Alegre;Quarta
+397;2024-12-23;TV Globo;Domingão;12h-18h;23.5;13.2;18-24;Equilibrado;Brasília;Domingo
+398;2024-02-08;TV Globo;Big Brother Brasil;18h-00h;31.3;18.4;18-24;Masculino;Curitiba;Segunda
+399;2024-04-02;Record TV;A Fazenda;06h-12h;15.6;7.7;25-34;Masculino;Salvador;Segunda
+400;2024-04-08;TV Globo;Globo Esporte;00h-06h;35.9;22.3;65+;Feminino;Porto Alegre;Quarta
+401;2024-05-16;SBT;Programa Silvio Santos;06h-12h;9.2;5.9;50-64;Feminino;Belo Horizonte;Quinta
+402;2024-08-08;SBT;Fofocalizando;00h-06h;16.1;7.0;65+;Feminino;Salvador;Sábado
+403;2024-08-16;Band;Jornal da Band;12h-18h;4.8;1.5;35-49;Masculino;Belo Horizonte;Terça
+404;2024-05-05;SBT;Fofocalizando;00h-06h;11.6;5.8;50-64;Equilibrado;São Paulo;Domingo
+405;2024-01-05;Record TV;A Fazenda;00h-06h;7.1;4.4;35-49;Feminino;Recife;Domingo
+406;2024-03-02;Record TV;Cidade Alerta;18h-00h;10.5;5.7;35-49;Masculino;Fortaleza;Segunda
+407;2024-06-13;TV Globo;Caldeirão;06h-12h;39.8;25.4;35-49;Equilibrado;Fortaleza;Sexta
+408;2024-02-16;TV Cultura;Metrópolis;00h-06h;5.7;1.8;35-49;Feminino;Porto Alegre;Sexta
+409;2024-05-17;TV Globo;Big Brother Brasil;00h-06h;23.9;12.5;35-49;Equilibrado;Fortaleza;Sábado
+410;2024-07-22;TV Globo;Jornal Nacional;12h-18h;31.9;19.1;65+;Feminino;Belo Horizonte;Quinta
+411;2024-03-01;TV Globo;Domingão;06h-12h;28.5;17.9;50-64;Equilibrado;Recife;Sábado
+412;2024-06-07;TV Globo;Jornal Hoje;06h-12h;40.8;29.0;65+;Feminino;Fortaleza;Quinta
+413;2024-12-17;Record TV;Cidade Alerta;12h-18h;7.8;4.4;50-64;Equilibrado;São Paulo;Quinta
+414;2024-07-19;RedeTV!;Superpop;18h-00h;4.6;2.7;25-34;Masculino;São Paulo;Sábado
+415;2024-01-22;TV Globo;Globo Esporte;12h-18h;22.8;13.8;65+;Equilibrado;Belo Horizonte;Quinta
+416;2024-08-14;TV Globo;Bom Dia Brasil;06h-12h;43.7;26.1;35-49;Masculino;Salvador;Terça
+417;2024-08-17;Record TV;Hora do Faro;18h-00h;10.3;4.3;65+;Feminino;Fortaleza;Sábado
+418;2024-12-28;TV Globo;Domingão;12h-18h;28.1;14.7;18-24;Masculino;Brasília;Quarta
+419;2024-03-15;TV Globo;Big Brother Brasil;00h-06h;21.3;13.2;25-34;Masculino;São Paulo;Sábado
+420;2024-08-27;TV Globo;Big Brother Brasil;00h-06h;18.1;13.2;35-49;Equilibrado;Fortaleza;Quinta
+421;2024-05-06;Record TV;Balanço Geral;06h-12h;10.5;4.4;65+;Equilibrado;Salvador;Segunda
+422;2024-02-27;TV Globo;Bom Dia Brasil;12h-18h;16.0;8.8;50-64;Equilibrado;São Paulo;Terça
+423;2024-07-19;SBT;Roda a Roda;12h-18h;5.4;2.5;65+;Masculino;Rio de Janeiro;Quarta
+424;2024-07-18;TV Globo;Bom Dia Brasil;18h-00h;29.9;15.6;18-24;Masculino;Fortaleza;Quinta
+425;2024-04-15;RedeTV!;Superpop;12h-18h;6.6;2.1;18-24;Feminino;São Paulo;Segunda
+426;2024-03-09;TV Globo;Caldeirão;12h-18h;20.5;15.4;35-49;Feminino;Campinas;Terça
+427;2024-07-08;RedeTV!;Opinião no Ar;12h-18h;4.9;2.6;65+;Masculino;Brasília;Terça
+428;2024-01-06;TV Cultura;Roda Viva;00h-06h;6.3;2.5;35-49;Equilibrado;Campinas;Domingo
+429;2024-10-08;TV Cultura;Jornal da Cultura;06h-12h;5.9;2.2;25-34;Feminino;Belo Horizonte;Domingo
+430;2024-07-08;SBT;Fofocalizando;06h-12h;7.1;4.1;35-49;Equilibrado;São Paulo;Quarta
+431;2024-07-15;TV Cultura;Café Filosófico;06h-12h;1.9;0.8;50-64;Equilibrado;Salvador;Domingo
+432;2024-08-09;TV Globo;Big Brother Brasil;18h-00h;25.7;14.4;65+;Equilibrado;Campinas;Quarta
+433;2024-12-16;TV Globo;Jornal Nacional;00h-06h;24.0;12.0;35-49;Feminino;São Paulo;Terça
+434;2024-03-20;TV Globo;Jornal Nacional;06h-12h;32.0;24.1;18-24;Masculino;Belo Horizonte;Domingo
+435;2024-01-09;TV Globo;Globo Esporte;18h-00h;41.5;23.7;35-49;Equilibrado;Campinas;Segunda
+436;2024-04-06;SBT;Roda a Roda;12h-18h;9.5;4.3;18-24;Masculino;Porto Alegre;Quarta
+437;2024-06-28;TV Globo;Big Brother Brasil;18h-00h;42.2;31.3;18-24;Masculino;Campinas;Sábado
+438;2024-01-08;TV Globo;Globo Esporte;18h-00h;24.9;17.8;50-64;Equilibrado;Brasília;Domingo
+439;2024-04-25;SBT;Fofocalizando;18h-00h;14.0;6.5;25-34;Masculino;Belo Horizonte;Quarta
+440;2024-09-01;Band;Faustão na Band;12h-18h;5.1;1.7;35-49;Equilibrado;Brasília;Sábado
+441;2024-10-02;TV Globo;Big Brother Brasil;18h-00h;37.6;19.8;50-64;Feminino;Campinas;Quinta
+442;2024-08-13;TV Globo;Big Brother Brasil;06h-12h;18.5;10.6;25-34;Masculino;Fortaleza;Quinta
+443;2024-07-06;TV Globo;Globo Esporte;18h-00h;19.8;15.3;65+;Feminino;Rio de Janeiro;Sexta
+444;2024-10-05;TV Globo;Jornal Hoje;18h-00h;33.7;24.9;25-34;Feminino;Fortaleza;Segunda
+445;2024-03-14;Record TV;Jornal da Record;00h-06h;9.8;6.0;35-49;Feminino;Salvador;Terça
+446;2024-03-23;Record TV;A Fazenda;00h-06h;8.3;3.6;18-24;Equilibrado;Recife;Segunda
+447;2024-11-24;SBT;Roda a Roda;06h-12h;5.1;2.9;65+;Feminino;Salvador;Domingo
+448;2024-06-23;TV Globo;Jornal Nacional;12h-18h;20.0;10.6;25-34;Feminino;Salvador;Segunda
+449;2024-10-21;TV Globo;Domingão;12h-18h;36.6;19.8;18-24;Feminino;Porto Alegre;Sábado
+450;2024-11-05;Band;Os Donos da Bola;00h-06h;4.4;2.1;35-49;Feminino;Campinas;Terça
+451;2024-09-08;TV Globo;Domingão;12h-18h;19.6;10.3;35-49;Equilibrado;Salvador;Sábado
+452;2024-05-25;TV Cultura;Roda Viva;12h-18h;6.2;3.7;65+;Feminino;Fortaleza;Segunda
+453;2024-04-08;SBT;Casos de Família;00h-06h;15.8;7.3;25-34;Equilibrado;Campinas;Sexta
+454;2024-03-11;SBT;Programa Silvio Santos;18h-00h;16.3;11.1;50-64;Equilibrado;Brasília;Sábado
+455;2024-11-17;TV Globo;Bom Dia Brasil;18h-00h;16.7;11.0;35-49;Equilibrado;Brasília;Sexta
+456;2024-08-05;TV Globo;Big Brother Brasil;18h-00h;36.0;25.7;50-64;Masculino;São Paulo;Sábado
+457;2024-03-12;SBT;SBT Brasil;00h-06h;6.6;3.8;35-49;Masculino;Salvador;Sábado
+458;2024-06-01;TV Globo;Bom Dia Brasil;12h-18h;31.7;17.5;18-24;Equilibrado;Belo Horizonte;Quarta
+459;2024-05-15;Record TV;Hora do Faro;00h-06h;7.2;4.8;25-34;Equilibrado;Recife;Terça
+460;2024-03-26;SBT;Domingo Legal;12h-18h;13.4;5.7;25-34;Masculino;Curitiba;Segunda
+461;2024-11-14;TV Globo;Big Brother Brasil;06h-12h;38.6;26.3;50-64;Masculino;Fortaleza;Segunda
+462;2024-06-27;TV Globo;Bom Dia Brasil;06h-12h;22.9;17.2;18-24;Equilibrado;Salvador;Quinta
+463;2024-01-23;TV Globo;Fantástico;00h-06h;40.1;27.8;25-34;Equilibrado;Rio de Janeiro;Segunda
+464;2024-09-20;Record TV;Jornal da Record;12h-18h;8.2;5.2;25-34;Masculino;Belo Horizonte;Quarta
+465;2024-01-23;Band;Jornal da Band;06h-12h;7.6;2.8;18-24;Feminino;São Paulo;Sexta
+466;2024-02-22;TV Globo;Jornal Hoje;06h-12h;24.6;14.4;50-64;Masculino;Fortaleza;Quinta
+467;2024-06-01;RedeTV!;Opinião no Ar;18h-00h;2.5;1.1;18-24;Equilibrado;Salvador;Terça
+468;2024-07-22;SBT;Roda a Roda;18h-00h;10.5;5.6;25-34;Masculino;Rio de Janeiro;Terça
+469;2024-10-09;TV Cultura;Metrópolis;00h-06h;1.8;0.9;35-49;Equilibrado;Rio de Janeiro;Quinta
+470;2024-05-04;TV Globo;Caldeirão;06h-12h;26.7;15.6;25-34;Feminino;Belo Horizonte;Quinta
+471;2024-01-14;SBT;SBT Brasil;18h-00h;11.2;5.9;25-34;Feminino;Campinas;Quarta
+472;2024-08-11;TV Globo;Jornal Nacional;18h-00h;41.4;30.7;35-49;Masculino;Brasília;Sexta
+473;2024-03-10;SBT;Programa Silvio Santos;00h-06h;13.1;7.5;25-34;Masculino;Belo Horizonte;Quarta
+474;2024-08-06;SBT;SBT Brasil;18h-00h;8.5;4.1;25-34;Feminino;Salvador;Quinta
+475;2024-01-06;Band;Brasil Urgente;00h-06h;5.0;2.2;35-49;Feminino;Brasília;Quarta
+476;2024-05-23;Record TV;Balanço Geral;12h-18h;10.4;5.9;50-64;Masculino;Porto Alegre;Sexta
+477;2024-01-20;SBT;Casos de Família;18h-00h;5.8;2.3;35-49;Masculino;Brasília;Domingo
+478;2024-02-13;TV Globo;Globo Esporte;00h-06h;37.3;21.6;35-49;Masculino;Salvador;Domingo
+479;2024-09-03;SBT;Programa Silvio Santos;06h-12h;12.6;5.9;35-49;Equilibrado;Recife;Segunda
+480;2024-09-09;TV Globo;Bom Dia Brasil;06h-12h;23.8;15.2;35-49;Masculino;Fortaleza;Segunda
+481;2024-11-28;TV Globo;Bom Dia Brasil;06h-12h;31.3;19.9;35-49;Feminino;Curitiba;Quinta
+482;2024-02-12;Band;Brasil Urgente;00h-06h;6.3;2.7;35-49;Equilibrado;Rio de Janeiro;Sexta
+483;2024-12-06;TV Globo;Jornal Nacional;06h-12h;19.5;12.5;65+;Masculino;São Paulo;Domingo
+484;2024-09-13;SBT;Domingo Legal;06h-12h;14.1;8.4;18-24;Feminino;Porto Alegre;Quarta
+485;2024-12-08;SBT;SBT Brasil;06h-12h;9.4;3.9;50-64;Feminino;Recife;Sexta
+486;2024-11-07;SBT;Roda a Roda;06h-12h;10.2;6.1;18-24;Feminino;Fortaleza;Sábado
+487;2024-07-28;Band;Jornal da Band;12h-18h;2.3;0.8;50-64;Equilibrado;Curitiba;Domingo
+488;2024-06-07;TV Globo;Jornal Nacional;00h-06h;30.2;19.7;65+;Feminino;Campinas;Domingo
+489;2024-04-10;Band;Faustão na Band;00h-06h;6.3;3.0;25-34;Equilibrado;Brasília;Sábado
+490;2024-06-26;Record TV;A Fazenda;00h-06h;17.8;7.2;35-49;Masculino;Curitiba;Sexta
+491;2024-09-14;TV Globo;Fantástico;00h-06h;16.8;11.7;18-24;Equilibrado;Recife;Sábado
+492;2024-01-25;Record TV;Jornal da Record;00h-06h;10.1;4.6;18-24;Feminino;Belo Horizonte;Sexta
+493;2024-10-06;TV Cultura;Roda Viva;00h-06h;2.3;1.2;65+;Equilibrado;Rio de Janeiro;Sábado
+494;2024-12-11;TV Cultura;Metrópolis;00h-06h;1.8;0.6;25-34;Masculino;Fortaleza;Segunda
+495;2024-05-06;SBT;Programa Silvio Santos;00h-06h;15.7;7.7;50-64;Equilibrado;Curitiba;Terça
+496;2024-06-10;TV Globo;Caldeirão;06h-12h;35.2;20.1;65+;Equilibrado;São Paulo;Segunda
+497;2024-03-03;TV Globo;Bom Dia Brasil;00h-06h;15.8;9.7;65+;Feminino;Brasília;Quinta
+498;2024-05-08;TV Globo;Globo Esporte;18h-00h;44.9;29.6;65+;Equilibrado;Curitiba;Sábado
+499;2024-12-03;Band;Jornal da Band;12h-18h;6.5;3.3;50-64;Equilibrado;Brasília;Segunda
+500;2024-11-09;SBT;Fofocalizando;06h-12h;10.0;5.1;25-34;Equilibrado;Rio de Janeiro;Quarta

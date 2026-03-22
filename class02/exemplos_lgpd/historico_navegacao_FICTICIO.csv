@@ -1,61 +1,158 @@
-﻿Usuario_ID;Data_Acesso;Hora;Site_Visitado;Tempo_Minutos;Dispositivo;Localizacao_Cidade
-USR-1265;16/10/2024;13:02;netflix.com;112;Tablet;Feira de Santana
-USR-9061;24/05/2024;18:21;mercadolivre.com.br;9;Smartphone;Aparecida de Goiânia
-USR-2509;12/10/2024;03:34;folha.uol.com.br;103;Smartphone;Aparecida de Goiânia
-USR-8675;08/11/2024;20:12;uol.com.br;99;Smart TV;Natal
-USR-8630;19/08/2024;23:09;mercadolivre.com.br;43;Smartphone;Goiânia
-USR-6567;20/08/2024;16:49;amazon.com.br;95;Smart TV;Rio de Janeiro
-USR-7577;21/10/2024;09:00;spotify.com;107;Smart TV;Rio de Janeiro
-USR-1139;25/04/2024;10:27;folha.uol.com.br;34;Desktop;Maringá
-USR-6351;29/09/2024;14:41;mercadolivre.com.br;26;Tablet;Aparecida de Goiânia
-USR-3500;06/04/2024;04:13;twitter.com;24;Smartphone;Rio de Janeiro
-USR-9739;04/11/2024;01:49;folha.uol.com.br;70;Tablet;Fortaleza
-USR-6365;10/06/2024;07:42;instagram.com;26;Tablet;Belém
-USR-7951;18/05/2024;07:59;instagram.com;99;Tablet;Rio de Janeiro
-USR-3249;13/08/2024;03:53;tiktok.com;4;Smart TV;Campinas
-USR-7232;26/01/2024;14:28;tiktok.com;26;Desktop;Porto Velho
-USR-3042;17/02/2024;05:32;spotify.com;93;Smartphone;Belém
-USR-4434;02/03/2024;15:47;spotify.com;46;Tablet;Santos
-USR-4129;17/04/2024;02:51;netflix.com;47;Smart TV;Campo Grande
-USR-9335;27/02/2024;14:01;g1.globo.com;49;Smart TV;Niterói
-USR-2639;30/06/2024;11:19;uol.com.br;56;Tablet;São Luís
-USR-2383;29/11/2024;20:51;tiktok.com;113;Smart TV;Rio de Janeiro
-USR-5500;27/11/2024;10:02;folha.uol.com.br;109;Desktop;Goiânia
-USR-1151;06/03/2024;16:09;folha.uol.com.br;89;Smart TV;Belo Horizonte
-USR-2002;01/11/2024;06:55;amazon.com.br;85;Tablet;Cuiabá
-USR-7797;21/03/2024;13:11;folha.uol.com.br;120;Desktop;Goiânia
-USR-6981;26/02/2024;05:01;linkedin.com;27;Tablet;Niterói
-USR-7114;15/05/2024;19:20;g1.globo.com;101;Smartphone;Vitória
-USR-1466;28/08/2024;01:47;folha.uol.com.br;117;Smart TV;Belo Horizonte
-USR-9838;12/07/2024;19:46;netflix.com;22;Desktop;Curitiba
-USR-1244;27/06/2024;07:05;tiktok.com;9;Smartphone;Joinville
-USR-8609;31/07/2024;17:28;folha.uol.com.br;110;Smartphone;Teresina
-USR-8802;28/08/2024;08:08;youtube.com;85;Tablet;Curitiba
-USR-8828;09/09/2024;23:53;spotify.com;26;Desktop;São Luís
-USR-9433;07/03/2024;04:14;mercadolivre.com.br;11;Smartphone;Niterói
-USR-5625;10/11/2024;03:15;instagram.com;33;Desktop;Teresina
-USR-6384;29/12/2024;14:42;spotify.com;67;Tablet;Manaus
-USR-6373;04/08/2024;11:42;folha.uol.com.br;75;Smartphone;Porto Velho
-USR-1786;11/04/2024;05:00;folha.uol.com.br;82;Smartphone;Maceió
-USR-3652;22/07/2024;10:00;spotify.com;62;Smart TV;Aracaju
-USR-4076;17/11/2024;18:25;linkedin.com;28;Smart TV;Campo Grande
-USR-9943;13/08/2024;03:47;twitter.com;84;Tablet;Vitória
-USR-4052;10/05/2024;10:51;linkedin.com;99;Smart TV;Curitiba
-USR-6609;22/09/2024;08:04;youtube.com;55;Smartphone;Feira de Santana
-USR-3068;18/02/2024;07:29;uol.com.br;16;Tablet;Manaus
-USR-6695;06/06/2024;14:27;netflix.com;11;Desktop;Niterói
-USR-9370;09/04/2024;04:53;mercadolivre.com.br;29;Smartphone;Guarulhos
-USR-6798;26/09/2024;19:49;folha.uol.com.br;73;Smartphone;Feira de Santana
-USR-6941;03/10/2024;07:44;netflix.com;22;Tablet;Belém
-USR-2640;14/12/2024;05:40;mercadolivre.com.br;110;Desktop;Porto Alegre
-USR-9860;08/11/2024;13:54;instagram.com;36;Smartphone;Niterói
-USR-5857;18/07/2024;16:26;linkedin.com;60;Tablet;Manaus
-USR-5915;01/01/2024;02:16;amazon.com.br;72;Tablet;Campinas
-USR-2094;31/01/2024;13:08;folha.uol.com.br;62;Desktop;Maceió
-USR-7410;22/03/2024;20:26;tiktok.com;76;Desktop;Maceió
-USR-6741;06/02/2024;07:17;folha.uol.com.br;115;Smart TV;Recife
-USR-3487;15/04/2024;14:09;mercadolivre.com.br;36;Tablet;São Paulo
-USR-2921;23/09/2024;09:33;uol.com.br;99;Smart TV;São Luís
-USR-8180;01/06/2024;03:34;amazon.com.br;79;Smart TV;Porto Alegre
-USR-2153;23/06/2024;08:02;tiktok.com;108;Tablet;Recife
-USR-8643;06/08/2024;18:10;amazon.com.br;89;Smart TV;João Pessoa
+Usuario;Site_Visitado;Data_Hora;Tempo_Permanencia_Min;Dispositivo
+Ana Maria Silva;g1.globo.com;2024-11-27 20:02;16;Desktop
+Ana Maria Silva;reddit.com;2024-10-13 07:43;17;Mobile
+Ana Maria Silva;facebook.com;2024-03-16 05:46;19;Desktop
+Ana Maria Silva;reddit.com;2024-04-21 02:33;1;Mobile
+Ana Maria Silva;reddit.com;2024-02-16 17:39;12;Desktop
+Ana Maria Silva;twitter.com;2024-07-23 08:39;41;Tablet
+Ana Maria Silva;mercadolivre.com.br;2024-04-21 11:30;43;Desktop
+Ana Maria Silva;youtube.com;2024-05-27 07:56;43;Mobile
+Ana Maria Silva;amazon.com.br;2024-08-26 20:25;23;Tablet
+Ana Maria Silva;uol.com.br;2024-08-10 03:14;19;Mobile
+Ana Maria Silva;twitter.com;2024-08-11 07:42;8;Desktop
+Ana Maria Silva;instagram.com;2024-08-11 21:07;45;Mobile
+Ana Maria Silva;facebook.com;2024-12-05 15:53;39;Mobile
+João Pedro Santos;mercadolivre.com.br;2024-04-01 09:17;14;Mobile
+João Pedro Santos;instagram.com;2024-01-18 10:16;27;Mobile
+João Pedro Santos;g1.globo.com;2024-08-14 12:16;18;Mobile
+João Pedro Santos;g1.globo.com;2024-12-08 10:40;20;Mobile
+João Pedro Santos;folha.uol.com.br;2024-07-08 18:56;35;Desktop
+João Pedro Santos;instagram.com;2024-11-04 19:39;9;Tablet
+João Pedro Santos;twitter.com;2024-09-01 23:01;6;Tablet
+João Pedro Santos;g1.globo.com;2024-06-12 17:04;34;Desktop
+João Pedro Santos;mercadolivre.com.br;2024-06-18 06:10;26;Tablet
+João Pedro Santos;instagram.com;2024-04-10 05:58;22;Mobile
+João Pedro Santos;g1.globo.com;2024-04-18 23:15;3;Desktop
+João Pedro Santos;facebook.com;2024-09-04 16:25;3;Desktop
+João Pedro Santos;reddit.com;2024-05-10 00:14;3;Mobile
+João Pedro Santos;twitter.com;2024-12-04 12:41;9;Tablet
+João Pedro Santos;uol.com.br;2024-05-28 02:04;33;Tablet
+Maria Fernanda Oliveira;mercadolivre.com.br;2024-01-01 23:53;39;Desktop
+Maria Fernanda Oliveira;twitter.com;2024-02-24 18:50;13;Tablet
+Maria Fernanda Oliveira;mercadolivre.com.br;2024-05-26 10:27;2;Mobile
+Maria Fernanda Oliveira;youtube.com;2024-05-15 06:06;42;Tablet
+Maria Fernanda Oliveira;uol.com.br;2024-08-13 09:27;15;Mobile
+Maria Fernanda Oliveira;mercadolivre.com.br;2024-09-09 15:18;33;Desktop
+Maria Fernanda Oliveira;twitter.com;2024-07-01 15:46;24;Tablet
+Maria Fernanda Oliveira;amazon.com.br;2024-12-04 14:14;2;Mobile
+Maria Fernanda Oliveira;amazon.com.br;2024-04-15 11:30;7;Tablet
+Maria Fernanda Oliveira;uol.com.br;2024-05-11 04:51;7;Tablet
+Maria Fernanda Oliveira;reddit.com;2024-03-07 15:37;6;Desktop
+Carlos Eduardo Costa;amazon.com.br;2024-10-27 15:33;15;Desktop
+Carlos Eduardo Costa;instagram.com;2024-08-09 13:19;10;Desktop
+Carlos Eduardo Costa;twitter.com;2024-06-23 18:38;1;Mobile
+Carlos Eduardo Costa;facebook.com;2024-12-07 17:50;35;Mobile
+Carlos Eduardo Costa;facebook.com;2024-06-21 07:20;31;Tablet
+Carlos Eduardo Costa;uol.com.br;2024-09-28 23:46;7;Mobile
+Carlos Eduardo Costa;g1.globo.com;2024-12-03 12:08;11;Tablet
+Carlos Eduardo Costa;facebook.com;2024-12-04 05:12;8;Desktop
+Carlos Eduardo Costa;mercadolivre.com.br;2024-07-16 05:40;32;Desktop
+Carlos Eduardo Costa;twitter.com;2024-12-28 17:26;1;Mobile
+Carlos Eduardo Costa;youtube.com;2024-02-14 09:46;34;Mobile
+Juliana Almeida Souza;folha.uol.com.br;2024-06-19 20:10;19;Tablet
+Juliana Almeida Souza;instagram.com;2024-11-07 19:45;34;Tablet
+Juliana Almeida Souza;instagram.com;2024-05-16 14:13;9;Desktop
+Juliana Almeida Souza;instagram.com;2024-09-23 15:00;27;Desktop
+Juliana Almeida Souza;youtube.com;2024-03-16 02:00;45;Desktop
+Juliana Almeida Souza;facebook.com;2024-04-23 03:34;22;Desktop
+Juliana Almeida Souza;folha.uol.com.br;2024-01-20 14:38;5;Mobile
+Juliana Almeida Souza;g1.globo.com;2024-11-18 07:22;13;Mobile
+Juliana Almeida Souza;youtube.com;2024-05-27 13:37;24;Tablet
+Juliana Almeida Souza;reddit.com;2024-07-09 17:34;5;Tablet
+Juliana Almeida Souza;youtube.com;2024-03-04 23:13;12;Mobile
+Juliana Almeida Souza;mercadolivre.com.br;2024-10-04 04:51;38;Tablet
+Juliana Almeida Souza;amazon.com.br;2024-07-11 18:49;39;Mobile
+Juliana Almeida Souza;facebook.com;2024-12-28 19:42;14;Desktop
+Roberto Lima Neto;amazon.com.br;2024-04-07 02:59;10;Desktop
+Roberto Lima Neto;uol.com.br;2024-03-16 00:20;4;Desktop
+Roberto Lima Neto;facebook.com;2024-09-26 14:27;21;Mobile
+Roberto Lima Neto;mercadolivre.com.br;2024-09-25 03:15;26;Mobile
+Roberto Lima Neto;youtube.com;2024-07-23 15:22;34;Mobile
+Patrícia Mendes Dias;youtube.com;2024-02-20 06:10;10;Mobile
+Patrícia Mendes Dias;youtube.com;2024-09-15 15:44;44;Desktop
+Patrícia Mendes Dias;folha.uol.com.br;2024-09-14 20:22;2;Mobile
+Patrícia Mendes Dias;twitter.com;2024-08-25 21:22;14;Tablet
+Patrícia Mendes Dias;folha.uol.com.br;2024-09-07 12:23;1;Desktop
+Patrícia Mendes Dias;g1.globo.com;2024-08-12 16:12;38;Mobile
+Patrícia Mendes Dias;youtube.com;2024-06-04 11:58;33;Desktop
+Patrícia Mendes Dias;youtube.com;2024-10-09 01:41;42;Mobile
+Patrícia Mendes Dias;youtube.com;2024-07-02 22:45;18;Tablet
+Patrícia Mendes Dias;facebook.com;2024-01-19 00:55;39;Tablet
+Patrícia Mendes Dias;mercadolivre.com.br;2024-08-16 05:30;7;Desktop
+Patrícia Mendes Dias;folha.uol.com.br;2024-06-01 19:57;12;Desktop
+Patrícia Mendes Dias;facebook.com;2024-02-14 03:03;41;Tablet
+Fernando Araújo Ribeiro;reddit.com;2024-06-04 17:17;42;Tablet
+Fernando Araújo Ribeiro;instagram.com;2024-12-01 10:53;11;Tablet
+Fernando Araújo Ribeiro;twitter.com;2024-12-12 16:00;27;Tablet
+Fernando Araújo Ribeiro;mercadolivre.com.br;2024-11-02 02:12;10;Tablet
+Fernando Araújo Ribeiro;g1.globo.com;2024-05-03 05:28;18;Tablet
+Luciana Barbosa;g1.globo.com;2024-12-17 13:11;20;Mobile
+Luciana Barbosa;facebook.com;2024-09-12 03:21;37;Tablet
+Luciana Barbosa;uol.com.br;2024-02-19 14:05;6;Desktop
+Luciana Barbosa;amazon.com.br;2024-12-03 05:20;41;Desktop
+Luciana Barbosa;instagram.com;2024-03-26 00:13;30;Desktop
+Luciana Barbosa;reddit.com;2024-12-08 09:53;9;Mobile
+Luciana Barbosa;folha.uol.com.br;2024-01-13 22:18;18;Desktop
+Luciana Barbosa;reddit.com;2024-10-11 13:14;18;Desktop
+Thiago Nascimento Ramos;youtube.com;2024-05-09 22:28;6;Mobile
+Thiago Nascimento Ramos;mercadolivre.com.br;2024-06-19 11:22;29;Tablet
+Thiago Nascimento Ramos;amazon.com.br;2024-11-27 05:02;25;Desktop
+Thiago Nascimento Ramos;twitter.com;2024-09-19 06:44;23;Tablet
+Thiago Nascimento Ramos;instagram.com;2024-11-26 09:13;45;Tablet
+Thiago Nascimento Ramos;youtube.com;2024-09-27 23:50;6;Tablet
+Thiago Nascimento Ramos;youtube.com;2024-04-09 06:29;3;Desktop
+Camila Torres Freitas;folha.uol.com.br;2024-11-21 05:30;30;Tablet
+Camila Torres Freitas;amazon.com.br;2024-06-12 18:24;3;Mobile
+Camila Torres Freitas;g1.globo.com;2024-12-04 20:22;11;Mobile
+Camila Torres Freitas;uol.com.br;2024-08-11 10:41;12;Mobile
+Camila Torres Freitas;folha.uol.com.br;2024-05-06 14:34;2;Mobile
+Camila Torres Freitas;twitter.com;2024-10-15 18:36;26;Mobile
+Camila Torres Freitas;amazon.com.br;2024-04-09 23:23;22;Mobile
+Camila Torres Freitas;reddit.com;2024-11-13 09:02;33;Desktop
+Camila Torres Freitas;twitter.com;2024-07-14 08:36;38;Desktop
+Camila Torres Freitas;youtube.com;2024-03-17 05:59;39;Tablet
+Camila Torres Freitas;folha.uol.com.br;2024-09-07 18:48;9;Tablet
+Camila Torres Freitas;youtube.com;2024-06-26 01:05;10;Mobile
+Camila Torres Freitas;g1.globo.com;2024-08-13 05:29;43;Desktop
+Bruno Cardoso Pinto;folha.uol.com.br;2024-03-10 09:05;16;Desktop
+Bruno Cardoso Pinto;folha.uol.com.br;2024-07-03 23:15;44;Tablet
+Bruno Cardoso Pinto;instagram.com;2024-06-01 15:10;7;Mobile
+Bruno Cardoso Pinto;reddit.com;2024-09-22 12:44;31;Tablet
+Bruno Cardoso Pinto;reddit.com;2024-07-27 14:45;7;Mobile
+Bruno Cardoso Pinto;instagram.com;2024-03-11 04:25;19;Tablet
+Bruno Cardoso Pinto;twitter.com;2024-12-28 13:38;35;Desktop
+Bruno Cardoso Pinto;amazon.com.br;2024-06-16 21:47;2;Desktop
+Amanda Vieira Gomes;instagram.com;2024-03-25 07:23;22;Tablet
+Amanda Vieira Gomes;twitter.com;2024-01-20 19:48;5;Tablet
+Amanda Vieira Gomes;g1.globo.com;2024-04-05 15:12;14;Mobile
+Amanda Vieira Gomes;folha.uol.com.br;2024-07-03 10:24;28;Desktop
+Amanda Vieira Gomes;facebook.com;2024-05-10 12:43;3;Mobile
+Amanda Vieira Gomes;mercadolivre.com.br;2024-07-06 05:25;7;Mobile
+Amanda Vieira Gomes;uol.com.br;2024-02-12 21:46;42;Mobile
+Amanda Vieira Gomes;amazon.com.br;2024-01-06 10:08;33;Mobile
+Amanda Vieira Gomes;twitter.com;2024-11-15 00:31;28;Desktop
+Amanda Vieira Gomes;uol.com.br;2024-05-14 08:47;39;Mobile
+Amanda Vieira Gomes;instagram.com;2024-09-12 15:45;35;Mobile
+Amanda Vieira Gomes;mercadolivre.com.br;2024-02-26 05:27;25;Tablet
+Amanda Vieira Gomes;amazon.com.br;2024-02-05 00:21;17;Desktop
+Amanda Vieira Gomes;facebook.com;2024-09-27 19:46;28;Desktop
+Ricardo Monteiro Lopes;facebook.com;2024-05-02 03:55;30;Mobile
+Ricardo Monteiro Lopes;youtube.com;2024-01-20 21:23;28;Mobile
+Ricardo Monteiro Lopes;youtube.com;2024-11-10 00:34;12;Mobile
+Ricardo Monteiro Lopes;instagram.com;2024-06-14 00:28;20;Tablet
+Ricardo Monteiro Lopes;g1.globo.com;2024-01-20 03:22;35;Tablet
+Ricardo Monteiro Lopes;mercadolivre.com.br;2024-07-08 05:05;7;Desktop
+Ricardo Monteiro Lopes;twitter.com;2024-12-05 20:31;18;Mobile
+Ricardo Monteiro Lopes;mercadolivre.com.br;2024-08-23 19:15;37;Mobile
+Ricardo Monteiro Lopes;g1.globo.com;2024-01-03 10:23;10;Tablet
+Ricardo Monteiro Lopes;mercadolivre.com.br;2024-12-21 03:24;6;Mobile
+Ricardo Monteiro Lopes;twitter.com;2024-11-24 09:27;2;Desktop
+Ricardo Monteiro Lopes;uol.com.br;2024-12-09 23:41;28;Desktop
+Daniela Rocha Martins;mercadolivre.com.br;2024-10-09 09:39;35;Desktop
+Daniela Rocha Martins;amazon.com.br;2024-12-26 01:23;31;Desktop
+Daniela Rocha Martins;folha.uol.com.br;2024-07-09 23:44;18;Tablet
+Daniela Rocha Martins;folha.uol.com.br;2024-11-02 19:25;44;Mobile
+Daniela Rocha Martins;g1.globo.com;2024-05-01 13:13;27;Tablet
+Daniela Rocha Martins;amazon.com.br;2024-03-09 08:29;41;Mobile
+Daniela Rocha Martins;instagram.com;2024-02-08 07:01;15;Desktop
+Daniela Rocha Martins;amazon.com.br;2024-10-10 23:45;30;Tablet

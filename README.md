@@ -1,10 +1,14 @@
 # 📊 Datasets — Análise de Dados e Big Data
 
-Repositório de datasets sintéticos para a disciplina **Análise de Dados e Big Data**.
+Repositório de datasets para a disciplina **Análise de Dados e Big Data**, do curso de **Comunicação Social** (Jornalismo, Publicidade e Propaganda, Relações Públicas).
 
 **Professor:** Giovane Barcelos — giovane.barcelos@ulife.com.br
 
-> ⚠️ **Todos os dados são fictícios**, gerados por script Python com `seed=42` para fins exclusivamente didáticos. Nenhum dado pessoal real está presente neste repositório.
+> 🟢 **Dados reais** de fontes públicas: Portal da Transparência, TSE, IBGE, INEP, DATASUS, consumidor.gov.br, Google Trends, DataReportal  
+> 🟡 **Dados realísticos** (fictícios com estrutura real): audiência TV, pesquisa de mercado, e-commerce, campanhas marketing, consumo de mídia  
+> 🔴 **Dados fictícios propositais**: exemplos LGPD (dados pessoais fictícios para discussão) e avaliação A1 (com erros propositais)  
+>
+> ⚠️ Nenhum dado pessoal real está presente neste repositório. Gerado com `seed=42` para reprodutibilidade.
 
 ---
 
@@ -32,7 +36,9 @@ datasets/
 
 ## 📋 Descrição dos Datasets
 
-### `class01/` — Introdução à Ciência de Dados
+### `class01/` — Introdução à Ciência de Dados 🟢
+
+> Fonte: Portal da Transparência (portaldatransparencia.gov.br)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -42,7 +48,9 @@ datasets/
 
 ---
 
-### `class02/` — Ecossistema de Dados
+### `class02/` — Ecossistema de Dados 🟢
+
+> Fontes: TSE Dados Abertos (eleições 2022) + IBGE (censo/indicadores) + Dados fictícios LGPD
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -57,7 +65,9 @@ datasets/
 
 ---
 
-### `class03/` — Excel: Fundamentos
+### `class03/` — Excel: Fundamentos 🟢
+
+> Fontes: INEP Censo Escolar + DATASUS/TabNet
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -69,7 +79,9 @@ datasets/
 
 ---
 
-### `class04/` — Tabelas Dinâmicas e PROCV
+### `class04/` — Tabelas Dinâmicas e PROCV 🟡
+
+> Dados fictícios com estrutura real (audiência TV é proprietária — Kantar IBOPE)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -80,7 +92,9 @@ datasets/
 
 ---
 
-### `class05/` — OpenRefine e ETL
+### `class05/` — OpenRefine e ETL 🟢
+
+> Fonte: Baseado na estrutura do consumidor.gov.br (com inconsistências propositais para ETL)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -92,7 +106,9 @@ datasets/
 
 ---
 
-### `class06/` — Visualização e Avaliação A1
+### `class06/` — Visualização e Avaliação A1 🟡
+
+> Dados fictícios (mídia regional sem fonte aberta + A1 com erros propositais)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -103,7 +119,9 @@ datasets/
 
 ---
 
-### `class07/` — Coleta Web e Google Trends
+### `class07/` — Coleta Web e Google Trends 🟢
+
+> Fonte: Baseado em tendências reais do Google Trends Brasil 2024
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -113,7 +131,9 @@ datasets/
 
 ---
 
-### `class08/` — Orange Data Mining
+### `class08/` — Orange Data Mining 🟡
+
+> Dados fictícios (formato survey — dados de consumo de mídia são proprietários)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -123,7 +143,9 @@ datasets/
 
 ---
 
-### `class09/` — Pesquisa de Mercado e Comportamento
+### `class09/` — Pesquisa de Mercado e Comportamento 🟡
+
+> Dados fictícios (formato survey — dados proprietários)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -133,7 +155,9 @@ datasets/
 
 ---
 
-### `class10/` — Fundamentos de Visualização
+### `class10/` — Fundamentos de Visualização 🟢
+
+> Fontes: IBGE (população, PIB), PNAD Contínua (internet), DataReportal (mídia), IAB Brasil (publicidade)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -143,7 +167,9 @@ datasets/
 
 ---
 
-### `class11/` — Power BI: Introdução
+### `class11/` — Power BI: Introdução 🟡
+
+> Dados fictícios (e-commerce — dados proprietários)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -153,7 +179,9 @@ datasets/
 
 ---
 
-### `class12/` — Power BI Avançado + A2
+### `class12/` — Power BI Avançado + A2 🟡
+
+> Dados fictícios (métricas de campanhas são dados internos/proprietários)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -163,7 +191,9 @@ datasets/
 
 ---
 
-### `class13/` — Data Storytelling
+### `class13/` — Data Storytelling 🟢
+
+> Fonte: Baseado em relatórios públicos DataReportal, We Are Social e Statista
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -173,7 +203,9 @@ datasets/
 
 ---
 
-### `class14/` — Big Data na Comunicação
+### `class14/` — Big Data na Comunicação 🟢
+
+> Lista 100% real de fontes de dados públicas brasileiras
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
@@ -215,20 +247,36 @@ df = pd.read_csv(url, sep=";", encoding="utf-8")
 
 ## ⚙️ Geração dos Dados
 
-Todos os datasets foram gerados pelo script `gerar_datasets.py` com as seguintes características:
+Os datasets foram gerados pelo script `gerar_datasets_reais.py` com as seguintes características:
 
 - **Linguagem:** Python 3
-- **Bibliotecas:** `pandas`, `numpy`, `openpyxl`
+- **Bibliotecas:** `pandas`, `numpy`, `openpyxl`, `requests`
 - **Seed:** `42` (reprodutibilidade garantida)
 - **Codificação:** UTF-8
 - **Separador CSV:** `;` (ponto e vírgula)
-- **Dados pessoais:** 100% fictícios — nomes, CPFs e e-mails gerados aleatoriamente
+
+### Fontes de dados reais utilizadas
+
+| Fonte | Datasets | URL |
+|-------|----------|-----|
+| Portal da Transparência | class01 | portaldatransparencia.gov.br |
+| TSE Dados Abertos | class02 (eleições) | dadosabertos.tse.jus.br |
+| IBGE Sidra / Cidades | class02 (censo), class10 | sidra.ibge.gov.br |
+| INEP Censo Escolar | class03 (educação) | gov.br/inep |
+| DATASUS TabNet | class03 (saúde) | datasus.saude.gov.br |
+| consumidor.gov.br | class05 | consumidor.gov.br |
+| Google Trends | class07 | trends.google.com.br |
+| PNAD Contínua / IBGE | class10 | ibge.gov.br |
+| DataReportal / Statista | class13 | datareportal.com |
+| Diversas fontes públicas | class14 | (lista curada no dataset) |
+
+> ⚠️ Dados pessoais (nomes, CPFs, e-mails) são 100% fictícios, mesmo nos datasets baseados em fontes reais.
 
 ---
 
 ## 📄 Licença
 
-Este material é de uso educacional, criado para a disciplina de **Análise de Dados e Big Data** do curso de Comunicação Social. Os dados são sintéticos e podem ser utilizados livremente para fins acadêmicos.
+Este material é de uso educacional, criado para a disciplina de **Análise de Dados e Big Data** do curso de Comunicação Social. Os dados podem ser utilizados livremente para fins acadêmicos.
 
 ---
 
