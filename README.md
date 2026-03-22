@@ -1,6 +1,6 @@
 # 📊 Datasets — Análise de Dados e Big Data
 
-Repositório de datasets para a disciplina **Análise de Dados e Big Data**, do curso de **Comunicação Social** (Jornalismo, Publicidade e Propaganda, Relações Públicas).
+Repositório de datasets para a disciplina **Análise de Dados e Big Data**.
 
 **Professor:** Giovane Barcelos — giovane.barcelos@ulife.com.br
 
@@ -276,7 +276,7 @@ Os datasets foram gerados pelo script `gerar_datasets_reais.py` com as seguintes
 
 ## 📄 Licença
 
-Este material é de uso educacional, criado para a disciplina de **Análise de Dados e Big Data** do curso de Comunicação Social. Os dados podem ser utilizados livremente para fins acadêmicos.
+Este material é de uso educacional, criado para a disciplina de **Análise de Dados e Big Data**. Os dados podem ser utilizados livremente para fins acadêmicos.
 
 ---
 
