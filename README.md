@@ -1,6 +1,6 @@
 # 📊 Datasets — Análise de Dados e Big Data
 
-Repositório de datasets sintéticos para a disciplina **Análise de Dados e Big Data**, do curso de **Comunicação Social** (Jornalismo, Publicidade e Propaganda, Relações Públicas).
+Repositório de datasets sintéticos para a disciplina **Análise de Dados e Big Data**.
 
 **Professor:** Giovane Barcelos — giovane.barcelos@ulife.com.br
 
