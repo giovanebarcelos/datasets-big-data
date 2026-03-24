@@ -1,0 +1,41 @@
+ID;Podcast;Plataforma;Genero_Conteudo;Episodios_Mensais;Ouvintes_Medios;Downloads_Mensais;Taxa_Retencao_%;Nota_Avaliacao;Patrocinadores;Receita_Mensal_R$;Regiao_Principal;Faixa_Etaria_Predominante;Formato;Duracao_Media_Min;Ano_Lancamento;Rede_Social_Principal;Seguidores_Rede;Engajamento_Rede_%;Tema_Episodio_Top
+1;DataCast Brasil;Spotify;Tecnologia;8;45000;120000;72.3;4.6;3;18500;Sudeste;25-34;Entrevista;45;2021;Instagram;85000;3.2;IA no Jornalismo
+2;Podcast da Redação;Apple Podcasts;Jornalismo;12;32000;85000;68.5;4.3;2;12000;Sudeste;35-44;Mesa Redonda;60;2020;Twitter;120000;2.8;Fake News e Verificação
+3;Marketing Sem Filtro;Spotify;Marketing;4;28000;65000;75.1;4.7;5;22000;Sul;25-34;Solo;30;2022;LinkedIn;45000;4.1;Growth Hacking
+4;Comunicação Total;YouTube;Comunicação;8;15000;38000;62.4;4.1;1;8500;Nordeste;18-24;Entrevista;50;2023;Instagram;32000;5.3;RP Digital
+5;Dados e Cafézinho;Spotify;Ciência de Dados;4;52000;145000;78.9;4.8;4;25000;Sudeste;25-34;Dupla;40;2020;Twitter;95000;3.5;Python para Iniciantes
+6;Publicidade na Prática;Apple Podcasts;Publicidade;8;18000;42000;65.2;4.0;2;9800;Sudeste;25-34;Mesa Redonda;55;2021;Instagram;28000;4.6;Criatividade com IA
+7;Trend Alert;Spotify;Tendências;12;38000;98000;71.0;4.5;3;15500;Sul;18-24;Solo;25;2022;TikTok;210000;7.8;Tendências TikTok 2026
+8;Voz da Notícia;Deezer;Jornalismo;20;25000;55000;58.3;3.9;1;7200;Nordeste;35-44;Solo;15;2019;Twitter;65000;2.1;Cobertura Eleitoral
+9;BI para Todos;Spotify;Business Intelligence;4;42000;110000;80.2;4.9;6;28000;Sudeste;25-34;Entrevista;50;2021;LinkedIn;72000;5.5;Dashboard que Funciona
+10;Histórias em Dados;Apple Podcasts;Data Storytelling;4;35000;88000;76.5;4.7;3;19000;Sul;25-34;Narrativa;35;2022;Instagram;55000;4.2;Storytelling Spotify Wrapped
+11;Social Media Lab;Spotify;Redes Sociais;8;22000;48000;63.8;4.2;2;11000;Sudeste;18-24;Dupla;40;2023;Instagram;78000;6.1;Algoritmo do Instagram
+12;Código Aberto;YouTube;Tecnologia;4;65000;180000;82.1;4.8;5;32000;Sudeste;25-34;Entrevista;90;2019;Twitter;150000;3.0;Open Source no Brasil
+13;Métricas & Manhãs;Spotify;Analytics;8;19000;45000;69.7;4.3;2;10500;Centro-Oeste;25-34;Solo;30;2023;LinkedIn;22000;3.8;GA4 para Comunicadores
+14;Pauta Digital;Apple Podcasts;Jornalismo Digital;12;41000;105000;73.6;4.5;3;17500;Sudeste;25-34;Mesa Redonda;55;2020;Twitter;88000;2.9;Jornalismo de Dados
+15;Criativo de Dados;Spotify;Publicidade;4;16000;35000;60.1;3.8;1;6800;Norte;18-24;Solo;25;2024;Instagram;15000;5.8;Mídia Programática
+16;Podcast RP;Apple Podcasts;Relações Públicas;8;12000;28000;64.5;4.0;1;5500;Sudeste;35-44;Entrevista;45;2022;LinkedIn;18000;3.4;Gestão de Crise Digital
+17;Tech & Tell;Spotify;Tecnologia;8;55000;150000;77.8;4.7;4;24000;Sudeste;25-34;Dupla;50;2021;YouTube;320000;4.5;IA Generativa na Prática
+18;Análise Esportiva;Spotify;Esportes;12;48000;130000;74.2;4.4;3;20000;Sudeste;25-34;Mesa Redonda;60;2020;Twitter;180000;3.3;Estatísticas do Futebol
+19;Cultura Pop & Data;Spotify;Entretenimento;8;30000;72000;70.5;4.3;2;13000;Sudeste;18-24;Dupla;40;2023;TikTok;145000;8.2;Dados do Oscar 2026
+20;O Futuro do Trabalho;Apple Podcasts;Carreira;4;25000;58000;72.0;4.4;2;12500;Sul;25-34;Entrevista;45;2022;LinkedIn;40000;4.0;Habilidades em Dados
+21;MídiaLab;Spotify;Mídia;8;20000;46000;66.3;4.1;2;9200;Nordeste;25-34;Mesa Redonda;50;2023;Instagram;35000;3.9;Convergência Digital
+22;DataViz Weekly;Spotify;Visualização;4;38000;95000;79.3;4.8;3;21000;Sudeste;25-34;Solo;20;2021;Twitter;62000;3.6;Infográficos que Viralizam
+23;Podcast Empreendedor Digital;YouTube;Empreendedorismo;8;33000;78000;67.8;4.2;3;14500;Sudeste;35-44;Entrevista;55;2020;Instagram;92000;3.7;Marketing Data-Driven
+24;Comunicação Não Verbal;Apple Podcasts;Comunicação;4;9500;22000;58.9;3.7;0;3200;Centro-Oeste;18-24;Solo;30;2024;TikTok;12000;6.5;Linguagem Corporal em Vídeo
+25;Big Data Explica;Spotify;Big Data;4;44000;118000;81.0;4.9;5;27000;Sudeste;25-34;Narrativa;35;2020;Twitter;78000;2.7;Privacidade vs Personalização
+26;As Minas dos Dados;Spotify;Diversidade em Tech;8;28000;68000;75.4;4.6;2;16000;Sudeste;18-24;Dupla;40;2022;Instagram;110000;5.9;Mulheres na Ciência de Dados
+27;Plantão Analytics;Deezer;Analytics;12;14000;32000;61.2;3.9;1;6000;Sul;35-44;Solo;20;2023;LinkedIn;16000;2.5;Relatórios Automatizados
+28;Pixel & Dados;Spotify;Design + Dados;4;22000;52000;73.1;4.4;2;11500;Sudeste;25-34;Entrevista;45;2022;Instagram;48000;4.8;UX Research com Dados
+29;Economia em Pauta;Apple Podcasts;Economia;8;36000;90000;70.8;4.3;3;15000;Sudeste;35-44;Mesa Redonda;55;2019;Twitter;105000;2.3;Dados do PIB Brasileiro
+30;Geração Dados;Spotify;Educação;8;17000;40000;68.0;4.2;1;8000;Nordeste;18-24;Dupla;35;2024;TikTok;55000;7.1;Aprendendo SQL do Zero
+31;Algoritmo Noticioso;Spotify;Jornalismo;4;29000;70000;74.8;4.5;2;14000;Sudeste;25-34;Solo;30;2021;Twitter;72000;3.1;Automação em Redações
+32;CriptoDados;YouTube;Finanças;8;50000;140000;76.0;4.6;4;23000;Sudeste;25-34;Entrevista;60;2021;YouTube;280000;4.0;Blockchain e Transparência
+33;Pod das Agências;Spotify;Publicidade;8;21000;50000;65.5;4.1;2;10000;Sul;25-34;Mesa Redonda;50;2023;Instagram;38000;4.3;Cases Data-Driven
+34;Dados no Congresso;Apple Podcasts;Política;4;15000;36000;69.2;4.0;1;7500;Centro-Oeste;35-44;Narrativa;40;2022;Twitter;42000;2.6;Transparência Legislativa
+35;Stream Analytics;Spotify;Streaming;8;40000;108000;77.2;4.6;3;19500;Sudeste;18-24;Dupla;35;2022;TikTok;175000;6.8;Guerra do Streaming 2026
+36;Radar Cultural;Apple Podcasts;Cultura;4;11000;25000;62.7;3.8;1;4500;Nordeste;25-34;Entrevista;45;2023;Instagram;22000;5.0;Dados Culturais do IBGE
+37;IA News Brasil;Spotify;Inteligência Artificial;12;58000;160000;80.5;4.8;5;30000;Sudeste;25-34;Solo;25;2023;LinkedIn;95000;4.7;ChatGPT vs Claude vs Gemini
+38;Pod Sustentável;Deezer;Sustentabilidade;4;13000;30000;66.8;4.1;1;5800;Sul;18-24;Entrevista;40;2024;Instagram;20000;5.4;ESG e Dados Ambientais
+39;Dados do SUS;Spotify;Saúde;8;32000;82000;73.5;4.5;2;16500;Sudeste;35-44;Mesa Redonda;50;2021;Twitter;58000;2.4;Dados Epidemiológicos
+40;Lab de Conteúdo;Spotify;Marketing de Conteúdo;8;24000;56000;70.0;4.3;2;12000;Sudeste;25-34;Dupla;35;2022;Instagram;65000;4.4;Conteúdo que Converte

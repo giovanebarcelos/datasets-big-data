@@ -1,0 +1,81 @@
+data,plataforma,tipo_conteudo,tema,alcance,impressoes,curtidas,comentarios,compartilhamentos,salvamentos,cliques_link,hora_publicacao,dia_semana
+06/01/2025,TikTok,Vídeo longo,Depoimento,12706,29080,696,180,338,177,338,12:00,Segunda
+08/01/2025,Instagram,Reels,Humor,4021,5484,241,50,42,76,45,19:00,Quarta
+09/01/2025,TikTok,Duet,Depoimento,9571,19875,685,124,52,194,328,09:00,Quinta
+10/01/2025,Instagram,Carrossel,Institucional,3282,7422,156,26,81,31,0,17:00,Sexta
+11/01/2025,Instagram,Story,Promoção,1484,2262,38,24,40,19,18,13:00,Sábado
+12/01/2025,Instagram,Story,Produto,2150,5149,111,8,38,47,0,19:00,Domingo
+12/01/2025,Facebook,Enquete,Depoimento,1788,4073,40,15,14,0,33,09:00,Domingo
+12/01/2025,Instagram,Story,Produto,1689,4099,98,26,12,8,0,18:00,Domingo
+13/01/2025,TikTok,Vídeo longo,Humor,14444,35113,363,162,97,291,265,11:00,Segunda
+15/01/2025,Facebook,Imagem,Tendência,784,1217,30,9,6,0,0,21:00,Quarta
+15/01/2025,Instagram,Imagem estática,Educativo,3395,5243,194,33,23,39,82,17:00,Quarta
+16/01/2025,Instagram,Imagem estática,Produto,2368,5510,73,17,31,33,124,20:00,Quinta
+16/01/2025,Facebook,Enquete,Depoimento,709,1347,56,6,15,0,24,17:00,Quinta
+16/01/2025,Instagram,Reels,Depoimento,3766,8261,212,61,40,58,114,11:00,Quinta
+16/01/2025,Instagram,Reels,Educativo,9400,18852,323,174,80,133,0,19:00,Quinta
+17/01/2025,Instagram,Carrossel,Produto,2979,5455,97,29,19,37,56,11:00,Sexta
+18/01/2025,LinkedIn,Vídeo,Humor,3256,5406,145,57,20,0,96,09:00,Sábado
+19/01/2025,Instagram,Imagem estática,Promoção,1677,3181,47,10,27,37,0,11:00,Domingo
+19/01/2025,Instagram,Reels,Depoimento,3072,4932,186,59,45,59,0,19:00,Domingo
+20/01/2025,LinkedIn,Vídeo,Produto,4148,8703,120,14,59,0,118,09:00,Segunda
+20/01/2025,TikTok,Vídeo curto,Humor,27698,56559,809,522,340,529,828,17:00,Segunda
+21/01/2025,TikTok,Vídeo longo,Tendência,6970,11427,385,48,73,44,109,11:00,Terça
+21/01/2025,Instagram,Reels,Institucional,4723,9317,269,47,92,72,84,19:00,Terça
+22/01/2025,Instagram,Reels,Depoimento,9475,22200,399,53,244,180,549,13:00,Quarta
+22/01/2025,Instagram,Imagem estática,Produto,3931,6413,102,68,29,91,0,18:00,Quarta
+23/01/2025,Instagram,Story,Bastidores,1248,1671,66,9,25,24,0,12:00,Quinta
+25/01/2025,Instagram,Carrossel,Bastidores,2945,6139,164,28,58,42,0,20:00,Sábado
+25/01/2025,Instagram,Story,Humor,2863,5443,191,34,14,32,0,13:00,Sábado
+29/01/2025,LinkedIn,Vídeo,Promoção,1987,4610,53,8,34,0,86,08:00,Quarta
+30/01/2025,TikTok,Vídeo longo,Promoção,7131,12107,508,71,92,103,152,21:00,Quinta
+02/02/2025,TikTok,Vídeo longo,Educativo,5569,9433,231,49,64,32,70,13:00,Domingo
+05/02/2025,Instagram,Reels,Bastidores,5923,11382,203,65,135,82,0,21:00,Quarta
+06/02/2025,Instagram,Carrossel,Depoimento,2834,3778,182,34,56,15,0,11:00,Quinta
+07/02/2025,LinkedIn,Carrossel,Depoimento,1707,2475,46,20,41,0,0,11:00,Sexta
+09/02/2025,Instagram,Story,Institucional,1486,3604,107,12,31,19,51,09:00,Domingo
+10/02/2025,Facebook,Enquete,Promoção,2371,3705,138,23,70,0,88,09:00,Segunda
+10/02/2025,Instagram,Imagem estática,Tendência,4023,7107,277,78,67,52,50,10:00,Segunda
+11/02/2025,Facebook,Link,Tendência,907,1175,69,17,11,0,22,20:00,Terça
+12/02/2025,TikTok,Vídeo longo,Tendência,7048,14935,438,75,156,165,261,08:00,Quarta
+20/02/2025,TikTok,Vídeo longo,Produto,13019,30067,1005,131,308,207,282,12:00,Quinta
+24/02/2025,LinkedIn,Carrossel,Humor,1660,2814,68,13,37,0,0,17:00,Segunda
+25/02/2025,TikTok,Vídeo curto,Depoimento,21971,34933,856,346,149,311,870,10:00,Terça
+27/02/2025,Facebook,Vídeo,Educativo,1319,3168,88,13,28,0,31,08:00,Quinta
+28/02/2025,Instagram,Reels,Bastidores,5357,9673,127,91,78,109,52,14:00,Sexta
+02/03/2025,Facebook,Imagem,Produto,1058,2378,64,20,24,0,0,08:00,Domingo
+03/03/2025,Facebook,Vídeo,Depoimento,2034,2517,117,33,46,0,13,21:00,Segunda
+05/03/2025,Instagram,Imagem estática,Depoimento,3548,5007,146,51,79,66,0,20:00,Quarta
+06/03/2025,Instagram,Reels,Educativo,4901,11777,300,33,64,99,0,14:00,Quinta
+06/03/2025,TikTok,Duet,Promoção,12897,19059,624,236,321,108,0,17:00,Quinta
+06/03/2025,Facebook,Enquete,Bastidores,1208,2081,43,14,19,0,47,21:00,Quinta
+09/03/2025,Facebook,Imagem,Institucional,904,1870,61,13,23,0,46,08:00,Domingo
+09/03/2025,TikTok,Vídeo curto,Institucional,17017,28432,1250,184,150,145,512,09:00,Domingo
+10/03/2025,TikTok,Vídeo longo,Produto,6480,9562,439,56,175,123,0,13:00,Segunda
+12/03/2025,Instagram,Story,Bastidores,1655,3030,86,25,44,27,0,11:00,Quarta
+14/03/2025,LinkedIn,Post texto,Depoimento,1680,2478,87,25,16,0,61,19:00,Sexta
+16/03/2025,Facebook,Enquete,Bastidores,1811,4311,126,7,16,0,86,11:00,Domingo
+16/03/2025,TikTok,Duet,Tendência,15632,23529,954,123,167,106,475,08:00,Domingo
+17/03/2025,TikTok,Vídeo longo,Institucional,14664,31773,710,108,163,260,490,17:00,Segunda
+17/03/2025,LinkedIn,Post texto,Tendência,1597,3830,80,28,42,0,0,10:00,Segunda
+18/03/2025,Facebook,Vídeo,Humor,1514,2967,111,14,15,0,45,18:00,Terça
+19/03/2025,TikTok,Vídeo longo,Produto,13303,32800,992,208,343,306,314,20:00,Quarta
+21/03/2025,Instagram,Story,Educativo,1055,2084,42,17,16,26,0,12:00,Sexta
+22/03/2025,LinkedIn,Vídeo,Institucional,2205,3349,167,17,35,0,54,12:00,Sábado
+22/03/2025,Facebook,Enquete,Depoimento,1722,4261,120,13,24,0,81,18:00,Sábado
+25/03/2025,TikTok,Vídeo longo,Produto,5535,12130,318,41,38,54,98,21:00,Terça
+26/03/2025,TikTok,Vídeo curto,Promoção,21798,29689,1613,253,472,251,477,13:00,Quarta
+26/03/2025,TikTok,Vídeo curto,Humor,22097,47225,1315,381,457,509,527,12:00,Quarta
+27/03/2025,TikTok,Vídeo curto,Depoimento,26417,44119,833,110,568,540,975,19:00,Quinta
+29/03/2025,Instagram,Carrossel,Depoimento,2683,4736,126,51,72,27,40,13:00,Sábado
+30/03/2025,Facebook,Link,Humor,906,1346,50,15,4,0,25,21:00,Domingo
+31/03/2025,TikTok,Duet,Produto,13206,16777,674,179,230,182,0,18:00,Segunda
+02/04/2025,Facebook,Enquete,Institucional,2259,4518,85,27,11,0,0,21:00,Quarta
+02/04/2025,TikTok,Vídeo curto,Humor,12672,18486,272,90,213,278,0,12:00,Quarta
+03/04/2025,Facebook,Link,Depoimento,1160,2592,62,4,21,0,16,19:00,Quinta
+04/04/2025,Facebook,Vídeo,Institucional,1616,3160,78,19,25,0,36,11:00,Sexta
+04/04/2025,Instagram,Story,Institucional,1679,4077,115,20,27,18,99,17:00,Sexta
+04/04/2025,Instagram,Imagem estática,Educativo,3750,4724,254,29,53,29,77,12:00,Sexta
+05/04/2025,LinkedIn,Carrossel,Institucional,4664,8966,294,26,57,0,148,21:00,Sábado
+05/04/2025,TikTok,Duet,Humor,13712,20803,813,42,325,279,0,14:00,Sábado
+05/04/2025,TikTok,Vídeo curto,Educativo,17662,33992,1325,89,147,252,549,18:00,Sábado

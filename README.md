@@ -29,7 +29,10 @@ datasets/
 ├── class11/   → Aula 11 — Power BI: Introdução
 ├── class12/   → Aula 12 — Power BI Avançado + A2
 ├── class13/   → Aula 13 — Data Storytelling
-└── class14/   → Aula 14 — Big Data na Comunicação
+├── class14/   → Aula 14 — Big Data na Comunicação
+├── class15/   → Aula 15 — IA Generativa e Dados
+├── class16/   → Aula 16 — Redes Sociais e Métricas
+└── class17/   → Aula 17 — Laboratório Projeto A3
 ```
 
 ---
@@ -212,6 +215,44 @@ datasets/
 | `dataset_lista_fontes_bigdata.csv` | 15 | CSV (`;`) | Lista curada de fontes de dados públicas para pesquisa em comunicação |
 
 **Colunas:** `ID`, `Nome_Fonte`, `URL`, `Tipo_Dados`, `Formato_Disponivel`, `Atualizacao`, `Tema_Principal`, `Dificuldade_Uso`, `Observacao`
+
+---
+
+### `class15/` — IA Generativa e Dados 🟡
+
+> Dados fictícios de podcasts e conteúdo digital brasileiro para prática com IA generativa
+
+| Arquivo | Registros | Formato | Descrição |
+|---------|-----------|---------|-----------||
+| `dataset_ia_analise_dados.csv` | 40 | CSV (`;`) | Podcasts brasileiros com métricas de audiência, engajamento e monetização |
+
+**Colunas:** `ID`, `Podcast`, `Plataforma`, `Genero_Conteudo`, `Episodios_Mensais`, `Ouvintes_Medios`, `Downloads_Mensais`, `Taxa_Retencao_%`, `Nota_Avaliacao`, `Patrocinadores`, `Receita_Mensal_R$`, `Regiao_Principal`, `Faixa_Etaria_Predominante`, `Formato`, `Duracao_Media_Min`, `Ano_Lancamento`, `Rede_Social_Principal`, `Seguidores_Rede`, `Engajamento_Rede_%`, `Tema_Episodio_Top`
+
+---
+
+### `class16/` — Redes Sociais e Métricas Digitais 🟡
+
+> Dados fictícios de métricas de redes sociais (dados proprietários das plataformas)
+
+| Arquivo | Registros | Formato | Descrição |
+|---------|-----------|---------|-----------||
+| `dataset_metricas_redes_sociais.csv` | — | CSV (`,`) | Métricas de posts em redes sociais (alcance, engajamento, CTR) |
+
+**Colunas:** `data`, `plataforma`, `tipo_conteudo`, `tema`, `alcance`, `impressoes`, `curtidas`, `comentarios`, `compartilhamentos`, `salvamentos`, `cliques_link`, `hora_publicacao`, `dia_semana`
+
+> ⚠️ Este dataset usa vírgula (`,`) como separador, diferente dos demais.
+
+---
+
+### `class17/` — Laboratório Projeto A3 🟡
+
+> Catálogo de temas-modelo para orientação do projeto integrador A3
+
+| Arquivo | Registros | Formato | Descrição |
+|---------|-----------|---------|-----------||
+| `dataset_modelo_projeto.csv` | 12 | CSV (`;`) | Catálogo de temas de projeto com fontes, ferramentas e insights esperados |
+
+**Colunas:** `ID`, `Tema_Projeto`, `Tipo_Formato`, `Fonte_Dados_1`, `Fonte_Dados_2`, `N_Registros`, `Variavel_Principal`, `Variavel_Secundaria`, `Insight_Esperado`, `Ferramenta_ETL`, `Ferramenta_Viz`, `Complexidade`, `Regiao_Foco`, `Periodo_Dados`, `Publico_Alvo`, `Aplicacao_Comunicacao`
 
 ---
 
