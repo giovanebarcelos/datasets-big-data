@@ -46,8 +46,12 @@ datasets/
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
 | `dataset_gastos_publicos.csv` | 600 | CSV (`;`) | Gastos públicos municipais por UF, categoria, órgão e tipo de despesa |
+| `autodiagnostico_habilidades_dados.xlsx` | 10 | XLSX | Planilha de autoavaliação de habilidades com dados (início vs final do semestre) |
 
-**Colunas:** `ID`, `Municipio`, `UF`, `Categoria`, `Orgao`, `Valor_R$`, `Data`, `Tipo_Despesa`, `Fonte_Recurso`
+**Colunas (gastos):** `ID`, `Municipio`, `UF`, `Categoria`, `Orgao`, `Valor_R$`, `Data`, `Tipo_Despesa`, `Fonte_Recurso`
+
+**Colunas (autodiagnóstico):** `#`, `Habilidade`, `Início do Semestre (1-5)`, `Final do Semestre (1-5)`, `Evolução`, `Nível`, `Interpretação`  
+**Fórmulas incluídas:** evolução automática (Final − Início), classificação de nível, interpretação da evolução, médias, máximos/mínimos, contagens e formatação condicional.
 
 ---
 
