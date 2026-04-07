@@ -1,0 +1,163 @@
+UF;Regiao;Acessos_Banda_Larga_Mil;Velocidade_Media_Mbps;Densidade_Por_100_Hab;Crescimento_Anual_Pct;Ano
+Acre;Norte;85;22.5;9.3;8.2;2019
+Amazonas;Norte;420;25.0;10.0;9.5;2019
+Amapa;Norte;68;20.0;7.8;7.8;2019
+Para;Norte;750;18.5;8.5;10.2;2019
+Rondonia;Norte;210;28.0;11.5;9.0;2019
+Roraima;Norte;52;21.0;8.2;8.5;2019
+Tocantins;Norte;175;26.0;10.9;8.8;2019
+Alagoas;Nordeste;290;30.0;8.7;11.5;2019
+Bahia;Nordeste;1450;28.0;9.7;10.8;2019
+Ceara;Nordeste;850;32.0;9.2;11.2;2019
+Maranhao;Nordeste;480;22.0;6.7;12.0;2019
+Paraiba;Nordeste;380;29.0;9.4;10.5;2019
+Pernambuco;Nordeste;920;31.0;9.6;10.9;2019
+Piaui;Nordeste;260;24.0;7.9;11.8;2019
+Rio Grande do Norte;Nordeste;340;30.5;9.6;10.3;2019
+Sergipe;Nordeste;225;28.5;9.6;10.0;2019
+Distrito Federal;Centro-Oeste;680;85.0;22.2;12.5;2019
+Goias;Centro-Oeste;980;52.0;13.8;13.0;2019
+Mato Grosso;Centro-Oeste;520;48.0;14.7;12.8;2019
+Mato Grosso do Sul;Centro-Oeste;420;50.0;14.8;12.2;2019
+Espirito Santo;Sudeste;620;58.0;15.3;11.5;2019
+Minas Gerais;Sudeste;3200;52.0;15.0;11.0;2019
+Rio de Janeiro;Sudeste;3500;72.0;20.1;10.5;2019
+Sao Paulo;Sudeste;9800;82.0;21.2;10.8;2019
+Parana;Sudeste;2100;62.0;18.2;11.8;2019
+Rio Grande do Sul;Sul;2050;60.0;18.0;11.2;2019
+Santa Catarina;Sul;1450;65.0;20.0;12.0;2019
+Acre;Norte;95;28.0;10.3;11.8;2020
+Amazonas;Norte;480;32.0;11.2;14.3;2020
+Amapa;Norte;78;25.0;8.9;14.7;2020
+Para;Norte;870;24.0;9.8;16.0;2020
+Rondonia;Norte;240;35.0;13.0;14.3;2020
+Roraima;Norte;60;26.0;9.4;15.4;2020
+Tocantins;Norte;200;32.0;12.3;14.3;2020
+Alagoas;Nordeste;335;38.0;9.9;15.5;2020
+Bahia;Nordeste;1680;35.0;11.2;15.9;2020
+Ceara;Nordeste;990;40.0;10.7;16.5;2020
+Maranhao;Nordeste;560;28.0;7.8;16.7;2020
+Paraiba;Nordeste;440;36.0;10.8;15.8;2020
+Pernambuco;Nordeste;1070;38.0;11.1;16.3;2020
+Piaui;Nordeste;305;30.0;9.2;17.3;2020
+Rio Grande do Norte;Nordeste;395;38.0;11.1;16.2;2020
+Sergipe;Nordeste;260;35.0;11.1;15.6;2020
+Distrito Federal;Centro-Oeste;780;98.0;25.2;14.7;2020
+Goias;Centro-Oeste;1130;62.0;15.7;15.3;2020
+Mato Grosso;Centro-Oeste;600;58.0;16.8;15.4;2020
+Mato Grosso do Sul;Centro-Oeste;485;60.0;16.9;15.5;2020
+Espirito Santo;Sudeste;720;70.0;17.6;16.1;2020
+Minas Gerais;Sudeste;3680;64.0;17.2;15.0;2020
+Rio de Janeiro;Sudeste;4000;85.0;22.9;14.3;2020
+Sao Paulo;Sudeste;11200;98.0;24.0;14.3;2020
+Parana;Sudeste;2450;75.0;21.1;16.7;2020
+Rio Grande do Sul;Sul;2380;72.0;20.8;16.1;2020
+Santa Catarina;Sul;1700;78.0;23.3;17.2;2020
+Acre;Norte;108;35.0;11.6;13.7;2021
+Amazonas;Norte;550;40.0;12.7;14.6;2021
+Amapa;Norte;90;32.0;10.1;15.4;2021
+Para;Norte;1010;30.0;11.2;16.1;2021
+Rondonia;Norte;278;42.0;14.9;15.8;2021
+Roraima;Norte;70;33.0;10.8;16.7;2021
+Tocantins;Norte;232;40.0;14.2;16.0;2021
+Alagoas;Nordeste;390;46.0;11.5;16.4;2021
+Bahia;Nordeste;1960;42.0;13.0;16.7;2021
+Ceara;Nordeste;1160;48.0;12.5;17.2;2021
+Maranhao;Nordeste;660;34.0;9.1;17.9;2021
+Paraiba;Nordeste;515;44.0;12.5;17.0;2021
+Pernambuco;Nordeste;1250;46.0;12.9;16.8;2021
+Piaui;Nordeste;360;36.0;10.8;18.0;2021
+Rio Grande do Norte;Nordeste;465;46.0;13.0;17.7;2021
+Sergipe;Nordeste;305;42.0;12.9;17.3;2021
+Distrito Federal;Centro-Oeste;900;115.0;28.8;15.4;2021
+Goias;Centro-Oeste;1310;75.0;18.1;15.9;2021
+Mato Grosso;Centro-Oeste;700;70.0;19.4;16.7;2021
+Mato Grosso do Sul;Centro-Oeste;565;72.0;19.5;16.5;2021
+Espirito Santo;Sudeste;840;85.0;20.4;16.7;2021
+Minas Gerais;Sudeste;4250;78.0;19.7;15.5;2021
+Rio de Janeiro;Sudeste;4600;100.0;26.3;15.0;2021
+Sao Paulo;Sudeste;12800;118.0;27.3;14.3;2021
+Parana;Sudeste;2880;90.0;24.7;17.6;2021
+Rio Grande do Sul;Sul;2780;86.0;24.1;16.8;2021
+Santa Catarina;Sul;2010;92.0;27.3;18.2;2021
+Acre;Norte;124;42.0;13.2;14.8;2022
+Amazonas;Norte;635;48.0;14.4;15.5;2022
+Amapa;Norte;105;38.0;11.7;16.7;2022
+Para;Norte;1180;36.0;12.9;16.8;2022
+Rondonia;Norte;322;52.0;17.1;15.8;2022
+Roraima;Norte;82;40.0;12.4;17.1;2022
+Tocantins;Norte;270;48.0;16.5;16.4;2022
+Alagoas;Nordeste;452;54.0;13.3;15.9;2022
+Bahia;Nordeste;2280;50.0;15.1;16.3;2022
+Ceara;Nordeste;1360;56.0;14.6;17.2;2022
+Maranhao;Nordeste;778;40.0;10.6;17.9;2022
+Paraiba;Nordeste;600;52.0;14.5;16.5;2022
+Pernambuco;Nordeste;1460;54.0;14.9;16.8;2022
+Piaui;Nordeste;425;44.0;12.7;18.1;2022
+Rio Grande do Norte;Nordeste;548;55.0;15.2;17.8;2022
+Sergipe;Nordeste;358;50.0;15.1;17.4;2022
+Distrito Federal;Centro-Oeste;1040;132.0;33.0;15.6;2022
+Goias;Centro-Oeste;1520;90.0;20.8;16.0;2022
+Mato Grosso;Centro-Oeste;820;85.0;22.5;17.1;2022
+Mato Grosso do Sul;Centro-Oeste;660;86.0;22.5;16.8;2022
+Espirito Santo;Sudeste;980;100.0;23.6;16.7;2022
+Minas Gerais;Sudeste;4920;95.0;22.7;15.8;2022
+Rio de Janeiro;Sudeste;5280;118.0;30.1;14.8;2022
+Sao Paulo;Sudeste;14600;140.0;30.9;14.1;2022
+Parana;Sudeste;3380;108.0;28.7;17.4;2022
+Rio Grande do Sul;Sul;3250;102.0;28.1;16.9;2022
+Santa Catarina;Sul;2380;110.0;32.0;18.4;2022
+Acre;Norte;142;48.0;14.9;14.5;2023
+Amazonas;Norte;730;55.0;16.3;15.0;2023
+Amapa;Norte;122;44.0;13.4;16.2;2023
+Para;Norte;1370;42.0;14.7;16.1;2023
+Rondonia;Norte;372;60.0;19.6;15.5;2023
+Roraima;Norte;96;48.0;14.3;17.1;2023
+Tocantins;Norte;315;56.0;19.1;16.7;2023
+Alagoas;Nordeste;525;62.0;15.4;16.2;2023
+Bahia;Nordeste;2650;58.0;17.4;16.2;2023
+Ceara;Nordeste;1590;65.0;16.9;16.9;2023
+Maranhao;Nordeste;912;48.0;12.3;17.2;2023
+Paraiba;Nordeste;700;60.0;16.7;16.7;2023
+Pernambuco;Nordeste;1700;62.0;17.3;16.4;2023
+Piaui;Nordeste;502;52.0;14.9;18.1;2023
+Rio Grande do Norte;Nordeste;642;64.0;17.7;17.2;2023
+Sergipe;Nordeste;420;58.0;17.6;17.3;2023
+Distrito Federal;Centro-Oeste;1200;155.0;37.7;15.4;2023
+Goias;Centro-Oeste;1760;108.0;23.8;15.8;2023
+Mato Grosso;Centro-Oeste;955;102.0;25.9;16.5;2023
+Mato Grosso do Sul;Centro-Oeste;772;100.0;26.1;17.0;2023
+Espirito Santo;Sudeste;1140;120.0;27.3;16.3;2023
+Minas Gerais;Sudeste;5700;115.0;26.2;15.9;2023
+Rio de Janeiro;Sudeste;6050;138.0;34.3;14.6;2023
+Sao Paulo;Sudeste;16600;165.0;34.9;13.7;2023
+Parana;Sudeste;3950;128.0;33.4;16.9;2023
+Rio Grande do Sul;Sul;3780;122.0;32.5;16.3;2023
+Santa Catarina;Sul;2800;130.0;37.4;17.6;2023
+Acre;Norte;162;55.0;16.9;14.1;2024
+Amazonas;Norte;840;62.0;18.5;15.1;2024
+Amapa;Norte;140;50.0;15.2;14.8;2024
+Para;Norte;1580;48.0;16.8;15.3;2024
+Rondonia;Norte;428;68.0;22.3;15.1;2024
+Roraima;Norte;112;55.0;16.5;16.7;2024
+Tocantins;Norte;365;64.0;22.0;15.9;2024
+Alagoas;Nordeste;608;70.0;17.8;15.8;2024
+Bahia;Nordeste;3060;66.0;20.0;15.5;2024
+Ceara;Nordeste;1840;74.0;19.5;15.7;2024
+Maranhao;Nordeste;1060;55.0;14.2;16.2;2024
+Paraiba;Nordeste;812;68.0;19.3;16.0;2024
+Pernambuco;Nordeste;1970;72.0;20.0;15.9;2024
+Piaui;Nordeste;585;60.0;17.3;16.5;2024
+Rio Grande do Norte;Nordeste;748;72.0;20.5;16.5;2024
+Sergipe;Nordeste;490;65.0;20.5;16.7;2024
+Distrito Federal;Centro-Oeste;1380;175.0;43.0;15.0;2024
+Goias;Centro-Oeste;2030;125.0;27.2;15.3;2024
+Mato Grosso;Centro-Oeste;1105;120.0;29.6;15.7;2024
+Mato Grosso do Sul;Centro-Oeste;898;118.0;30.0;16.3;2024
+Espirito Santo;Sudeste;1320;140.0;31.4;15.8;2024
+Minas Gerais;Sudeste;6580;135.0;30.1;15.4;2024
+Rio de Janeiro;Sudeste;6900;158.0;39.0;14.0;2024
+Sao Paulo;Sudeste;18800;185.0;39.3;13.3;2024
+Parana;Sudeste;4580;148.0;38.4;15.9;2024
+Rio Grande do Sul;Sul;4380;142.0;37.5;15.9;2024
+Santa Catarina;Sul;3280;150.0;43.4;17.1;2024
