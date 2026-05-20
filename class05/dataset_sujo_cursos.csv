@@ -1,0 +1,186 @@
+ID;Data_Matricula;Aluno;CPF;Curso;Turno;Modalidade;Cidade;UF;Situacao;Nota_Final;Frequencia_Pct
+1;2024-04-27;Ana Gomes;496 499 819 28;Publicidade e Propaganda;VESPERTINO;presencial;Goiânia;GO;Reprovado;3.2;N/A
+2;10/07/2024;Letícia Alves;694.619.983-21;Relações Públicas;NOTURNO;Presencial;Florianópolis;SC;Aprovado;6.3;87
+65;25/09/2023;Beatriz Lima;927 118 240 32;Rel. Públicas;Tarde;presencial;Belo Horizonte;MG;Trancamento;14.8;105
+4;06-10-2024;Lucas Santos;151.236.092-32;Design;manhã;Educação a Distância;Maceió;AL;Ativo;6.0;4
+5;01.08.2024;Bruno Martins;991 092 652 94;Journ.;matutino;presencial;São Paulo;SP;matriculado;3.1;N/A
+6;02.10.2024;Beatriz Costa;168 163 402 97;Rel. Públicas;Matutino;e.a.d;Belo Horizonte;MG;aprovado;0.4;N/A
+7;20-07-2024;Priscila Araújo;49851907589;Jornalismo;MATUTINO;PRESENCIAL;São Paulo;SP;reprovado;7.3;11
+8;2023-06-04;Beatriz Oliveira;588.572.277-62;JORNALISMO;Manhã;Presencial;Maceió;AL;Aprovado;8.2;77
+9;12/11/2023;Marcos Nascimento;197-057-672-13;publicidade;Matutino;ead;Rio de Janeiro;RJ;Matriculado;4.5;22
+10;24.04.2024;Mariana Lima;249-140-711-39;Rádio e TV;noite;E.A.D.;Natal;RN;MATRICULADO;0.9;72
+11;2024-11-10;Letícia Moreira;63167482205;Design Gráfico;MATUTINO;presencial;Natal;RN;reprovado;7.9;N/A
+12;2023-04-19;Carlos Machado;26992931549;Design Gráfico;Integral;Presencial;São Paulo;SP;MATRICULADO;3.8;9
+13;24.03.2024;Bruno Carvalho;413 843 267 14;Publicidade e Propaganda;Integral;ead;Salvador;BA;Trancado;9.8;16
+14;2024-08-05;Beatriz Costa;348.902.474-73;JORNALISMO;Vespertino;e.a.d;Maceió;AL;aprovado;2.1;N/A
+15;2023-12-01;Diego Ribeiro;939 680 296 84;RADIO E TV;Noite;Presencial;Campinas;SP;APROVADO;N/A;85
+16;28/02/2023;Camila Moreira;72852382541;JORNALISMO;vespertino;semipresencial;Maceió;AL;Ativo;2.2;81
+17;27/08/2024;Camila Cardoso;10949177365;PUBLICIDADE;Noturno;ead;Manaus;AM;Matriculado;7.9;75
+18;23/09/2024;Juliana Machado;639.100.244-12;RELAÇÕES PÚBLICAS;vespertino;Presencial;Porto Alegre;RS;FORMADO;5.0;2
+19;06-12-2023;Thiago Rocha;505.466.739-11;Design;matutino;Presencial;Salvador;BA;MATRICULADO;8.6;75
+20;18/06/2024;Felipe Ribeiro;652 243 539 30;Design Gráfico;Vespertino;PRESENCIAL;Goiânia;GO;Matriculado;2.1;
+21;2024-03-11;Felipe Martins;593 849 412 20;Design Gráfico;VESPERTINO;presencial;Recife;PE;reprovado;0.5;10
+22;2024-11-25;Felipe Carvalho;436 589 542 05;Rádio e TV;manhã;PRESENCIAL;Porto Alegre;RS;Matriculado;2.7;11
+23;01/01/2023;Pedro Machado;889 943 456 13;JORNALISMO;Vespertino;E.A.D.;São Paulo;SP;Trancado;N/A;28
+96;17/05/2023;Carlos Cardoso;35190059499;RELAÇÕES PÚBLICAS;integral;presencial;Curitiba;PR;Trancamento;9.2;
+25;2024-10-29;Larissa Alves;804.081.943-54;Publicidade;noturno;Presencial;Manaus;AM;reprovado;2.0;97
+26;2024-04-01;Carlos Ribeiro;322.268.856-89;RADIO E TV;NOTURNO;PRESENCIAL;São Paulo;SP;aprovado;0.3;73
+27;25/05/2023;Diego Nascimento;485-411-475-29;PUBLICIDADE;Not.;PRESENCIAL;Florianópolis;SC;APROVADO;5.6;N/A
+28;05-09-2024;Felipe Ribeiro;143 534 486 83;Comunicação Social - Jornalismo;Noite;Presencial;Recife;PE;reprovado;3.9;13
+29;07/11/2023;Fernanda Costa;255 965 981 56;Journ.;integral;Presencial;Belo Horizonte;MG;APROVADO;4.7;43
+30;23-07-2023;Marcos Cardoso;582.200.058-00;Jornalismo;noite;Híbrido;São Paulo;SP;Trancamento;3.1;48
+31;26-03-2023;Vanessa Machado;990-049-998-84;radio e tv;tarde;Educação a Distância;Salvador;BA;matriculado;N/A;3
+32;2024-12-30;Pedro Araújo;408-183-596-11;Publicidade;VESPERTINO;Presencial;Maceió;AL;Matriculado;8.4;65
+33;20.12.2023;Bruno Rocha;74758631422;Journ.;Tarde;híbrido;Campinas;SP;aprovado;1.8;2
+34;24/08/2024;Felipe Pereira;493.511.327-04;Relações Pub.;VESPERTINO;presencial;São Paulo;SP;trancado;9.7;23
+35;21/01/2024;Carlos Cardoso;54705392507;Rel. Públicas;integral;A Distância;Manaus;AM;MATRICULADO;2.1;78
+36;2024-02-25;Bruno Souza;188-797-471-31;Jornalismo;NOTURNO;PRESENCIAL;São Paulo;SP;Matriculado;7.0;91
+66;11/01/2024;Marcos Rocha;84576237162;JORNALISMO;NOTURNO;híbrido;Curitiba;PR;matriculado;8.7;21
+38;12/08/2023;Rafael Ferreira;961 287 113 00;Journ.;MATUTINO;Semipresencial;Porto Alegre;RS;Matriculado;0.1;91
+39;20.03.2024;Carlos Pereira;97996343574;RELAÇÕES PÚBLICAS;Integral;Semipresencial;Campinas;SP;MATRICULADO;2.0;84
+40;15-01-2024;Priscila Silva;626.328.866-11;design gráf.;noite;A Distância;Curitiba;PR;APROVADO;;80
+41;09-04-2024;Fernanda Machado;442 933 895 69;jornalismo;Integral;Educação a Distância;Recife;PE;MATRICULADO;7.6;123
+42;2023-06-04;Marcos Araújo;16988546660;Comunicação Social - Rádio e TV;Integral;Educação a Distância;Rio de Janeiro;RJ;trancado;8.9;50
+43;25.01.2024;Felipe Souza;63296757045;PUBLICIDADE;integral;Presencial;Porto Alegre;RS;formado;1.3;27
+44;20-08-2023;Carlos Cardoso;36699151321;Design;Integral;ead;Teresina;PI;Ativo;0.3;-7
+45;26/04/2023;Bruno Carvalho;58362234109;Comunicação Social - Rádio e TV;vespertino;Educação a Distância;Manaus;AM;Concluído;4.5;81
+46;2023-03-10;Pedro Oliveira;505 783 360 61;Publicidade e Propaganda;manha;Educação a Distância;Natal;RN;Aprovado;13.6;74
+47;2023-10-16;Lucas Souza;773.348.990-14;design gráfico;VESPERTINO;A Distância;Fortaleza;CE;REPROVADO;5.5;65
+48;09/10/2024;Ana Alves;878-027-607-35;Rel. Públicas;INTEGRAL;presencial;Porto Alegre;RS;matriculado;5.9;54
+49;25/03/2023;Camila Oliveira;483-905-404-22;RELAÇÕES PÚBLICAS;Vespertino;A Distância;Belo Horizonte;MG;Matriculado;9.2;75
+50;12.01.2024;Camila Oliveira;600.412.490-85;DESIGN GRAFICO;Tarde;ead;Belo Horizonte;MG;reprovado;7.0;N/A
+51;2023-07-17;Vanessa Lima;62874225643;design gráfico;Vespertino;Presencial;Belo Horizonte;MG;APROVADO;-0.9;125
+52;18/08/2023;Ana Rocha;855 463 496 08;DESIGN GRAFICO;Matutino;presencial;Florianópolis;SC;Aprovado;2.7;65
+53;29-08-2024;Thiago Nascimento;606.851.849-30;Rádio/TV;tarde;Presencial;Campinas;SP;APROVADO;1.8;32
+54;24.03.2023;Diego Alves;722.494.830-45;Rádio/TV;NOTURNO;EAD;Curitiba;PR;reprovado;N/A;65
+55;2023-10-16;Marcos Alves;447-649-769-04;publicidade;vespertino;e.a.d;Goiânia;GO;Matriculado;2.2;0
+56;31/05/2023;Rafael Lima;116 203 173 93;Relações Públicas;NOTURNO;Presencial;Florianópolis;SC;Aprovado;4.4;124
+57;23-03-2023;Diego Nascimento;637 735 273 96;Comunicação Social - Jornalismo;Manhã;A Distância;Salvador;BA;reprovado;7.2;N/A
+58;17-10-2023;Diego Rocha;277.487.745-32;PUBLICIDADE;integral;Presencial;Fortaleza;CE;aprovado;8.2;36
+59;25-02-2023;Priscila Lima;798.808.528-46;RADIO E TV;Manhã;PRESENCIAL;Manaus;AM;Trancado;6.5;-9
+60;08-09-2023;Pedro Costa;841 405 159 06;DESIGN GRAFICO;Manhã;PRESENCIAL;Natal;RN;trancado;1.0;31
+61;14-12-2023;Fernanda Carvalho;482-190-548-62;PUBLICIDADE;VESPERTINO;Presencial;Campinas;SP;MATRICULADO;9.6;39
+62;15/09/2024;Beatriz Alves;71054725599;Journ.;Manhã;Híbrido;São Paulo;SP;trancado;14.2;106
+63;2024-10-12;Juliana Nascimento;60486106784;RADIO E TV;NOTURNO;Educação a Distância;Rio de Janeiro;RJ;aprovado;N/A;43
+64;2024-11-11;Juliana Cardoso;947-471-670-66;Comunicação Social - Rádio e TV;INTEGRAL;EAD;Rio de Janeiro;RJ;aprovado;0.0;31
+65;25/09/2023;Beatriz Lima;927 118 240 32;Rel. Públicas;Tarde;presencial;Belo Horizonte;MG;Trancamento;14.8;105
+66;11/01/2024;Marcos Rocha;84576237162;JORNALISMO;NOTURNO;híbrido;Curitiba;PR;matriculado;8.7;21
+67;18-09-2024;Mariana Silva;492-055-773-11;jornalismo;INTEGRAL;Educação a Distância;Porto Alegre;RS;matriculado;14.6;2
+68;22.04.2024;Ana Nascimento;483.216.768-26;RELAÇÕES PÚBLICAS;Matutino;presencial;Campinas;SP;Aprovado;N/A;96
+69;05/04/2024;Priscila Ribeiro;642 185 509 45;Comunicação Social - Rádio e TV;Noite;EAD;Rio de Janeiro;RJ;matriculado;7.1;47
+70;29-06-2023;Felipe Araújo;711-912-681-75;Relações Pub.;Tarde;híbrido;Rio de Janeiro;RJ;Reprovado;2.9;67
+71;2024-10-23;Camila Santos;322-906-847-61;Rel. Públicas;tarde;presencial;Maceió;AL;Reprovado;0.2;25
+72;15/07/2023;Pedro Oliveira;354.394.540-37;RADIO E TV;INTEGRAL;PRESENCIAL;Recife;PE;Matriculado;4.7;71
+73;26-09-2024;Juliana Pereira;423 517 236 38;Jornalismo;tarde;PRESENCIAL;Fortaleza;CE;APROVADO;N/A;55
+74;31-05-2024;Mariana Rodrigues;189-163-880-82;Comunicação Social - Jornalismo;Vespertino;EAD;Recife;PE;Ativo;8.5;75
+75;2023-05-08;Letícia Araújo;38497084849;Comunicação Social - Rádio e TV;Noturno;E.A.D.;Belo Horizonte;MG;MATRICULADO;-1.6;75
+76;17/12/2024;Thiago Ferreira;145.149.819-96;design gráfico;manhã;Presencial;Florianópolis;SC;reprovado;-1.5;21
+77;2023-03-26;Vanessa Nascimento;55573399372;RELAÇÕES PÚBLICAS;noite;A Distância;Natal;RN;APROVADO;0.5;10
+78;05/06/2023;Marcos Silva;47820684900;Rádio/TV;tarde;E.A.D.;Fortaleza;CE;Aprovado;6.7;125
+79;06.03.2023;Mariana Araújo;45321108117;relacoes publicas;Vespertino;Presencial;Recife;PE;FORMADO;8.5;12
+80;10/03/2023;Letícia Carvalho;61936476328;DESIGN GRAFICO;integral;presencial;Rio de Janeiro;RJ;matriculado;4.3;103
+81;04/06/2024;Juliana Gomes;581.556.410-66;Relações Públicas;manhã;PRESENCIAL;Belo Horizonte;MG;formado;5.8;39
+82;2024-08-27;Letícia Rodrigues;978-653-121-63;JORNALISMO;Manhã;ead;São Paulo;SP;Matriculado;0.4;14
+83;10.06.2023;Beatriz Silva;863-923-130-97;Rádio/TV;MATUTINO;Educação a Distância;Manaus;AM;MATRICULADO;N/A;100
+84;08/05/2024;Letícia Santos;361-904-158-00;radio e tv;vespertino;Presencial;Curitiba;PR;Aprovado;6.3;3
+85;27/01/2024;Larissa Carvalho;30214231587;jornalismo;vespertino;ead;Fortaleza;CE;Matriculado;9.8;60
+86;16/02/2024;Letícia Martins;393.744.213-18;radio e tv;vespertino;semipresencial;Belo Horizonte;MG;MATRICULADO;-2.0;8
+87;15.10.2024;Rafael Ribeiro;362 734 177 03;Comunicação Social - Rádio e TV;matutino;PRESENCIAL;Florianópolis;SC;matriculado;6.2;
+88;2023-03-27;Felipe Ferreira;512 521 178 76;Comunicação Social - Jornalismo;MATUTINO;híbrido;Manaus;AM;aprovado;6.2;11
+89;28.03.2023;Ana Lima;40964639584;Design;INTEGRAL;PRESENCIAL;Porto Alegre;RS;matriculado;8.4;68
+90;30/10/2023;Lucas Oliveira;27109691940;Jornalismo;matutino;PRESENCIAL;Rio de Janeiro;RJ;APROVADO;9.8;0
+91;17.04.2024;Lucas Souza;859-218-504-06;Jornalismo;noite;Semipresencial;Curitiba;PR;matriculado;2.1;31
+92;2024-10-27;Larissa Rocha;875 995 701 96;Jornalismo;Tarde;HIBRIDO;Goiânia;GO;APROVADO;6.1;116
+93;04/01/2024;Vanessa Oliveira;759 806 637 27;JORNALISMO;noite;presencial;Natal;RN;aprovado;2.9;90
+94;2024-05-10;André Costa;888.224.067-17;Rádio e TV;noite;semipresencial;Fortaleza;CE;reprovado;N/A;29
+95;14/05/2024;Diego Carvalho;434 799 924 59;jornalismo;INTEGRAL;Semipresencial;Campinas;SP;Aprovado;9.0;N/A
+96;17/05/2023;Carlos Cardoso;35190059499;RELAÇÕES PÚBLICAS;integral;presencial;Curitiba;PR;Trancamento;9.2;
+97;10/09/2024;Carlos Carvalho;96557367479;Design;Integral;Semipresencial;Belo Horizonte;MG;Aprovado;5.1;11
+98;2023-03-17;Vanessa Souza;525-372-046-01;Jornalismo;INTEGRAL;HIBRIDO;São Paulo;SP;MATRICULADO;8.1;65
+99;22.07.2023;Ana Rocha;341 811 038 91;Publicidade e Propaganda;Manhã;Presencial;Florianópolis;SC;Matriculado;9.7;55
+116;06-10-2024;Beatriz Martins;155 553 762 29;design gráfico;noite;Presencial;Rio de Janeiro;RJ;Aprovado;2.0;117
+101;30/03/2023;Juliana Rodrigues;35986661592;DESIGN GRAFICO;MATUTINO;Presencial;Teresina;PI;APROVADO;-3.0;28
+102;2023-03-23;Ana Martins;84005637216;relacoes publicas;vespertino;Presencial;Curitiba;PR;Aprovado;14.2;80
+103;08-06-2023;Vanessa Carvalho;125-378-052-83;design gráf.;manhã;Semipresencial;Maceió;AL;MATRICULADO;3.5;-18
+104;01/10/2023;Carlos Ribeiro;860.941.194-69;RADIO E TV;noturno;híbrido;Belo Horizonte;MG;APROVADO;9.5;59
+105;28/01/2024;Lucas Pereira;326.046.179-59;Jornalismo;MATUTINO;PRESENCIAL;Goiânia;GO;Reprovado;;7
+106;2024-02-13;Bruno Araújo;344 964 282 13;publicidade;vespertino;e.a.d;Rio de Janeiro;RJ;aprovado;1.0;13
+107;02.08.2024;Vanessa Lima;169-428-870-34;radio e tv;INTEGRAL;presencial;Goiânia;GO;Aprovado;4.3;81
+108;14-10-2024;Camila Nascimento;702.162.144-21;Rel. Públicas;integral;Presencial;Salvador;BA;Trancado;3.8;73
+109;2024-11-08;Ana Rodrigues;205 392 716 67;DESIGN GRAFICO;INTEGRAL;Presencial;Manaus;AM;reprovado;0.9;46
+110;08/07/2024;Beatriz Lima;644 701 398 41;Jornalismo;Manhã;presencial;Curitiba;PR;Trancamento;6.9;82
+111;2023-09-17;Priscila Carvalho;99848927453;Jornalismo;integral;E.A.D.;Goiânia;GO;Reprovado;4.4;30
+112;15/03/2024;Camila Gomes;400-894-472-33;jornalismo;VESPERTINO;Presencial;Natal;RN;Ativo;2.2;6
+113;25.03.2024;Priscila Pereira;332.051.816-17;design gráfico;Integral;Presencial;Rio de Janeiro;RJ;aprovado;7.4;25
+114;16-10-2024;Fernanda Souza;566-369-789-69;jornalismo;tarde;semipresencial;Rio de Janeiro;RJ;APROVADO;N/A;45
+115;01-09-2024;Larissa Costa;50818860223;design gráfico;INTEGRAL;Presencial;Curitiba;PR;APROVADO;9.9;32
+116;06-10-2024;Beatriz Martins;155 553 762 29;design gráfico;noite;Presencial;Rio de Janeiro;RJ;Aprovado;2.0;117
+117;22/09/2024;Mariana Santos;435 100 297 89;Publicidade e Propaganda;INTEGRAL;presencial;Curitiba;PR;Trancamento;-0.8;24
+118;28/06/2024;Mariana Ribeiro;91409074609;Rel. Públicas;MATUTINO;e.a.d;Porto Alegre;RS;Aprovado;0.7;17
+119;14-10-2024;Letícia Silva;15562698183;Journ.;manha;e.a.d;Campinas;SP;MATRICULADO;2.6;56
+120;14.01.2024;Camila Cardoso;982 625 743 11;RELAÇÕES PÚBLICAS;manhã;HIBRIDO;Maceió;AL;reprovado;2.6;76
+121;18-06-2024;Juliana Silva;715-517-419-77;publicidade;noturno;ead;Goiânia;GO;matriculado;N/A;63
+122;27/07/2024;Rafael Oliveira;464.040.940-24;JORNALISMO;INTEGRAL;Educação a Distância;Porto Alegre;RS;Aprovado;9.0;65
+123;2023-12-05;André Ribeiro;57654158090;Design;Integral;E.A.D.;Belo Horizonte;MG;APROVADO;3.1;N/A
+124;12/06/2023;Marcos Ribeiro;786.305.643-92;Rádio/TV;noite;HIBRIDO;São Paulo;SP;reprovado;0.8;63
+125;07/02/2023;Marcos Nascimento;70593999811;Comunicação Social - Rádio e TV;Matutino;E.A.D.;Rio de Janeiro;RJ;TRANCADO;6.5;28
+126;16/10/2024;Thiago Ferreira;864 369 482 38;Comunicação Social - Jornalismo;Integral;híbrido;Teresina;PI;Trancamento;4.1;25
+127;06/07/2023;Ana Martins;916 720 445 84;JORNALISMO;Tarde;Híbrido;São Paulo;SP;Concluído;3.4;N/A
+128;14/04/2023;Mariana Rocha;265 904 680 32;Pub. e Prop.;Tarde;Educação a Distância;Campinas;SP;Ativo;-0.4;82
+129;25/01/2023;André Nascimento;713 792 277 94;Comunicação Social - Jornalismo;manhã;EAD;Goiânia;GO;reprovado;8.4;90
+130;16/01/2024;Diego Alves;52889127268;design gráf.;MATUTINO;presencial;Natal;RN;MATRICULADO;9.8;-11
+131;2023-04-07;Carlos Gomes;82259587865;design gráfico;noite;E.A.D.;Goiânia;GO;Reprovado;8.9;
+132;2024-11-06;Pedro Machado;28628944399;design gráfico;vespertino;presencial;Florianópolis;SC;MATRICULADO;4.2;23
+133;07-02-2023;Juliana Gomes;57922377801;radio e tv;Integral;presencial;Belo Horizonte;MG;MATRICULADO;4.3;98
+134;16.09.2023;Thiago Araújo;508.578.043-07;design gráf.;tarde;presencial;Natal;RN;Trancado;2.4;71
+135;21-06-2023;Juliana Souza;325-863-752-98;Relações Pub.;manhã;EAD;Recife;PE;matriculado;4.7;72
+136;15/08/2023;Pedro Nascimento;121 705 187 38;relacoes publicas;Noturno;A Distância;São Paulo;SP;APROVADO;N/A;
+137;24/01/2024;Camila Gomes;866 025 650 33;Jornalismo;matutino;PRESENCIAL;Manaus;AM;Trancado;7.0;15
+138;20.05.2024;Bruno Souza;123.007.215-49;Jornalismo;INTEGRAL;Presencial;Rio de Janeiro;RJ;MATRICULADO;8.8;57
+139;18.08.2024;Pedro Martins;411-513-551-52;Rádio e TV;manha;Presencial;Manaus;AM;Concluído;;27
+140;25/07/2023;Juliana Lima;69886638443;Comunicação Social - Jornalismo;Vespertino;Presencial;Maceió;AL;REPROVADO;7.1;68
+141;2024-11-10;Rafael Souza;416.339.351-21;Comunicação Social - Jornalismo;vespertino;EAD;Natal;RN;Trancado;2.8;62
+142;29/04/2024;André Lima;711-724-726-29;Rádio/TV;Integral;EAD;Teresina;PI;APROVADO;-0.6;50
+143;2024-11-05;Ana Machado;375-944-394-23;design gráfico;integral;presencial;Manaus;AM;matriculado;1.9;65
+144;2023-10-26;Lucas Alves;75062811421;jornalismo;Matutino;presencial;Salvador;BA;matriculado;2.6;N/A
+166;17.08.2023;Juliana Oliveira;839.501.473-38;RELAÇÕES PÚBLICAS;noturno;semipresencial;Salvador;BA;aprovado;N/A;54
+146;20/08/2023;Carlos Costa;741-337-799-34;relacoes publicas;noturno;Presencial;Belo Horizonte;MG;Reprovado;3.5;79
+147;03/08/2023;Camila Araújo;268 361 439 39;Rádio/TV;Integral;Presencial;Curitiba;PR;Reprovado;3.3;93
+148;26-06-2024;Pedro Machado;687-148-010-92;Jornalismo;vespertino;PRESENCIAL;Campinas;SP;APROVADO;1.2;1
+149;2023-01-07;Rafael Machado;245 816 704 58;JORNALISMO;integral;HIBRIDO;Fortaleza;CE;Ativo;8.4;48
+150;12-12-2023;Juliana Oliveira;838.692.171-21;Relações Pub.;Matutino;Semipresencial;Salvador;BA;TRANCADO;14.0;40
+151;08-07-2023;Beatriz Costa;47716339682;Comunicação Social - Rádio e TV;Manhã;ead;Florianópolis;SC;matriculado;1.7;-2
+152;15-06-2023;Mariana Rodrigues;58396775795;JORNALISMO;Not.;PRESENCIAL;Florianópolis;SC;Ativo;0.0;
+153;2024-12-27;Pedro Machado;700-357-012-68;Publicidade e Propaganda;Not.;e.a.d;Porto Alegre;RS;Ativo;3.2;63
+154;26/07/2023;Priscila Gomes;333-365-676-08;Pub. e Prop.;manhã;presencial;Florianópolis;SC;Trancado;5.2;62
+155;30-09-2023;Rafael Rodrigues;92696731619;Jornalismo;Vespertino;ead;Natal;RN;MATRICULADO;6.2;36
+156;27-09-2024;Fernanda Souza;889-351-252-55;radio e tv;Integral;Semipresencial;Goiânia;GO;trancado;5.3;104
+157;24.01.2024;Pedro Moreira;958 788 086 76;jornalismo;Matutino;Semipresencial;Manaus;AM;APROVADO;1.1;16
+158;17.05.2023;Camila Gomes;441 722 689 25;design gráfico;vespertino;presencial;Manaus;AM;aprovado;2.2;47
+159;14.02.2023;Lucas Oliveira;53943948411;Jornalismo;Integral;Presencial;Goiânia;GO;Matriculado;5.5;14
+160;01-08-2024;Beatriz Rocha;122-642-780-26;Relações Públicas;VESPERTINO;Híbrido;Manaus;AM;FORMADO;3.5;118
+161;18/10/2024;Lucas Moreira;417 437 455 35;design gráfico;INTEGRAL;EAD;Florianópolis;SC;Matriculado;6.4;83
+162;01-02-2023;Beatriz Moreira;516 824 443 66;Design Gráfico;Integral;PRESENCIAL;São Paulo;SP;Trancado;-2.2;28
+163;11/11/2023;Fernanda Rocha;442.759.300-69;Design Gráfico;noite;Presencial;Fortaleza;CE;Concluído;-0.9;15
+164;2023-05-01;Thiago Rocha;923.761.147-85;Rel. Públicas;manhã;A Distância;Florianópolis;SC;Trancamento;9.7;55
+165;14/01/2023;Lucas Ribeiro;680 636 133 93;Rel. Públicas;Integral;PRESENCIAL;São Paulo;SP;MATRICULADO;5.3;N/A
+166;17.08.2023;Juliana Oliveira;839.501.473-38;RELAÇÕES PÚBLICAS;noturno;semipresencial;Salvador;BA;aprovado;N/A;54
+167;16/08/2023;Carlos Pereira;524.866.326-93;Journ.;noturno;PRESENCIAL;Fortaleza;CE;aprovado;2.0;43
+168;11/07/2024;Ana Costa;605-991-324-56;Relações Pub.;Noite;Presencial;Recife;PE;aprovado;7.1;61
+169;08/12/2023;Mariana Gomes;558.826.614-19;Design Gráfico;integral;híbrido;Goiânia;GO;Trancado;9.4;35
+170;08.08.2024;Fernanda Araújo;606-035-838-16;RADIO E TV;noite;presencial;Fortaleza;CE;reprovado;2.8;40
+171;29.03.2023;Thiago Silva;861 309 662 67;jornalismo;Vespertino;Híbrido;Manaus;AM;Aprovado;N/A;33
+172;12.12.2023;Beatriz Cardoso;243.578.082-51;RADIO E TV;matutino;Educação a Distância;Rio de Janeiro;RJ;APROVADO;8.2;104
+173;06.08.2024;Mariana Souza;33290938102;Design Gráfico;noite;Semipresencial;Salvador;BA;Ativo;9.6;91
+174;04-11-2024;Letícia Gomes;602-850-328-68;Rel. Públicas;Integral;Presencial;Florianópolis;SC;REPROVADO;-0.8;23
+175;2024-03-31;Camila Carvalho;918.495.382-65;Rel. Públicas;NOTURNO;e.a.d;Florianópolis;SC;matriculado;7.1;23
+176;28/05/2023;Vanessa Alves;16265828155;jornalismo;Manhã;E.A.D.;Natal;RN;Aprovado;5.1;22
+177;10-07-2024;Mariana Oliveira;425.815.101-49;publicidade;Noturno;A Distância;Fortaleza;CE;aprovado;6.0;12
+178;21.07.2024;Juliana Rocha;802 419 236 84;Comunicação Social - Rádio e TV;Manhã;presencial;Recife;PE;REPROVADO;0.0;80
+179;28-03-2024;Rafael Santos;305-174-066-40;Relações Públicas;INTEGRAL;ead;Goiânia;GO;Matriculado;0.8;47
+180;25.01.2023;Juliana Souza;964-356-048-47;Relações Pub.;Noturno;Semipresencial;Maceió;AL;reprovado;0.9;65
+181;08/10/2023;Vanessa Rodrigues;853 794 666 44;DESIGN GRAFICO;Tarde;e.a.d;Fortaleza;CE;Trancado;5.5;99
+182;2024-11-11;Bruno Martins;416 146 273 75;Rel. Públicas;Matutino;Presencial;Teresina;PI;aprovado;2.6;-6
+183;2024-05-29;Priscila Silva;27831279361;Relações Públicas;noite;Presencial;Belo Horizonte;MG;MATRICULADO;;59
+184;2023-12-24;Lucas Rocha;730.430.182-00;Relações Pub.;NOTURNO;PRESENCIAL;Natal;RN;Matriculado;-2.4;0
+185;2023-03-13;Fernanda Lima;793-407-537-52;RELAÇÕES PÚBLICAS;Integral;Presencial;Porto Alegre;RS;APROVADO;4.3;88

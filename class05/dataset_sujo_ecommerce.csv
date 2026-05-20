@@ -1,0 +1,207 @@
+ID;Data_Pedido;Cliente;CPF;Produto;Categoria;Preco;Quantidade;UF;Cidade;Pagamento;Status_Pedido;Avaliacao_Cliente
+1;06.11.2023;Rafael Alves;271 580 736 67;SMARTPHONE SAMSUNG;Eletro;1899.90;1;SC;Florianópolis;PIX;DEVOLVIDO;
+2;17.08.2023;Mariana Carvalho;28101484196;SMART TV LG;ELETRONICOS;2499.00;1;AL;Maceió;PIX;entregue;2
+3;29/06/2024;Thiago Ribeiro;372.376.310-67;Mouse sem Fio Logitech;acessórios p/ PC;R$ 149,90;2;RN;Natal;boleto bancário;Entregue;N/A
+4;2023-05-06;Juliana Gomes;334-518-046-57;Mouse Logitech;acessorios;R$ 149.90;2;SP;Campinas;Boleto;entregue;
+5;21.09.2023;Vanessa Cardoso;692 319 124 19;SMARTPHONE SAMSUNG;Eletrônico;1899.90;3;SP;São Paulo;Deb.;entregue;4
+6;31/07/2024;Ana Silva;14603424714;Tablet Apple iPad;ELETRONICOS;R$ 4.199,90;2;RS;Porto Alegre;PIX Instantâneo;Entregue;5
+7;2024-03-28;Ana Gomes;635.720.670-38;Tablet Apple iPad;Eletrônicos;4199.90;1;RN;Natal;DÉBITO;em trânsito;1
+8;2024-02-13;Fernanda Nascimento;72934647486;smart tv lg;eletronicos;R$ 2.499,00;2;SP;São Paulo;Crédito;entregue;4
+9;31.08.2024;Bruno Silva;47719073385;tablet apple;eletronicos;R$ 4.199,90;3;MG;Belo Horizonte;Cartão de Crédito;Entregue;2
+10;17.02.2024;Letícia Martins;36582202970;SMART TV LG;Eletrônicos;2499.00;1;BA;Salvador;DÉBITO;entregue;N/A
+11;2024-01-25;Vanessa Rocha;852-741-191-35;smart tv lg;ELETRONICOS;R$ 2499.00;2;AM;Manaus;pix;Entregue;4
+112;2023-08-25;Larissa Araújo;823 493 671 47;"Smart TV LG 55""";ELETRÔNICOS;2499.00;2;RN;Natal;cartão de débito;ENTREGUE;
+13;05-10-2024;Carlos Martins;496-271-928-77;SMARTPHONE SAMSUNG;Eletro;1899.90;1;RJ;Rio de Janeiro;cartão crédito;cancelado;2
+14;2024-05-24;Vanessa Rocha;523.589.023-39;TECLADO MECANICO;INFORMATICA;389,90;-2;CE;Fortaleza;PIX;cancelado;4
+15;13/12/2023;Fernanda Pereira;680-305-494-22;MOUSE LOGITECH;acessorios;149.90;-2;AL;Maceió;PIX;Entregue;2
+16;18.08.2023;Carlos Souza;806.369.170-65;"Smart TV LG 55""";Eletrônico;2499,00;2;PE;Recife;Crédito;DEVOLVIDO;1
+17;30/05/2023;Fernanda Araújo;654 471 452 29;Smartphone Samsung;Eletrônico;R$ 1.899,90;1;MG;Belo Horizonte;Crédito;entregue;1
+18;26/02/2024;Letícia Araújo;42802884929;smart tv lg;eletronicos;2499,00;1;RN;Natal;BOLETO;Entregue;6
+19;02-05-2024;Beatriz Oliveira;765-796-160-76;Notebook Dell;Informática;R$ 3.599,90;2;PE;Recife;PIX;DEVOLVIDO;5
+20;10-07-2023;Fernanda Alves;701.213.584-71;Mouse Logitech;acessórios p/ PC;149.90;2;MG;Belo Horizonte;DÉBITO;em trânsito;
+21;20-03-2024;Camila Ferreira;606.901.490-24;SMART TV LG;ELETRONICOS;2499,00;1;AL;Maceió;Deb.;Entregue com Sucesso;3
+22;2023-12-23;Bruno Ribeiro;810.599.631-94;SMARTPHONE SAMSUNG;ELETRONICOS;1899,90;2;PI;Teresina;Pix;Entregue com Sucesso;3
+23;31.08.2023;Marcos Gomes;35336466071;mouse logitech;acessorios;R$ 149.90;2;PR;Curitiba;Crédito;Em Trânsito;5
+24;31.12.2024;Letícia Ribeiro;42508563372;Samsung Galaxy;Eletro;R$1.899,90;1;SP;São Paulo;Cc;ENTREGUE;5
+25;22/08/2024;Diego Gomes;202.957.838-31;Fone de Ouvido JBL;acessorios;R$299,90;3;MG;Belo Horizonte;PIX Instantâneo;entregue;N/A
+26;04.07.2023;Pedro Carvalho;768.407.248-02;smartphone samsung;ELETRONICOS;1899.90;1;PR;Curitiba;Cartao Credito;Entregue com Sucesso;N/A
+27;07/06/2024;Pedro Nascimento;52857470829;TABLET APPLE;Eletro;R$ 4199.90;-1;SC;Florianópolis;Boleto Bancário;Entregue com Sucesso;4
+28;03-07-2024;Felipe Gomes;388.120.980-42;fone jbl;Acess.;299.90;1;PE;Recife;Cartão de Crédito;Pedido Cancelado;5
+29;31.01.2024;Letícia Ferreira;226-411-631-35;"Smart TV LG 55""";ELETRÔNICOS;R$ 2.499,00;2;GO;Goiânia;Cartão de Crédito;Pedido Cancelado;6
+30;14-07-2023;Beatriz Machado;847.583.259-22;mouse s/ fio logitech;Acessórios;149,90;3;SP;São Paulo;cartão crédito;em trânsito;N/A
+31;2023-12-22;Thiago Pereira;488-363-680-86;SMART TV LG;Eletrônico;R$2.499,00;2;PI;Teresina;DÉBITO;entregue;2
+32;09-06-2023;Thiago Carvalho;715 642 920 95;TABLET APPLE;Eletrônico;4199.90;3;MG;Belo Horizonte;Pix;cancelado;2
+33;14-03-2024;Larissa Oliveira;888-045-001-45;NOTEBOOK DELL;INFORMATICA;3599.90;1;SP;Campinas;Cartão de Débito;Em trânsito;5
+34;14.03.2024;Pedro Machado;699 131 272 58;Teclado Gamer Redragon;informatica;389.90;1;RJ;Rio de Janeiro;Bol.;Entregue com Sucesso;2
+35;18/07/2023;Thiago Oliveira;975.222.535-50;NOTEBOOK DELL;Informática;R$ 3.599,90;2;PI;Teresina;Cartão de Crédito;Em trânsito;2
+36;2024-08-06;Juliana Silva;622 104 348 82;Smartphone Samsung;Eletrônico;R$ 1.899,90;2;CE;Fortaleza;Débito;ENTREGUE;5
+37;29-08-2023;Fernanda Gomes;124-812-317-99;TV LG 55;Eletro;2499.00;2;PR;Curitiba;Deb.;Entregue com Sucesso;1
+38;16/04/2024;Priscila Rodrigues;38273301463;Mouse sem Fio Logitech;acessorios;149,90;1;CE;Fortaleza;CARTÃO DE CRÉDITO;Entregue;2
+39;12/02/2023;Priscila Lima;479 398 599 69;Teclado Gamer Redragon;Computadores;R$ 389.90;1;AM;Manaus;cartão crédito;DEVOLVIDO;3
+40;2024-09-14;Priscila Alves;486-457-692-39;Celular Samsung;ELETRONICOS;1899.90;1;SC;Florianópolis;debito;cancelado;1
+41;24/12/2023;Fernanda Cardoso;326.578.756-42;"Smart TV LG 55""";eletronicos;R$ 2499.00;1;PR;Curitiba;Bol.;Cancelado;N/A
+42;03-01-2023;Ana Araújo;453-495-304-79;Teclado Gamer Redragon;Computadores;R$ 389,90;2;AL;Maceió;Débito;Entregue com Sucesso;3
+185;14/09/2023;Camila Souza;800.294.649-45;SMARTPHONE SAMSUNG;eletronicos;1899,90;-2;SP;Campinas;Boleto;DEVOLVIDO;2
+44;21-05-2024;Ana Cardoso;56387284627;SMART TV LG;Eletrônicos;2499,00;2;AM;Manaus;cartão crédito;Cancelado;1
+45;2024-08-01;Priscila Souza;901 461 605 72;mouse logitech;Acess.;149.90;1;MG;Belo Horizonte;debito;Pedido Cancelado;2
+46;28.12.2023;Priscila Lima;219 254 384 37;TABLET APPLE;ELETRONICOS;R$ 4199.90;2;PI;Teresina;Bol.;ENTREGUE;3
+47;08-04-2024;Diego Carvalho;609.673.115-69;TECLADO MECANICO;INFORMATICA;R$ 389.90;1;GO;Goiânia;Boleto Bancário;Entregue com Sucesso;3
+48;02-01-2024;Diego Moreira;565.356.349-26;MOUSE LOGITECH;Acessórios;149,90;3;GO;Goiânia;PIX;ENTREGUE;5
+49;17.10.2024;Letícia Ferreira;183 454 466 43;Teclado Gamer Redragon;informatica;389,90;2;AL;Maceió;Boleto Bancário;Entregue com Sucesso;2
+50;25.04.2024;Vanessa Pereira;13202563402;TV LG 55;Eletrônicos;R$ 2499.00;1;GO;Goiânia;cartão de débito;Em trânsito;1
+51;30.10.2023;Beatriz Silva;47990417510;Notebook Dell;informatica;R$ 3.599,90;1;PI;Teresina;p.i.x.;Em Transito;
+52;08/06/2024;Letícia Machado;922.542.726-00;NOTEBOOK DELL;informatica;3599.90;1;RN;Natal;pix;Em Transito;1
+53;08.09.2024;Ana Alves;522-308-026-81;teclado redragon;INFORMATICA;389.90;2;GO;Goiânia;CARTÃO DE CRÉDITO;Em Transito;1
+54;2023-07-07;Bruno Santos;227-100-821-65;teclado mecânico;informatica;R$ 389,90;1;SC;Florianópolis;debito;DEVOLVIDO;2
+55;19/04/2023;Beatriz Martins;804-775-986-94;SMART TV LG;Eletro;2499.00;1;SP;São Paulo;Débito;Entregue;2
+56;18/03/2024;Fernanda Ferreira;990-012-554-51;mouse s/ fio logitech;ACESSÓRIOS;R$ 149,90;1;SP;Campinas;Deb.;EM TRANSITO;2
+57;11-11-2024;André Santos;38274601921;Notebook Dell;informatica;3599.90;3;AL;Maceió;Crédito;ENTREGUE;3
+58;23/11/2024;Priscila Cardoso;633.866.852-33;Fone de Ouvido JBL;acessorios;299.90;2;RS;Porto Alegre;Cartão de Débito;entregue;4
+59;2023-03-07;Diego Santos;16909162177;SMART TV LG;Eletro;2499,00;3;PE;Recife;Bol.;ENTREGUE;5
+60;12/07/2023;André Carvalho;921.584.908-10;Mouse Logitech;Acessórios;R$ 149,90;1;SC;Florianópolis;Cartão de Crédito;entregue;1
+61;2023-08-27;Beatriz Nascimento;989 101 339 42;Samsung Galaxy;Eletrônicos;1899,90;-1;SP;Campinas;boleto bancário;Entregue;3
+62;08-01-2023;Priscila Rocha;120 804 374 22;MOUSE LOGITECH;Acessórios;149.90;3;AM;Manaus;BOLETO;ENTREGUE;3
+63;22-08-2024;Lucas Cardoso;167-189-106-59;smart tv lg;ELETRÔNICOS;R$ 2499.00;1;RJ;Rio de Janeiro;cartão crédito;Entregue com Sucesso;2
+64;2023-06-29;Beatriz Lima;123 748 264 08;teclado mecânico;INFORMATICA;R$ 389,90;2;SC;Florianópolis;Cartão de Crédito;Entregue;5
+65;2023-12-28;Mariana Silva;379.671.354-15;Apple iPad;ELETRÔNICOS;4199,90;3;AL;Maceió;Boleto;ENTREGUE;N/A
+66;23/11/2023;Fernanda Moreira;909.779.473-49;Notebook DELL;Computadores;R$ 3.599,90;3;PI;Teresina;PIX;DEVOLVIDO;4
+67;2023-05-28;Camila Silva;190-641-728-54;iPad Apple;ELETRÔNICOS;R$4.199,90;3;PE;Recife;CARTÃO DE CRÉDITO;Em trânsito;3
+68;2024-02-12;Lucas Costa;899-285-357-99;notebook dell;INFORMÁTICA;3599.90;3;PR;Curitiba;Bol.;Entregue;2
+69;18/02/2023;Pedro Silva;40209911567;MOUSE LOGITECH;acessorios;149.90;3;SC;Florianópolis;p.i.x.;Pedido Cancelado;N/A
+70;2023-10-05;Ana Ribeiro;707.510.709-51;SMARTPHONE SAMSUNG;eletronicos;1899,90;1;PE;Recife;cartão crédito;Entregue com Sucesso;1
+71;23/04/2024;Vanessa Araújo;31019503395;smart tv lg;Eletrônico;2499,00;2;CE;Fortaleza;PIX;ENTREGUE;3
+156;29/03/2023;Camila Machado;293 511 514 10;mouse s/ fio logitech;Acess.;R$ 149.90;2;RN;Natal;debito;Cancelado;4
+73;22.07.2024;Bruno Ferreira;625 195 801 39;Mouse Logitech;Acessórios;149,90;3;SP;Campinas;p.i.x.;ENTREGUE;2
+74;15.09.2024;André Cardoso;350.970.892-61;Celular Samsung;ELETRÔNICOS;R$ 1.899,90;1;MG;Belo Horizonte;Pix;CANCELADO;5
+75;27-05-2023;Pedro Ferreira;626 434 593 75;Teclado Mecânico Redragon;informatica;389,90;2;PR;Curitiba;cartão crédito;Entregue com Sucesso;2
+76;09.05.2023;Thiago Rocha;38021088817;Mouse sem Fio Logitech;acessorios;149.90;1;SC;Florianópolis;Débito;Entregue;
+77;28/09/2023;Priscila Martins;575.767.594-85;FONE JBL;ACESSÓRIOS;R$ 299,90;1;PI;Teresina;PIX;em trânsito;4
+78;11.01.2024;Thiago Lima;845 483 982 56;FONE JBL;ACESSORIOS;R$ 299,90;1;RS;Porto Alegre;p.i.x.;entregue;N/A
+79;2023-07-23;Vanessa Costa;26147215783;mouse logitech;acessorios;149.90;1;AL;Maceió;boleto;cancelado;6
+80;13/12/2024;Marcos Cardoso;858-664-158-55;NOTEBOOK DELL;Computadores;R$ 3.599,90;3;AM;Manaus;debito;Entregue;1
+81;05-06-2023;Priscila Cardoso;50582433850;smart tv lg;Eletrônicos;2499.00;3;SC;Florianópolis;Cartão de Débito;Em trânsito;
+82;30.05.2023;Rafael Costa;349 138 081 53;tablet apple;ELETRÔNICOS;R$ 4199.90;3;SC;Florianópolis;Bol.;entregue;
+83;11/02/2024;Larissa Moreira;836-026-597-09;fone bluetooth jbl;ACESSÓRIOS;R$ 299,90;3;RJ;Rio de Janeiro;Pix;ENTREGUE;4
+84;02.10.2023;Felipe Santos;195-451-696-43;mouse logitech;Acessórios;149.90;-2;RJ;Rio de Janeiro;cartão crédito;Em Trânsito;2
+85;09/01/2024;Letícia Moreira;75624602939;mouse logitech;ACESSÓRIOS;149.90;2;PE;Recife;Bol.;entregue;2
+86;17.02.2023;Felipe Pereira;74320292473;Mouse sem Fio Logitech;ACESSORIOS;R$149,90;1;SP;Campinas;Boleto Bancário;Entregue com Sucesso;3
+87;06/09/2024;Juliana Cardoso;17375361267;Mouse Logitech;Acessórios;149.90;2;SP;São Paulo;PIX;Devolvido;3
+169;24-07-2023;Fernanda Souza;17017453144;Notebook Dell;Computadores;R$ 3599.90;3;SP;Campinas;Cartão de Crédito;Entregue;N/A
+89;2023-08-02;André Ferreira;536-315-739-75;teclado redragon;informatica;389,90;1;CE;Fortaleza;PIX Instantâneo;CANCELADO;1
+90;04/06/2023;Felipe Pereira;467 229 133 75;Fone de Ouvido JBL;acessorios;299,90;2;AL;Maceió;PIX Instantâneo;EM TRANSITO;2
+91;04-02-2023;Carlos Cardoso;951.114.130-08;Smart Tv LG;Eletrônicos;R$ 2499.00;2;SP;São Paulo;pix;cancelado;4
+92;27/01/2023;Marcos Machado;543.673.600-06;fone bluetooth jbl;ACESSÓRIOS;R$299,90;2;PI;Teresina;boleto;ENTREGUE;5
+93;04-12-2023;Mariana Araújo;955 764 377 26;SMARTPHONE SAMSUNG;Eletro;1899,90;-1;MG;Belo Horizonte;debito;em trânsito;5
+94;06-08-2023;Rafael Oliveira;898-600-323-16;TABLET APPLE;ELETRONICOS;4199,90;2;AM;Manaus;cartão crédito;Entregue;N/A
+95;09-03-2023;Juliana Rodrigues;454 976 061 57;TV LG 55;Eletro;R$ 2.499,00;3;RN;Natal;pix;Entregue com Sucesso;2
+96;22.11.2023;Vanessa Ribeiro;138 851 083 33;"Smart TV LG 55""";eletronicos;2499,00;3;RS;Porto Alegre;p.i.x.;Entregue com Sucesso;5
+97;22.02.2024;Beatriz Souza;421.662.008-13;Celular Samsung;ELETRONICOS;R$ 1.899,90;1;BA;Salvador;Pix;Cancelado;5
+98;11.02.2024;Pedro Santos;193-952-228-59;mouse logitech;ACESSORIOS;149,90;3;RS;Porto Alegre;CARTÃO DE CRÉDITO;Entregue;N/A
+99;13.02.2023;Lucas Ribeiro;85293896375;Fone de Ouvido JBL;Acessórios;299,90;3;RS;Porto Alegre;Crédito;Entregue;N/A
+100;30.11.2023;Pedro Gomes;427-691-826-21;Notebook Dell;Info;R$ 3.599,90;2;CE;Fortaleza;debito;ENTREGUE;2
+101;11/01/2024;Felipe Martins;663-856-211-50;fone jbl;Acess.;R$ 299,90;2;BA;Salvador;Débito;Em Trânsito;5
+102;23.07.2023;Fernanda Machado;400 873 238 13;teclado redragon;Info;R$ 389,90;3;SP;Campinas;boleto;Em trânsito;1
+103;2023-12-17;André Silva;568 420 274 08;Samsung Galaxy;ELETRONICOS;1899,90;2;PE;Recife;DÉBITO;CANCELADO;5
+104;2024-06-19;Letícia Souza;77480070970;Fone JBL Bluetooth;acessórios p/ PC;R$ 299,90;2;GO;Goiânia;pix;Entregue com Sucesso;N/A
+105;07/01/2024;Ana Alves;20583016819;Teclado Mecânico Redragon;informatica;R$ 389.90;3;SP;São Paulo;DÉBITO;Entregue;N/A
+106;04-05-2023;André Silva;63475608300;iPad Apple;Eletro;4199.90;-1;MG;Belo Horizonte;DÉBITO;Entregue com Sucesso;1
+107;28/03/2024;Felipe Pereira;626.767.178-54;fone jbl;Acess.;299.90;1;PR;Curitiba;DÉBITO;cancelado;5
+108;13.05.2023;Camila Rocha;33001543209;mouse s/ fio logitech;Acessórios;149,90;2;PE;Recife;PIX Instantâneo;Entregue;
+109;17/09/2023;Letícia Nascimento;33104242079;teclado mecânico;informatica;389,90;-1;PR;Curitiba;Pix;cancelado;2
+110;29/05/2023;Diego Silva;883 136 970 21;teclado mecânico;INFORMÁTICA;R$ 389,90;3;AM;Manaus;cartão crédito;Em trânsito;3
+111;18/12/2024;Felipe Silva;348-206-049-91;notebook dell;INFORMÁTICA;3599.90;3;PI;Teresina;PIX Instantâneo;entregue;1
+112;2023-08-25;Larissa Araújo;823 493 671 47;"Smart TV LG 55""";ELETRÔNICOS;2499.00;2;RN;Natal;cartão de débito;ENTREGUE;
+113;2024-04-02;Camila Rodrigues;51996560331;tablet apple;eletronicos;4199.90;1;SP;Campinas;debito;CANCELADO;4
+161;13-10-2024;Rafael Alves;558.688.761-33;tablet apple;ELETRÔNICOS;R$ 4199.90;2;CE;Fortaleza;boleto;Cancelado;5
+115;07.07.2023;Larissa Souza;293-344-349-97;teclado redragon;INFORMÁTICA;389,90;1;PI;Teresina;debito;Em trânsito;4
+116;2024-06-22;Beatriz Souza;143 805 879 48;fone jbl;Acessórios;R$299,90;3;SC;Florianópolis;Boleto Bancário;Cancelado;5
+117;2023-05-26;Larissa Ferreira;408 621 656 14;NOTEBOOK DELL;Informática;R$ 3.599,90;3;AM;Manaus;Cartão de Crédito;Entregue;4
+118;2024-02-25;Pedro Machado;991.706.308-19;tablet apple;Eletrônico;R$ 4.199,90;3;PR;Curitiba;p.i.x.;ENTREGUE;4
+119;2023-06-22;Rafael Rodrigues;30218242750;Mouse sem Fio Logitech;Acessórios;R$ 149,90;3;RJ;Rio de Janeiro;boleto bancário;ENTREGUE;3
+120;24.05.2023;Rafael Araújo;79188677203;FONE JBL;acessórios p/ PC;299.90;2;PR;Curitiba;Deb.;EM TRANSITO;5
+121;2023-09-23;Camila Cardoso;44479970514;TABLET APPLE;eletronicos;R$ 4199.90;1;BA;Salvador;boleto bancário;EM TRANSITO;3
+122;2024-04-20;Letícia Silva;46446225116;Fone JBL Bluetooth;acessórios p/ PC;299,90;3;SP;São Paulo;BOLETO;Entregue com Sucesso;1
+123;2024-01-09;Fernanda Pereira;961 435 273 63;TABLET APPLE;Eletrônico;4199,90;1;RS;Porto Alegre;cartão crédito;entregue;1
+124;2023-06-09;Beatriz Lima;74015852297;SMARTPHONE SAMSUNG;Eletrônico;R$ 1.899,90;1;GO;Goiânia;boleto bancário;Entregue com Sucesso;1
+125;25.05.2023;Thiago Martins;977 300 842 26;fone bluetooth jbl;acessórios p/ PC;R$ 299.90;2;RN;Natal;Cartão de Crédito;em trânsito;5
+126;10.08.2023;Beatriz Costa;30561991407;Notebook DELL;INFORMATICA;3599,90;3;AL;Maceió;Boleto;ENTREGUE;4
+127;2023-11-07;Thiago Rocha;410-882-298-79;TECLADO MECANICO;Informática;389.90;2;GO;Goiânia;CARTÃO DE CRÉDITO;ENTREGUE;1
+128;10.11.2023;Camila Oliveira;830 907 515 76;FONE JBL;Acessórios;299,90;2;CE;Fortaleza;p.i.x.;em trânsito;3
+129;20/03/2024;Rafael Santos;970.737.321-89;teclado redragon;Informática;389,90;-2;GO;Goiânia;p.i.x.;Devolvido;2
+130;07/08/2024;Vanessa Costa;152.445.065-12;Celular Samsung;ELETRÔNICOS;1899,90;1;AM;Manaus;Cartao Credito;Pedido Cancelado;
+131;18.01.2024;Pedro Silva;846 979 112 11;MOUSE LOGITECH;ACESSÓRIOS;R$ 149.90;-2;SP;Campinas;Crédito;Entregue com Sucesso;N/A
+132;06/07/2024;Camila Araújo;696-390-459-13;Mouse Logitech;acessorios;R$ 149.90;1;RS;Porto Alegre;pix;CANCELADO;3
+133;01/03/2024;Rafael Oliveira;171 523 843 67;fone bluetooth jbl;ACESSÓRIOS;299,90;-1;PE;Recife;Boleto;Em Trânsito;3
+134;2023-12-16;Mariana Alves;14915544434;TECLADO MECANICO;Computadores;389.90;1;PE;Recife;cartão crédito;ENTREGUE;3
+135;16/04/2024;Carlos Oliveira;711-714-388-34;Fone de Ouvido JBL;ACESSÓRIOS;R$299,90;1;SC;Florianópolis;Cc;entregue;
+136;14.04.2023;Juliana Lima;945 641 473 45;Fone JBL Bluetooth;ACESSÓRIOS;R$ 299,90;2;SP;Campinas;Cartão de Débito;Pedido Cancelado;1
+137;29/01/2024;Thiago Souza;199.579.915-06;iPad Apple;Eletrônicos;4199.90;3;PR;Curitiba;pix;Entregue com Sucesso;1
+138;2024-04-29;Thiago Araújo;737 342 190 14;Smartphone Samsung;Eletrônico;1899.90;-1;RS;Porto Alegre;Cartão de Débito;cancelado;4
+139;23/01/2024;Letícia Oliveira;906 047 205 20;teclado redragon;INFORMÁTICA;389.90;-1;PE;Recife;pix;Entregue;4
+140;15/10/2023;Thiago Alves;632.270.975-38;mouse s/ fio logitech;Acessórios;R$ 149.90;2;RJ;Rio de Janeiro;pix;Entregue com Sucesso;2
+141;07/04/2023;André Alves;219.715.665-81;TECLADO MECANICO;informatica;389.90;3;PE;Recife;Crédito;Entregue;5
+142;26.01.2023;Bruno Souza;990.374.289-64;Smart Tv LG;Eletro;2499,00;2;SP;Campinas;CARTÃO DE CRÉDITO;Cancelado;5
+143;11-01-2024;Ana Gomes;71854576329;Celular Samsung;Eletrônico;1899,90;3;PE;Recife;boleto;Devolvido;3
+144;2024-06-29;Thiago Rocha;222 978 873 78;smartphone samsung;Eletrônico;1899.90;3;CE;Fortaleza;Cartao Credito;EM TRANSITO;2
+145;01/02/2023;André Carvalho;403 224 069 67;teclado redragon;INFORMATICA;R$389,90;2;PR;Curitiba;cartão de débito;Pedido Cancelado;3
+146;2023-09-29;Beatriz Martins;76425918935;tablet apple;eletronicos;4199,90;3;PE;Recife;Cartão de Crédito;ENTREGUE;N/A
+147;26-12-2023;Letícia Cardoso;984.737.418-38;mouse s/ fio logitech;ACESSORIOS;R$ 149,90;1;AL;Maceió;boleto bancário;ENTREGUE;4
+148;06.10.2023;Larissa Carvalho;263-095-402-95;mouse logitech;acessórios p/ PC;149.90;2;MG;Belo Horizonte;DÉBITO;Entregue com Sucesso;5
+149;2024-11-14;Ana Nascimento;102 375 491 35;NOTEBOOK DELL;INFORMATICA;3599,90;2;CE;Fortaleza;Deb.;Pedido Cancelado;N/A
+150;03-11-2023;André Rodrigues;885 851 828 00;teclado redragon;INFORMATICA;R$ 389,90;3;PR;Curitiba;Cartao Credito;Pedido Cancelado;N/A
+151;25/11/2023;Beatriz Pereira;296 180 404 18;mouse logitech;Acessórios;R$ 149,90;1;SC;Florianópolis;cartão de débito;Entregue;3
+152;11/06/2023;Ana Rodrigues;528 248 181 92;Celular Samsung;ELETRÔNICOS;1899,90;-1;AL;Maceió;Cc;entregue;5
+153;2023-05-04;Vanessa Santos;889.035.542-42;Celular Samsung;Eletrônicos;R$1.899,90;2;SC;Florianópolis;pix;Entregue com Sucesso;4
+154;05-10-2023;Pedro Moreira;731.327.920-48;MOUSE LOGITECH;ACESSORIOS;149,90;3;SP;São Paulo;pix;Em Trânsito;4
+155;03/04/2024;Mariana Oliveira;851 969 580 95;TV LG 55;Eletrônico;R$2.499,00;2;PE;Recife;BOLETO;cancelado;2
+156;29/03/2023;Camila Machado;293 511 514 10;mouse s/ fio logitech;Acess.;R$ 149.90;2;RN;Natal;debito;Cancelado;4
+157;2024-11-06;Felipe Rodrigues;754.748.852-63;notebook dell;Informática;R$ 3.599,90;2;SP;Campinas;cartão crédito;Cancelado;1
+201;17/07/2023;Mariana Rodrigues;521-833-374-95;Fone de Ouvido JBL;Acessórios;299,90;2;RN;Natal;Boleto Bancário;Entregue com Sucesso;N/A
+159;2024-11-01;Diego Cardoso;636 601 629 81;fone jbl;Acess.;299.90;1;CE;Fortaleza;Cartao Credito;Em trânsito;3
+160;04-08-2023;Larissa Martins;807-627-452-70;Notebook Dell;Computadores;3599.90;3;SC;Florianópolis;Débito;entregue;1
+161;13-10-2024;Rafael Alves;558.688.761-33;tablet apple;ELETRÔNICOS;R$ 4199.90;2;CE;Fortaleza;boleto;Cancelado;5
+162;08/10/2023;Larissa Cardoso;70766946794;Fone JBL Bluetooth;Acess.;R$299,90;3;GO;Goiânia;Pix;entregue;4
+163;03/04/2023;Felipe Rodrigues;818-664-647-89;TV LG 55;Eletro;2499.00;2;SC;Florianópolis;Boleto Bancário;entregue;6
+164;01/03/2023;Lucas Moreira;914 890 697 58;smart tv lg;ELETRONICOS;2499,00;1;RN;Natal;Boleto;Pedido Cancelado;N/A
+165;17/08/2024;Thiago Rocha;16011597764;Mouse Logitech;Acessórios;R$ 149,90;3;AM;Manaus;cartão crédito;Entregue com Sucesso;5
+166;29/03/2024;Mariana Souza;82739057384;Samsung Galaxy;Eletrônicos;R$ 1899.90;-1;SP;Campinas;pix;Entregue com Sucesso;
+167;20.03.2024;Lucas Ferreira;213 521 702 39;Fone JBL Bluetooth;ACESSORIOS;299.90;3;SP;Campinas;Cc;ENTREGUE;4
+168;04/11/2023;Bruno Carvalho;379 112 803 27;teclado redragon;INFORMÁTICA;R$389,90;2;CE;Fortaleza;cartão de débito;cancelado;2
+169;24-07-2023;Fernanda Souza;17017453144;Notebook Dell;Computadores;R$ 3599.90;3;SP;Campinas;Cartão de Crédito;Entregue;N/A
+170;01/01/2023;Thiago Souza;272-735-446-33;Tablet Apple iPad;ELETRONICOS;R$4.199,90;3;CE;Fortaleza;Deb.;Entregue com Sucesso;4
+171;25-05-2024;Camila Moreira;266-793-965-18;Fone JBL Bluetooth;acessorios;299,90;1;AM;Manaus;p.i.x.;Entregue;4
+172;2023-05-24;Carlos Costa;28736501038;iPad Apple;ELETRONICOS;R$ 4199.90;3;RJ;Rio de Janeiro;Cartão de Débito;Cancelado;N/A
+173;04/03/2024;Vanessa Souza;251-864-975-79;Smart Tv LG;Eletrônico;2499,00;2;SP;São Paulo;Boleto Bancário;ENTREGUE;N/A
+174;2023-09-12;Fernanda Cardoso;529 542 639 13;Notebook Dell Inspiron;Informática;3599.90;-1;MG;Belo Horizonte;PIX Instantâneo;entregue;2
+175;13/06/2024;Larissa Martins;627 207 821 20;fone jbl;ACESSORIOS;R$ 299,90;2;RJ;Rio de Janeiro;PIX;Entregue com Sucesso;2
+176;02/12/2024;Marcos Lima;15842720474;Mouse sem Fio Logitech;ACESSÓRIOS;R$149,90;1;SP;São Paulo;cartão de débito;ENTREGUE;6
+177;14-03-2023;Larissa Martins;231.107.124-13;Tablet Apple iPad;Eletrônico;R$4.199,90;1;GO;Goiânia;BOLETO;Entregue;3
+178;2024-05-21;Marcos Costa;102 317 758 25;smartphone samsung;ELETRONICOS;R$ 1.899,90;3;BA;Salvador;Cartão de Débito;Entregue com Sucesso;2
+179;2024-08-24;Diego Moreira;290 912 628 51;smartphone samsung;Eletro;R$ 1899.90;1;SC;Florianópolis;boleto;ENTREGUE;2
+180;12-02-2023;Ana Souza;622 116 793 25;fone jbl;Acessórios;R$299,90;3;RS;Porto Alegre;BOLETO;ENTREGUE;N/A
+181;24.03.2023;Thiago Santos;777-873-579-38;fone bluetooth jbl;Acessórios;R$ 299,90;1;SP;Campinas;PIX Instantâneo;Entregue com Sucesso;3
+182;15-02-2024;Thiago Nascimento;60581431003;fone jbl;ACESSORIOS;R$ 299,90;-2;SP;São Paulo;CARTÃO DE CRÉDITO;entregue;3
+183;2023-11-05;Bruno Oliveira;498 647 956 97;smartphone samsung;Eletro;1899.90;1;PR;Curitiba;Bol.;entregue;6
+184;2023-05-19;Fernanda Machado;694-405-438-17;Mouse sem Fio Logitech;ACESSORIOS;149.90;3;GO;Goiânia;CARTÃO DE CRÉDITO;Entregue;2
+185;14/09/2023;Camila Souza;800.294.649-45;SMARTPHONE SAMSUNG;eletronicos;1899,90;-2;SP;Campinas;Boleto;DEVOLVIDO;2
+186;2023-08-31;Thiago Lima;61165921046;smart tv lg;ELETRÔNICOS;2499.00;1;RJ;Rio de Janeiro;cartão de débito;CANCELADO;2
+187;08/11/2023;Ana Ribeiro;51618793869;Tablet Apple iPad;eletronicos;4199,90;2;RJ;Rio de Janeiro;cartão de débito;EM TRANSITO;2
+188;14-10-2024;André Costa;983-952-205-59;Tablet Apple iPad;ELETRÔNICOS;4199,90;1;GO;Goiânia;Bol.;DEVOLVIDO;4
+189;2023-04-08;Carlos Martins;99931080340;Mouse Logitech;ACESSORIOS;R$ 149,90;3;RJ;Rio de Janeiro;Bol.;Entregue;
+190;07/09/2024;Letícia Araújo;38964738325;SMARTPHONE SAMSUNG;Eletro;R$ 1899.90;3;AL;Maceió;pix;DEVOLVIDO;5
+191;01/02/2023;Fernanda Silva;71704995211;Celular Samsung;eletronicos;1899.90;3;SC;Florianópolis;debito;Entregue com Sucesso;5
+192;2023-01-05;Marcos Rodrigues;808.984.189-39;SMART TV LG;Eletro;R$2.499,00;2;BA;Salvador;Cartão de Crédito;Entregue com Sucesso;1
+193;19-02-2024;Felipe Nascimento;508 309 052 69;MOUSE LOGITECH;ACESSÓRIOS;R$ 149.90;1;RS;Porto Alegre;Débito;CANCELADO;N/A
+194;03-03-2024;Camila Ribeiro;658 531 454 69;smart tv lg;Eletrônico;2499.00;3;RJ;Rio de Janeiro;Boleto Bancário;Entregue com Sucesso;4
+195;2023-08-09;Pedro Machado;248.601.334-75;Notebook Dell;INFORMÁTICA;3599,90;-2;RN;Natal;PIX;Cancelado;4
+196;14.12.2024;Marcos Rocha;769-773-086-21;teclado redragon;INFORMATICA;R$389,90;-1;PR;Curitiba;PIX;Entregue;4
+197;17.02.2024;Priscila Pereira;296 644 524 19;NOTEBOOK DELL;INFORMÁTICA;R$ 3599.90;3;RJ;Rio de Janeiro;PIX Instantâneo;entregue;1
+198;30/10/2023;Camila Santos;844 058 094 76;Smart Tv LG;ELETRONICOS;R$ 2499.00;-2;BA;Salvador;boleto;em trânsito;3
+199;29/10/2023;Pedro Martins;213 136 858 49;smartphone samsung;ELETRONICOS;1899,90;1;SP;São Paulo;Boleto Bancário;ENTREGUE;3
+200;2023-04-07;Mariana Gomes;305 167 692 66;smartphone samsung;ELETRÔNICOS;R$1.899,90;3;PI;Teresina;pix;EM TRANSITO;2
+201;17/07/2023;Mariana Rodrigues;521-833-374-95;Fone de Ouvido JBL;Acessórios;299,90;2;RN;Natal;Boleto Bancário;Entregue com Sucesso;N/A
+202;2024-06-19;Carlos Cardoso;320 991 267 96;fone bluetooth jbl;Acess.;299,90;2;RJ;Rio de Janeiro;Boleto Bancário;Entregue;1
+203;08-01-2023;Marcos Ferreira;807 873 583 44;teclado mecânico;INFORMÁTICA;389,90;2;SC;Florianópolis;DÉBITO;entregue;5
+204;2024-11-25;Priscila Araújo;486-541-634-69;"Smart TV LG 55""";Eletrônico;R$ 2499.00;1;BA;Salvador;Pix;Entregue;4
+205;20-08-2024;Juliana Nascimento;456 847 203 71;fone bluetooth jbl;Acess.;299,90;2;SC;Florianópolis;Cc;entregue;4
+206;04/01/2024;Juliana Rodrigues;62693481621;SMART TV LG;ELETRÔNICOS;2499,00;3;RS;Porto Alegre;Cartão de Débito;Entregue;1
