@@ -101,15 +101,17 @@ datasets/
 
 ### `class05/` — OpenRefine e ETL 🟢
 
-> Fonte: Baseado na estrutura do consumidor.gov.br (com inconsistências propositais para ETL)
+> Fontes: Baseado na estrutura do consumidor.gov.br + e-commerce + matrículas universitárias (com inconsistências propositais para ETL)
 
 | Arquivo | Registros | Formato | Descrição |
 |---------|-----------|---------|-----------|
 | `dataset_sujo_procon.csv` | 630 | CSV (`;`) | Reclamações PROCON **com inconsistências propositais** (duplicatas, datas em formatos variados, erros de digitação) |
+| `dataset_sujo_ecommerce.csv` | 206 | CSV (`;`) | Pedidos de e-commerce **com inconsistências propositais** (clustering em Produto/Categoria/Pagamento/Status, 4 formatos de data, 4 formatos de CPF, preços em 5 formatos textuais, quantidades negativas, ~6 duplicatas) |
+| `dataset_sujo_cursos.csv` | 185 | CSV (`;`) | Matrículas universitárias **com inconsistências propositais** (clustering em Curso/Turno/Modalidade/Situacao, notas fora do intervalo, frequência acima de 100%, valores N/A, ~5 duplicatas) |
 
-**Colunas:** `ID`, `Data_Reclamacao`, `Consumidor`, `CPF`, `Cidade`, `UF`, `Categoria`, `Empresa`, `Descricao_Problema`, `Status`, `Nota_Consumidor`, `Tempo_Resposta_Dias`
+**Colunas (procon):** `ID`, `Data_Reclamacao`, `Consumidor`, `CPF`, `Cidade`, `UF`, `Categoria`, `Empresa`, `Descricao_Problema`, `Status`, `Nota_Consumidor`, `Tempo_Resposta_Dias`
 
-> 💡 Este dataset foi intencionalmente "sujado" para prática de limpeza com OpenRefine.
+> 💡 Todos os datasets foram intencionalmente "sujados" para prática de limpeza com OpenRefine.
 
 ---
 
